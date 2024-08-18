@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [secure-ls](https://github.com/softvar/secure-ls)
 
-- 👨‍💻 All of my projects are available at [https://afzalimdad9.vercel.app](https://afzalimdad9.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://afzalimdad9.vercel.app)
 
-- 📝 I regularly write articles on [https://afzalimdad9.medium.com](https://afzalimdad9.medium.com)
+- 📝 I regularly write articles on [medium](https://afzalimdad9.medium.com)
 
 - 💬 Ask me about **react, angular, typescript, nextjs, python, flask, django and many more**
 
 - 📫 How to reach me **afzalimdad9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GrGwRH1MPp9nY9klg6qIPJPn9rVqQrhA/view?usp=drive_link](https://drive.google.com/file/d/1GrGwRH1MPp9nY9klg6qIPJPn9rVqQrhA/view?usp=drive_link)
+- 📄 Know about my experiences on [Resume](https://drive.google.com/file/d/1GrGwRH1MPp9nY9klg6qIPJPn9rVqQrhA/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I will be a game developer in a few days**
 
@@ -36,10 +36,10 @@
 <a href="https://linkedin.com/in/afzalimdad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzalimdad9" height="30" width="40" /></a>
 <a href="https://codesandbox.com/afzalimdad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="afzalimdad9" height="30" width="40" /></a>
 <a href="https://fb.com/afzalimdad92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afzalimdad92" height="30" width="40" /></a>
-<a href="https://instagram.com/afzalimdad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afzalimdad9" height="30" width="40" /></a>
+<a href="https://instagram.com/afzalimdad9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afzalimdad9" height="30" width="40" /></a>
 <a href="https://hashnode.com/@afzalimdad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@afzalimdad9" height="30" width="40" /></a>
 <a href="https://medium.com/@afzalimdad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@afzalimdad9" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/afzalimdad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afzalimdad9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@afzalimdad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afzalimdad9" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/afzalimdad9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="afzalimdad9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/afzalimdad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="afzalimdad9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/afzalimdad9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="afzalimdad9" height="30" width="40" /></a>
