@@ -55,3 +55,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzalimdad9&" alt="afzalimdad9" /></p>
 
+<p align="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c8d56e92ec1a8a73fc0d10?variant=dark" alt="roadmap.sh"/></a></p>
+
