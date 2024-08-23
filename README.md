@@ -49,11 +49,12 @@
 
 ![Skills](https://skillicons.dev/icons?i=aws,rust,androidstudio,angular,astro,azure,babel,bash,blender,bootstrap,bun,pycharm,cmake,c,css,cloudflare,deno,devto,discord,django,docker,dotnet,dynamodb,electron,react,nextjs,vercel,ember,express,figma,firebase,flask,flutter,googlecloud,gatsby,git,gitlab,github,gmail,golang,graphql,html,heroku,ipfs,instagram,illustrator,jquery,js,kali,kotlin,laravel,linkedin,less,linux,mui,mongodb,mysql,nestjs,netlify,nginx,nodejs,notion,npm,php,photoshop,prisma,postman,postgresql,powershell,prisma,pug,pytorch,python,qt,rxjs,redhat,redis,redux,remix,ruby,sqlite,svg,sass,scss,selenium,stackoverflow,sublime,supabase,svelte,tailwind,tensorflow,threejs,ts,twitter,vscode,vscodium,vite,vitest,vue,webpack,webflow,windows,wordpress)
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afzalimdad9&show_icons=true&locale=en&layout=compact" alt="afzalimdad9" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afzalimdad9&show_icons=true&locale=en&layout=compact" alt="afzalimdad9" />
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzalimdad9&show_icons=true&locale=en" alt="afzalimdad9" />
+<br/>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzalimdad9&show_icons=true&locale=en" alt="afzalimdad9" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzalimdad9&" alt="afzalimdad9" />
+<br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzalimdad9&" alt="afzalimdad9" /></p>
-
-<p align="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c8d56e92ec1a8a73fc0d10?variant=dark" alt="roadmap.sh"/></a></p>
-
+<img align="center" src="https://roadmap.sh/card/tall/66c8d56e92ec1a8a73fc0d10?variant=dark" alt="afzalimdad9"/>
