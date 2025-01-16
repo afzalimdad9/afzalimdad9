@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzalimdad9&label=Profile%20views&color=0e75b6&style=flat" alt="afzalimdad9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzalimdad9" alt="afzalimdad9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzalimdad9&theme=algolia" alt="afzalimdad9" /></a> </p>
 
 - 🔭 I’m currently working on [JSON2HTML Converter](https://github.com/afzalimdad9/json2html)
 
@@ -49,11 +49,11 @@
 
 ![Skills](https://skillicons.dev/icons?i=aws,rust,androidstudio,angular,astro,azure,babel,bash,blender,bootstrap,bun,pycharm,cmake,c,css,cloudflare,deno,devto,discord,django,docker,dotnet,dynamodb,electron,react,nextjs,vercel,ember,express,figma,firebase,flask,flutter,googlecloud,gatsby,git,gitlab,github,gmail,golang,graphql,html,heroku,ipfs,instagram,illustrator,jquery,js,kali,kotlin,laravel,linkedin,less,linux,mui,mongodb,mysql,nestjs,netlify,nginx,nodejs,notion,npm,php,photoshop,prisma,postman,postgresql,powershell,prisma,pug,pytorch,python,qt,rxjs,redhat,redis,redux,remix,ruby,sqlite,svg,sass,scss,selenium,stackoverflow,sublime,supabase,svelte,tailwind,tensorflow,threejs,ts,twitter,vscode,vscodium,vite,vitest,vue,webpack,webflow,windows,wordpress)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=afzalimdad9&show_icons=true&locale=en&layout=compact" alt="afzalimdad9" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=afzalimdad9&show_icons=true&locale=en&layout=compact&theme=dark" alt="afzalimdad9" /></p>
 <br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=afzalimdad9&show_icons=true&locale=en" alt="afzalimdad9" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=afzalimdad9&show_icons=true&locale=en&theme=dark" alt="afzalimdad9" /></p>
 <br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalimdad9&" alt="afzalimdad9" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=afzalimdad9&theme=highcontrast&hide_border=true" alt="afzalimdad9" /></p>
 <br/>
 <p align="center"><img src="https://roadmap.sh/card/wide/66c8d56e92ec1a8a73fc0d10?variant=dark" alt="roadmap.sh"/></p>
