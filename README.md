@@ -54,6 +54,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=afzalimdad9&show_icons=true&locale=en&theme=dark" alt="afzalimdad9" /></p>
 <br/>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=afzalimdad9&theme=highcontrast&hide_border=true" alt="afzalimdad9" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=afzalimdad9&theme=highcontrast&hide_border=true" alt="afzalimdad9" /></p>
 <br/>
 <p align="center"><img src="https://roadmap.sh/card/wide/66c8d56e92ec1a8a73fc0d10?variant=dark" alt="roadmap.sh"/></p>
