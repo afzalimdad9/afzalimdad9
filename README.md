@@ -2,33 +2,58 @@
 <h3 align="center">A passionate full stack developer from Karachi, Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=<!-- TYPING_LINES:START -->Full+Stack+Developer;Game+Development+Enthusiast;AI+%26+ML+Explorer;Open+Source+Contributor<!-- TYPING_LINES:END -->" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;AI+%26+ML+Explorer;Open+Source+Contributor;JavaScript+Developer" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzalimdad9&label=Profile%20views&color=0e75b6&style=flat" alt="afzalimdad9" /> </p>
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [JSON2HTML Converter](https://github.com/afzalimdad9/json2html)
-- 🌱 I'm currently learning **Unity, Unreal engine and AI Models**
-- 👯 I'm looking to collaborate on [hyperswitch](https://github.com/juspay/hyperswitch)
-- 🤝 I'm looking for help with [secure-ls](https://github.com/softvar/secure-ls)
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
+- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
 <!-- RECENT_ACTIVITY:START -->
+- 📝 1 commit to **8Ball-Pool-HTML5** on 6/17/2025
+- 📝 2 commits to **8Ball-Pool-HTML5** on 6/17/2025
 <!-- RECENT_ACTIVITY:END -->
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
+- 📊 **2** commits across **1** repositories
+- 🎯 **5** active projects
+- 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 6/20/2025)
+- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 34 (Updated: 6/17/2025)
+- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 5 (Updated: 6/17/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
 <!-- DYNAMIC_TECH_STACK:START -->
+**Most Used Languages This Month:**
+
+JavaScript: 45.1% █████████░░░░░░░░░░░
+
+HTML: 39.8% ████████░░░░░░░░░░░░
+
+TypeScript: 4.9% █░░░░░░░░░░░░░░░░░░░
+
+Rich Text Format: 3.9% █░░░░░░░░░░░░░░░░░░░
+
+CSS: 3.3% █░░░░░░░░░░░░░░░░░░░
+
+Solidity: 1.5% ░░░░░░░░░░░░░░░░░░░░
+
+C: 1.0% ░░░░░░░░░░░░░░░░░░░░
+
+SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
+
 <!-- DYNAMIC_TECH_STACK:END -->
 
 ## 🌟 About Me
@@ -39,22 +64,29 @@
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
+Programming is like sex: One mistake and you have to support it for the rest of your life. 😅
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
+📊 Build a data visualization for an interesting dataset
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
+"First, solve the problem. Then, write the code." - John Johnson
 <!-- QUOTE:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
+🌤️ Weather data unavailable
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
+- 🏆 **43** total stars earned
+- 🍴 **7** total forks
+- 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
 ## 🏆 GitHub Achievements
@@ -94,7 +126,7 @@
 ## 🛠️ Languages and Tools
 <!-- SKILL_ICONS:START -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,rust,androidstudio,angular,astro,azure,babel,bash,blender,bootstrap,bun,pycharm,cmake,c,css,cloudflare,deno,devto,discord,django,docker,dotnet,dynamodb,electron,react,nextjs,vercel,ember,express,figma,firebase,flask,flutter,googlecloud,gatsby,git,gitlab,github,gmail,golang,graphql,html,heroku,ipfs,instagram,illustrator,jquery,js,kali,kotlin,laravel,linkedin,less,linux,mui,mongodb,mysql,nestjs,netlify,nginx,nodejs,notion,npm,php,photoshop,prisma,postman,postgresql,powershell,prisma,pug,pytorch,python,qt,rxjs,redhat,redis,redux,remix,ruby,sqlite,svg,sass,scss,selenium,stackoverflow,sublime,supabase,svelte,tailwind,tensorflow,threejs,ts,twitter,vscode,vscodium,vite,vitest,vue,webpack,webflow,windows,wordpress" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,ts,css,c" alt="Current Tech Stack" />
 </p>
 <!-- SKILL_ICONS:END -->
 
@@ -122,4 +154,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START --><!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 12:05 AM GMT+5<!-- TIMESTAMP:END -->*
