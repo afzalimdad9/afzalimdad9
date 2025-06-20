@@ -64,42 +64,117 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Your mama's so FAT she can't save files bigger than 4GB.
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Go stargazing
+Draw and color a Mandala
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "It's the unknown we fear when we look upon death and darkness, nothing more."
-> — Albus Dumbledore
+> "Because of your smile, you make life more beautiful."
+> — Thich Nhat Hanh
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Life's Tragedy" by Paul Laurence Dunbar
-It may be misery not to sing at all,
-And to go silent through the brimming day;
-It may be misery never to be loved,
-But deeper griefs than these beset the way.
+"Upon The Hill And Grove At Bill-borow" by Andrew Marvell
+To the Lord Fairfax.
 
-To sing the perfect song,
-And by a half-tone lost the key,
-There the potent sorrow, there the grief,
-The pale, sad staring of Life's Tragedy.
+See how the arched Earth does here
+Rise in a perfect Hemisphere!
+The stiffest Compass could not strike
+A line more circular and like;
+Nor softest Pensel draw a Brow.
+So equal as this Hill does bow.
+It seems as for a Model laid,
+And that the World by it was made.
 
-To have come near to the perfect love,
-Not the hot passion of untempered youth,
-But that which lies aside its vanity,
-And gives, for thy trusting worship, truth.
+Here learn ye Mountains more unjust,
+Which to abrupter greatness thrust,
+That do with your hook-shoulder'd height
+The Earth deform and Heaven frght.
+For whose excrescence ill design'd,
+Nature must a new Center find,
+Learn here those humble steps to tread,
+Which to securer Glory lead.
 
-This, this indeed is to be accursed,
-For if we mortals love, or if we sing,
-We count our joys not by what we have,
-But by what kept us from that perfect thing.
+See what a soft access and wide
+Lyes open to its grassy side;
+Nor with the rugged path deterrs
+The feet of breathless Travellers.
+See then how courteous it ascends,
+And all the way ir rises bends;
+Nor for it self the height does gain,
+But only strives to raise the Plain.
+
+Yet thus it all the field commands,
+And in unenvy'd Greatness stands,
+Discerning furthe then the Cliff
+Of Heaven-daring Teneriff.
+How glad the weary Seamen hast
+When they salute it from the Mast!
+By Night the Northern Star their way
+Directs, and this no less by Day.
+
+Upon its crest this Mountain grave
+A Plum of aged Trees does wave.
+No hostile hand durst ere invade
+With impious Steel the sacred Shade.
+For something alwaies did appear
+Of the Great Masters terrour there:
+And Men could hear his Armour still
+Ratling through all the Grove and Hill.
+
+Fear of the Master, and respect
+Of the great Nymph did it protect;
+Vera the Nymph that him inspir'd,
+To whom he often here retir'd,
+And on these Okes ingrav'd her Name;
+Such Wounds alone these Woods became:
+But ere he well the Barks could part
+'Twas writ already in their Heart.
+
+For they ('tis credible) have sense,
+As we, of Love and Reverence,
+And underneath the Courser Rind
+The Genius of the house do bind.
+Hence they successes seem to know,
+And in their Lord's advancement grow;
+But in no Memory were seen
+As under this so streight and green.
+
+Yet now no further strive to shoot,
+Contented if they fix their Root.
+Nor to the winds uncertain gust,
+Their prudent Heads too far intrust.
+Onely sometimes a flutt'ring Breez
+Discourses with the breathing Trees;
+Which in their modest Whispers name
+Those Acts that swell'd the Cheek of Fame.
+
+Much other Groves, say they, then these
+And other Hills him once did please.
+Through Groves of Pikes he thunder'd then,
+And Mountains rais'd of dying Men.
+For all the Civick Garlands due
+To him our Branches are but few.
+Nor are our Trunks enow to bear
+The Trophees of one fertile Year.
+
+'Tis true, the Trees nor ever spoke
+More certain Oracles in Oak.
+But Peace (if you his favour prize)
+That Courage its own Praises flies.
+Therefore to your obscurer Seats
+From his own Brightness he retreats:
+Nor he the Hills without the Groves,
+Nor Height but with Retirement loves.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -195,4 +270,4 @@ But by what kept us from that perfect thing.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 01:16 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 01:21 AM GMT+5<!-- TIMESTAMP:END -->*
