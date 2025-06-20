@@ -130,7 +130,7 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 ## 🛠️ Languages and Tools
 <!-- SKILL_ICONS:START -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,ts,css,c" alt="Current Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,rust,androidstudio,angular,astro,azure,babel,bash,blender,bootstrap,bun,pycharm,cmake,c,css,cloudflare,deno,devto,discord,django,docker,dotnet,dynamodb,electron,react,nextjs,vercel,ember,express,figma,firebase,flask,flutter,googlecloud,gatsby,git,gitlab,github,gmail,golang,graphql,html,heroku,ipfs,instagram,illustrator,jquery,js,kali,kotlin,laravel,linkedin,less,linux,mui,mongodb,mysql,nestjs,netlify,nginx,nodejs,notion,npm,php,photoshop,prisma,postman,postgresql,powershell,prisma,pug,pytorch,python,qt,rxjs,redhat,redis,redux,remix,ruby,sqlite,svg,sass,scss,selenium,stackoverflow,sublime,supabase,svelte,tailwind,tensorflow,threejs,ts,twitter,vscode,vscodium,vite,vitest,vue,webpack,webflow,windows,wordpress" alt="Current Tech Stack" />
 </p>
 <!-- SKILL_ICONS:END -->
 
@@ -141,7 +141,7 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=afzalimdad9&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=afzalimdad9&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
