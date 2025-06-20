@@ -77,6 +77,10 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 <!-- QUOTE:END -->
 
+## 📜 Poetry of the Day
+<!-- POETRY:START -->
+<!-- POETRY:END -->
+
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
 🌡️ 30°C, smoke in Karachi 🇵🇰
@@ -104,8 +108,8 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥 Recent GitHub Activity
-<!-- GITHUB-ACTIVITY:START -->
-<!-- GITHUB-ACTIVITY:END -->
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
 
 ## 🌐 Connect with me
 <p align="center">

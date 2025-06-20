@@ -8,49 +8,51 @@ const octokit = new Octokit({
 
 const username = process.env.GITHUB_USERNAME || 'afzalimdad9';
 
-// Enhanced content arrays
-const jokes = [
-  "Why do programmers prefer dark mode? Because light attracts bugs! 🐛",
-  "How many programmers does it take to change a light bulb? None, that's a hardware problem! 💡",
-  "Why don't programmers like nature? It has too many bugs! 🌿",
-  "A SQL query goes into a bar, walks up to two tables and asks: 'Can I join you?' 🍺",
-  "Why do Java developers wear glasses? Because they can't C# ! 👓",
-  "There are only 10 types of people in the world: those who understand binary and those who don't. 01100010",
-  "Programming is like sex: One mistake and you have to support it for the rest of your life. 😅",
-  "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 117 little bugs in the code! 🎵",
-  "Why did the programmer quit his job? Because he didn't get arrays! 📊",
-  "What's the object-oriented way to become wealthy? Inheritance! 💰"
-];
+// Fetch a random programming joke
+async function getJoke() {
+  try {
+    const { data } = await axios.get('https://v2.jokeapi.dev/joke/Programming?type=single');
+    return data.joke || 'No joke found!';
+  } catch {
+    return 'No joke available!';
+  }
+}
 
-const activities = [
-  "🚀 Try building a new side project with a technology you've never used before",
-  "📚 Read about a new programming paradigm or design pattern",
-  "🎯 Solve a challenging algorithm problem on LeetCode or HackerRank",
-  "🔧 Refactor some old code to make it cleaner and more efficient",
-  "🌟 Contribute to an open source project that interests you",
-  "📝 Write a technical blog post about something you recently learned",
-  "🎨 Design and implement a beautiful UI component from scratch",
-  "🤝 Pair program with a colleague or friend on an interesting problem",
-  "🧪 Write comprehensive tests for a project you've been neglecting",
-  "📱 Build a mobile app version of one of your web projects",
-  "🔍 Research and implement a new optimization technique",
-  "🎮 Create a simple game to practice your programming skills",
-  "📊 Build a data visualization for an interesting dataset",
-  "🛠️ Set up CI/CD pipeline for one of your projects"
-];
+// Fetch a random activity
+async function getActivity() {
+  try {
+    const { data } = await axios.get('https://bored-api.appbrewery.com/random');
+    return data.activity || 'No activity found!';
+  } catch {
+    return 'No activity available!';
+  }
+}
 
-const quotes = [
-  "\"Code is like humor. When you have to explain it, it's bad.\" - Cory House",
-  "\"First, solve the problem. Then, write the code.\" - John Johnson",
-  "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" - Martin Fowler",
-  "\"The best error message is the one that never shows up.\" - Thomas Fuchs",
-  "\"Programming isn't about what you know; it's about what you can figure out.\" - Chris Pine",
-  "\"Code never lies, comments sometimes do.\" - Ron Jeffries",
-  "\"Simplicity is the ultimate sophistication.\" - Leonardo da Vinci",
-  "\"Make it work, make it right, make it fast.\" - Kent Beck",
-  "\"Clean code always looks like it was written by someone who cares.\" - Michael Feathers",
-  "\"Programs must be written for people to read, and only incidentally for machines to execute.\" - Harold Abelson"
-];
+// Fetch a random quote
+async function getQuote() {
+  try {
+    const { data } = await axios.get('https://zenquotes.io/api/random');
+    if (Array.isArray(data) && data.length > 0) {
+      const quote = data[0];
+      // You can use quote.h for HTML, or format your own Markdown:
+      return `> "${quote.q}"\n> \u2014 ${quote.a}`;
+    }
+    return 'No quote found!';
+  } catch {
+    return 'No quote available!';
+  }
+}
+
+// Fetch a random poem
+async function getPoetry() {
+  try {
+    const { data } = await axios.get('https://poetrydb.org/random');
+    const poem = data[0];
+    return `"${poem.title}" by ${poem.author}\n${poem.lines.join('\n')}`;
+  } catch {
+    return 'No poetry available!';
+  }
+}
 
 // Language to skill icon mapping
 const languageToIcon = {
@@ -184,6 +186,13 @@ async function updateReadme() {
     const commits = await getRecentCommits();
     const languages = await getLanguageStats();
     const weather = await getWeather();
+    // Fetch dynamic content
+    const [joke, activity, quote, poetry] = await Promise.all([
+      getJoke(),
+      getActivity(),
+      getQuote(),
+      getPoetry()
+    ]);
 
     // Update current projects based on recent repos
     let currentProjects = "<!-- CURRENT_PROJECTS:START -->\n";
@@ -297,11 +306,12 @@ async function updateReadme() {
       { pattern: /<!-- WEEKLY_STATS:START -->[\s\S]*?<!-- WEEKLY_STATS:END -->/, replacement: weeklyStats },
       { pattern: /<!-- GITHUB_ANALYTICS:START -->[\s\S]*?<!-- GITHUB_ANALYTICS:END -->/, replacement: githubAnalytics },
       { pattern: /<!-- TYPING_LINES:START -->[\s\S]*?<!-- TYPING_LINES:END -->/, replacement: typingLines.join(';') },
-      { pattern: /<!-- JOKE:START -->[\s\S]*?<!-- JOKE:END -->/, replacement: `<!-- JOKE:START -->\n${jokes[Math.floor(Math.random() * jokes.length)]}\n<!-- JOKE:END -->` },
-      { pattern: /<!-- ACTIVITY:START -->[\s\S]*?<!-- ACTIVITY:END -->/, replacement: `<!-- ACTIVITY:START -->\n${activities[Math.floor(Math.random() * activities.length)]}\n<!-- ACTIVITY:END -->` },
-      { pattern: /<!-- QUOTE:START -->[\s\S]*?<!-- QUOTE:END -->/, replacement: `<!-- QUOTE:START -->\n${quotes[Math.floor(Math.random() * quotes.length)]}\n<!-- QUOTE:END -->` },
+      { pattern: /<!-- JOKE:START -->[\s\S]*?<!-- JOKE:END -->/, replacement: `<!-- JOKE:START -->\n${joke}\n<!-- JOKE:END -->` },
+      { pattern: /<!-- ACTIVITY:START -->[\s\S]*?<!-- ACTIVITY:END -->/, replacement: `<!-- ACTIVITY:START -->\n${activity}\n<!-- ACTIVITY:END -->` },
+      { pattern: /<!-- QUOTE:START -->[\s\S]*?<!-- QUOTE:END -->/, replacement: `<!-- QUOTE:START -->\n${quote}\n<!-- QUOTE:END -->` },
       { pattern: /<!-- WEATHER:START -->[\s\S]*?<!-- WEATHER:END -->/, replacement: `<!-- WEATHER:START -->\n${weather}\n<!-- WEATHER:END -->` },
-      { pattern: /<!-- TIMESTAMP:START -->[\s\S]*?<!-- TIMESTAMP:END -->/, replacement: `<!-- TIMESTAMP:START -->${new Date().toLocaleString('en-US', { timeZone: 'Asia/Karachi', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' })}<!-- TIMESTAMP:END -->` }
+      { pattern: /<!-- TIMESTAMP:START -->[\s\S]*?<!-- TIMESTAMP:END -->/, replacement: `<!-- TIMESTAMP:START -->${new Date().toLocaleString('en-US', { timeZone: 'Asia/Karachi', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' })}<!-- TIMESTAMP:END -->` },
+      { pattern: /<!-- POETRY:START -->[\s\S]*?<!-- POETRY:END -->/, replacement: `<!-- POETRY:START -->\n${poetry}\n<!-- POETRY:END -->` }
     ];
 
     updates.forEach(({ pattern, replacement }) => {
