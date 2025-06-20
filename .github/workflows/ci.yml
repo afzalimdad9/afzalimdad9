@@ -2,7 +2,7 @@ name: Update README with Dynamic Content
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 6,18 * * *'  # Twice a day at 6am and 6pm UTC
   workflow_dispatch:
   push:
     branches: [ main, master ]
@@ -51,7 +51,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@afzalimdad9"
+          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@afzalimdad9"
           max_post_count: 5
 
   update-github-activity:
