@@ -2,7 +2,8 @@ name: Update README with Dynamic Content
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'  # Twice a day at 6am and 6pm UTC
+    - cron: '0 * * * *'  # Every hour
+  # Trigger on push to main or master branches
   workflow_dispatch:
   push:
     branches: [ main, master ]
