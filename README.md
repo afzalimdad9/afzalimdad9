@@ -69,17 +69,17 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-📊 Build a data visualization for an interesting dataset
+📝 Write a technical blog post about something you recently learned
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-"First, solve the problem. Then, write the code." - John Johnson
+"Simplicity is the ultimate sophistication." - Leonardo da Vinci
 <!-- QUOTE:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌤️ Weather data unavailable
+🌡️ 30°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -154,4 +154,4 @@ Programming is like sex: One mistake and you have to support it for the rest of 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 12:05 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 12:19 AM GMT+5<!-- TIMESTAMP:END -->*
