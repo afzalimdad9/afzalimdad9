@@ -49,10 +49,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@afzalimdad9"
-          max_post_count: 5
+          node-version: '20'
+      - name: Install axios
+        run: npm install axios
+      - name: Update blog posts in README
+        run: node .github/scripts/update-blog-posts.js
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "afzalimdad9@gmail.com"
+          git config --local user.name "afzalimdad9"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🤖 Update blog posts section"
+          git push
 
   update-github-activity:
     runs-on: ubuntu-latest
