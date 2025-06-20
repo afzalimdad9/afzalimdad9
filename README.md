@@ -108,8 +108,8 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥 Recent GitHub Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🌐 Connect with me
 <p align="center">
