@@ -64,117 +64,423 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Draw and color a Mandala
+Give your pet ten minutes of focused attention
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Because of your smile, you make life more beautiful."
-> — Thich Nhat Hanh
+> "The fear of death is more to be feared, than death itself."
+> — Publilius Syrus
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Upon The Hill And Grove At Bill-borow" by Andrew Marvell
-To the Lord Fairfax.
+"Oscar of Alva" by George Gordon, Lord Byron
+How sweetly shines, through azure skies,
+  The lamp of Heaven on Lora's shore;
+Where Alva's hoary turrets rise,
+  And hear the din of arms no more!
 
-See how the arched Earth does here
-Rise in a perfect Hemisphere!
-The stiffest Compass could not strike
-A line more circular and like;
-Nor softest Pensel draw a Brow.
-So equal as this Hill does bow.
-It seems as for a Model laid,
-And that the World by it was made.
+But often has yon rolling moon,
+  On Alva's casques of silver play'd;
+And view'd, at midnight's silent noon,
+  Her chiefs in gleaming mail array'd:
 
-Here learn ye Mountains more unjust,
-Which to abrupter greatness thrust,
-That do with your hook-shoulder'd height
-The Earth deform and Heaven frght.
-For whose excrescence ill design'd,
-Nature must a new Center find,
-Learn here those humble steps to tread,
-Which to securer Glory lead.
+And, on the crimson'd rocks beneath,
+  Which scowl o'er ocean's sullen flow,
+Pale in the scatter'd ranks of death,
+  She saw the gasping warrior low;
 
-See what a soft access and wide
-Lyes open to its grassy side;
-Nor with the rugged path deterrs
-The feet of breathless Travellers.
-See then how courteous it ascends,
-And all the way ir rises bends;
-Nor for it self the height does gain,
-But only strives to raise the Plain.
+While many an eye, which ne'er again
+  Could mark the rising orb of day,
+Turn'd feebly from the gory plain,
+  Beheld in death her fading ray.
 
-Yet thus it all the field commands,
-And in unenvy'd Greatness stands,
-Discerning furthe then the Cliff
-Of Heaven-daring Teneriff.
-How glad the weary Seamen hast
-When they salute it from the Mast!
-By Night the Northern Star their way
-Directs, and this no less by Day.
+Once, to those eyes the lamp of Love,
+  They blest her dear propitious light;
+But, now, she glimmer'd from above,
+  A sad, funereal torch of night.
 
-Upon its crest this Mountain grave
-A Plum of aged Trees does wave.
-No hostile hand durst ere invade
-With impious Steel the sacred Shade.
-For something alwaies did appear
-Of the Great Masters terrour there:
-And Men could hear his Armour still
-Ratling through all the Grove and Hill.
+Faded is Alva's noble race,
+  And grey her towers are seen afar;
+No more her heroes urge the chase,
+  Or roll the crimson tide of war.
 
-Fear of the Master, and respect
-Of the great Nymph did it protect;
-Vera the Nymph that him inspir'd,
-To whom he often here retir'd,
-And on these Okes ingrav'd her Name;
-Such Wounds alone these Woods became:
-But ere he well the Barks could part
-'Twas writ already in their Heart.
+But, who was last of Alva's clan?
+  Why grows the moss on Alva's stone?
+Her towers resound no steps of man,
+  They echo to the gale alone.
 
-For they ('tis credible) have sense,
-As we, of Love and Reverence,
-And underneath the Courser Rind
-The Genius of the house do bind.
-Hence they successes seem to know,
-And in their Lord's advancement grow;
-But in no Memory were seen
-As under this so streight and green.
+And, when that gale is fierce and high,
+  A sound is heard in yonder hall;
+It rises hoarsely through the sky,
+  And vibrates o'er the mould'ring wall.
 
-Yet now no further strive to shoot,
-Contented if they fix their Root.
-Nor to the winds uncertain gust,
-Their prudent Heads too far intrust.
-Onely sometimes a flutt'ring Breez
-Discourses with the breathing Trees;
-Which in their modest Whispers name
-Those Acts that swell'd the Cheek of Fame.
+Yes, when the eddying tempest sighs,
+  It shakes the shield of Oscar brave;
+But, there, no more his banners rise,
+  No more his plumes of sable wave.
 
-Much other Groves, say they, then these
-And other Hills him once did please.
-Through Groves of Pikes he thunder'd then,
-And Mountains rais'd of dying Men.
-For all the Civick Garlands due
-To him our Branches are but few.
-Nor are our Trunks enow to bear
-The Trophees of one fertile Year.
+Fair shone the sun on Oscar's birth,
+  When Angus hail'd his eldest born;
+The vassals round their chieftain's hearth
+  Crowd to applaud the happy morn.
 
-'Tis true, the Trees nor ever spoke
-More certain Oracles in Oak.
-But Peace (if you his favour prize)
-That Courage its own Praises flies.
-Therefore to your obscurer Seats
-From his own Brightness he retreats:
-Nor he the Hills without the Groves,
-Nor Height but with Retirement loves.
+They feast upon the mountain deer,
+  The Pibroch rais'd its piercing note,
+To gladden more their Highland cheer,
+  The strains in martial numbers float.
+
+And they who heard the war-notes wild,
+  Hop'd that, one day, the Pibroch's strain
+Should play before the Hero's child,
+  While he should lead the Tartan train.
+
+Another year is quickly past,
+  And Angus hails another son;
+His natal day is like the last,
+  Nor soon the jocund feast was done.
+
+Taught by their sire to bend the bow,
+  On Alva's dusky hills of wind,
+The boys in childhood chas'd the roe,
+  And left their hounds in speed behind.
+
+But ere their years of youth are o'er,
+  They mingle in the ranks of war;
+They lightly wheel the bright claymore,
+  And send the whistling arrow far.
+
+Dark was the flow of Oscar's hair,
+  Wildly it stream'd along the gale;
+But Allan's locks were bright and fair,
+  And pensive seem'd his cheek, and pale.
+
+But Oscar own'd a hero's soul,
+  His dark eye shone through beams of truth;
+Allan had early learn'd controul,
+  And smooth his words had been from youth.
+
+Both, both were brave; the Saxon spear
+  Was shiver'd oft beneath their steel;
+And Oscar's bosom scorn'd to fear,
+  But Oscar's bosom knew to feel;
+
+While Allan's soul belied his form,
+  Unworthy with such charms to dwell:
+Keen as the lightning of the storm,
+  On foes his deadly vengeance fell.
+
+From high Southannon's distant tower
+  Arrived a young and noble dame;
+With Kenneth's lands to form her dower,
+  Glenalvon's blue-eyed daughter came;
+
+And Oscar claim'd the beauteous bride,
+  And Angus on his Oscar smil'd:
+It soothed the father's feudal pride
+  Thus to obtain Glenalvon's child.
+
+Hark! to the Pibroch's pleasing note,
+  Hark! to the swelling nuptial song,
+In joyous strains the voices float,
+  And, still, the choral peal prolong.
+
+See how the Heroes' blood-red plumes
+  Assembled wave in Alva's hall;
+Each youth his varied plaid assumes,
+  Attending on their chieftain's call.
+
+It is not war their aid demands,
+  The Pibroch plays the song of peace;
+To Oscar's nuptials throng the bands
+  Nor yet the sounds of pleasure cease.
+
+But where is Oscar? sure 'tis late:
+  Is this a bridegroom's ardent flame?
+While thronging guests and ladies wait,
+  Nor Oscar nor his brother came.
+
+At length young Allan join'd the bride;
+  "Why comes not Oscar?" Angus said:
+"Is he not here?" the Youth replied;
+  "With me he rov'd not o'er the glade:
+
+"Perchance, forgetful of the day,
+  'Tis his to chase the bounding roe;
+Or Ocean's waves prolong his stay:
+  Yet, Oscar's bark is seldom slow."
+
+"Oh, no!" the anguish'd Sire rejoin'd,
+  "Nor chase, nor wave, my Boy delay;
+Would he to Mora seem unkind?
+  Would aught to her impede his way?
+
+"Oh, search, ye Chiefs! oh, search around!
+  Allan, with these, through Alva fly;
+Till Oscar, till my son is found,
+  Haste, haste, nor dare attempt reply."
+
+All is confusion--through the vale,
+  The name of Oscar hoarsely rings,
+It rises on the murm'ring gale,
+  Till night expands her dusky wings.
+
+It breaks the stillness of the night,
+  But echoes through her shades in vain;
+It sounds through morning's misty light,
+  But Oscar comes not o'er the plain.
+
+Three days, three sleepless nights, the Chief
+  For Oscar search'd each mountain cave;
+Then hope is lost; in boundless grief,
+  His locks in grey-torn ringlets wave.
+
+"Oscar! my son!--thou God of Heav'n,
+  Restore the prop of sinking age!
+Or, if that hope no more is given,
+  Yield his assassin to my rage.
+
+"Yes, on some desert rocky shore
+  My Oscar's whiten'd bones must lie;
+Then grant, thou God! I ask no more,
+  With him his frantic Sire may die!
+
+"Yet, he may live,--away, despair!
+  Be calm, my soul! he yet may live;
+T' arraign my fate, my voice forbear!
+  O God! my impious prayer forgive.
+
+"What, if he live for me no more,
+  I sink forgotten in the dust,
+The hope of Alva's age is o'er:
+  Alas! can pangs like these be just?"
+
+Thus did the hapless Parent mourn,
+  Till Time, who soothes severest woe,
+Had bade serenity return,
+  And made the tear-drop cease to flow.
+
+For, still, some latent hope surviv'd
+  That Oscar might once more appear;
+His hope now droop'd and now revived,
+  Till Time had told a tedious year.
+
+Days roll'd along, the orb of light
+  Again had run his destined race;
+No Oscar bless'd his father's sight,
+  And sorrow left a fainter trace.
+
+For youthful Allan still remain'd,
+  And, now, his father's only joy:
+And Mora's heart was quickly gain'd,
+  For beauty crown'd the fair-hair'd boy.
+
+She thought that Oscar low was laid,
+  And Allan's face was wondrous fair;
+If Oscar liv'd, some other maid
+  Had claim'd his faithless bosom's care.
+
+And Angus said, if one year more
+  In fruitless hope was pass'd away,
+His fondest scruples should be o'er,
+  And he would name their nuptial day.
+
+Slow roll'd the moons, but blest at last
+  Arriv'd the dearly destin'd morn:
+The year of anxious trembling past,
+  What smiles the lovers' cheeks adorn!
+
+Hark to the Pibroch's pleasing note!
+  Hark to the swelling nuptial song!
+In joyous strains the voices float,
+  And, still, the choral peal prolong.
+
+Again the clan, in festive crowd,
+  Throng through the gate of Alva's hall;
+The sounds of mirth re-echo loud,
+  And all their former joy recall.
+
+But who is he, whose darken'd brow
+  Glooms in the midst of general mirth?
+Before his eyes' far fiercer glow
+  The blue flames curdle o'er the hearth.
+
+Dark is the robe which wraps his form,
+  And tall his plume of gory red;
+His voice is like the rising storm,
+  But light and trackless is his tread.
+
+'Tis noon of night, the pledge goes round,
+  The bridegroom's health is deeply quaff'd;
+With shouts the vaulted roofs resound,
+  And all combine to hail the draught.
+
+Sudden the stranger-chief arose,
+  And all the clamorous crowd are hush'd;
+And Angus' cheek with wonder glows,
+  And Mora's tender bosom blush'd.
+
+"Old man!" he cried, "this pledge is done,
+  Thou saw'st 'twas truly drunk by me;
+It hail'd the nuptials of thy son:
+  Now will I claim a pledge from thee.
+
+"While all around is mirth and joy,
+  To bless thy Allan's happy lot,
+Say, hadst thou ne'er another boy?
+  Say, why should Oscar be forgot?"
+
+"Alas!" the hapless Sire replied,
+  The big tear starting as he spoke,
+"When Oscar left my hall, or died,
+  This aged heart was almost broke.
+
+"Thrice has the earth revolv'd her course
+  Since Oscar's form has bless'd my sight;
+And Allan is my last resource,
+  Since martial Oscar's death, or flight."
+
+"'Tis well," replied the stranger stern,
+  And fiercely flash'd his rolling eye;
+"Thy Oscar's fate, I fain would learn;
+  Perhaps the Hero did not die.
+
+"Perchance, if those, whom most he lov'd,
+  Would call, thy Oscar might return;
+Perchance, the chief has only rov'd;
+  For him thy Beltane, yet, may burn.
+
+"Fill high the bowl the table round,
+  We will not claim the pledge by stealth;
+With wine let every cup be crown'd;
+  Pledge me departed Oscar's health."
+
+"With all my soul," old Angus said,
+  And fill'd his goblet to the brim:
+"Here's to my boy! alive or dead,
+  I ne'er shall find a son like him."
+
+"Bravely, old man, this health has sped;
+  But why does Allan trembling stand?
+Come, drink remembrance of the dead,
+  And raise thy cup with firmer hand."
+
+The crimson glow of Allan's face
+  Was turn'd at once to ghastly hue;
+The drops of death each other chace,
+  Adown in agonizing dew.
+
+Thrice did he raise the goblet high,
+  And thrice his lips refused to taste;
+For thrice he caught the stranger's eye
+  On his with deadly fury plac'd.
+
+"And is it thus a brother hails
+  A brother's fond remembrance here?
+If thus affection's strength prevails,
+  What might we not expect from fear?"
+
+Roused by the sneer, he rais'd the bowl,
+  "Would Oscar now could share our mirth!"
+Internal fear appall'd his soul;
+  He said, and dash'd the cup to earth.
+
+"'Tis he! I hear my murderer's voice!"
+  Loud shrieks a darkly gleaming Form.
+"A murderer's voice!" the roof replies,
+  And deeply swells the bursting storm.
+
+The tapers wink, the chieftains shrink,
+  The stranger's gone,--amidst the crew,
+A Form was seen, in tartan green,
+  And tall the shade terrific grew.
+
+His waist was bound with a broad belt round,
+  His plume of sable stream'd on high;
+But his breast was bare, with the red wounds there,
+  And fix'd was the glare of his glassy eye.
+
+And thrice he smil'd, with his eye so wild
+  On Angus bending low the knee;
+And thrice he frown'd, on a Chief on the ground,
+  Whom shivering crowds with horror see.
+
+The bolts loud roll from pole to pole,
+  And thunders through the welkin ring,
+And the gleaming form, through the mist of the storm,
+  Was borne on high by the whirlwind's wing.
+
+Cold was the feast, the revel ceas'd.
+  Who lies upon the stony floor?
+Oblivion press'd old Angus' breast,
+  At length his life-pulse throbs once more.
+
+"Away, away! let the leech essay
+  To pour the light on Allan's eyes:"
+His sand is done,--his race is run;
+  Oh! never more shall Allan rise!
+
+But Oscar's breast is cold as clay,
+  His locks are lifted by the gale;
+And Allan's barbèd arrow lay
+  With him in dark Glentanar's vale.
+
+And whence the dreadful stranger came,
+  Or who, no mortal wight can tell;
+But no one doubts the form of flame,
+  For Alva's sons knew Oscar well.
+
+Ambition nerv'd young Allan's hand,
+  Exulting demons wing'd his dart;
+While Envy wav'd her burning brand,
+  And pour'd her venom round his heart.
+
+Swift is the shaft from Allan's bow;
+  Whose streaming life-blood stains his side?
+Dark Oscar's sable crest is low,
+  The dart has drunk his vital tide.
+
+And Mora's eye could Allan move,
+  She bade his wounded pride rebel:
+Alas! that eyes, which beam'd with love,
+  Should urge the soul to deeds of Hell.
+
+Lo! see'st thou not a lonely tomb,
+  Which rises o'er a warrior dead?
+It glimmers through the twilight gloom;
+  Oh! that is Allan's nuptial bed.
+
+Far, distant far, the noble grave
+  Which held his clan's great ashes stood;
+And o'er his corse no banners wave,
+  For they were stain'd with kindred blood.
+
+What minstrel grey, what hoary bard,
+  Shall Allan's deeds on harp-strings raise?
+The song is glory's chief reward,
+  But who can strike a murd'rer's praise?
+
+Unstrung, untouch'd, the harp must stand,
+  No minstrel dare the theme awake;
+Guilt would benumb his palsied hand,
+  His harp in shuddering chords would break.
+
+No lyre of fame, no hallow'd verse,
+  Shall sound his glories high in air:
+A dying father's bitter curse,
+  A brother's death-groan echoes there.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -270,4 +576,4 @@ Nor Height but with Retirement loves.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 01:21 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 01:25 AM GMT+5<!-- TIMESTAMP:END -->*
