@@ -64,21 +64,42 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Programming is like sex: One mistake and you have to support it for the rest of your life. 😅
+Your mama's so FAT she can't save files bigger than 4GB.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-📝 Write a technical blog post about something you recently learned
+Go stargazing
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-"Simplicity is the ultimate sophistication." - Leonardo da Vinci
+> "It's the unknown we fear when we look upon death and darkness, nothing more."
+> — Albus Dumbledore
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
+"Life's Tragedy" by Paul Laurence Dunbar
+It may be misery not to sing at all,
+And to go silent through the brimming day;
+It may be misery never to be loved,
+But deeper griefs than these beset the way.
+
+To sing the perfect song,
+And by a half-tone lost the key,
+There the potent sorrow, there the grief,
+The pale, sad staring of Life's Tragedy.
+
+To have come near to the perfect love,
+Not the hot passion of untempered youth,
+But that which lies aside its vanity,
+And gives, for thy trusting worship, truth.
+
+This, this indeed is to be accursed,
+For if we mortals love, or if we sing,
+We count our joys not by what we have,
+But by what kept us from that perfect thing.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -105,10 +126,21 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+**From dev.to:**
+- [New JavaScript pipeline operator: Transform anything into a one-liner 😲](https://dev.to/afzalimdad9/new-javascript-pipeline-operator-transform-anything-into-a-one-liner-31) _(Published: 1/10/2025)_
+- [React 19 is here! Let's learn it!](https://dev.to/afzalimdad9/react-19-is-here-lets-learn-it-1k87) _(Published: 10/24/2024)_
+- [Next-Auth in App Router of Next.js](https://dev.to/afzalimdad9/next-auth-in-app-router-of-nextjs-1112) _(Published: 8/20/2024)_
+
+**From Medium:**
+- [New JavaScript pipeline operator: Transform anything into a one-liner](https://afzalimdad9.medium.com/new-javascript-pipeline-operator-transform-anything-into-a-one-liner-fd300619204d?source=rss-7bf9860d1ca1------2) _(Published: 1/10/2025)_
+- [React 19 is here! Let’s learn it!](https://afzalimdad9.medium.com/react-19-is-here-lets-learn-it-febfcc3610c7?source=rss-7bf9860d1ca1------2) _(Published: 10/24/2024)_
+- [Next-Auth in App Router of Next.js](https://afzalimdad9.medium.com/next-auth-in-app-router-of-next-js-28edf99b3458?source=rss-7bf9860d1ca1------2) _(Published: 8/20/2024)_
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8614](https://github.com/kamranahmedse/developer-roadmap/issues/8614#issuecomment-2906919264) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 🗣 Commented on [#8614](https://github.com/kamranahmedse/developer-roadmap/issues/8614#issuecomment-2906919100) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
 
 ## 🌐 Connect with me
@@ -130,7 +162,7 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 ## 🛠️ Recent Languages and Tools
 <!-- SKILL_ICONS:START -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,rust,androidstudio,angular,astro,azure,babel,bash,blender,bootstrap,bun,pycharm,cmake,c,css,cloudflare,deno,devto,discord,django,docker,dotnet,dynamodb,electron,react,nextjs,vercel,ember,express,figma,firebase,flask,flutter,googlecloud,gatsby,git,gitlab,github,gmail,golang,graphql,html,heroku,ipfs,instagram,illustrator,jquery,js,kali,kotlin,laravel,linkedin,less,linux,mui,mongodb,mysql,nestjs,netlify,nginx,nodejs,notion,npm,php,photoshop,prisma,postman,postgresql,powershell,prisma,pug,pytorch,python,qt,rxjs,redhat,redis,redux,remix,ruby,sqlite,svg,sass,scss,selenium,stackoverflow,sublime,supabase,svelte,tailwind,tensorflow,threejs,ts,twitter,vscode,vscodium,vite,vitest,vue,webpack,webflow,windows,wordpress" alt="Current Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,ts,css,c" alt="Current Tech Stack" />
 </p>
 <!-- SKILL_ICONS:END -->
 
@@ -163,4 +195,4 @@ Programming is like sex: One mistake and you have to support it for the rest of 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 12:19 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 01:16 AM GMT+5<!-- TIMESTAMP:END -->*
