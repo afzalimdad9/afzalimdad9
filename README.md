@@ -67,58 +67,109 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-The generation of random numbers is too important to be left to chance.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Go on a long drive with no music
+Make a bucket list
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Cherish forever what makes you unique, cuz you're really a yawn if it goes."
-> — Bette Midler
+> "In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."
+> — Theodore Roosevelt
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"From Vergil's Tenth Eclogue" by Percy Bysshe Shelley
-[VERSES 1-26.]
+"Fare Thee Well" by George Gordon, Lord Byron
+       "Alas! they had been friends in youth;
+       But whispering tongues can poison truth:
+       And Constancy lives in realms above;
+       And Life is thorny; and youth is vain:
+       And to be wroth with one we love,
+       Doth work like madness in the brain;
 
-Melodious Arethusa, o'er my verse
-Shed thou once more the spirit of thy stream:
-Who denies verse to Gallus? So, when thou
-Glidest beneath the green and purple gleam
-Of Syracusan waters, mayst thou flow
-Unmingled with the bitter Doric dew!
-Begin, and, whilst the goats are browsing now
-The soft leaves, in our way let us pursue
-The melancholy loves of Gallus. List!
-We sing not to the dead: the wild woods knew
-His sufferings, and their echoes...
-Young Naiads,...in what far woodlands wild
-Wandered ye when unworthy love possessed
-Your Gallus? Not where Pindus is up-piled,
-Nor where Parnassus' sacred mount, nor where
-Aonian Aganippe expands...
-The laurels and the myrtle-copses dim.
-The pine-encircled mountain, Maenalus,
-The cold crags of Lycaeus, weep for him;
-And Sylvan, crowned with rustic coronals,
-Came shaking in his speed the budding wands
-And heavy lilies which he bore: we knew
-Pan the Arcadian.
+       But never either found another
+       To free the hollow heart from paining--
+       They stood aloof, the scars remaining,
+       Like cliffs which had been rent asunder;
+       A dreary sea now flows between,
+       But neither heat, nor frost, nor thunder,
+       Shall wholly do away, I ween,
+       The marks of that which once hath been."
+              Coleridge's Christabel.
 
-...
-
-'What madness is this, Gallus? Thy heart's care
-With willing steps pursues another there.'
+Fare thee well! and if for ever,
+  Still for ever, fare _thee well:_
+Even though unforgiving, never
+  'Gainst thee shall my heart rebel.
+Would that breast were bared before thee
+  Where thy head so oft hath lain,
+While that placid sleep came o'er thee
+  Which thou ne'er canst know again:
+Would that breast, by thee glanced over,
+  Every inmost thought could show!
+Then thou would'st at last discover
+  'Twas not well to spurn it so.
+Though the world for this commend thee--
+  Though it smile upon the blow,
+Even its praises must offend thee,
+  Founded on another's woe:
+Though my many faults defaced me,
+  Could no other arm be found,
+Than the one which once embraced me,
+  To inflict a cureless wound?
+Yet, oh yet, thyself deceive not--
+  Love may sink by slow decay,
+But by sudden wrench, believe not
+  Hearts can thus be torn away:
+Still thine own its life retaineth--
+  Still must mine, though bleeding, beat;
+And the undying thought which paineth
+  Is--that we no more may meet.
+These are words of deeper sorrow
+  Than the wail above the dead;
+Both shall live--but every morrow
+  Wake us from a widowed bed.
+And when thou would'st solace gather--
+  When our child's first accents flow--
+Wilt thou teach her to say "Father!"
+  Though his care she must forego?
+When her little hands shall press thee--
+  When her lip to thine is pressed--
+Think of him whose prayer shall bless thee--
+  Think of him thy love _had_ blessed!
+Should her lineaments resemble
+  Those thou never more may'st see,
+Then thy heart will softly tremble
+  With a pulse yet true to me.
+All my faults perchance thou knowest--
+  All my madness--none can know;
+All my hopes--where'er thou goest--
+  Wither--yet with _thee_ they go.
+Every feeling hath been shaken;
+  Pride--which not a world could bow--
+Bows to thee--by thee forsaken,
+  Even my soul forsakes me now.
+But 'tis done--all words are idle--
+  Words from me are vainer still;
+But the thoughts we cannot bridle
+  Force their way without the will.
+Fare thee well! thus disunited--
+  Torn from every nearer tie--
+Seared in heart--and lone--and blighted--
+  More than this I scarce can die.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 31°C, smoke in Karachi 🇵🇰
+🌡️ 31°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -209,4 +260,4 @@ With willing steps pursues another there.'
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 09:28 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 10:22 AM GMT+5<!-- TIMESTAMP:END -->*
