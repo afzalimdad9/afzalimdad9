@@ -110,9 +110,12 @@ async function getRecentCommits() {
       per_page: 100,
     });
 
+    // Filter events from the last 30 days
+    const now = new Date();
+    const thirtyDaysAgo = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
+
     const pushEvents = events
-      .filter(event => event.type === 'PushEvent')
-      .slice(0, 10);
+      .filter(event => event.type === 'PushEvent' && new Date(event.created_at) >= thirtyDaysAgo);
 
     return pushEvents;
   } catch (error) {
@@ -183,7 +186,7 @@ async function updateReadme() {
     
     // Get dynamic data
     const repos = await getRecentRepositories();
-    const commits = await getRecentCommits();
+    const commits = await getRecentCommits(); // Now filtered for last 30 days
     const languages = await getLanguageStats();
     const weather = await getWeather();
     // Fetch dynamic content
@@ -218,17 +221,31 @@ async function updateReadme() {
     }
     currentProjects += "<!-- CURRENT_PROJECTS:END -->";
 
-    // Update recent activity
+    // Update recent activity (grouped by repo and date, last 30 days)
     let recentActivity = "<!-- RECENT_ACTIVITY:START -->\n";
     if (commits.length > 0) {
-      commits.slice(0, 5).forEach(event => {
+      // Group by repo and date
+      const grouped = {};
+      commits.forEach(event => {
         const repo = event.repo.name.replace(`${username}/`, '');
-        const commitCount = event.payload.commits?.length || 1;
         const date = new Date(event.created_at).toLocaleDateString();
-        recentActivity += `- 📝 ${commitCount} commit${commitCount > 1 ? 's' : ''} to **${repo}** on ${date}\n`;
+        const key = `${repo}|${date}`;
+        grouped[key] = (grouped[key] || 0) + (event.payload.commits?.length || 1);
+      });
+
+      // Convert to array and sort by date (desc)
+      const groupedArr = Object.entries(grouped)
+        .map(([key, count]) => {
+          const [repo, date] = key.split('|');
+          return { repo, date, count };
+        })
+        .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+      groupedArr.slice(0, 10).forEach(({ repo, date, count }) => {
+        recentActivity += `- 📝 ${count} commit${count > 1 ? 's' : ''} to **${repo}** on ${date}\n`;
       });
     } else {
-      recentActivity += "- 🔄 Loading recent activity...\n";
+      recentActivity += "- 🔄 No activity in the last month.\n";
     }
     recentActivity += "<!-- RECENT_ACTIVITY:END -->";
 
@@ -280,11 +297,11 @@ async function updateReadme() {
       typingLines.push(`${languages[0][0]}+Developer`);
     }
 
-    // Update weekly stats
+    // Update weekly stats (now for last 30 days)
     let weeklyStats = "<!-- WEEKLY_STATS:START -->\n";
     const totalCommits = commits.length;
     const uniqueRepos = new Set(commits.map(c => c.repo.name)).size;
-    weeklyStats += `- 📊 **${totalCommits}** commits across **${uniqueRepos}** repositories\n`;
+    weeklyStats += `- 📊 **${totalCommits}** commits across **${uniqueRepos}** repositories (last 30 days)\n`;
     weeklyStats += `- 🎯 **${repos.length}** active projects\n`;
     weeklyStats += `- 💻 **${languages.length}** programming languages used\n`;
     weeklyStats += "<!-- WEEKLY_STATS:END -->";
