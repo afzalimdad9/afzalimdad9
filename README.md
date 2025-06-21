@@ -67,511 +67,724 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Take a spontaneous road trip with some friends
+Listen to your favorite album
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Live simply, expect little, give much."
-> — Norman Vincent Peale
+> "True it is, we only hate those whom we do not know."
+> — Andrew Carnegie
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Canterbury Tales. The Shipman's Tale." by Geoffrey Chaucer
-THE PROLOGUE
+"M'Fingal - Canto III" by John Trumbull
+Now warm with ministerial ire,
+Fierce sallied forth our loyal 'Squire,
+And on his striding steps attends
+His desperate clan of Tory friends.
+When sudden met his wrathful eye
+A pole ascending through the sky,
+Which numerous throngs of whiggish race
+Were raising in the market-place.
+Not higher school-boy's kites aspire,
+Or royal mast, or country spire;
+Like spears at Brobdignagian tilting,
+Or Satan's walking-staff in Milton.
+And on its top, the flag unfurl'd
+Waved triumph o'er the gazing world,
+Inscribed with inconsistent types
+Of Liberty and thirteen stripes.
+Beneath, the crowd without delay
+The dedication-rites essay,
+And gladly pay, in antient fashion,
+The ceremonies of libation;
+While briskly to each patriot lip
+Walks eager round the inspiring flip:
+Delicious draught! whose powers inherit
+The quintessence of public spirit;
+Which whoso tastes, perceives his mind
+To nobler politics refined;
+Or roused to martial controversy,
+As from transforming cups of Circe;
+Or warm'd with Homer's nectar'd liquor,
+That fill'd the veins of gods with ichor.
+At hand for new supplies in store,
+The tavern opes its friendly door,
+Whence to and fro the waiters run,
+Like bucket-men at fires in town.
+Then with three shouts that tore the sky,
+'Tis consecrate to Liberty.
+To guard it from th' attacks of Tories,
+A grand Committee cull'd of four is;
+Who foremost on the patriot spot,
+Had brought the flip, and paid the shot.
 
-Our Host upon his stirrups stood anon,
-And saide; "Good men, hearken every one,
-This was a thrifty tale for the nones.
-Sir Parish Priest," quoth he, "for Godde's bones,
-Tell us a tale, as was thy forword yore:
-I see well that ye learned men in lore
-Can muche good, by Godde's dignity."
-The Parson him answer'd, "Ben'dicite!
-What ails the man, so sinfully to swear?"
-Our Host answer'd, "O Jankin, be ye there?
-Now, good men," quoth our Host, "hearken to me.
-I smell a Lollard  in the wind," quoth he.
-"Abide, for Godde's digne passion,
-For we shall have a predication:
-This Lollard here will preachen us somewhat."
-"Nay, by my father's soul, that shall he not,
-Saide the Shipman; "Here shall he not preach,
-He shall no gospel glose here nor teach.
-We all believe in the great God," quoth he.
-"He woulde sowe some difficulty,
-Or springe cockle  in our cleane corn.
-And therefore, Host, I warne thee beforn,
-My jolly body shall a tale tell,
-And I shall clinke you so merry a bell,
-That I shall waken all this company;
-But it shall not be of philosophy,
-Nor of physic, nor termes quaint of law;
-There is but little Latin in my maw."
 
-THE TALE.
+By this, M'Fingal with his train
+Advanced upon th' adjacent plain,
+And full with loyalty possest,
+Pour'd forth the zeal, that fired his breast.
 
-A Merchant whilom dwell'd at Saint Denise,
-That riche was, for which men held him wise.
-A wife he had of excellent beauty,
-And companiable and revellous was she,
-Which is a thing that causeth more dispence
-Than worth is all the cheer and reverence
-That men them do at feastes and at dances.
-Such salutations and countenances
-Passen, as doth the shadow on the wall;
-Put woe is him that paye must for all.
-The sely husband algate he must pay,
-He must us  clothe and he must us array
-All for his owen worship richely:
-In which array we dance jollily.
-And if that he may not, paraventure,
-Or elles list not such dispence endure,
-But thinketh it is wasted and y-lost,
-Then must another paye for our cost,
-Or lend us gold, and that is perilous.
 
-This noble merchant held a noble house;
-For which he had all day so great repair,
-For his largesse, and for his wife was fair,
-That wonder is; but hearken to my tale.
-Amonges all these guestes great and smale,
-There was a monk, a fair man and a bold,
-I trow a thirty winter he was old,
-That ever-in-one was drawing to that place.
-This younge monk, that was so fair of face,
-Acquainted was so with this goode man,
-Since that their firste knowledge began,
-That in his house as familiar was he
-As it is possible any friend to be.
-And, for as muchel as this goode man,
-And eke this monk of which that I began,
-Were both the two y-born in one village,
-The monk him claimed, as for cousinage,
-And he again him said not once nay,
-But was as glad thereof as fowl of day;
-"For to his heart it was a great pleasance.
-Thus be they knit with etern' alliance,
-And each of them gan other to assure
-Of brotherhood while that their life may dure.
+"What mad-brain'd rebel gave commission,
+To raise this May-pole of sedition?
+Like Babel, rear'd by bawling throngs,
+With like confusion too of tongues,
+To point at heaven and summon down
+The thunders of the British crown?
+Say, will this paltry Pole secure
+Your forfeit heads from Gage's power?
+Attack'd by heroes brave and crafty,
+Is this to stand your ark of safety;
+Or driven by Scottish laird and laddie,
+Think ye to rest beneath its shadow?
+When bombs, like fiery serpents, fly,
+And balls rush hissing through the sky,
+Will this vile Pole, devote to freedom,
+Save like the Jewish pole in Edom;
+Or like the brazen snake of Moses,
+Cure your crackt skulls and batter'd noses?
 
-As in that house, and full of diligence
-To do pleasance, and also great costage;
-He not forgot to give the leaste page
-In all that house; but, after their degree,
-He gave the lord, and sithen his meinie,
-When that he came, some manner honest thing;
-For which they were as glad of his coming
-As fowl is fain when that the sun upriseth.
-No more of this as now, for it sufficeth.
 
-But so befell, this merchant on a day
-Shope him to make ready his array
-Toward the town of Bruges  for to fare,
-To buye there a portion of ware;
-For which he hath to Paris sent anon
-A messenger, and prayed hath Dan John
-That he should come to Saint Denis, and play
-With him, and with his wife, a day or tway,
-Ere he to Bruges went, in alle wise.
-This noble monk, of which I you devise,
-Had of his abbot, as him list, licence,
-(Because he was a man of high prudence,
-And eke an officer out for to ride,
-To see their granges and their barnes wide);
-And unto Saint Denis he came anon.
-Who was so welcome as my lord Dan John,
-Our deare cousin, full of courtesy?
-With him he brought a jub of malvesie,
-And eke another full of fine vernage,
-And volatile, as aye was his usage:
-And thus I let them eat, and drink, and play,
-This merchant and this monk, a day or tway.
-The thirde day the merchant up ariseth,
-And on his needeis sadly him adviseth;
-And up into his countour-house went he,
-To reckon with himself as well may be,
-Of thilke year, how that it with him stood,
-And how that he dispended bad his good,
-And if that he increased were or non.
-His bookes and his bagges many a one
-He laid before him on his counting-board.
-Full riche was his treasure and his hoard;
-For which full fast his countour door he shet;
-And eke he would that no man should him let
-Of his accountes, for the meane time:
-And thus he sat, till it was passed prime.
+"Ye dupes to every factious rogue
+And tavern-prating demagogue,
+Whose tongue but rings, with sound more full,
+On th' empty drumhead of his scull;
+Behold you not what noisy fools
+Use you, worse simpletons, for tools?
+For Liberty, in your own by-sense,
+Is but for crimes a patent license,
+To break of law th' Egyptian yoke,
+And throw the world in common stock;
+Reduce all grievances and ills
+To Magna Charta of your wills;
+Establish cheats and frauds and nonsense,
+Framed to the model of your conscience;
+Cry justice down, as out of fashion,
+And fix its scale of depreciation;
+Defy all creditors to trouble ye,
+And keep new years of Jewish jubilee;
+Drive judges out, like Aaron's calves,
+By jurisdiction of white staves,
+And make the bar and bench and steeple
+Submit t' our Sovereign Lord, The People;
+By plunder rise to power and glory,
+And brand all property, as Tory;
+Expose all wares to lawful seizures
+By mobbers or monopolizers;
+Break heads and windows and the peace,
+For your own interest and increase;
+Dispute and pray and fight and groan
+For public good, and mean your own;
+Prevent the law by fierce attacks
+From quitting scores upon your backs;
+Lay your old dread, the gallows, low,
+And seize the stocks, your ancient foe,
+And turn them to convenient engines
+To wreak your patriotic vengeance;
+While all, your rights who understand,
+Confess them in their owner's hand;
+And when by clamours and confusions,
+Your freedom's grown a public nuisance,
+Cry "Liberty," with powerful yearning,
+As he does "Fire!" whose house is burning;
+Though he already has much more
+Than he can find occasion for.
+While every clown, that tills the plains,
+Though bankrupt in estate and brains,
+By this new light transform'd to traitor,
+Forsakes his plough to turn dictator,
+Starts an haranguing chief of Whigs,
+And drags you by the ears, like pigs.
+All bluster, arm'd with factious licence,
+New-born at once to politicians.
+Each leather-apron'd dunce, grown wise,
+Presents his forward face t' advise,
+And tatter'd legislators meet,
+From every workshop through the street.
+His goose the tailor finds new use in,
+To patch and turn the Constitution;
+The blacksmith comes with sledge and grate
+To iron-bind the wheels of state;
+The quack forbears his patients' souse,
+To purge the Council and the House;
+The tinker quits his moulds and doxies,
+To cast assembly-men and proxies.
+From dunghills deep of blackest hue,
+Your dirt-bred patriots spring to view,
+To wealth and power and honors rise,
+Like new-wing'd maggots changed to flies,
+And fluttering round in high parade,
+Strut in the robe, or gay cockade.
+See Arnold quits, for ways more certain,
+His bankrupt-perj'ries for his fortune,
+Brews rum no longer in his store,
+Jockey and skipper now no more,
+Forsakes his warehouses and docks,
+And writs of slander for the pox;
+And cleansed by patriotism from shame,
+Grows General of the foremost name.
+For in this ferment of the stream
+The dregs have work'd up to the brim,
+And by the rule of topsy-turvies,
+The scum stands foaming on the surface.
+You've caused your pyramid t' ascend,
+And set it on the little end.
+Like Hudibras, your empire's made,
+Whose crupper had o'ertopp'd his head.
+You've push'd and turn'd the whole world up-
+Side down, and got yourselves at top,
+While all the great ones of your state
+Are crush'd beneath the popular weight;
+Nor can you boast, this present hour,
+The shadow of the form of power.
+For what's your Congress or its end?
+A power, t' advise and recommend;
+To call forth troops, adjust your quotas--
+And yet no soul is bound to notice;
+To pawn your faith to th' utmost limit,
+But cannot bind you to redeem it;
+And when in want no more in them lies,
+Than begging from your State-Assemblies;
+Can utter oracles of dread,
+Like friar Bacon's brazen head,
+But when a faction dares dispute 'em,
+Has ne'er an arm to execute 'em:
+As tho' you chose supreme dictators,
+And put them under conservators.
+You've but pursued the self-same way
+With Shakespeare's Trinc'lo in the play;
+"You shall be Viceroys here, 'tis true,
+"But we'll be Viceroys over you."
+What wild confusion hence must ensue?
+Tho' common danger yet cements you:
+So some wreck'd vessel, all in shatters,
+Is held up by surrounding waters,
+But stranded, when the pressure ceases,
+Falls by its rottenness to pieces.
+And fall it must! if wars were ended,
+You'll ne'er have sense enough to mend it:
+But creeping on, by low intrigues,
+Like vermin of a thousand legs,
+'Twill find as short a life assign'd,
+As all things else of reptile kind.
+Your Commonwealth's a common harlot,
+The property of every varlet;
+Which now in taste, and full employ,
+All sorts admire, as all enjoy:
+But soon a batter'd strumpet grown,
+You'll curse and drum her out of town.
+Such is the government you chose;
+For this you bade the world be foes;
+For this, so mark'd for dissolution,
+You scorn the British Constitution,
+That constitution form'd by sages,
+The wonder of all modern ages;
+Which owns no failure in reality,
+Except corruption and venality;
+And merely proves the adage just,
+That best things spoil'd corrupt to worst:
+So man supreme in earthly station,
+And mighty lord of this creation,
+When once his corse is dead as herring,
+Becomes the most offensive carrion,
+And sooner breeds the plague, 'tis found,
+Than all beasts rotting on the ground.
+Yet with republics to dismay us,
+You've call'd up Anarchy from chaos,
+With all the followers of her school,
+Uproar and Rage and wild Misrule:
+For whom this rout of Whigs distracted,
+And ravings dire of every crack'd head;
+These new-cast legislative engines
+Of County-meetings and Conventions;
+Committees vile of correspondence,
+And mobs, whose tricks have almost undone 's:
+While reason fails to check your course,
+And Loyalty's kick'd out of doors,
+And Folly, like inviting landlord,
+Hoists on your poles her royal standard;
+While the king's friends, in doleful dumps,
+Have worn their courage to the stumps,
+And leaving George in sad disaster,
+Most sinfully deny their master.
+What furies raged when you, in sea,
+In shape of Indians, drown'd the tea;
+When your gay sparks, fatigued to watch it,
+Assumed the moggison and hatchet,
+With wampum'd blankets hid their laces,
+And like their sweethearts, primed their faces:
+While not a red-coat dared oppose,
+And scarce a Tory show'd his nose;
+While Hutchinson, for sure retreat,
+Manoeuvred to his country seat,
+And thence affrighted, in the suds,
+Stole off bareheaded through the woods.
 
-Dan John was risen in the morn also,
-And in the garden walked to and fro,
-And had his thinges said full courteously.
-The good wife came walking full privily
-Into the garden, where he walked soft,
-And him saluted, as she had done oft;
-A maiden child came in her company,
-Which as her list she might govern and gie,
-For yet under the yarde was the maid.
-"O deare cousin mine, Dan John," she said,
-"What aileth you so rath for to arise?"
-"Niece," quoth he, "it ought enough suffice
-Five houres for to sleep upon a night;'
-But it were for an old appalled wight,
-As be these wedded men, that lie and dare,
-As in a forme sits a weary hare,
-Alle forstraught with houndes great and smale;
-But, deare niece, why be ye so pale?
-I trowe certes that our goode man
-Hath you so laboured, since this night began,
-That you were need to reste hastily."
-And with that word he laugh'd full merrily,
-And of his owen thought he wax'd all red.
-This faire wife gan for to shake her head,
-And saide thus; "Yea, God wot all" quoth she.
-"Nay, cousin mine, it stands not so with me;
-For by that God, that gave me soul and life,
-In all the realm of France is there no wife
-That lesse lust hath to that sorry play;
-For I may sing alas and well-away!
-That I was born; but to no wight," quoth she,
-"Dare I not tell how that it stands with me.
-Wherefore I think out of this land to wend,
-Or elles of myself to make an end,
-So full am I of dread and eke of care."
 
-This monk began upon this wife to stare,
-And said, "Alas! my niece, God forbid
-That ye for any sorrow, or any dread,
-Fordo yourself: but telle me your grief,
-Paraventure I may, in your mischief,
-Counsel or help; and therefore telle me
-All your annoy, for it shall be secre.
-For on my portos here I make an oath,
-That never in my life, for lief nor loth,
-Ne shall I of no counsel you bewray."
-"The same again to you," quoth she, "I say.
-By God and by this portos I you swear,
-Though men me woulden all in pieces tear,
-Ne shall I never, for to go to hell,
-Bewray one word of thing that ye me tell,
-For no cousinage, nor alliance,
-But verily for love and affiance."
-Thus be they sworn, and thereupon they kiss'd,
-And each of them told other what them list.
-"Cousin," quoth she, "if that I hadde space,
-As I have none, and namely in this place,
-Then would I tell a legend of my life,
-What I have suffer'd since I was a wife
-With mine husband, all be he your cousin.
-"Nay," quoth this monk, "by God and Saint Martin,
-He is no more cousin unto me,
-Than is the leaf that hangeth on the tree;
-I call him so, by Saint Denis of France,
-To have the more cause of acquaintance
-Of you, which I have loved specially
-Aboven alle women sickerly,
-This swear I you on my professioun;
-Tell me your grief, lest that he come adown,
-And hasten you, and go away anon."
+"Have you not roused your mobs to join,
+And make Mandamus-men resign,
+Call'd forth each dufill-drest curmudgeon,
+With dirty trowsers and white bludgeon,
+Forced all our Councils through the land,
+To yield their necks at your command;
+While paleness marks their late disgraces,
+Through all their rueful length of faces?
 
-"My deare love," quoth she, "O my Dan John,
-Full lief were me this counsel for to hide,
-But out it must, I may no more abide.
-My husband is to me the worste man
-That ever was since that the world began;
-But since I am a wife, it sits not me
-To telle no wight of our privity,
-Neither in bed, nor in none other place;
-God shield I shoulde tell it for his grace;
-A wife shall not say of her husband
-But all honour, as I can understand;
-Save unto you thus much I telle shall;
-As help me God, he is nought worth at all
-In no degree, the value of a fly.
-But yet me grieveth most his niggardy.
-And well ye wot, that women naturally
-Desire thinges six, as well as I.
-They woulde that their husbands shoulde be
-Hardy, and wise, and rich, and thereto free,
-And buxom to his wife, and fresh in bed.
-But, by that ilke Lord that for us bled,
-For his honour myself for to array,
-On Sunday next I muste needes pay
-A hundred francs, or elles am I lorn.
-Yet were me lever that I were unborn,
-Than me were done slander or villainy.
-And if mine husband eke might it espy,
-I were but lost; and therefore I you pray,
-Lend me this sum, or elles must I dey.
-Dan John, I say, lend me these hundred francs;
-Pardie, I will not faile you, my thanks,
-If that you list to do that I you pray;
-For at a certain day I will you pay,
-And do to you what pleasance and service
-That I may do, right as you list devise.
-And but I do, God take on me vengeance,
-As foul as e'er had Ganilion  of France."
 
-This gentle monk answer'd in this mannere;
-"Now truely, mine owen lady dear,
-I have," quoth he, "on you so greate ruth,
-That I you swear, and plighte you my truth,
-That when your husband is to Flanders fare,
-I will deliver you out of this care,
-For I will bringe you a hundred francs."
-And with that word he caught her by the flanks,
-And her embraced hard, and kissed her oft.
-"Go now your way," quoth he, "all still and soft,
-And let us dine as soon as that ye may,
-For by my cylinder 'tis prime of day;
-Go now, and be as true as I shall be ."
-"Now elles God forbidde, Sir," quoth she;
-And forth she went, as jolly as a pie,
-And bade the cookes that they should them hie,
-So that men mighte dine, and that anon.
-Up to her husband is this wife gone,
-And knocked at his contour boldely.
-"Qui est la?" quoth he. "Peter! it am I,"
-Quoth she; "What, Sir, how longe all will ye fast?
-How longe time will ye reckon and cast
-Your summes, and your bookes, and your things?
-The devil have part of all such reckonings!
-Ye have enough, pardie, of Godde's sond.
-Come down to-day, and let your bagges stond.
-Ne be ye not ashamed, that Dan John
-Shall fasting all this day elenge gon?
-What? let us hear a mass, and go we dine."
-"Wife," quoth this man, "little canst thou divine
-The curious businesse that we have;
-For of us chapmen, all so God me save,
-And by that lord that cleped is Saint Ive,
-Scarcely amonges twenty, ten shall thrive
-Continually, lasting unto our age.
-We may well make cheer and good visage,
-And drive forth the world as it may be,
-And keepen our estate in privity,
-Till we be dead, or elles that we play
-A pilgrimage, or go out of the way.
-And therefore have I great necessity
-Upon this quaint world to advise me.
-For evermore must we stand in dread
-Of hap and fortune in our chapmanhead.
-To Flanders will I go to-morrow at day,
-And come again as soon as e'er I may:
-For which, my deare wife, I thee beseek
-As be to every wight buxom and meek,
-And for to keep our good be curious,
-And honestly governe well our house.
-Thou hast enough, in every manner wise,
-That to a thrifty household may suffice.
-Thee lacketh none array, nor no vitail;
-Of silver in thy purse thou shalt not fail."
+"Have you not caused as woeful work
+In our good city of New-York,
+When all the rabble, well cockaded,
+In triumph through the streets paraded,
+And mobb'd the Tories, scared their spouses,
+And ransack'd all the custom-houses;
+Made such a tumult, bluster, jarring,
+That mid the clash of tempests warring,
+Smith's weather-cock, in veers forlorn,
+Could hardly tell which way to turn?
+Burn'd effigies of higher powers,
+Contrived in planetary hours;
+As witches with clay-images
+Destroy or torture whom they please:
+Till fired with rage, th' ungrateful club
+Spared not your best friend, Beelzebub,
+O'erlook'd his favors, and forgot
+The reverence due his cloven foot,
+And in the selfsame furnace frying,
+Stew'd him, and North and Bute and Tryon?
+Did you not, in as vile and shallow way,
+Fright our poor Philadelphian, Galloway,
+Your Congress, when the loyal ribald
+Belied, berated and bescribbled?
+What ropes and halters did you send,
+Terrific emblems of his end,
+Till, least he'd hang in more than effigy,
+Fled in a fog the trembling refugee?
+Now rising in progression fatal,
+Have you not ventured to give battle?
+When Treason chaced our heroes troubled,
+With rusty gun, and leathern doublet;
+Turn'd all stone-walls and groves and bushes,
+To batteries arm'd with blunderbusses;
+And with deep wounds, that fate portend,
+Gaul'd many a Briton's latter end;
+Drove them to Boston, as in jail,
+Confined without mainprize or bail.
+Were not these deeds enough betimes,
+To heap the measure of your crimes:
+But in this loyal town and dwelling,
+You raise these ensigns of rebellion?
+'Tis done! fair Mercy shuts her door;
+And Vengeance now shall sleep no more.
+Rise then, my friends, in terror rise,
+And sweep this scandal from the skies.
+You'll see their Dagon, though well jointed,
+Will shrink before the Lord's anointed;
+And like old Jericho's proud wall,
+Before our ram's horns prostrate fall."
 
-And with that word his contour door he shet,
-And down he went; no longer would he let;
-And hastily a mass was there said,
-And speedily the tables were laid,
-And to the dinner faste they them sped,
-And richely this monk the chapman fed.
-And after dinner Dan John soberly
-This chapman took apart, and privily
-He said him thus: "Cousin, it standeth so,
-That, well I see, to Bruges ye will go;
-God and Saint Austin speede you and guide.
-I pray you, cousin, wisely that ye ride:
-Governe you also of your diet
-Attemperly, and namely in this heat.
-Betwixt us two needeth no strange fare;
-Farewell, cousin, God shielde you from care.
-If any thing there be, by day or night,
-If it lie in my power and my might,
-That ye me will command in any wise,
-It shall be done, right as ye will devise.
-But one thing ere ye go, if it may be;
-I woulde pray you for to lend to me
-A hundred frankes, for a week or twy,
-For certain beastes that I muste buy,
-To store with a place that is ours
-(God help me so, I would that it were yours);
-I shall not faile surely of my day,
-Not for a thousand francs, a mile way.
-But let this thing be secret, I you pray;
-For yet to-night these beastes must I buy.
-And fare now well, mine owen cousin dear;
-Grand mercy of your cost and of your cheer."
 
-This noble merchant gentilly anon
-Answer'd and said, "O cousin mine, Dan John,
-Now sickerly this is a small request:
-My gold is youres, when that it you lest,
-And not only my gold, but my chaffare;
-Take what you list, God shielde that ye spare.
-But one thing is, ye know it well enow
-Of chapmen, that their money is their plough.
-We may creance while we have a name,
-But goldless for to be it is no game.
-Pay it again when it lies in your ease;
-After my might full fain would I you please."
+This said, our 'Squire, yet undismay'd,
+Call'd forth the Constable to aid,
+And bade him read, in nearer station,
+The Riot-act and Proclamation.
+He swift, advancing to the ring,
+Began, "Our Sovereign Lord, the King"--
+When thousand clam'rous tongues he hears,
+And clubs and stones assail his ears.
+To fly was vain; to fight was idle;
+By foes encompass'd in the middle,
+His hope, in stratagems, he found,
+And fell right craftily to ground;
+Then crept to seek an hiding place,
+'Twas all he could, beneath a brace;
+Where soon the conq'ring crew espied him,
+And where he lurk'd, they caught and tied him.
 
-These hundred frankes set he forth anon,
-And privily he took them to Dan John;
-No wight in all this world wist of this loan,
-Saving the merchant and Dan John alone.
-They drink, and speak, and roam a while, and play,
-Till that Dan John rode unto his abbay.
-The morrow came, and forth this merchant rideth
-To Flanders-ward, his prentice well him guideth,
-Till he came unto Bruges merrily.
-Now went this merchant fast and busily
-About his need, and buyed and creanced;
-He neither played at the dice, nor danced;
-But as a merchant, shortly for to tell,
-He led his life; and there I let him dwell.
 
-The Sunday next the merchant was y-gone,
-To Saint Denis y-comen is Dan John,
-With crown and beard all fresh and newly shave,
-In all the house was not so little a knave,
-Nor no wight elles that was not full fain
-For that my lord Dan John was come again.
-And shortly to the point right for to gon,
-The faire wife accorded with Dan John,
-That for these hundred francs he should all night
-Have her in his armes bolt upright;
-And this accord performed was in deed.
-In mirth all night a busy life they lead,
-Till it was day, that Dan John went his way,
-And bade the meinie "Farewell; have good day."
-For none of them, nor no wight in the town,
-Had of Dan John right no suspicioun;
-And forth he rode home to his abbay,
-Or where him list; no more of him I say.
+At once with resolution fatal,
+Both Whigs and Tories rush'd to battle.
+Instead of weapons, either band
+Seized on such arms as came to hand.
+And as famed Ovid paints th' adventures
+Of wrangling Lapithæ and Centaurs,
+Who at their feast, by Bacchus led,
+Threw bottles at each other's head;
+And these arms failing in their scuffles,
+Attack'd with andirons, tongs and shovels:
+So clubs and billets, staves and stones
+Met fierce, encountering every sconce,
+And cover'd o'er with knobs and pains
+Each void receptacle for brains;
+Their clamours rend the skies around,
+The hills rebellow to the sound;
+And many a groan increas'd the din
+From batter'd nose and broken shin.
+M'Fingal, rising at the word,
+Drew forth his old militia-sword;
+Thrice cried "King George," as erst in distress,
+Knights of romance invoked a mistress;
+And brandishing the blade in air,
+Struck terror through th' opposing war.
+The Whigs, unsafe within the wind
+Of such commotion, shrunk behind.
+With whirling steel around address'd,
+Fierce through their thickest throng he press'd,
+(Who roll'd on either side in arch,
+Like Red Sea waves in Israel's march)
+And like a meteor rushing through,
+Struck on their Pole a vengeful blow.
+Around, the Whigs, of clubs and stones
+Discharged whole vollies, in platoons,
+That o'er in whistling fury fly;
+But not a foe dares venture nigh.
+And now perhaps with glory crown'd
+Our 'Squire had fell'd the pole to ground,
+Had not some Pow'r, a whig at heart,
+Descended down and took their part;
+(Whether 'twere Pallas, Mars or Iris,
+'Tis scarce worth while to make inquiries)
+Who at the nick of time alarming,
+Assumed the solemn form of Chairman,
+Address'd a Whig, in every scene
+The stoutest wrestler on the green,
+And pointed where the spade was found,
+Late used to set their pole in ground,
+And urged, with equal arms and might,
+To dare our 'Squire to single fight.
+The Whig thus arm'd, untaught to yield,
+Advanced tremendous to the field:
+Nor did M'Fingal shun the foe,
+But stood to brave the desp'rate blow;
+While all the party gazed, suspended
+To see the deadly combat ended;
+And Jove in equal balance weigh'd
+The sword against the brandish'd spade,
+He weigh'd; but lighter than a dream,
+The sword flew up, and kick'd the beam.
+Our 'Squire on tiptoe rising fair
+Lifts high a noble stroke in air,
+Which hung not, but like dreadful engines,
+Descended on his foe in vengeance.
+But ah! in danger, with dishonor
+The sword perfidious fails its owner;
+That sword, which oft had stood its ground,
+By huge trainbands encircled round;
+And on the bench, with blade right loyal,
+Had won the day at many a trial,
+Of stones and clubs had braved th' alarms,
+Shrunk from these new Vulcanian arms.
+The spade so temper'd from the sledge,
+Nor keen nor solid harm'd its edge,
+Now met it, from his arm of might,
+Descending with steep force to smite;
+The blade snapp'd short--and from his hand,
+With rust embrown'd the glittering sand.
+Swift turn'd M'Fingal at the view,
+And call'd to aid th' attendant crew,
+In vain; the Tories all had run,
+When scarce the fight was well begun;
+Their setting wigs he saw decreas'd
+Far in th' horizon tow'rd the west.
+Amazed he view'd the shameful sight,
+And saw no refuge, but in flight:
+But age unwieldy check'd his pace,
+Though fear had wing'd his flying race;
+For not a trifling prize at stake;
+No less than great M'Fingal's back.
+With legs and arms he work'd his course,
+Like rider that outgoes his horse,
+And labor'd hard to get away, as
+Old Satan struggling on through chaos;
+Till looking back, he spied in rear
+The spade-arm'd chief advanced too near:
+Then stopp'd and seized a stone, that lay
+An ancient landmark near the way;
+Nor shall we as old bards have done,
+Affirm it weigh'd an hundred ton;
+But such a stone, as at a shift
+A modern might suffice to lift,
+Since men, to credit their enigmas,
+Are dwindled down to dwarfs and pigmies,
+And giants exiled with their cronies
+To Brobdignags and Patagonias.
+But while our Hero turn'd him round,
+And tugg'd to raise it from the ground,
+The fatal spade discharged a blow
+Tremendous on his rear below:
+His bent knee fail'd, and void of strength
+Stretch'd on the ground his manly length.
+Like ancient oak o'erturn'd, he lay,
+Or tower to tempests fall'n a prey,
+Or mountain sunk with all his pines,
+Or flow'r the plow to dust consigns,
+And more things else--but all men know 'em,
+If slightly versed in epic poem.
+At once the crew, at this dread crisis,
+Fall on, and bind him, ere he rises;
+And with loud shouts and joyful soul,
+Conduct him prisoner to the pole.
+When now the mob in lucky hour
+Had got their en'mies in their power,
+They first proceed, by grave command,
+To take the Constable in hand.
+Then from the pole's sublimest top
+The active crew let down the rope,
+At once its other end in haste bind,
+And make it fast upon his waistband;
+Till like the earth, as stretch'd on tenter,
+He hung self-balanced on his centre.
+Then upwards, all hands hoisting sail,
+They swung him, like a keg of ale,
+Till to the pinnacle in height
+He vaulted, like balloon or kite.
+As Socrates of old at first did
+To aid philosophy get hoisted,
+And found his thoughts flow strangely clear,
+Swung in a basket in mid air:
+Our culprit thus, in purer sky,
+With like advantage raised his eye,
+And looking forth in prospect wide,
+His Tory errors clearly spied,
+And from his elevated station,
+With bawling voice began addressing.
 
-The merchant, when that ended was the fair,
-To Saint Denis he gan for to repair,
-And with his wife he made feast and cheer,
-And tolde her that chaffare was so dear,
-That needes must he make a chevisance;
-For he was bound in a recognisance
-To paye twenty thousand shields anon.
-For which this merchant is to Paris gone,
-To borrow of certain friendes that he had
-A certain francs, and some with him he lad.
-And when that he was come into the town,
-For great cherte and great affectioun
-Unto Dan John he wente first to play;
-Not for to borrow of him no money,
-Bat for to weet and see of his welfare,
-And for to telle him of his chaffare,
-As friendes do, when they be met in fere.
-Dan John him made feast and merry cheer;
-And he him told again full specially,
-How he had well y-bought and graciously
-(Thanked be God) all whole his merchandise;
-Save that he must, in alle manner wise,
-Maken a chevisance, as for his best;
-And then he shoulde be in joy and rest.
-Dan John answered, "Certes, I am fain
-That ye in health be come borne again:
-And if that I were rich, as have I bliss,
-Of twenty thousand shields should ye not miss,
-For ye so kindely the other day
-Lente me gold, and as I can and may
-I thanke you, by God and by Saint Jame.
-But natheless I took unto our Dame,
-Your wife at home, the same gold again,
-Upon your bench; she wot it well, certain,
-By certain tokens that I can her tell
-Now, by your leave, I may no longer dwell;
-Our abbot will out of this town anon,
-And in his company I muste gon.
-Greet well our Dame, mine owen niece sweet,
-And farewell, deare cousin, till we meet.
 
-This merchant, which that was full ware and wise,
-Creanced hath, and paid eke in Paris
-To certain Lombards ready in their hond
-The sum of gold, and got of them his bond,
-And home he went, merry as a popinjay.
-For well he knew he stood in such array
-That needes must he win in that voyage
-A thousand francs, above all his costage.
-His wife full ready met him at the gate,
-As she was wont of old usage algate
-And all that night in mirthe they beset;
-For he was rich, and clearly out of debt.
-When it was day, the merchant gan embrace
-His wife all new, and kiss'd her in her face,
-And up he went, and maked it full tough.
+"Good Gentlemen and friends and kin,
+For heaven's sake hear, if not for mine!
+I here renounce the Pope, the Turks,
+The King, the Devil and all their works;
+And will, set me but once at ease,
+Turn Whig or Christian, what you please;
+And always mind your rules so justly,
+Should I live long as old Methus'lah,
+I'll never join in British rage,
+Nor help Lord North, nor Gen'ral Gage;
+Nor lift my gun in future fights,
+Nor take away your Charter-rights;
+Nor overcome your new-raised levies,
+Destroy your towns, nor burn your navies;
+Nor cut your poles down while I've breath,
+Though raised more thick than hatchel-teeth:
+But leave King George and all his elves
+To do their conq'ring work themselves."
 
-"No more," quoth she, "by God ye have enough;"
-And wantonly again with him she play'd,
-Till at the last this merchant to her said.
-"By God," quoth he, "I am a little wroth
-With you, my wife, although it be me loth;
-And wot ye why? by God, as that I guess,
-That ye have made a manner strangeness
-Betwixte me and my cousin, Dan John.
-Ye should have warned me, ere I had gone,
-That he you had a hundred frankes paid
-By ready token; he had him evil apaid
-For that I to him spake of chevisance,
-(He seemed so as by his countenance);
-But natheless, by God of heaven king,
-I thoughte not to ask of him no thing.
-I pray thee, wife, do thou no more so.
-Tell me alway, ere that I from thee go,
-If any debtor hath in mine absence
-Y-payed thee, lest through thy negligence
-I might him ask a thing that he hath paid."
 
-This wife was not afeared nor afraid,
-But boldely she said, and that anon;
-"Mary! I defy that false monk Dan John,
-I keep not of his tokens never a deal:
-He took me certain gold, I wot it well. --
-What? evil thedom on his monke's snout! --
-For, God it wot, I ween'd withoute doubt
-That he had given it me, because of you,
-To do therewith mine honour and my prow,
-For cousinage, and eke for belle cheer
-That he hath had full often here.
-But since I see I stand in such disjoint,
-I will answer you shortly to the point.
-Ye have more slacke debtors than am I;
-For I will pay you well and readily,
-From day to day, and if so be I fail,
-I am your wife, score it upon my tail,
-And I shall pay as soon as ever I may.
-For, by my troth, I have on mine array,
-And not in waste, bestow'd it every deal.
-And, for I have bestowed it so well,
-For your honour, for Godde's sake I say,
-As be not wroth, but let us laugh and play.
-Ye shall my jolly body have to wed;
-By God, I will not pay you but in bed;
-Forgive it me, mine owen spouse dear;
-Turn hitherward, and make better cheer."
+This said, they lower'd him down in state,
+Spread at all points, like falling cat;
+But took a vote first on the question,
+That they'd accept this full confession,
+And to their fellowship and favor,
+Restore him on his good behaviour.
 
-The merchant saw none other remedy;
-And for to chide, it were but a folly,
-Since that the thing might not amended be.
-"Now, wife," he said, "and I forgive it thee;
-But by thy life be no more so large;
-Keep better my good, this give I thee in charge."
-Thus endeth now my tale; and God us send
-Taling enough, until our lives' end!
+
+Not so our 'Squire submits to rule,
+But stood, heroic as a mule.
+"You'll find it all in vain, quoth he,
+To play your rebel tricks on me.
+All punishments, the world can render,
+Serve only to provoke th' offender;
+The will gains strength from treatment horrid,
+As hides grow harder when they're curried.
+No man e'er felt the halter draw,
+With good opinion of the law;
+Or held in method orthodox
+His love of justice, in the stocks;
+Or fail'd to lose by sheriff's shears
+At once his loyalty and ears.
+Have you made Murray look less big,
+Or smoked old Williams to a Whig?
+Did our mobb'd Ol'ver quit his station,
+Or heed his vows of resignation?
+Has Rivington, in dread of stripes,
+Ceased lying since you stole his types?
+And can you think my faith will alter,
+By tarring, whipping or the halter?
+I'll stand the worst; for recompense
+I trust King George and Providence.
+And when with conquest gain'd I come,
+Array'd in law and terror home,
+Ye'll rue this inauspicious morn,
+And curse the day, when ye were born,
+In Job's high style of imprecations,
+With all his plagues, without his patience."
+
+
+Meanwhile beside the pole, the guard
+A Bench of Justice had prepared,
+Where sitting round in awful sort
+The grand Committee hold their Court;
+While all the crew, in silent awe,
+Wait from their lips the lore of law.
+Few moments with deliberation
+They hold the solemn consultation;
+When soon in judgment all agree,
+And Clerk proclaims the dread decree;
+"That 'Squire M'Fingal having grown
+The vilest Tory in the town,
+And now in full examination
+Convicted by his own confession,
+Finding no tokens of repentance,
+This Court proceeds to render sentence:
+That first the Mob a slip-knot single
+Tie round the neck of said M'Fingal,
+And in due form do tar him next,
+And feather, as the law directs;
+Then through the town attendant ride him
+In cart with Constable beside him,
+And having held him up to shame,
+Bring to the pole, from whence he came."
+
+
+Forthwith the crowd proceed to deck
+With halter'd noose M'Fingal's neck,
+While he in peril of his soul
+Stood tied half-hanging to the pole;
+Then lifting high the ponderous jar,
+Pour'd o'er his head the smoaking tar.
+With less profusion once was spread
+Oil on the Jewish monarch's head,
+That down his beard and vestments ran,
+And cover'd all his outward man.
+As when (so Claudian sings) the Gods
+And earth-born Giants fell at odds,
+The stout Enceladus in malice
+Tore mountains up to throw at Pallas;
+And while he held them o'er his head,
+The river, from their fountains fed,
+Pour'd down his back its copious tide,
+And wore its channels in his hide:
+So from the high-raised urn the torrents
+Spread down his side their various currents;
+His flowing wig, as next the brim,
+First met and drank the sable stream;
+Adown his visage stern and grave
+Roll'd and adhered the viscid wave;
+With arms depending as he stood,
+Each cuff capacious holds the flood;
+From nose and chin's remotest end,
+The tarry icicles descend;
+Till all o'erspread, with colors gay,
+He glitter'd to the western ray,
+Like sleet-bound trees in wintry skies,
+Or Lapland idol carved in ice.
+And now the feather-bag display'd
+Is waved in triumph o'er his head,
+And clouds him o'er with feathers missive,
+And down, upon the tar, adhesive:
+Not Maia's son, with wings for ears,
+Such plumage round his visage wears;
+Nor Milton's six-wing'd angel gathers
+Such superfluity of feathers.
+Now all complete appears our 'Squire,
+Like Gorgon or Chimæra dire;
+Nor more could boast on Plato's plan
+To rank among the race of man,
+Or prove his claim to human nature,
+As a two-legg'd, unfeather'd creature.
+
+
+Then on the fatal cart, in state
+They raised our grand Duumvirate.
+And as at Rome a like committee,
+Who found an owl within their city,
+With solemn rites and grave processions
+At every shrine perform'd lustrations;
+And least infection might take place
+From such grim fowl with feather'd face,
+All Rome attends him through the street
+In triumph to his country seat:
+With like devotion all the choir
+Paraded round our awful 'Squire;
+In front the martial music comes
+Of horns and fiddles, fifes and drums,
+With jingling sound of carriage bells,
+And treble creak of rusted wheels.
+Behind, the croud, in lengthen'd row
+With proud procession, closed the show.
+And at fit periods every throat
+Combined in universal shout;
+And hail'd great Liberty in chorus,
+Or bawl'd 'confusion to the Tories.'
+Not louder storm the welkin braves
+From clamors of conflicting waves;
+Less dire in Lybian wilds the noise
+When rav'ning lions lift their voice;
+Or triumphs at town-meetings made,
+On passing votes to regulate trade.
+
+
+Thus having borne them round the town,
+Last at the pole they set them down;
+And to the tavern take their way
+To end in mirth the festal day.
+
+
+And now the Mob, dispersed and gone,
+Left 'Squire and Constable alone.
+The constable with rueful face
+Lean'd sad and solemn o'er a brace;
+And fast beside him, cheek by jowl,
+Stuck 'Squire M'Fingal 'gainst the pole,
+Glued by the tar t' his rear applied,
+Like barnacle on vessel's side.
+But though his body lack'd physician,
+His spirit was in worse condition.
+He found his fears of whips and ropes
+By many a drachm outweigh'd his hopes.
+As men in jail without mainprize
+View every thing with other eyes,
+And all goes wrong in church and state,
+Seen through perspective of the grate:
+So now M'Fingal's Second-sight
+Beheld all things in gloomier light;
+His visual nerve, well purged with tar,
+Saw all the coming scenes of war.
+As his prophetic soul grew stronger,
+He found he could hold in no longer.
+First from the pole, as fierce he shook,
+His wig from pitchy durance broke,
+His mouth unglued, his feathers flutter'd,
+His tarr'd skirts crack'd, and thus he utter'd.
+
+
+"Ah, Mr. Constable, in vain
+We strive 'gainst wind and tide and rain!
+Behold my doom! this feathery omen
+Portends what dismal times are coming.
+Now future scenes, before my eyes,
+And second-sighted forms arise.
+I hear a voice, that calls away,
+And cries 'The Whigs will win the day.'
+My beck'ning Genius gives command,
+And bids me fly the fatal land;
+Where changing name and constitution,
+Rebellion turns to Revolution,
+While Loyalty, oppress'd, in tears,
+Stands trembling for its neck and ears.
+
+
+"Go, summon all our brethren, greeting,
+To muster at our usual meeting;
+There my prophetic voice shall warn 'em
+Of all things future that concern 'em,
+And scenes disclose on which, my friend,
+Their conduct and their lives depend.
+There I--but first 'tis more of use,
+From this vile pole to set me loose;
+Then go with cautious steps and steady,
+While I steer home and make all ready.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 34°C, haze in Karachi 🇵🇰
+🌡️ 33°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -662,4 +875,4 @@ Taling enough, until our lives' end!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 03:23 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 04:19 PM GMT+5<!-- TIMESTAMP:END -->*
