@@ -67,71 +67,38 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn about a distributed version control system such as Git
+Go swimming with a friend
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "You will succeed because most people are lazy."
-> — Shahir Zag
+> "Embody what you teach, and teach only what you have embodied."
+> — Dan Millman
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"On the Star of "the Legion of Honour."" by George Gordon, Lord Byron
-Star of the brave!--whose beam hath shed
-Such glory o'er the quick and dead--
-Thou radiant and adored deceit!
-Which millions rushed in arms to greet,--
-Wild meteor of immortal birth!
-Why rise in Heaven to set on Earth?
-
-Souls of slain heroes formed thy rays;
-Eternity flashed through thy blaze;
-The music of thy martial sphere
-Was fame on high and honour here;
-And thy light broke on human eyes,
-Like a Volcano of the skies.
-
-Like lava rolled thy stream of blood,
-And swept down empires with its flood;
-Earth rocked beneath thee to her base,
-As thou didst lighten through all space;
-And the shorn Sun grew dim in air,
-And set while thou wert dwelling there.
-
-Before thee rose, and with thee grew,
-A rainbow of the loveliest hue
-Of three bright colours, each divine,
-And fit for that celestial sign;
-For Freedom's hand had blended them,
-Like tints in an immortal gem.
-
-One tint was of the sunbeam's dyes;
-One, the blue depth of Seraph's eyes;
-One, the pure Spirit's veil of white
-Had robed in radiance of its light:
-The three so mingled did beseem
-The texture of a heavenly dream.
-
-Star of the brave! thy ray is pale,
-And darkness must again prevail!
-But, oh thou Rainbow of the free!
-Our tears and blood must flow for thee.
-When thy bright promise fades away,
-Our life is but a load of clay.
-
-And Freedom hallows with her tread
-The silent cities of the dead;
-For beautiful in death are they
-Who proudly fall in her array;
-And soon, oh, Goddess! may we be
-For evermore with them or thee!
+"Sonnet to Lake Leman" by George Gordon, Lord Byron
+Rousseau--Voltaire--our Gibbon--and De Staël--
+  Leman! these names are worthy of thy shore,
+  Thy shore of names like these! wert thou no more,
+Their memory thy remembrance would recall:
+To them thy banks were lovely as to all,
+  But they have made them lovelier, for the lore
+  Of mighty minds doth hallow in the core
+Of human hearts the ruin of a wall
+  Where dwelt the wise and wondrous; but by _thee_
+How much more, Lake of Beauty! do we feel,
+  In sweetly gliding o'er thy crystal sea,
+The wild glow of that not ungentle zeal,
+  Which of the Heirs of Immortality
+Is proud, and makes the breath of Glory real!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -227,4 +194,4 @@ For evermore with them or thee!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 04:22 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 21, 2025 at 06:53 AM GMT+5<!-- TIMESTAMP:END -->*
