@@ -9,14 +9,14 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [express-generator-typescript](https://github.com/afzalimdad9/express-generator-typescript) - Create a new express app similar to express-generator but with TypeScript
+- 🔭 I'm currently working on [express-jsonwebtoken-demo](https://github.com/afzalimdad9/express-jsonwebtoken-demo)
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [Typescript-Best-Practices](https://github.com/afzalimdad9/Typescript-Best-Practices)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
 <!-- RECENT_ACTIVITY:START -->
-- 📝 6 commits to **express-generator-typescript** on 6/22/2025
+- 📝 9 commits to **express-generator-typescript** on 6/22/2025
 - 📝 1 commit to **public-apis** on 6/21/2025
 - 📝 20 commits to **developer-roadmap** on 6/21/2025
 - 📝 1 commit to **afzalimdad9** on 6/21/2025
@@ -27,23 +27,23 @@
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **31** commits across **5** repositories (last 30 days)
+- 📊 **33** commits across **5** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [express-jsonwebtoken-demo](https://github.com/afzalimdad9/express-jsonwebtoken-demo) - No description ⭐ 0 (Updated: 6/22/2025)
+- 🔥 [Typescript-Best-Practices](https://github.com/afzalimdad9/Typescript-Best-Practices) - Patterns and Best Practices for full-stack Typescript development ⭐ 0 (Updated: 6/22/2025)
 - 🔥 [express-generator-typescript](https://github.com/afzalimdad9/express-generator-typescript) - Create a new express app similar to express-generator but with TypeScript ⭐ 0 (Updated: 6/22/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 6/22/2025)
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 34 (Updated: 6/17/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
 <!-- DYNAMIC_TECH_STACK:START -->
 **Most Used Languages This Month:**
 
-JavaScript: 45.1% █████████░░░░░░░░░░░
+JavaScript: 45.0% █████████░░░░░░░░░░░
 
 HTML: 39.8% ████████░░░░░░░░░░░░
 
@@ -69,77 +69,88 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Four engineers get into a car. The car won't start.
+The Mechanical engineer says "It's a broken starter".
+The Electrical engineer says "Dead battery".
+The Chemical engineer says "Impurities in the gasoline".
+The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn how to use an Arduino
+Learn the NATO phonetic alphabet
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Manifest plainness, embrace simplicity, reduce selfishness, have few desires."
-> — Lao Tzu
+> "To create more positive results in your life, replace 'if only' with 'next time'."
+> — Celestine Chua
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Answer to a Beautiful Poem, Written by Montgomery, Author of "the Wanderer of Switzerland," Etc., Entitled "the Common Lot."" by George Gordon, Lord Byron
-Montgomery! true, the common lot
-  Of mortals lies in Lethe's wave;
-Yet some shall never be forgot,
-  Some shall exist beyond the grave.
+"Autumn And Winter" by Algernon Charles Swinburne
+Three months bade wane and wax the wintering moon
+Between two dates of death, while men were fain
+Yet of the living light that all too soon
+Three months bade wane.
 
-"Unknown the region of his birth,"
-  The hero rolls the tide of war;
-Yet not unknown his martial worth,
-  Which glares a meteor from afar.
+Cold autumn, wan with wrath of wind and rain,
+Saw pass a soul sweet as the sovereign tune
+That death smote silent when he smote again.
 
-His joy or grief, his weal or woe,
-  Perchance may 'scape the page of fame;
-Yet nations, now unborn, will know
-  The record of his deathless name.
+First went my friend, in life's mid light of noon,
+Who loved the lord of music: then the strain
+Whence earth was kindled like as heaven in June
+Three months bade wane.
 
-The Patriot's and the Poet's frame
-  Must share the common tomb of all:
-Their glory will not sleep the same;
-  'That' will arise, though Empires fall.
 
-The lustre of a Beauty's eye
-  Assumes the ghastly stare of death;
-The fair, the brave, the good must die,
-  And sink the yawning grave beneath.
 
-Once more, the speaking eye revives,
-  Still beaming through the lover's strain;
-For Petrarch's Laura still survives:
-  She died, but ne'er will die again.
+A herald soul before its master's flying
+Touched by some few moons first the darkling goal
+Where shades rose up to greet the shade, espying
+A herald soul;
 
-The rolling seasons pass away,
-  And Time, untiring, waves his wing;
-Whilst honour's laurels ne'er decay,
-  But bloom in fresh, unfading spring.
+Shades of dead lords of music, who control
+Men living by the might of men undying,
+With strength of strains that make delight of dole.
 
-All, all must sleep in grim repose,
-  Collected in the silent tomb;
-The old, the young, with friends and foes,
-  Fest'ring alike in shrouds, consume.
+The deep dense dust on death's dim threshold lying
+Trembled with sense of kindling sound that stole
+Through darkness, and the night gave ear, descrying
+A herald soul.
 
-The mouldering marble lasts its day,
-  Yet falls at length an useless fane;
-To Ruin's ruthless fangs a prey,
-  The wrecks of pillar'd Pride remain.
 
-What, though the sculpture be destroy'd,
-  From dark Oblivion meant to guard;
-A bright renown shall be enjoy'd,
-  By those, whose virtues claim reward.
 
-Then do not say the common lot
-  Of all lies deep in Lethe's wave;
-Some few who ne'er will be forgot
-  Shall burst the bondage of the grave.
+One went before, one after, but so fast
+They seem gone hence together, from the shore
+Whence we now gaze: yet ere the mightier passed
+One went before;
+
+One whose whole heart of love, being set of yore
+On that high joy which music lends us, cast
+Light round him forth of music's radiant store.
+
+Then went, while earth on winter glared aghast,
+The mortal god he worshipped, through the door
+Wherethrough so late, his lover to the last,
+One went before.
+
+
+
+A star had set an hour before the sun
+Sank from the skies wherethrough his heart's pulse yet
+Thrills audibly: but few took heed, or none,
+A star had set.
+
+All heaven rings back, sonorous with regret,
+The deep dirge of the sunset: how should one
+Soft star be missed in all the concourse met?
+
+But, O sweet single heart whose work is done,
+Whose songs are silent, how should I forget
+That ere the sunset's fiery goal was won
+A star had set?
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -149,8 +160,8 @@ Some few who ne'er will be forgot
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **42** total stars earned
-- 🍴 **7** total forks
+- 🏆 **34** total stars earned
+- 🍴 **4** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -235,4 +246,4 @@ Some few who ne'er will be forgot
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 08:54 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 09:33 AM GMT+5<!-- TIMESTAMP:END -->*
