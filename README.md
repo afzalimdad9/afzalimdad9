@@ -69,785 +69,1312 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Listen to your favorite album
+Learn how to use an Arduino
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."
-> — Kahlil Gibran
+> "Work is always an antidote to depression."
+> — Eleanor Roosevelt
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Witch of Atlas" by Percy Bysshe Shelley
-TO MARY
-
-(ON HER OBJECTING TO THE FOLLOWING POEM, UPON THE
-SCORE OF ITS CONTAINING NO HUMAN INTEREST).
-
-How, my dear Mary,--are you critic-bitten
-(For vipers kill, though dead) by some review,
-That you condemn these verses I have written,
-Because they tell no story, false or true?
-What, though no mice are caught by a young kitten,
-May it not leap and play as grown cats do,
-Till its claws come? Prithee, for this one time,
-Content thee with a visionary rhyme.
-
-What hand would crush the silken-winged fly,
-The youngest of inconstant April's minions,
-Because it cannot climb the purest sky,
-Where the swan sings, amid the sun's dominions?
-Not thine. Thou knowest 'tis its doom to die,
-When Day shall hide within her twilight pinions
-The lucent eyes, and the eternal smile,
-Serene as thine, which lent it life awhile.
-
-To thy fair feet a winged Vision came,
-Whose date should have been longer than a day,
-And o'er thy head did beat its wings for fame,
-And in thy sight its fading plumes display;
-The watery bow burned in the evening flame.
-But the shower fell, the swift Sun went his way--
-And that is dead.--O, let me not believe
-That anything of mine is fit to live!
-
-Wordsworth informs us he was nineteen years
-Considering and retouching Peter Bell;
-Watering his laurels with the killing tears
-Of slow, dull care, so that their roots to Hell
-Might pierce, and their wide branches blot the spheres
-Of Heaven, with dewy leaves and flowers; this well
-May be, for Heaven and Earth conspire to foil
-The over-busy gardener's blundering toil.
-
-My Witch indeed is not so sweet a creature
-As Ruth or Lucy, whom his graceful praise
-Clothes for our grandsons--but she matches Peter,
-Though he took nineteen years, and she three days
-In dressing. Light the vest of flowing metre
-She wears; he, proud as dandy with his stays,
-Has hung upon his wiry limbs a dress
-Like King Lear's 'looped and windowed raggedness.'
-
-If you strip Peter, you will see a fellow
-Scorched by Hell's hyperequatorial climate
-Into a kind of a sulphureous yellow:
-A lean mark, hardly fit to fling a rhyme at;
-In shape a Scaramouch, in hue Othello.
-If you unveil my Witch, no priest nor primate
-Can shrive you of that sin,--if sin there be
-In love, when it becomes idolatry.
-
-THE WITCH OF ATLAS.
-
-Before those cruel Twins, whom at one birth
-Incestuous Change bore to her father Time,
-Error and Truth, had hunted from the Earth
-All those bright natures which adorned its prime,
-And left us nothing to believe in, worth
-The pains of putting into learned rhyme,
-A lady-witch there lived on Atlas' mountain
-Within a cavern, by a secret fountain.
-
-Her mother was one of the Atlantides:
-The all-beholding Sun had ne'er beholden
-In his wide voyage o'er continents and seas
-So fair a creature, as she lay enfolden
-In the warm shadow of her loveliness;--
-He kissed her with his beams, and made all golden
-The chamber of gray rock in which she lay--
-She, in that dream of joy, dissolved away.
-
-'Tis said, she first was changed into a vapour,
-And then into a cloud, such clouds as flit,
-Like splendour-winged moths about a taper,
-Round the red west when the sun dies in it:
-And then into a meteor, such as caper
-On hill-tops when the moon is in a fit:
-Then, into one of those mysterious stars
-Which hide themselves between the Earth and Mars.
-
-Ten times the Mother of the Months had bent
-Her bow beside the folding-star, and bidden
-With that bright sign the billows to indent
-The sea-deserted sand--like children chidden,
-At her command they ever came and went--
-Since in that cave a dewy splendour hidden
-Took shape and motion: with the living form
-Of this embodied Power, the cave grew warm.
-
-A lovely lady garmented in light
-From her own beauty--deep her eyes, as are
-Two openings of unfathomable night
-Seen through a Temple's cloven roof--her hair
-Dark--the dim brain whirls dizzy with delight.
-Picturing her form; her soft smiles shone afar,
-And her low voice was heard like love, and drew
-All living things towards this wonder new.
-
-And first the spotted cameleopard came,
-And then the wise and fearless elephant;
-Then the sly serpent, in the golden flame
-Of his own volumes intervolved;--all gaunt
-And sanguine beasts her gentle looks made tame.
-They drank before her at her sacred fount;
-And every beast of beating heart grew bold,
-Such gentleness and power even to behold.
-
-The brinded lioness led forth her young,
-That she might teach them how they should forego
-Their inborn thirst of death; the pard unstrung
-His sinews at her feet, and sought to know
-With looks whose motions spoke without a tongue
-How he might be as gentle as the doe.
-The magic circle of her voice and eyes
-All savage natures did imparadise.
-
-And old Silenus, shaking a green stick
-Of lilies, and the wood-gods in a crew
-Came, blithe, as in the olive copses thick
-Cicadae are, drunk with the noonday dew:
-And Dryope and Faunus followed quick,
-Teasing the God to sing them something new;
-Till in this cave they found the lady lone,
-Sitting upon a seat of emerald stone.
-
-And universal Pan, 'tis said, was there,
-And though none saw him,--through the adamant
-Of the deep mountains, through the trackless air,
-And through those living spirits, like a want,
-He passed out of his everlasting lair
-Where the quick heart of the great world doth pant,
-And felt that wondrous lady all alone,--
-And she felt him, upon her emerald throne.
-
-And every nymph of stream and spreading tree,
-And every shepherdess of Ocean's flocks,
-Who drives her white waves over the green sea,
-And Ocean with the brine on his gray locks,
-And quaint Priapus with his company,
-All came, much wondering how the enwombed rocks
-Could have brought forth so beautiful a birth;--
-Her love subdued their wonder and their mirth.
-
-The herdsmen and the mountain maidens came,
-And the rude kings of pastoral Garamant--
-Their spirits shook within them, as a flame
-Stirred by the air under a cavern gaunt:
-Pigmies, and Polyphemes, by many a name,
-Centaurs, and Satyrs, and such shapes as haunt
-Wet clefts,--and lumps neither alive nor dead,
-Dog-headed, bosom-eyed, and bird-footed.
-
-For she was beautiful--her beauty made
-The bright world dim, and everything beside
-Seemed like the fleeting image of a shade:
-No thought of living spirit could abide,
-Which to her looks had ever been betrayed,
-On any object in the world so wide,
-On any hope within the circling skies,
-But on her form, and in her inmost eyes.
-
-Which when the lady knew, she took her spindle
-And twined three threads of fleecy mist, and three
-Long lines of light, such as the dawn may kindle
-The clouds and waves and mountains with; and she
-As many star-beams, ere their lamps could dwindle
-In the belated moon, wound skilfully;
-And with these threads a subtle veil she wove--
-A shadow for the splendour of her love.
-
-The deep recesses of her odorous dwelling
-Were stored with magic treasures--sounds of air,
-Which had the power all spirits of compelling,
-Folded in cells of crystal silence there;
-Such as we hear in youth, and think the feeling
-Will never die--yet ere we are aware,
-The feeling and the sound are fled and gone,
-And the regret they leave remains alone.
-
-And there lay Visions swift, and sweet, and quaint,
-Each in its thin sheath, like a chrysalis,
-Some eager to burst forth, some weak and faint
-With the soft burthen of intensest bliss.
-It was its work to bear to many a saint
-Whose heart adores the shrine which holiest is,
-Even Love's:--and others white, green, gray, and black,
-And of all shapes--and each was at her beck.
-
-And odours in a kind of aviary
-Of ever-blooming Eden-trees she kept,
-Clipped in a floating net, a love-sick Fairy
-Had woven from dew-beams while the moon yet slept;
-As bats at the wired window of a dairy,
-They beat their vans; and each was an adept,
-When loosed and missioned, making wings of winds,
-To stir sweet thoughts or sad, in destined minds.
-
-And liquors clear and sweet, whose healthful might
-Could medicine the sick soul to happy sleep,
-And change eternal death into a night
-Of glorious dreams--or if eyes needs must weep,
-Could make their tears all wonder and delight,
-She in her crystal vials did closely keep:
-If men could drink of those clear vials, 'tis said
-The living were not envied of the dead.
-
-Her cave was stored with scrolls of strange device,
-The works of some Saturnian Archimage,
-Which taught the expiations at whose price
-Men from the Gods might win that happy age
-Too lightly lost, redeeming native vice;
-And which might quench the Earth-consuming rage
-Of gold and blood--till men should live and move
-Harmonious as the sacred stars above;
-
-And how all things that seem untameable,
-Not to be checked and not to be confined,
-Obey the spells of Wisdom's wizard skill;
-Time, earth, and fire--the ocean and the wind,
-And all their shapes--and man's imperial will;
-And other scrolls whose writings did unbind
-The inmost lore of Love--let the profane
-Tremble to ask what secrets they contain.
-
-And wondrous works of substances unknown,
-To which the enchantment of her father's power
-Had changed those ragged blocks of savage stone,
-Were heaped in the recesses of her bower;
-Carved lamps and chalices, and vials which shone
-In their own golden beams--each like a flower,
-Out of whose depth a fire-fly shakes his light
-Under a cypress in a starless night.
-
-At first she lived alone in this wild home,
-And her own thoughts were each a minister,
-Clothing themselves, or with the ocean foam,
-Or with the wind, or with the speed of fire,
-To work whatever purposes might come
-Into her mind; such power her mighty Sire
-Had girt them with, whether to fly or run,
-Through all the regions which he shines upon.
-
-The Ocean-nymphs and Hamadryades,
-Oreads and Naiads, with long weedy locks,
-Offered to do her bidding through the seas,
-Under the earth, and in the hollow rocks,
-And far beneath the matted roots of trees,
-And in the gnarled heart of stubborn oaks,
-So they might live for ever in the light
-Of her sweet presence--each a satellite.
-
-'This may not be,' the wizard maid replied;
-'The fountains where the Naiades bedew
-Their shining hair, at length are drained and dried;
-The solid oaks forget their strength, and strew
-Their latest leaf upon the mountains wide;
-The boundless ocean like a drop of dew
-Will be consumed--the stubborn centre must
-Be scattered, like a cloud of summer dust.
-
-'And ye with them will perish, one by one;--
-If I must sigh to think that this shall be,
-If I must weep when the surviving Sun
-Shall smile on your decay--oh, ask not me
-To love you till your little race is run;
-I cannot die as ye must--over me
-Your leaves shall glance--the streams in which ye dwell
-Shall be my paths henceforth, and so--farewell!'--
-
-She spoke and wept:--the dark and azure well
-Sparkled beneath the shower of her bright tears,
-And every little circlet where they fell
-Flung to the cavern-roof inconstant spheres
-And intertangled lines of light:--a knell
-Of sobbing voices came upon her ears
-From those departing Forms, o'er the serene
-Of the white streams and of the forest green.
-
-All day the wizard lady sate aloof,
-Spelling out scrolls of dread antiquity,
-Under the cavern's fountain-lighted roof;
-Or broidering the pictured poesy
-Of some high tale upon her growing woof,
-Which the sweet splendour of her smiles could dye
-In hues outshining heaven--and ever she
-Added some grace to the wrought poesy.
-
-While on her hearth lay blazing many a piece
-Of sandal wood, rare gums, and cinnamon;
-Men scarcely know how beautiful fire is--
-Each flame of it is as a precious stone
-Dissolved in ever-moving light, and this
-Belongs to each and all who gaze upon.
-The Witch beheld it not, for in her hand
-She held a woof that dimmed the burning brand.
-
-This lady never slept, but lay in trance
-All night within the fountain--as in sleep.
-Its emerald crags glowed in her beauty's glance;
-Through the green splendour of the water deep
-She saw the constellations reel and dance
-Like fire-flies--and withal did ever keep
-The tenour of her contemplations calm,
-With open eyes, closed feet, and folded palm.
-
-And when the whirlwinds and the clouds descended
-From the white pinnacles of that cold hill,
-She passed at dewfall to a space extended,
-Where in a lawn of flowering asphodel
-Amid a wood of pines and cedars blended,
-There yawned an inextinguishable well
-Of crimson fire--full even to the brim,
-And overflowing all the margin trim.
-
-Within the which she lay when the fierce war
-Of wintry winds shook that innocuous liquor
-In many a mimic moon and bearded star
-O'er woods and lawns;--the serpent heard it flicker
-In sleep, and dreaming still, he crept afar--
-And when the windless snow descended thicker
-Than autumn leaves, she watched it as it came
-Melt on the surface of the level flame.
-
-She had a boat, which some say Vulcan wrought
-For Venus, as the chariot of her star;
-But it was found too feeble to be fraught
-With all the ardours in that sphere which are,
-And so she sold it, and Apollo bought
-And gave it to this daughter: from a car
-Changed to the fairest and the lightest boat
-Which ever upon mortal stream did float.
-
-And others say, that, when but three hours old,
-The first-born Love out of his cradle lept,
-And clove dun Chaos with his wings of gold,
-And like a horticultural adept,
-Stole a strange seed, and wrapped it up in mould,
-And sowed it in his mother's star, and kept
-Watering it all the summer with sweet dew,
-And with his wings fanning it as it grew.
-
-The plant grew strong and green, the snowy flower
-Fell, and the long and gourd-like fruit began
-To turn the light and dew by inward power
-To its own substance; woven tracery ran
-Of light firm texture, ribbed and branching, o'er
-The solid rind, like a leaf's veined fan--
-Of which Love scooped this boat--and with soft motion
-Piloted it round the circumfluous ocean.
-
-This boat she moored upon her fount, and lit
-A living spirit within all its frame,
-Breathing the soul of swiftness into it.
-Couched on the fountain like a panther tame,
-One of the twain at Evan's feet that sit--
-Or as on Vesta's sceptre a swift flame--
-Or on blind Homer's heart a winged thought,--
-In joyous expectation lay the boat.
-
-Then by strange art she kneaded fire and snow
-Together, tempering the repugnant mass
-With liquid love--all things together grow
-Through which the harmony of love can pass;
-And a fair Shape out of her hands did flow--
-A living Image, which did far surpass
-In beauty that bright shape of vital stone
-Which drew the heart out of Pygmalion.
-
-A sexless thing it was, and in its growth
-It seemed to have developed no defect
-Of either sex, yet all the grace of both,--
-In gentleness and strength its limbs were decked;
-The bosom swelled lightly with its full youth,
-The countenance was such as might select
-Some artist that his skill should never die,
-Imaging forth such perfect purity.
-
-From its smooth shoulders hung two rapid wings,
-Fit to have borne it to the seventh sphere,
-Tipped with the speed of liquid lightenings,
-Dyed in the ardours of the atmosphere:
-She led her creature to the boiling springs
-Where the light boat was moored, and said: 'Sit here!'
-And pointed to the prow, and took her seat
-Beside the rudder, with opposing feet.
-
-And down the streams which clove those mountains vast,
-Around their inland islets, and amid
-The panther-peopled forests whose shade cast
-Darkness and odours, and a pleasure hid
-In melancholy gloom, the pinnace passed;
-By many a star-surrounded pyramid
-Of icy crag cleaving the purple sky,
-And caverns yawning round unfathomably.
-
-The silver noon into that winding dell,
-With slanted gleam athwart the forest tops,
-Tempered like golden evening, feebly fell;
-A green and glowing light, like that which drops
-From folded lilies in which glow-worms dwell,
-When Earth over her face Night's mantle wraps;
-Between the severed mountains lay on high,
-Over the stream, a narrow rift of sky.
-
-And ever as she went, the Image lay
-With folded wings and unawakened eyes;
-And o'er its gentle countenance did play
-The busy dreams, as thick as summer flies,
-Chasing the rapid smiles that would not stay,
-And drinking the warm tears, and the sweet sighs
-Inhaling, which, with busy murmur vain,
-They had aroused from that full heart and brain.
-
-And ever down the prone vale, like a cloud
-Upon a stream of wind, the pinnace went:
-Now lingering on the pools, in which abode
-The calm and darkness of the deep content
-In which they paused; now o'er the shallow road
-Of white and dancing waters, all besprent
-With sand and polished pebbles:--mortal boat
-In such a shallow rapid could not float.
-
-And down the earthquaking cataracts which shiver
-Their snow-like waters into golden air,
-Or under chasms unfathomable ever
-Sepulchre them, till in their rage they tear
-A subterranean portal for the river,
-It fled--the circling sunbows did upbear
-Its fall down the hoar precipice of spray,
-Lighting it far upon its lampless way.
-
-And when the wizard lady would ascend
-The labyrinths of some many-winding vale,
-Which to the inmost mountain upward tend--
-She called 'Hermaphroditus!'--and the pale
-And heavy hue which slumber could extend
-Over its lips and eyes, as on the gale
-A rapid shadow from a slope of grass,
-Into the darkness of the stream did pass.
-
-And it unfurled its heaven-coloured pinions,
-With stars of fire spotting the stream below;
-And from above into the Sun's dominions
-Flinging a glory, like the golden glow
-In which Spring clothes her emerald-winged minions,
-All interwoven with fine feathery snow
-And moonlight splendour of intensest rime,
-With which frost paints the pines in winter time.
-
-And then it winnowed the Elysian air
-Which ever hung about that lady bright,
-With its aethereal vans--and speeding there,
-Like a star up the torrent of the night,
-Or a swift eagle in the morning glare
-Breasting the whirlwind with impetuous flight,
-The pinnace, oared by those enchanted wings,
-Clove the fierce streams towards their upper springs.
-
-The water flashed, like sunlight by the prow
-Of a noon-wandering meteor flung to Heaven;
-The still air seemed as if its waves did flow
-In tempest down the mountains; loosely driven
-The lady's radiant hair streamed to and fro:
-Beneath, the billows having vainly striven
-Indignant and impetuous, roared to feel
-The swift and steady motion of the keel.
-
-Or, when the weary moon was in the wane,
-Or in the noon of interlunar night,
-The lady-witch in visions could not chain
-Her spirit; but sailed forth under the light
-Of shooting stars, and bade extend amain
-Its storm-outspeeding wings, the Hermaphrodite;
-She to the Austral waters took her way,
-Beyond the fabulous Thamondocana,--
-
-Where, like a meadow which no scythe has shaven,
-Which rain could never bend, or whirl-blast shake,
-With the Antarctic constellations paven,
-Canopus and his crew, lay the Austral lake--
-There she would build herself a windless haven
-Out of the clouds whose moving turrets make
-The bastions of the storm, when through the sky
-The spirits of the tempest thundered by:
-
-A haven beneath whose translucent floor
-The tremulous stars sparkled unfathomably,
-And around which the solid vapours hoar,
-Based on the level waters, to the sky
-Lifted their dreadful crags, and like a shore
-Of wintry mountains, inaccessibly
-Hemmed in with rifts and precipices gray,
-And hanging crags, many a cove and bay.
-
-And whilst the outer lake beneath the lash
-Of the wind's scourge, foamed like a wounded thing,
-And the incessant hail with stony clash
-Ploughed up the waters, and the flagging wing
-Of the roused cormorant in the lightning flash
-Looked like the wreck of some wind-wandering
-Fragment of inky thunder-smoke--this haven
-Was as a gem to copy Heaven engraven,--
-
-On which that lady played her many pranks,
-Circling the image of a shooting star,
-Even as a tiger on Hydaspes' banks
-Outspeeds the antelopes which speediest are,
-In her light boat; and many quips and cranks
-She played upon the water, till the car
-Of the late moon, like a sick matron wan,
-To journey from the misty east began.
-
-And then she called out of the hollow turrets
-Of those high clouds, white, golden and vermilion,
-The armies of her ministering spirits--
-In mighty legions, million after million,
-They came, each troop emblazoning its merits
-On meteor flags; and many a proud pavilion
-Of the intertexture of the atmosphere
-They pitched upon the plain of the calm mere.
-
-They framed the imperial tent of their great Queen
-Of woven exhalations, underlaid
-With lambent lightning-fire, as may be seen
-A dome of thin and open ivory inlaid
-With crimson silk--cressets from the serene
-Hung there, and on the water for her tread
-A tapestry of fleece-like mist was strewn,
-Dyed in the beams of the ascending moon.
-
-And on a throne o'erlaid with starlight, caught
-Upon those wandering isles of aery dew,
-Which highest shoals of mountain shipwreck not,
-She sate, and heard all that had happened new
-Between the earth and moon, since they had brought
-The last intelligence--and now she grew
-Pale as that moon, lost in the watery night--
-And now she wept, and now she laughed outright.
-
-These were tame pleasures; she would often climb
-The steepest ladder of the crudded rack
-Up to some beaked cape of cloud sublime,
-And like Arion on the dolphin's back
-Ride singing through the shoreless air;--oft-time
-Following the serpent lightning's winding track,
-She ran upon the platforms of the wind,
-And laughed to bear the fire-balls roar behind.
-
-And sometimes to those streams of upper air
-Which whirl the earth in its diurnal round,
-She would ascend, and win the spirits there
-To let her join their chorus. Mortals found
-That on those days the sky was calm and fair,
-And mystic snatches of harmonious sound
-Wandered upon the earth where'er she passed,
-And happy thoughts of hope, too sweet to last.
-
-But her choice sport was, in the hours of sleep,
-To glide adown old Nilus, where he threads
-Egypt and Aethiopia, from the steep
-Of utmost Axume, until he spreads,
-Like a calm flock of silver-fleeced sheep,
-His waters on the plain: and crested heads
-Of cities and proud temples gleam amid,
-And many a vapour-belted pyramid.
-
-By Moeris and the Mareotid lakes,
-Strewn with faint blooms like bridal chamber floors,
-Where naked boys bridling tame water-snakes,
-Or charioteering ghastly alligators,
-Had left on the sweet waters mighty wakes
-Of those huge forms--within the brazen doors
-Of the great Labyrinth slept both boy and beast,
-Tired with the pomp of their Osirian feast.
-
-And where within the surface of the river
-The shadows of the massy temples lie,
-And never are erased--but tremble ever
-Like things which every cloud can doom to die,
-Through lotus-paven canals, and wheresoever
-The works of man pierced that serenest sky
-With tombs, and towers, and fanes, 'twas her delight
-To wander in the shadow of the night.
-
-With motion like the spirit of that wind
-Whose soft step deepens slumber, her light feet
-Passed through the peopled haunts of humankind.
-Scattering sweet visions from her presence sweet,
-Through fane, and palace-court, and labyrinth mined
-With many a dark and subterranean street
-Under the Nile, through chambers high and deep
-She passed, observing mortals in their sleep.
-
-A pleasure sweet doubtless it was to see
-Mortals subdued in all the shapes of sleep.
-Here lay two sister twins in infancy;
-There, a lone youth who in his dreams did weep;
-Within, two lovers linked innocently
-In their loose locks which over both did creep
-Like ivy from one stem;--and there lay calm
-Old age with snow-bright hair and folded palm.
-
-But other troubled forms of sleep she saw,
-Not to be mirrored in a holy song--
-Distortions foul of supernatural awe,
-And pale imaginings of visioned wrong;
-And all the code of Custom's lawless law
-Written upon the brows of old and young:
-'This,' said the wizard maiden, 'is the strife
-Which stirs the liquid surface of man's life.'
-
-And little did the sight disturb her soul.--
-We, the weak mariners of that wide lake
-Where'er its shores extend or billows roll,
-Our course unpiloted and starless make
-O'er its wild surface to an unknown goal:--
-But she in the calm depths her way could take,
-Where in bright bowers immortal forms abide
-Beneath the weltering of the restless tide.
-
-And she saw princes couched under the glow
-Of sunlike gems; and round each temple-court
-In dormitories ranged, row after row,
-She saw the priests asleep--all of one sort--
-For all were educated to be so.--
-The peasants in their huts, and in the port
-The sailors she saw cradled on the waves,
-And the dead lulled within their dreamless graves.
-
-And all the forms in which those spirits lay
-Were to her sight like the diaphanous
-Veils, in which those sweet ladies oft array
-Their delicate limbs, who would conceal from us
-Only their scorn of all concealment: they
-Move in the light of their own beauty thus.
-But these and all now lay with sleep upon them,
-And little thought a Witch was looking on them.
-
-She, all those human figures breathing there,
-Beheld as living spirits--to her eyes
-The naked beauty of the soul lay bare,
-And often through a rude and worn disguise
-She saw the inner form most bright and fair--
-And then she had a charm of strange device,
-Which, murmured on mute lips with tender tone,
-Could make that spirit mingle with her own.
-
-Alas! Aurora, what wouldst thou have given
-For such a charm when Tithon became gray?
-Or how much, Venus, of thy silver heaven
-Wouldst thou have yielded, ere Proserpina
-Had half (oh! why not all?) the debt forgiven
-Which dear Adonis had been doomed to pay,
-To any witch who would have taught you it?
-The Heliad doth not know its value yet.
-
-'Tis said in after times her spirit free
-Knew what love was, and felt itself alone--
-But holy Dian could not chaster be
-Before she stooped to kiss Endymion,
-Than now this lady--like a sexless bee
-Tasting all blossoms, and confined to none,
-Among those mortal forms, the wizard-maiden
-Passed with an eye serene and heart unladen.
-
-To those she saw most beautiful, she gave
-Strange panacea in a crystal bowl:--
-They drank in their deep sleep of that sweet wave,
-And lived thenceforward as if some control,
-Mightier than life, were in them; and the grave
-Of such, when death oppressed the weary soul,
-Was as a green and overarching bower
-Lit by the gems of many a starry flower.
-
-For on the night when they were buried, she
-Restored the embalmers' ruining, and shook
-The light out of the funeral lamps, to be
-A mimic day within that deathy nook;
-And she unwound the woven imagery
-Of second childhood's swaddling bands, and took
-The coffin, its last cradle, from its niche,
-And threw it with contempt into a ditch.
-
-And there the body lay, age after age.
-Mute, breathing, beating, warm, and undecaying,
-Like one asleep in a green hermitage,
-With gentle smiles about its eyelids playing,
-And living in its dreams beyond the rage
-Of death or life; while they were still arraying
-In liveries ever new, the rapid, blind
-And fleeting generations of mankind.
-
-And she would write strange dreams upon the brain
-Of those who were less beautiful, and make
-All harsh and crooked purposes more vain
-Than in the desert is the serpent's wake
-Which the sand covers--all his evil gain
-The miser in such dreams would rise and shake
-Into a beggar's lap;--the lying scribe
-Would his own lies betray without a bribe.
-
-The priests would write an explanation full,
-Translating hieroglyphics into Greek,
-How the God Apis really was a bull,
-And nothing more; and bid the herald stick
-The same against the temple doors, and pull
-The old cant down; they licensed all to speak
-Whate'er they thought of hawks, and cats, and geese,
-By pastoral letters to each diocese.
-
-The king would dress an ape up in his crown
-And robes, and seat him on his glorious seat,
-And on the right hand of the sunlike throne
-Would place a gaudy mock-bird to repeat
-The chatterings of the monkey.--Every one
-Of the prone courtiers crawled to kiss the feet
-Of their great Emperor, when the morning came,
-And kissed--alas, how many kiss the same!
-
-The soldiers dreamed that they were blacksmiths, and
-Walked out of quarters in somnambulism;
-Round the red anvils you might see them stand
-Like Cyclopses in Vulcan's sooty abysm,
-Beating their swords to ploughshares;--in a band
-The gaolers sent those of the liberal schism
-Free through the streets of Memphis, much, I wis,
-To the annoyance of king Amasis.
-
-And timid lovers who had been so coy,
-They hardly knew whether they loved or not,
-Would rise out of their rest, and take sweet joy,
-To the fulfilment of their inmost thought;
-And when next day the maiden and the boy
-Met one another, both, like sinners caught,
-Blushed at the thing which each believed was done
-Only in fancy--till the tenth moon shone;
-
-And then the Witch would let them take no ill:
-Of many thousand schemes which lovers find,
-The Witch found one,--and so they took their fill
-Of happiness in marriage warm and kind.
-Friends who, by practice of some envious skill,
-Were torn apart--a wide wound, mind from mind!--
-She did unite again with visions clear
-Of deep affection and of truth sincere.
-
-These were the pranks she played among the cities
-Of mortal men, and what she did to Sprites
-And Gods, entangling them in her sweet ditties
-To do her will, and show their subtle sleights,
-I will declare another time; for it is
-A tale more fit for the weird winter nights
-Than for these garish summer days, when we
-Scarcely believe much more than we can see.
+"The Canterbury Tales. The Wife of Bath's Tale." by Geoffrey Chaucer
+THE PROLOGUE.
+
+Experience, though none authority
+Were in this world, is right enough for me
+To speak of woe that is in marriage:
+For, lordings, since I twelve year was of age,
+(Thanked be God that is etern on live),
+Husbands at the church door have I had five,
+For I so often have y-wedded be,
+And all were worthy men in their degree.
+But me was told, not longe time gone is
+That sithen Christe went never but ones
+To wedding, in the Cane of Galilee,
+That by that ilk example taught he me,
+That I not wedded shoulde be but once.
+Lo, hearken eke a sharp word for the nonce,
+Beside a welle Jesus, God and man,
+Spake in reproof of the Samaritan:
+"Thou hast y-had five husbandes," said he;
+"And thilke man, that now hath wedded thee,
+Is not thine husband:"  thus said he certain;
+What that he meant thereby, I cannot sayn.
+But that I aske, why the fifthe man
+Was not husband to the Samaritan?
+How many might she have in marriage?
+Yet heard I never tellen in mine age
+Upon this number definitioun.
+Men may divine, and glosen up and down;
+But well I wot, express without a lie,
+God bade us for to wax and multiply;
+That gentle text can I well understand.
+Eke well I wot, he said, that mine husband
+Should leave father and mother, and take to me;
+But of no number mention made he,
+Of bigamy or of octogamy;
+Why then should men speak of it villainy?
+
+Lo here, the wise king Dan Solomon,
+I trow that he had wives more than one;
+As would to God it lawful were to me
+To be refreshed half so oft as he!
+What gift of God had he for all his wives?
+No man hath such, that in this world alive is.
+God wot, this noble king, as to my wit,
+The first night had many a merry fit
+With each of them, so well was him on live.
+Blessed be God that I have wedded five!
+Welcome the sixth whenever that he shall.
+For since I will not keep me chaste in all,
+When mine husband is from the world y-gone,
+Some Christian man shall wedde me anon.
+For then th' apostle saith that I am free
+To wed, a' God's half, where it liketh me.
+He saith, that to be wedded is no sin;
+Better is to be wedded than to brin.
+What recketh me though folk say villainy
+Of shrewed Lamech, and his bigamy?
+I wot well Abraham was a holy man,
+And Jacob eke, as far as ev'r I can.
+And each of them had wives more than two;
+And many another holy man also.
+Where can ye see, in any manner age,
+That highe God defended marriage
+By word express? I pray you tell it me;
+Or where commanded he virginity?
+I wot as well as you, it is no dread,
+Th' apostle, when he spake of maidenhead,
+He said, that precept thereof had he none:
+Men may counsel a woman to be one,
+But counseling is no commandement;
+He put it in our owen judgement.
+For, hadde God commanded maidenhead,
+Then had he damned wedding out of dread;
+And certes, if there were no seed y-sow,
+Virginity then whereof should it grow?
+Paul durste not commanden, at the least,
+A thing of which his Master gave no hest.
+The dart is set up for virginity;
+Catch whoso may, who runneth best let see.
+But this word is not ta'en of every wight,
+But there as God will give it of his might.
+I wot well that th' apostle was a maid,
+But natheless, although he wrote and said,
+He would that every wight were such as he,
+All is but counsel to virginity.
+And, since to be a wife he gave me leave
+Of indulgence, so is it no repreve
+To wedde me, if that my make should die,
+Without exception of bigamy;
+All were it good no woman for to touch
+(He meant as in his bed or in his couch),
+For peril is both fire and tow t'assemble
+Ye know what this example may resemble.
+This is all and some, he held virginity
+More profit than wedding in frailty:
+(Frailty clepe I, but if that he and she
+Would lead their lives all in chastity),
+I grant it well, I have of none envy
+Who maidenhead prefer to bigamy;
+It liketh them t' be clean in body and ghost;
+Of mine estate I will not make a boast.
+
+For, well ye know, a lord in his household
+Hath not every vessel all of gold;
+Some are of tree, and do their lord service.
+God calleth folk to him in sundry wise,
+And each one hath of God a proper gift,
+Some this, some that, as liketh him to shift.
+Virginity is great perfection,
+And continence eke with devotion:
+But Christ, that of perfection is the well,
+Bade not every wight he should go sell
+All that he had, and give it to the poor,
+And in such wise follow him and his lore:
+He spake to them that would live perfectly, --
+And, lordings, by your leave, that am not I;
+I will bestow the flower of mine age
+In th' acts and in the fruits of marriage.
+Tell me also, to what conclusion
+Were members made of generation,
+And of so perfect wise a wight y-wrought?
+Trust me right well, they were not made for nought.
+Glose whoso will, and say both up and down,
+That they were made for the purgatioun
+Of urine, and of other thinges smale,
+And eke to know a female from a male:
+And for none other cause? say ye no?
+Experience wot well it is not so.
+So that the clerkes be not with me wroth,
+I say this, that they were made for both,
+That is to say, for office, and for ease
+Of engendrure, there we God not displease.
+Why should men elles in their bookes set,
+That man shall yield unto his wife her debt?
+Now wherewith should he make his payement,
+If he us'd not his silly instrument?
+Then were they made upon a creature
+To purge urine, and eke for engendrure.
+But I say not that every wight is hold,
+That hath such harness as I to you told,
+To go and use them in engendrure;
+Then should men take of chastity no cure.
+Christ was a maid, and shapen as a man,
+And many a saint, since that this world began,
+Yet ever liv'd in perfect chastity.
+I will not vie with no virginity.
+Let them with bread of pured wheat be fed,
+And let us wives eat our barley bread.
+And yet with barley bread, Mark tell us can,
+Our Lord Jesus refreshed many a man.
+In such estate as God hath cleped us,
+I'll persevere, I am not precious,
+In wifehood I will use mine instrument
+As freely as my Maker hath it sent.
+If I be dangerous God give me sorrow;
+Mine husband shall it have, both eve and morrow,
+When that him list come forth and pay his debt.
+A husband will I have, I will no let,
+Which shall be both my debtor and my thrall,
+And have his tribulation withal
+Upon his flesh, while that I am his wife.
+I have the power during all my life
+Upon his proper body, and not he;
+Right thus th' apostle told it unto me,
+And bade our husbands for to love us well;
+All this sentence me liketh every deal.
+
+Up start the Pardoner, and that anon;
+"Now, Dame," quoth he, "by God and by Saint John,
+Ye are a noble preacher in this case.
+I was about to wed a wife, alas!
+What? should I bie it on my flesh so dear?
+Yet had I lever wed no wife this year."
+"Abide," quoth she; "my tale is not begun
+Nay, thou shalt drinken of another tun
+Ere that I go, shall savour worse than ale.
+And when that I have told thee forth my tale
+Of tribulation in marriage,
+Of which I am expert in all mine age,
+(This is to say, myself hath been the whip),
+Then mayest thou choose whether thou wilt sip
+Of thilke tunne, that I now shall broach.
+Beware of it, ere thou too nigh approach,
+For I shall tell examples more than ten:
+Whoso will not beware by other men,
+By him shall other men corrected be:
+These same wordes writeth Ptolemy;
+Read in his Almagest, and take it there."
+"Dame, I would pray you, if your will it were,"
+Saide this Pardoner, "as ye began,
+Tell forth your tale, and spare for no man,
+And teach us younge men of your practique."
+"Gladly," quoth she, "since that it may you like.
+But that I pray to all this company,
+If that I speak after my fantasy,
+To take nought agrief what I may say;
+For mine intent is only for to play.
+
+Now, Sirs, then will I tell you forth my tale.
+As ever may I drinke wine or ale
+I shall say sooth; the husbands that I had
+Three of them were good, and two were bad
+The three were goode men, and rich, and old
+Unnethes mighte they the statute hold
+In which that they were bounden unto me.
+Yet wot well what I mean of this, pardie.
+As God me help, I laugh when that I think
+How piteously at night I made them swink,
+But, by my fay, I told of it no store:
+They had me giv'n their land and their treasor,
+Me needed not do longer diligence
+To win their love, or do them reverence.
+They loved me so well, by God above,
+That I tolde no dainty of their love.
+A wise woman will busy her ever-in-one
+To get their love, where that she hath none.
+But, since I had them wholly in my hand,
+And that they had me given all their land,
+Why should I take keep them for to please,
+But it were for my profit, or mine ease?
+I set them so a-worke, by my fay,
+That many a night they sange, well-away!
+The bacon was not fetched for them, I trow,
+That some men have in Essex at Dunmow.
+I govern'd them so well after my law,
+That each of them full blissful was and fawe
+To bringe me gay thinges from the fair.
+They were full glad when that I spake them fair,
+For, God it wot, I chid them spiteously.
+Now hearken how I bare me properly.
+
+Ye wise wives, that can understand,
+Thus should ye speak, and bear them wrong on hand,
+For half so boldely can there no man
+Swearen and lien as a woman can.
+(I say not this by wives that be wise,
+But if it be when they them misadvise.)
+A wise wife, if that she can her good,
+Shall beare them on hand the cow is wood,
+And take witness of her owen maid
+Of their assent: but hearken how I said.
+"Sir olde  kaynard, is this thine array?
+Why is my neigheboure's wife so gay?
+She is honour'd over all where she go'th,
+I sit at home, I have no thrifty cloth.
+What dost thou at my neigheboure's house?
+Is she so fair? art thou so amorous?
+What rown'st thou with our maid? benedicite,
+Sir olde lechour, let thy japes be.
+And if I have a gossip, or a friend
+(Withoute guilt), thou chidest as a fiend,
+If that I walk or play unto his house.
+Thou comest home as drunken as a mouse,
+And preachest on thy bench, with evil prefe:
+Thou say'st to me, it is a great mischief
+To wed a poore woman, for costage:
+And if that she be rich, of high parage;
+Then say'st thou, that it is a tormentry
+To suffer her pride and melancholy.
+And if that she be fair, thou very knave,
+Thou say'st that every holour will her have;
+She may no while in chastity abide,
+That is assailed upon every side.
+Thou say'st some folk desire us for richess,
+Some for our shape, and some for our fairness,
+And some, for she can either sing or dance,
+And some for gentiless and dalliance,
+Some for her handes and her armes smale:
+Thus goes all to the devil, by thy tale;
+Thou say'st, men may not keep a castle wall
+That may be so assailed over all.
+And if that she be foul, thou say'st that she
+Coveteth every man that she may see;
+For as a spaniel she will on him leap,
+Till she may finde some man her to cheap;
+And none so grey goose goes there in the lake,
+(So say'st thou) that will be without a make.
+And say'st, it is a hard thing for to weld
+A thing that no man will, his thankes, held.
+Thus say'st thou, lorel, when thou go'st to bed,
+And that no wise man needeth for to wed,
+Nor no man that intendeth unto heaven.
+With wilde thunder dint and fiery leven
+Mote thy wicked necke be to-broke.
+Thou say'st, that dropping houses, and eke smoke,
+And chiding wives, make men to flee
+Out of their owne house; ah! ben'dicite,
+What aileth such an old man for to chide?
+Thou say'st, we wives will our vices hide,
+Till we be fast, and then we will them shew.
+Well may that be a proverb of a shrew.
+Thou say'st, that oxen, asses, horses, hounds,
+They be assayed at diverse stounds,
+Basons and lavers, ere that men them buy,
+Spoones, stooles, and all such husbandry,
+And so be pots, and clothes, and array,
+But folk of wives make none assay,
+Till they be wedded, -- olde dotard shrew! --
+And then, say'st thou, we will our vices shew.
+Thou say'st also, that it displeaseth me,
+But if  that thou wilt praise my beauty,
+And but thou pore alway upon my face,
+And call me faire dame in every place;
+And but thou make a feast on thilke day
+That I was born, and make me fresh and gay;
+And but thou do to my norice honour,
+And to my chamberere within my bow'r,
+And to my father's folk, and mine allies;
+Thus sayest thou, old barrel full of lies.
+And yet also of our prentice Jenkin,
+For his crisp hair, shining as gold so fine,
+And for he squireth me both up and down,
+Yet hast thou caught a false suspicioun:
+I will him not, though thou wert dead to-morrow.
+But tell me this, why hidest thou, with sorrow,
+The keyes of thy chest away from me?
+It is my good as well as thine, pardie.
+What, think'st to make an idiot of our dame?
+Now, by that lord that called is Saint Jame,
+Thou shalt not both, although that thou wert wood,
+Be master of my body, and my good,
+The one thou shalt forego, maugre thine eyen.
+What helpeth it of me t'inquire and spyen?
+I trow thou wouldest lock me in thy chest.
+Thou shouldest say, 'Fair wife, go where thee lest;
+Take your disport; I will believe no tales;
+I know you for a true wife, Dame Ales.'
+We love no man, that taketh keep or charge
+Where that we go; we will be at our large.
+Of alle men most blessed may he be,
+The wise astrologer Dan Ptolemy,
+That saith this proverb in his Almagest:
+'Of alle men his wisdom is highest,
+That recketh not who hath the world in hand.
+By this proverb thou shalt well understand,
+Have thou enough, what thar thee reck or care
+How merrily that other folkes fare?
+For certes, olde dotard, by your leave,
+Ye shall have [pleasure]  right enough at eve.
+He is too great a niggard that will werne
+A man to light a candle at his lantern;
+He shall have never the less light, pardie.
+Have thou enough, thee thar not plaine thee
+Thou say'st also, if that we make us gay
+With clothing and with precious array,
+That it is peril of our chastity.
+And yet, -- with sorrow! -- thou enforcest thee,
+And say'st these words in the apostle's name:
+'In habit made with chastity and shame
+Ye women shall apparel you,' quoth he,
+'And not in tressed hair and gay perrie,
+As pearles, nor with gold, nor clothes rich.'
+After thy text nor after thy rubrich
+I will not work as muchel as a gnat.
+Thou say'st also, I walk out like a cat;
+For whoso woulde singe the catte's skin
+Then will the catte well dwell in her inn;
+And if the catte's skin be sleek and gay,
+She will not dwell in house half a day,
+But forth she will, ere any day be daw'd,
+To shew her skin, and go a caterwaw'd.
+This is to say, if I be gay, sir shrew,
+I will run out, my borel for to shew.
+Sir olde fool, what helpeth thee to spyen?
+Though thou pray Argus with his hundred eyen
+To be my wardecorps, as he can best
+In faith he shall not keep me, but me lest:
+Yet could I make his beard, so may I the.
+
+"Thou sayest eke, that there be thinges three,
+Which thinges greatly trouble all this earth,
+And that no wighte may endure the ferth:
+O lefe sir shrew, may Jesus short thy life.
+Yet preachest thou, and say'st, a hateful wife
+Y-reckon'd is for one of these mischances.
+Be there none other manner resemblances
+That ye may liken your parables unto,
+But if a silly wife be one of tho?
+Thou likenest a woman's love to hell;
+To barren land where water may not dwell.
+Thou likenest it also to wild fire;
+The more it burns, the more it hath desire
+To consume every thing that burnt will be.
+Thou sayest, right as wormes shend a tree,
+Right so a wife destroyeth her husbond;
+This know they well that be to wives bond."
+
+Lordings, right thus, as ye have understand,
+Bare I stiffly mine old husbands on hand,
+That thus they saiden in their drunkenness;
+And all was false, but that I took witness
+On Jenkin, and upon my niece also.
+O Lord! the pain I did them, and the woe,
+'Full guilteless, by Godde's sweete pine;
+For as a horse I coulde bite and whine;
+I coulde plain, an' I was in the guilt,
+Or elles oftentime I had been spilt
+Whoso first cometh to the nilll, first grint;
+I plained first, so was our war y-stint.
+They were full glad to excuse them full blive
+Of things that they never aguilt their live.
+
+Of wenches would I beare them on hand,
+When that for sickness scarcely might they stand,
+Yet tickled I his hearte for that he
+Ween'd that I had of him so great cherte:
+I swore that all my walking out by night
+Was for to espy wenches that he dight:
+Under that colour had I many a mirth.
+For all such wit is given us at birth;
+Deceit, weeping, and spinning, God doth give
+To women kindly, while that they may live.
+And thus of one thing I may vaunte me,
+At th' end I had the better in each degree,
+By sleight, or force, or by some manner thing,
+As by continual murmur or grudging,
+Namely a-bed, there hadde they mischance,
+There would I chide, and do them no pleasance:
+I would no longer in the bed abide,
+If that I felt his arm over my side,
+Till he had made his ransom unto me,
+Then would I suffer him do his nicety.
+And therefore every man this tale I tell,
+Win whoso may, for all is for to sell;
+With empty hand men may no hawkes lure;
+For winning would I all his will endure,
+And make me a feigned appetite,
+And yet in bacon had I never delight:
+That made me that I ever would them chide.
+For, though the Pope had sitten them beside,
+I would not spare them at their owen board,
+For, by my troth, I quit them word for word
+As help me very God omnipotent,
+Though I right now should make my testament
+I owe them not a word, that is not quit
+I brought it so aboute by my wit,
+That they must give it up, as for the best
+Or elles had we never been in rest.
+For, though he looked as a wood lion,
+Yet should he fail of his conclusion.
+Then would I say, "Now, goode lefe tak keep
+How meekly looketh Wilken oure sheep!
+Come near, my spouse, and let me ba thy cheek
+Ye shoulde be all patient and meek,
+And have a sweet y-spiced conscience,
+Since ye so preach of Jobe's patience.
+Suffer alway, since ye so well can preach,
+And but ye do, certain we shall you teach
+That it is fair to have a wife in peace.
+One of us two must bowe doubteless:
+And since a man is more reasonable
+Than woman is, ye must be suff'rable.
+What aileth you to grudge thus and groan?
+Is it for ye would have my [love]  alone?
+Why, take it all: lo, have it every deal,
+Peter!  shrew you but ye love it well
+For if I woulde sell my belle chose,
+I coulde walk as fresh as is a rose,
+But I will keep it for your owen tooth.
+Ye be to blame, by God, I say you sooth."
+Such manner wordes hadde we on hand.
+
+Now will I speaken of my fourth husband.
+My fourthe husband was a revellour;
+This is to say, he had a paramour,
+And I was young and full of ragerie,
+Stubborn and strong, and jolly as a pie.
+Then could I dance to a harpe smale,
+And sing, y-wis, as any nightingale,
+When I had drunk a draught of sweete wine.
+Metellius, the foule churl, the swine,
+That with a staff bereft his wife of life
+For she drank wine, though I had been his wife,
+Never should he have daunted me from drink:
+And, after wine, of Venus most I think.
+For all so sure as cold engenders hail,
+A liquorish mouth must have a liquorish tail.
+In woman vinolent is no defence,
+This knowe lechours by experience.
+But, lord Christ, when that it rememb'reth me
+Upon my youth, and on my jollity,
+It tickleth me about mine hearte-root;
+Unto this day it doth mine hearte boot,
+That I have had my world as in my time.
+But age, alas! that all will envenime,
+Hath me bereft my beauty and my pith:
+Let go; farewell; the devil go therewith.
+The flour is gon, there is no more to tell,
+The bran, as I best may, now must I sell.
+But yet to be right merry will I fand.
+Now forth to tell you of my fourth husband,
+I say, I in my heart had great despite,
+That he of any other had delight;
+But he was quit, by God and by Saint Joce:
+I made for him of the same wood a cross;
+Not of my body in no foul mannere,
+But certainly I made folk such cheer,
+That in his owen grease I made him fry
+For anger, and for very jealousy.
+By God, in earth I was his purgatory,
+For which I hope his soul may be in glory.
+For, God it wot, he sat full oft and sung,
+When that his shoe full bitterly him wrung.
+There was no wight, save God and he, that wist
+In many wise how sore I did him twist.
+He died when I came from Jerusalem,
+And lies in grave under the roode beam:
+Although his tomb is not so curious
+As was the sepulchre of Darius,
+Which that Apelles wrought so subtlely.
+It is but waste to bury them preciously.
+Let him fare well, God give his soule rest,
+He is now in his grave and in his chest.
+
+Now of my fifthe husband will I tell:
+God let his soul never come into hell.
+And yet was he to me the moste shrew;
+That feel I on my ribbes all by rew,
+And ever shall, until mine ending day.
+But in our bed he was so fresh and gay,
+And therewithal so well he could me glose,
+When that he woulde have my belle chose,
+Though he had beaten me on every bone,
+Yet could he win again my love anon.
+I trow, I lov'd him better, for that he
+Was of his love so dangerous to me.
+We women have, if that I shall not lie,
+In this matter a quainte fantasy.
+Whatever thing we may not lightly have,
+Thereafter will we cry all day and crave.
+Forbid us thing, and that desire we;
+Press on us fast, and thenne will we flee.
+With danger utter we all our chaffare;
+Great press at market maketh deare ware,
+And too great cheap is held at little price;
+This knoweth every woman that is wise.
+My fifthe husband, God his soule bless,
+Which that I took for love and no richess,
+He some time was a clerk of Oxenford,
+And had left school, and went at home to board
+With my gossip, dwelling in oure town:
+God have her soul, her name was Alisoun.
+She knew my heart, and all my privity,
+Bet than our parish priest, so may I the.
+To her betrayed I my counsel all;
+For had my husband pissed on a wall,
+Or done a thing that should have cost his life,
+To her, and to another worthy wife,
+And to my niece, which that I loved well,
+I would have told his counsel every deal.
+And so I did full often, God it wot,
+That made his face full often red and hot
+For very shame, and blam'd himself, for he
+Had told to me so great a privity.
+And so befell that ones in a Lent
+(So oftentimes I to my gossip went,
+For ever yet I loved to be gay,
+And for to walk in March, April, and May
+From house to house, to heare sundry tales),
+That Jenkin clerk, and my gossip, Dame Ales,
+And I myself, into the fieldes went.
+Mine husband was at London all that Lent;
+I had the better leisure for to play,
+And for to see, and eke for to be sey
+Of lusty folk; what wist I where my grace
+Was shapen for to be, or in what place?
+Therefore made I my visitations
+To vigilies, and to processions,
+To preachings eke, and to these pilgrimages,
+To plays of miracles, and marriages,
+And weared upon me gay scarlet gites.
+These wormes, nor these mothes, nor these mites
+On my apparel frett them never a deal
+And know'st thou why? for they were used well.
+Now will I telle forth what happen'd me:
+I say, that in the fieldes walked we,
+Till truely we had such dalliance,
+This clerk and I, that of my purveyance
+I spake to him, and told him how that he,
+If I were widow, shoulde wedde me.
+For certainly, I say for no bobance,
+Yet was I never without purveyance
+Of marriage, nor of other thinges eke:
+I hold a mouse's wit not worth a leek,
+That hath but one hole for to starte to,
+And if that faile, then is all y-do.
+[I bare him on hand he had enchanted me
+(My dame taughte me that subtilty);
+And eke I said, I mette of him all night,
+He would have slain me, as I lay upright,
+And all my bed was full of very blood;
+But yet I hop'd that he should do me good;
+For blood betoken'd gold, as me was taught.
+And all was false, I dream'd of him right naught,
+But as I follow'd aye my dame's lore,
+As well of that as of other things more.]
+But now, sir, let me see, what shall I sayn?
+Aha! by God, I have my tale again.
+When that my fourthe husband was on bier,
+I wept algate and made a sorry cheer,
+As wives must, for it is the usage;
+And with my kerchief covered my visage;
+But, for I was provided with a make,
+I wept but little, that I undertake
+To churche was mine husband borne a-morrow
+With neighebours that for him made sorrow,
+And Jenkin, oure clerk, was one of tho:
+As help me God, when that I saw him go
+After the bier, methought he had a pair
+Of legges and of feet so clean and fair,
+That all my heart I gave unto his hold.
+He was, I trow, a twenty winter old,
+And I was forty, if I shall say sooth,
+But yet I had always a colte's tooth.
+Gat-toothed I was, and that became me well,
+I had the print of Sainte Venus' seal.
+[As help me God, I was a lusty one,
+And fair, and rich, and young, and well begone:
+For certes I am all venerian
+In feeling, and my heart is martian;
+Venus me gave my lust and liquorishness,
+And Mars gave me my sturdy hardiness.]
+Mine ascendant was Taure, and Mars therein:
+Alas, alas, that ever love was sin!
+I follow'd aye mine inclination
+By virtue of my constellation:
+That made me that I coulde not withdraw
+My chamber of Venus from a good fellaw.
+[Yet have I Marte's mark upon my face,
+And also in another privy place.
+For God so wisly be my salvation,
+I loved never by discretion,
+But ever follow'd mine own appetite,
+All were he short, or long, or black, or white,
+I took no keep, so that he liked me,
+How poor he was, neither of what degree.]
+What should I say? but that at the month's end
+This jolly clerk Jenkin, that was so hend,
+Had wedded me with great solemnity,
+And to him gave I all the land and fee
+That ever was me given therebefore:
+But afterward repented me full sore.
+He woulde suffer nothing of my list.
+By God, he smote me ones with his fist,
+For that I rent out of his book a leaf,
+That of the stroke mine eare wax'd all deaf.
+Stubborn I was, as is a lioness,
+And of my tongue a very jangleress,
+And walk I would, as I had done beforn,
+From house to house, although he had it sworn:
+For which he oftentimes woulde preach
+And me of olde Roman gestes teach
+How that Sulpitius Gallus left his wife
+And her forsook for term of all his
+For nought but open-headed he her say
+Looking out at his door upon a day.
+Another Roman  told he me by name,
+That, for his wife was at a summer game
+Without his knowing, he forsook her eke.
+And then would he upon his Bible seek
+That ilke proverb of Ecclesiast,
+Where he commandeth, and forbiddeth fast,
+Man shall not suffer his wife go roll about.
+Then would he say right thus withoute doubt:
+"Whoso that buildeth his house all of sallows,
+And pricketh his blind horse over the fallows,
+And suff'reth his wife to go seeke hallows,
+Is worthy to be hanged on the gallows."
+But all for nought; I sette not a haw
+Of his proverbs, nor of his olde saw;
+Nor would I not of him corrected be.
+I hate them that my vices telle me,
+And so do more of us (God wot) than I.
+This made him wood with me all utterly;
+I woulde not forbear him in no case.
+Now will I say you sooth, by Saint Thomas,
+Why that I rent out of his book a leaf,
+For which he smote me, so that I was deaf.
+He had a book, that gladly night and day
+For his disport he would it read alway;
+He call'd it Valerie, and Theophrast,
+And with that book he laugh'd alway full fast.
+And eke there was a clerk sometime at Rome,
+A cardinal, that highte Saint Jerome,
+That made a book against Jovinian,
+Which book was there; and eke Tertullian,
+Chrysippus, Trotula, and Heloise,
+That was an abbess not far from Paris;
+And eke the Parables of Solomon,
+Ovide's Art,  and bourdes many one;
+And alle these were bound in one volume.
+And every night and day was his custume
+(When he had leisure and vacation
+From other worldly occupation)
+To readen in this book of wicked wives.
+He knew of them more legends and more lives
+Than be of goodde wives in the Bible.
+For, trust me well, it is an impossible
+That any clerk will speake good of wives,
+(But if it be of holy saintes' lives)
+Nor of none other woman never the mo'.
+Who painted the lion, tell it me, who?
+By God, if women haddde written stories,
+As clerkes have within their oratories,
+They would have writ of men more wickedness
+Than all the mark of Adam  may redress
+The children of Mercury and of Venus,
+Be in their working full contrarious.
+Mercury loveth wisdom and science,
+And Venus loveth riot and dispence.
+And for their diverse disposition,
+Each falls in other's exaltation.
+As thus, God wot, Mercury is desolate
+In Pisces, where Venus is exaltate,
+And Venus falls where Mercury is raised.
+Therefore no woman by no clerk is praised.
+The clerk, when he is old, and may not do
+Of Venus' works not worth his olde shoe,
+Then sits he down, and writes in his dotage,
+That women cannot keep their marriage.
+But now to purpose, why I tolde thee
+That I was beaten for a book, pardie.
+
+Upon a night Jenkin, that was our sire,
+Read on his book, as he sat by the fire,
+Of Eva first, that for her wickedness
+Was all mankind brought into wretchedness,
+For which that Jesus Christ himself was slain,
+That bought us with his hearte-blood again.
+Lo here express of women may ye find
+That woman was the loss of all mankind.
+Then read he me how Samson lost his hairs
+Sleeping, his leman cut them with her shears,
+Through whiche treason lost he both his eyen.
+Then read he me, if that I shall not lien,
+Of Hercules, and of his Dejanire,
+That caused him to set himself on fire.
+Nothing forgot he of the care and woe
+That Socrates had with his wives two;
+How Xantippe cast piss upon his head.
+This silly man sat still, as he were dead,
+He wip'd his head, and no more durst he sayn,
+But, "Ere the thunder stint there cometh rain."
+Of Phasiphae, that was queen of Crete,
+For shrewedness he thought the tale sweet.
+Fy, speak no more, it is a grisly thing,
+Of her horrible lust and her liking.
+Of Clytemnestra, for her lechery
+That falsely made her husband for to die,
+He read it with full good devotion.
+He told me eke, for what occasion
+Amphiorax at Thebes lost his life:
+My husband had a legend of his wife
+Eryphile, that for an ouche of gold
+Had privily unto the Greekes told,
+Where that her husband hid him in a place,
+For which he had at Thebes sorry grace.
+Of Luna told he me, and of Lucie;
+They bothe made their husbands for to die,
+That one for love, that other was for hate.
+Luna her husband on an ev'ning late
+Empoison'd had, for that she was his foe:
+Lucia liquorish lov'd her husband so,
+That, for he should always upon her think,
+She gave him such a manner love-drink,
+That he was dead before it were the morrow:
+And thus algates husbands hadde sorrow.
+Then told he me how one Latumeus
+Complained to his fellow Arius
+That in his garden growed such a tree,
+On which he said how that his wives three
+Hanged themselves for heart dispiteous.
+"O leve brother," quoth this Arius,
+"Give me a plant of thilke blessed tree,
+And in my garden planted shall it be."
+Of later date of wives hath he read,
+That some have slain their husbands in their bed,
+And let their lechour dight them all the night,
+While that the corpse lay on the floor upright:
+And some have driven nails into their brain,
+While that they slept, and thus they have them slain:
+Some have them given poison in their drink:
+He spake more harm than hearte may bethink.
+And therewithal he knew of more proverbs,
+Than in this world there groweth grass or herbs.
+"Better (quoth he) thine habitation
+Be with a lion, or a foul dragon,
+Than with a woman using for to chide.
+Better (quoth he) high in the roof abide,
+Than with an angry woman in the house,
+They be so wicked and contrarious:
+They hate that their husbands loven aye."
+He said, "A woman cast her shame away
+When she cast off her smock;" and farthermo',
+"A fair woman, but she be chaste also,
+Is like a gold ring in a sowe's nose.
+Who coulde ween, or who coulde suppose
+The woe that in mine heart was, and the pine?
+And when I saw that he would never fine
+To readen on this cursed book all night,
+All suddenly three leaves have I plight
+Out of his book, right as he read, and eke
+I with my fist so took him on the cheek,
+That in our fire he backward fell adown.
+And he up start, as doth a wood lion,
+And with his fist he smote me on the head,
+That on the floor I lay as I were dead.
+And when he saw how still that there I lay,
+He was aghast, and would have fled away,
+Till at the last out of my swoon I braid,
+"Oh, hast thou slain me, thou false thief?" I said
+"And for my land thus hast thou murder'd me?
+Ere I be dead, yet will I kisse thee."
+And near he came, and kneeled fair adown,
+And saide", "Deare sister Alisoun,
+As help me God, I shall thee never smite:
+That I have done it is thyself to wite,
+Forgive it me, and that I thee beseek."
+And yet eftsoons I hit him on the cheek,
+And saidde, "Thief, thus much am I awreak.
+Now will I die, I may no longer speak."
+
+But at the last, with muche care and woe
+We fell accorded by ourselves two:
+He gave me all the bridle in mine hand
+To have the governance of house and land,
+And of his tongue, and of his hand also.
+I made him burn his book anon right tho.
+And when that I had gotten unto me
+By mast'ry all the sovereignety,
+And that he said, "Mine owen true wife,
+Do as thee list, the term of all thy life,
+Keep thine honour, and eke keep mine estate;
+After that day we never had debate.
+God help me so, I was to him as kind
+As any wife from Denmark unto Ind,
+And also true, and so was he to me:
+I pray to God that sits in majesty
+So bless his soule, for his mercy dear.
+Now will I say my tale, if ye will hear. --
+
+The Friar laugh'd when he had heard all this:
+"Now, Dame," quoth he, "so have I joy and bliss,
+This is a long preamble of a tale."
+And when the Sompnour heard the Friar gale,
+"Lo," quoth this Sompnour, "Godde's armes two,
+A friar will intermete him evermo':
+Lo, goode men, a fly and eke a frere
+Will fall in ev'ry dish and eke mattere.
+What speak'st thou of perambulation?
+What? amble or trot; or peace, or go sit down:
+Thou lettest our disport in this mattere."
+"Yea, wilt thou so, Sir Sompnour?" quoth the Frere;
+"Now by my faith I shall, ere that I go,
+Tell of a Sompnour such a tale or two,
+That all the folk shall laughen in this place."
+"Now do, else, Friar, I beshrew thy face,"
+Quoth this Sompnour; "and I beshrewe me,
+But if I telle tales two or three
+Of friars, ere I come to Sittingbourne,
+That I shall make thine hearte for to mourn:
+For well I wot thy patience is gone."
+Our Hoste cried, "Peace, and that anon;"
+And saide, "Let the woman tell her tale.
+Ye fare as folk that drunken be of ale.
+Do, Dame, tell forth your tale, and that is best."
+"All ready, sir," quoth she, "right as you lest,
+If I have licence of this worthy Frere."
+"Yes, Dame," quoth he, "tell forth, and I will hear."
+
+THE TALE.
+
+In olde dayes of the king Arthour,
+Of which that Britons speake great honour,
+All was this land full fill'd of faerie;
+The Elf-queen, with her jolly company,
+Danced full oft in many a green mead
+This was the old opinion, as I read;
+I speak of many hundred years ago;
+But now can no man see none elves mo',
+For now the great charity and prayeres
+Of limitours, and other holy freres,
+That search every land and ev'ry stream
+As thick as motes in the sunne-beam,
+Blessing halls, chambers, kitchenes, and  bowers,
+Cities and burghes, castles high and towers,
+Thorpes and barnes, shepens and dairies,
+This makes that there be now no faeries:
+For there as wont to walke was an elf,
+There walketh now the limitour himself,
+In undermeles and in morrowings,
+And saith his matins and his holy things,
+As he goes in his limitatioun.
+Women may now go safely up and down,
+In every bush, and under every tree;
+There is none other incubus  but he;
+And he will do to them no dishonour.
+
+And so befell it, that this king Arthour
+Had in his house a lusty bacheler,
+That on a day came riding from river:
+And happen'd, that, alone as she was born,
+He saw a maiden walking him beforn,
+Of which maiden anon, maugre her head,
+By very force he reft her maidenhead:
+For which oppression was such clamour,
+And such pursuit unto the king Arthour,
+That damned was this knight for to be dead
+By course of law, and should have lost his head;
+(Paraventure such was the statute tho),
+But that the queen and other ladies mo'
+So long they prayed the king of his grace,
+Till he his life him granted in the place,
+And gave him to the queen, all at her will
+To choose whether she would him save or spill
+The queen thanked the king with all her might;
+And, after this, thus spake she to the knight,
+When that she saw her time upon a day.
+"Thou standest yet," quoth she, "in such array,
+That of thy life yet hast thou no surety;
+I grant thee life, if thou canst tell to me
+What thing is it that women most desiren:
+Beware, and keep thy neck-bone from the iron
+And if thou canst not tell it me anon,
+Yet will I give thee leave for to gon
+A twelvemonth and a day, to seek and lear
+An answer suffisant in this mattere.
+And surety will I have, ere that thou pace,
+Thy body for to yielden in this place."
+Woe was the knight, and sorrowfully siked;
+But what? he might not do all as him liked.
+And at the last he chose him for to wend,
+And come again, right at the yeare's end,
+With such answer as God would him purvey:
+And took his leave, and wended forth his way.
+
+He sought in ev'ry house and ev'ry place,
+Where as he hoped for to finde grace,
+To learne what thing women love the most:
+But he could not arrive in any coast,
+Where as he mighte find in this mattere
+Two creatures according in fere.
+Some said that women loved best richess,
+Some said honour, and some said jolliness,
+Some rich array, and some said lust a-bed,
+And oft time to be widow and be wed.
+Some said, that we are in our heart most eased
+When that we are y-flatter'd and y-praised.
+He went full nigh the sooth, I will not lie;
+A man shall win us best with flattery;
+And with attendance, and with business
+Be we y-limed, bothe more and less.
+And some men said that we do love the best
+For to be free, and do right as us lest,
+And that no man reprove us of our vice,
+But say that we are wise, and nothing nice,
+For truly there is none among us all,
+If any wight will claw us on the gall,
+That will not kick, for that he saith us sooth:
+Assay, and he shall find it, that so do'th.
+For be we never so vicious within,
+We will be held both wise and clean of sin.
+And some men said, that great delight have we
+For to be held stable and eke secre,
+And in one purpose steadfastly to dwell,
+And not bewray a thing that men us tell.
+But that tale is not worth a rake-stele.
+Pardie, we women canne nothing hele,
+Witness on Midas; will ye hear the tale?
+Ovid, amonges other thinges smale
+Saith, Midas had, under his longe hairs,
+Growing upon his head two ass's ears;
+The whiche vice he hid, as best he might,
+Full subtlely from every man's sight,
+That, save his wife, there knew of it no mo';
+He lov'd her most, and trusted her also;
+He prayed her, that to no creature
+She woulde tellen of his disfigure.
+She swore him, nay, for all the world to win,
+She would not do that villainy or sin,
+To make her husband have so foul a name:
+She would not tell it for her owen shame.
+But natheless her thoughte that she died,
+That she so longe should a counsel hide;
+Her thought it swell'd so sore about her heart
+That needes must some word from her astart
+And, since she durst not tell it unto man
+Down to a marish fast thereby she ran,
+Till she came there, her heart was all afire:
+And, as a bittern bumbles in the mire,
+She laid her mouth unto the water down
+"Bewray me not, thou water, with thy soun'"
+Quoth she, "to thee I tell it, and no mo',
+Mine husband hath long ass's eares two!
+Now is mine heart all whole; now is it out;
+I might no longer keep it, out of doubt."
+Here may ye see, though we a time abide,
+Yet out it must, we can no counsel hide.
+The remnant of the tale, if ye will hear,
+Read in Ovid, and there ye may it lear.
+
+This knight, of whom my tale is specially,
+When that he saw he might not come thereby,
+That is to say, what women love the most,
+Within his breast full sorrowful was his ghost.
+But home he went, for he might not sojourn,
+The day was come, that homeward he must turn.
+And in his way it happen'd him to ride,
+In all his care, under a forest side,
+Where as he saw upon a dance go
+Of ladies four-and-twenty, and yet mo',
+Toward this ilke dance he drew full yern,
+The hope that he some wisdom there should learn;
+But certainly, ere he came fully there,
+Y-vanish'd was this dance, he knew not where;
+No creature saw he that bare life,
+Save on the green he sitting saw a wife,
+A fouler wight there may no man devise.
+Against this knight this old wife gan to rise,
+And said, "Sir Knight, hereforth lieth no way.
+Tell me what ye are seeking, by your fay.
+Paraventure it may the better be:
+These olde folk know muche thing." quoth she.
+My leve mother," quoth this knight, "certain,
+I am but dead, but if that I can sayn
+What thing it is that women most desire:
+Could ye me wiss, I would well quite your hire."
+"Plight me thy troth here in mine hand," quoth she,
+"The nexte thing that I require of thee
+Thou shalt it do, if it be in thy might,
+And I will tell it thee ere it be night."
+"Have here my trothe," quoth the knight; "I grant."
+"Thenne," quoth she, "I dare me well avaunt,
+Thy life is safe, for I will stand thereby,
+Upon my life the queen will say as I:
+Let see, which is the proudest of them all,
+That wears either a kerchief or a caul,
+That dare say nay to that I shall you teach.
+Let us go forth withoute longer speech
+Then rowned she a pistel in his ear,
+And bade him to be glad, and have no fear.
+
+When they were come unto the court, this knight
+Said, he had held his day, as he had hight,
+And ready was his answer, as he said.
+Full many a noble wife, and many a maid,
+And many a widow, for that they be wise, --
+The queen herself sitting as a justice, --
+Assembled be, his answer for to hear,
+And afterward this knight was bid appear.
+To every wight commanded was silence,
+And that the knight should tell in audience,
+What thing that worldly women love the best.
+This knight he stood not still, as doth a beast,
+But to this question anon answer'd
+With manly voice, that all the court it heard,
+"My liege lady, generally," quoth he,
+"Women desire to have the sovereignty
+As well over their husband as their love
+And for to be in mast'ry him above.
+This is your most desire, though ye me kill,
+Do as you list, I am here at your will."
+In all the court there was no wife nor maid
+Nor widow, that contraried what he said,
+But said, he worthy was to have his life.
+And with that word up start that olde wife
+Which that the knight saw sitting on the green.
+
+"Mercy," quoth she, "my sovereign lady queen,
+Ere that your court departe, do me right.
+I taughte this answer unto this knight,
+For which he plighted me his trothe there,
+The firste thing I would of him requere,
+He would it do, if it lay in his might.
+Before this court then pray I thee, Sir Knight,"
+Quoth she, "that thou me take unto thy wife,
+For well thou know'st that I have kept thy life.
+If I say false, say nay, upon thy fay."
+This knight answer'd, "Alas, and well-away!
+I know right well that such was my behest.
+For Godde's love choose a new request
+Take all my good, and let my body go."
+"Nay, then," quoth she, "I shrew us bothe two,
+For though that I be old, and foul, and poor,
+I n'ould for all the metal nor the ore,
+That under earth is grave, or lies above
+But if thy wife I were and eke thy love."
+"My love?" quoth he, "nay, my damnation,
+Alas! that any of my nation
+Should ever so foul disparaged be.
+But all for nought; the end is this, that he
+Constrained was, that needs he muste wed,
+And take this olde wife, and go to bed.
+
+Now woulde some men say paraventure
+That for my negligence I do no cure
+To tell you all the joy and all th' array
+That at the feast was made that ilke day.
+To which thing shortly answeren I shall:
+I say there was no joy nor feast at all,
+There was but heaviness and muche sorrow:
+For privily he wed her on the morrow;
+And all day after hid him as an owl,
+So woe was him, his wife look'd so foul
+Great was the woe the knight had in his thought
+When he was with his wife to bed y-brought;
+He wallow'd, and he turned to and fro.
+This olde wife lay smiling evermo',
+And said, "Dear husband, benedicite,
+Fares every knight thus with his wife as ye?
+Is this the law of king Arthoures house?
+Is every knight of his thus dangerous?
+I am your owen love, and eke your wife
+I am she, which that saved hath your life
+And certes yet did I you ne'er unright.
+Why fare ye thus with me this firste night?
+Ye fare like a man had lost his wit.
+What is my guilt? for God's love tell me it,
+And it shall be amended, if I may."
+"Amended!" quoth this knight; "alas, nay, nay,
+It will not be amended, never mo';
+Thou art so loathly, and so old also,
+And thereto comest of so low a kind,
+That little wonder though I wallow and wind;
+So woulde God, mine hearte woulde brest!"
+"Is this," quoth she, "the cause of your unrest?"
+"Yea, certainly," quoth he; "no wonder is."
+"Now, Sir," quoth she, "I could amend all this,
+If that me list, ere it were dayes three,
+So well ye mighte bear you unto me.
+But, for ye speaken of such gentleness
+As is descended out of old richess,
+That therefore shalle ye be gentlemen;
+Such arrogancy is not worth a hen.
+Look who that is most virtuous alway,
+Prive and apert, and most intendeth aye
+To do the gentle deedes that he can;
+And take him for the greatest gentleman.
+Christ will, we claim of him our gentleness,
+Not of our elders for their old richess.
+For though they gave us all their heritage,
+For which we claim to be of high parage,
+Yet may they not bequeathe, for no thing,
+To none of us, their virtuous living
+That made them gentlemen called to be,
+And bade us follow them in such degree.
+Well can the wise poet of Florence,
+That highte Dante, speak of this sentence:
+Lo, in such manner rhyme is Dante's tale.
+'Full seld' upriseth by his branches smale
+Prowess of man, for God of his goodness
+Wills that we claim of him our gentleness;'
+For of our elders may we nothing claim
+But temp'ral things that man may hurt and maim.
+Eke every wight knows this as well as I,
+If gentleness were planted naturally
+Unto a certain lineage down the line,
+Prive and apert, then would they never fine
+To do of gentleness the fair office
+Then might they do no villainy nor vice.
+Take fire, and bear it to the darkest house
+Betwixt this and the mount of Caucasus,
+And let men shut the doores, and go thenne,
+Yet will the fire as fair and lighte brenne
+As twenty thousand men might it behold;
+Its office natural aye will it hold,
+On peril of my life, till that it die.
+Here may ye see well how that gentery
+Is not annexed to possession,
+Since folk do not their operation
+Alway, as doth the fire, lo, in its kind
+For, God it wot, men may full often find
+A lorde's son do shame and villainy.
+And he that will have price of his gent'ry,
+For he was boren of a gentle house,
+And had his elders noble and virtuous,
+And will himselfe do no gentle deedes,
+Nor follow his gentle ancestry, that dead is,
+He is not gentle, be he duke or earl;
+For villain sinful deedes make a churl.
+For gentleness is but the renomee
+Of thine ancestors, for their high bounte,
+Which is a strange thing to thy person:
+Thy gentleness cometh from God alone.
+Then comes our very gentleness of grace;
+It was no thing bequeath'd us with our place.
+Think how noble, as saith Valerius,
+Was thilke Tullius Hostilius,
+That out of povert' rose to high
+Read in Senec, and read eke in Boece,
+There shall ye see express, that it no drede is,
+That he is gentle that doth gentle deedes.
+And therefore, leve husband, I conclude,
+Albeit that mine ancestors were rude,
+Yet may the highe God, -- and so hope I, --
+Grant me His grace to live virtuously:
+Then am I gentle when that I begin
+To live virtuously, and waive sin.
+
+"And whereas ye of povert' me repreve,
+The highe God, on whom that we believe,
+In wilful povert' chose to lead his life:
+And certes, every man, maiden, or wife
+May understand that Jesus, heaven's king,
+Ne would not choose a virtuous living.
+Glad povert' is an honest thing, certain;
+This will Senec and other clerkes sayn
+Whoso that holds him paid of his povert',
+I hold him rich though he hath not a shirt.
+He that coveteth is a poore wight
+For he would have what is not in his might
+But he that nought hath, nor coveteth to have,
+Is rich, although ye hold him but a knave.
+Very povert' is sinne, properly.
+Juvenal saith of povert' merrily:
+The poore man, when he goes by the way
+Before the thieves he may sing and play
+Povert' is hateful good, and, as I guess,
+A full great bringer out of business;
+A great amender eke of sapience
+To him that taketh it in patience.
+Povert' is this, although it seem elenge
+Possession that no wight will challenge
+Povert' full often, when a man is low,
+Makes him his God and eke himself to know
+Povert' a spectacle is, as thinketh me
+Through which he may his very friendes see.
+And, therefore, Sir, since that I you not grieve,
+Of my povert' no more me repreve.
+"Now, Sir, of elde ye repreve me:
+And certes, Sir, though none authority
+Were in no book, ye gentles of honour
+Say, that men should an olde wight honour,
+And call him father, for your gentleness;
+And authors shall I finden, as I guess.
+Now there ye say that I am foul and old,
+Then dread ye not to be a cokewold.
+For filth, and elde, all so may I the,
+Be greate wardens upon chastity.
+But natheless, since I know your delight,
+I shall fulfil your wordly appetite.
+Choose now," quoth she, "one of these thinges tway,
+To have me foul and old till that I dey,
+And be to you a true humble wife,
+And never you displease in all my life:
+Or elles will ye have me young and fair,
+And take your aventure of the repair
+That shall be to your house because of me, --
+Or in some other place, it may well be?
+Now choose yourselfe whether that you liketh.
+
+This knight adviseth him and sore he siketh,
+But at the last he said in this mannere;
+"My lady and my love, and wife so dear,
+I put me in your wise governance,
+Choose for yourself which may be most pleasance
+And most honour to you and me also;
+I do no force the whether of the two:
+For as you liketh, it sufficeth me."
+"Then have I got the mastery," quoth she,
+"Since I may choose and govern as me lest."
+"Yea, certes wife," quoth he, "I hold it best."
+"Kiss me," quoth she, "we are no longer wroth,
+For by my troth I will be to you both;
+This is to say, yea, bothe fair and good.
+I pray to God that I may sterve wood,
+But I to you be all so good and true,
+As ever was wife since the world was new;
+And but I be to-morrow as fair to seen,
+As any lady, emperess or queen,
+That is betwixt the East and eke the West
+Do with my life and death right as you lest.
+Cast up the curtain, and look how it is."
+
+And when the knight saw verily all this,
+That she so fair was, and so young thereto,
+For joy he hent her in his armes two:
+His hearte bathed in a bath of bliss,
+A thousand times on row he gan her kiss:
+And she obeyed him in every thing
+That mighte do him pleasance or liking.
+And thus they live unto their lives' end
+In  perfect joy; and Jesus Christ us send
+Husbandes meek and young, and fresh in bed,
+And grace to overlive them that we wed.
+And eke I pray Jesus to short their lives,
+That will not be governed by their wives.
+And old and angry niggards of dispence,
+God send them soon a very pestilence!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -943,4 +1470,4 @@ Scarcely believe much more than we can see.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 03:22 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 04:18 PM GMT+5<!-- TIMESTAMP:END -->*
