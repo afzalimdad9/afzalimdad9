@@ -69,40 +69,47 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-"We messed up the keming again guys."
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Look at pictures and videos of cute animals
+Create a personal website
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."
-> — Joan Rivers
+> "The heart wants what it wants. There's no logic. "
+> — Woody Allen
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"A Night-Rain in Summer" by James Henry Leigh Hunt
-Open the window, and let the air
-Freshly blow upon face and hair,
-And fill the room, as it fills the night,
-With the breath of the rain's sweet might.
-Hark! the burthen, swift and prone!
-And how the odorous limes are blown!
-Stormy Love's abroad, and keeps
-Hopeful coil for gentle sleeps.
+"Song To Diana" by Ben Jonson
+Queen and huntress, chaste and fair,
+Now the sun is laid to sleep,
+Seated in thy silver chair
+State in wonted manner keep:
+Hesperus entreats thy light,
+Goddess excellently bright.
 
-Not a blink shall burn to-night
-In my chamber, of sordid light;
-Nought will I have, not a window-pane,
-'Twixt me and the air and the great good rain,
-Which ever shall sing me sharp lullabies;
-And God's own darkness shall close mine eyes;
-And I will sleep, with all things blest,
-In the pure earth-shadow of natural rest.
+Earth, let not thy envious shade
+Dare itself to interpose;
+Cynthia's shining orb was made
+Heaven to clear when day did close:
+Bless us then with wished sight,
+Goddess excellently bright.
+
+Lay thy bow of pearl apart,
+And thy crystal-shining quiver;
+Give unto the flying hart
+Space to breathe, how short soever:
+Thou that mak'st a day of night,
+Goddess excellently bright.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -198,4 +205,4 @@ In the pure earth-shadow of natural rest.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 10:20 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 11:30 PM GMT+5<!-- TIMESTAMP:END -->*
