@@ -69,88 +69,51 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Take your cat on a walk
+Take your dog on a walk
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."
-> — Aristophanes
+> "Wherever you are, it's the place you need to be."
+> — Maxime Lagace
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Passion" by Charlotte Bronte
-SOME have won a wild delight,
-By daring wilder sorrow;
-Could I gain thy love to-night,
-I'd hazard death to-morrow.
+"On Music" by Thomas Moore
+When through life unblest we rove,
+Losing all that made life dear,
+Should some notes we used to love,
+In days of boyhood, meet our ear,
+Oh! how welcome breathes the strain!
+Wakening thoughts that long have slept,
+Kindling former smiles again
+In faded eyes that long have wept.
 
-Could the battle-struggle earn
-One kind glance from thine eye,
-How this withering heart would burn,
-The heady fight to try !
+Like the gale, that sighs along
+Beds of oriental flowers,
+Is the grateful breath of song,
+That once was heard in happier hours.
+Fill'd with balm the gale sighs on,
+Though the flowers have sunk in death;
+So, when pleasure's dream is gone,
+Its memory lives in Music's breath.
 
-Welcome nights of broken sleep,
-And days of carnage cold,
-Could I deem that thou wouldst weep
-To hear my perils told.
-
-Tell me, if with wandering bands
-I roam full far away,
-Wilt thou, to those distant lands,
-In spirit ever stray ?
-
-Wild, long, a trumpet sounds afar;
-Bid me­bid me go
-Where Seik and Briton meet in war,
-On Indian Sutlej's flow.
-
-Blood has dyed the Sutlej's waves
-With scarlet stain, I know;
-Indus' borders yawn with graves,
-Yet, command me go !
-
-Though rank and high the holocaust
-Of nations, steams to heaven,
-Glad I'd join the death-doomed host,
-Were but the mandate given.
-
-Passion's strength should nerve my arm,
-Its ardour stir my life,
-Till human force to that dread charm
-Should yield and sink in wild alarm,
-Like trees to tempest-strife.
-
-If, hot from war, I seek thy love,
-Darest thou turn aside ?
-Darest thou, then, my fire reprove,
-By scorn, and maddening pride ?
-
-No­my will shall yet control
-Thy will, so high and free,
-And love shall tame that haughty soul­
-Yes­tenderest love for me.
-
-I'll read my triumph in thine eyes,
-Behold, and prove the change;
-Then leave, perchance, my noble prize,
-Once more in arms to range.
-
-I'd die when all the foam is up,
-The bright wine sparkling high;
-Nor wait till in the exhausted cup
-Life's dull dregs only lie.
-
-Then Love thus crowned with sweet reward,
-Hope blest with fulness large,
-I'd mount the saddle, draw the sword,
-And perish in the charge!
+Music, oh, how faint, how weak,
+Language fades before thy spell!
+Why should Feeling ever speak,
+When thou canst breathe her soul so well?
+Friendship's balmy words may feign,
+Love's are even more false than they;
+Oh! 'tis only music's strain
+Can sweetly soothe, and not betray.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -246,4 +209,4 @@ And perish in the charge!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 12:17 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 01:24 AM GMT+5<!-- TIMESTAMP:END -->*
