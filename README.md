@@ -69,47 +69,88 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Create a personal website
+Take your cat on a walk
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "The heart wants what it wants. There's no logic. "
-> — Woody Allen
+> "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."
+> — Aristophanes
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Song To Diana" by Ben Jonson
-Queen and huntress, chaste and fair,
-Now the sun is laid to sleep,
-Seated in thy silver chair
-State in wonted manner keep:
-Hesperus entreats thy light,
-Goddess excellently bright.
+"Passion" by Charlotte Bronte
+SOME have won a wild delight,
+By daring wilder sorrow;
+Could I gain thy love to-night,
+I'd hazard death to-morrow.
 
-Earth, let not thy envious shade
-Dare itself to interpose;
-Cynthia's shining orb was made
-Heaven to clear when day did close:
-Bless us then with wished sight,
-Goddess excellently bright.
+Could the battle-struggle earn
+One kind glance from thine eye,
+How this withering heart would burn,
+The heady fight to try !
 
-Lay thy bow of pearl apart,
-And thy crystal-shining quiver;
-Give unto the flying hart
-Space to breathe, how short soever:
-Thou that mak'st a day of night,
-Goddess excellently bright.
+Welcome nights of broken sleep,
+And days of carnage cold,
+Could I deem that thou wouldst weep
+To hear my perils told.
+
+Tell me, if with wandering bands
+I roam full far away,
+Wilt thou, to those distant lands,
+In spirit ever stray ?
+
+Wild, long, a trumpet sounds afar;
+Bid me­bid me go
+Where Seik and Briton meet in war,
+On Indian Sutlej's flow.
+
+Blood has dyed the Sutlej's waves
+With scarlet stain, I know;
+Indus' borders yawn with graves,
+Yet, command me go !
+
+Though rank and high the holocaust
+Of nations, steams to heaven,
+Glad I'd join the death-doomed host,
+Were but the mandate given.
+
+Passion's strength should nerve my arm,
+Its ardour stir my life,
+Till human force to that dread charm
+Should yield and sink in wild alarm,
+Like trees to tempest-strife.
+
+If, hot from war, I seek thy love,
+Darest thou turn aside ?
+Darest thou, then, my fire reprove,
+By scorn, and maddening pride ?
+
+No­my will shall yet control
+Thy will, so high and free,
+And love shall tame that haughty soul­
+Yes­tenderest love for me.
+
+I'll read my triumph in thine eyes,
+Behold, and prove the change;
+Then leave, perchance, my noble prize,
+Once more in arms to range.
+
+I'd die when all the foam is up,
+The bright wine sparkling high;
+Nor wait till in the exhausted cup
+Life's dull dregs only lie.
+
+Then Love thus crowned with sweet reward,
+Hope blest with fulness large,
+I'd mount the saddle, draw the sword,
+And perish in the charge!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -205,4 +246,4 @@ Goddess excellently bright.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 11:30 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 12:17 AM GMT+5<!-- TIMESTAMP:END -->*
