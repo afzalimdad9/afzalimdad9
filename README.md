@@ -69,528 +69,948 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+Debugging: Removing the needles from the haystack.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Go to a nail salon
+Write a list of things you are grateful for
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Progress is impossible without change, and those who cannot change their minds cannot change anything."
-> — George Bernard Shaw
+> "Failure is an option here. If things are not failing, you are not innovating enough."
+> — Elon Musk
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Epilogue to the Satires." by Alexander Pope
-IN TWO DIALOGUES.
-
-DIALOGUE I.
-
-_Fr_. Not twice a twelvemonth you appear in print,
-And when it comes, the court see nothing in 't.
-You grow correct, that once with rapture writ,
-And are, besides, too moral for a wit.
-Decay of parts, alas! we all must feel--
-Why now, this moment, don't I see you steal?
-'Tis all from Horace; Horace long before ye
-Said, 'Tories call'd him Whig, and Whigs a Tory;'
-And taught his Romans, in much better metre,
-'To laugh at fools who put their trust in Peter.'
-
-But, Horace, sir, was delicate, was nice;
-Bubo observes, he lash'd no sort of vice:
-Horace would say, Sir Billy served the crown,
-Blunt could do business, Huggins knew the town;
-In Sappho touch the failings of the sex,
-In reverend bishops note some small neglects,
-And own, the Spaniard did a waggish thing,
-Who cropp'd our ears, and sent them to the king.
-His sly, polite, insinuating style
-Could please at court, and make Augustus smile:
-An artful manager, that crept between
-His friend and shame, and was a kind of screen.
-But, faith, your very friends will soon be sore;
-Patriots there are, who wish you'd jest no more--
-And where's the glory? 'twill be only thought
-The great man never offer'd you a groat.
-Go see Sir Robert--
-
-_P_.            See Sir Robert!--hum--
-And never laugh--for all my life to come?
-Seen him I have, but in his happier hour
-Of social pleasure, ill-exchanged for power;
-Seen him, uncumber'd with the venal tribe,
-Smile without art, and win without a bribe.
-Would he oblige me? let me only find,
-He does not think me what he thinks mankind.
-Come, come, at all I laugh he laughs, no doubt;
-The only difference is, I dare laugh out.
-
-_F_. Why, yes: with Scripture still you may be free;
-A horse-laugh, if you please, at honesty;
-A joke on Jekyl, or some odd old Whig
-Who never changed his principle, or wig:
-A patriot is a fool in every age,
-Whom all Lord Chamberlains allow the stage:
-These nothing hurts; they keep their fashion still,
-And wear their strange old virtue, as they will.
-
-If any ask you, 'Who's the man, so near
-His prince, that writes in verse, and has his ear?'
-Why, answer, Lyttleton, and I'll engage
-The worthy youth shall ne'er be in a rage:
-But were his verses vile, his whisper base,
-You'd quickly find him in Lord Fanny's case.
-Sejanus, Wolsey, hurt not honest Fleury,
-But well may put some statesmen in a fury.
-
-Laugh then at any, but at fools or foes;
-These you but anger, and you mend not those.
-Laugh at your friends, and, if your friends are sore,
-So much the better, you may laugh the more.
-To vice and folly to confine the jest,
-Sets half the world, God knows, against the rest;
-Did not the sneer of more impartial men
-At sense and virtue, balance all again.
-Judicious wits spread wide the ridicule,
-And charitably comfort knave and fool.
-
-_P_. Dear sir, forgive the prejudice of youth:
-Adieu distinction, satire, warmth, and truth!
-Come, harmless characters that no one hit;
-Come, Henley's oratory, Osborn's wit!
-The honey dropping from Favonio's tongue,
-The flowers of Bubo, and the flow of Yonge!
-The gracious dew of pulpit eloquence,
-And all the well-whipt cream of courtly sense,
-That first was Hervy's, Fox's next, and then
-The senate's, and then Hervy's once again.
-Oh come, that easy, Ciceronian style,
-So Latin, yet so English all the while,
-As, though the pride of Middleton and Bland,
-All boys may read, and girls may understand!
-Then might I sing, without the least offence,
-And all I sung should be the nation's sense;
-Or teach the melancholy Muse to mourn,
-Hang the sad verse on Carolina's urn,
-And hail her passage to the realms of rest,
-All parts perform'd, and all her children bless'd!
-So--satire is no more--I feel it die--
-No gazetteer more innocent than I--
-And let, a-God's-name! every fool and knave
-Be graced through life, and flatter'd in his grave.
-
-_F_. Why so? if satire knows its time and place,
-You still may lash the greatest--in disgrace:
-For merit will by turns forsake them all;
-Would you know when exactly when they fall.
-But let all satire in all changes spare
-Immortal Selkirk, and grave Delaware.
-Silent and soft, as saints remove to heaven,
-All ties dissolved, and every sin forgiven,
-These may some gentle ministerial wing
-Receive, and place for ever near a king!
-There, where no passion, pride, or shame transport,
-Lull'd with the sweet nepenthe of a court;
-There, where no father's, brother's, friend's disgrace
-Once break their rest, or stir them from their place:
-But past the sense of human miseries,
-All tears are wiped for ever from all eyes;
-No cheek is known to blush, no heart to throb,
-Save when they lose a question, or a job.
-
-_P_. Good Heaven forbid that I should blast their glory,
-Who know how like Whig ministers to Tory,
-And when three sovereigns died, could scarce be vex'd,
-Considering what a gracious prince was next.
-Have I, in silent wonder, seen such things
-As pride in slaves, and avarice in kings;
-And at a peer, or peeress, shall I fret,
-Who starves a sister, or forswears a debt?
-Virtue, I grant you, is an empty boast;
-But shall the dignity of vice be lost?
-Ye gods! shall Cibber's son, without rebuke,
-Swear like a lord, or Rich out-whore a duke?
-A favourite's porter with his master vie,
-Be bribed as often, and as often lie?
-Shall Ward draw contracts with a statesman's skill?
-Or Japhet pocket, like his Grace, a will?
-Is it for Bond, or Peter, (paltry things)
-To pay their debts, or keep their faith, like kings?
-If Blount dispatch'd himself, he play'd the man,
-And so may'st thou, illustrious Passeran!
-But shall a printer, weary of his life,
-Learn from their books to hang himself and wife?
-This, this, my friend, I cannot, must not bear:
-Vice thus abused, demands a nation's care:
-This calls the Church to deprecate our sin,
-And hurls the thunder of the laws on gin,
-Let modest Foster, if he will, excel
-Ten metropolitans in preaching well;
-A simple Quaker, or a Quaker's wife,
-Outdo Landaff in doctrine,--yea, in life:
-Let humble Allen, with an awkward shame,
-Do good by stealth, and blush to find it fame.
-Virtue may choose the high or low degree,
-'Tis just alike to virtue, and to me;
-Dwell in a monk, or light upon a king,
-She's still the same beloved, contented thing.
-Vice is undone, if she forgets her birth,
-And stoops from angels to the dregs of earth:
-But 'tis the fall degrades her to a whore;
-Let greatness own her, and she's mean no more:
-Her birth, her beauty, crowds and courts confess,
-Chaste matrons praise her, and grave bishops bless:
-In golden chains the willing world she draws,
-And hers the gospel is, and hers the laws,
-Mounts the tribunal, lifts her scarlet head,
-And sees pale virtue carted in her stead.
-Lo! at the wheels of her triumphal car,
-Old England's genius, rough with many a scar,
-Dragg'd in the dust! his arms hang idly round,
-His flag inverted trails along the ground!
-Our youth, all liveried o'er with foreign gold,
-Before her dance: behind her, crawl the old!
-See thronging millions to the pagod run,
-And offer country, parent, wife, or son!
-Hear her black trumpet through the land proclaim,
-That NOT TO BE CORRUPTED IS THE SHAME!
-In soldier, churchman, patriot, man in power,
-'Tis avarice all, ambition is no more!
-See, all our nobles begging to be slaves!
-See, all our fools aspiring to be knaves!
-The wit of cheats, the courage of a whore,
-Are what ten thousand envy and adore!
-All, all look up with reverential awe,
-At crimes that 'scape, or triumph o'er the law:
-While truth, worth, wisdom, daily they decry--
-'Nothing is sacred now but villany.'
-
-Yet may this verse (if such a verse remain)
-Show, there was one who held it in disdain.
-
-DIALOGUE II.
-
-_Fr_. 'Tis all a libel--Paxton (sir) will say.
-
-_P_. Not yet, my friend! to-morrow, faith, it may;
-And for that very cause I print to-day.
-How should I fret to mangle every line,
-In reverence to the sins of thirty-nine!
-Vice with such giant strides comes on amain,
-Invention strives to be before in vain;
-Feign what I will, and paint it e'er so strong,
-Some rising genius sins up to my song.
-
-_F_. Yet none but you by name the guilty lash;
-Ev'n Guthrie saves half Newgate by a dash.
-Spare then the person, and expose the vice.
-
-_P_. How, sir! not damn the sharper, but the dice?
-Come on then, Satire! general, unconfined,
-Spread thy broad wing, and souse on all the kind.
-Ye statesmen, priests, of one religion all!
-Ye tradesmen, vile, in army, court, or hall!
-Ye reverend atheists----
-
-_F_.             Scandal! name them, who?
-
-_P_. Why that's the thing you bid me not to do.
-Who starved a sister, who forswore a debt,
-I never named; the town's inquiring yet.
-The poisoning dame----
-
-_F_.          You mean----
-
-_P_.                   I don't.
-
-_F_.                            You do.
-
-_P_. See, now I keep the secret, and not you!
-The bribing statesman----
-
-_F_.              Hold, too high you go.
-
-_P_. The bribed elector----
-
-_F_.                    There you stoop too low.
-
-_P_. I fain would please you, if I knew with what;
-Tell me, which knave is lawful game, which not?
-Must great offenders, once escaped the crown,
-Like royal harts, be never more run down?
-Admit, your law to spare the knight requires,
-As beasts of nature may we hunt the 'squires?
-Suppose I censure--you know what I mean--
-To save a bishop, may I name a dean?
-
-_F_. A dean, sir? no: his fortune is not made,
-You hurt a man that's rising in the trade.
-
-_P_. If not the tradesman who set up to-day,
-Much less the 'prentice who to-morrow may.
-Down, down, proud Satire! though a realm be spoil'd,
-Arraign no mightier thief than wretched Wild;
-Or, if a court or country's made a job,
-Go drench a pickpocket, and join the mob.
-
-But, sir, I beg you (for the love of vice!)
-The matter's weighty, pray consider twice;
-Have you less pity for the needy cheat,
-The poor and friendless villain, than the great?
-Alas! the small discredit of a bribe
-Scarce hurts the lawyer, but undoes the scribe.
-Then better, sure, it charity becomes
-To tax directors, who (thank God) have plums;
-Still better, ministers; or, if the thing
-May pinch ev'n there--why lay it on a king.
-
-_F._ Stop! stop!
-
-_P._        Must Satire, then, nor rise nor fall?
-Speak out, and bid me blame no rogues at all.
-
-_F._ Yes, strike that Wild, I'll justify the blow.
-
-_P._ Strike! why the man was hanged ten years ago:
-Who now that obsolete example fears?
-Ev'n Peter trembles only for his ears.
-
-_F._ What, always Peter! Peter thinks you mad,
-You make men desperate if they once are bad:
-Else might he take to virtue some years hence
-
-_P._ As Selkirk, if he lives, will love the Prince.
-
-_F._ Strange spleen to Selkirk!
-
-_P._                     Do I wrong the man?
-God knows, I praise a courtier where I can.
-When I confess, there is who feels for fame,
-And melts to goodness, need I Scarb'rough name?
-Pleased, let me own, in Esher's peaceful grove
-(Where Kent and nature vie for Pelham's love)
-The scene, the master, opening to my view,
-I sit and dream I see my Craggs anew!
-Ev'n in a bishop I can spy desert;
-Secker is decent--Rundel has a heart--
-Manners with candour are to Benson given--
-To Berkeley, every virtue under heaven.
-
-But does the court a worthy man remove?
-That instant, I declare, he has my love:
-I shun his zenith, court his mild decline;
-Thus Somers once, and Halifax, were mine.
-Oft, in the clear, still mirror of retreat,
-I studied Shrewsbury, the wise and great:
-Carleton's calm sense, and Stanhope's noble flame,
-Compared, and knew their generous end the same:
-How pleasing Atterbury's softer hour!
-How shined the soul, unconquer'd in the Tower!
-How can I Pulteney, Chesterfield, forget,
-While Roman spirit charms, and Attic wit:
-Argyll, the state's whole thunder born to wield,
-And shake alike the senate and the field:
-Or Wyndham, just to freedom and the throne,
-The master of our passions, and his own.
-Names, which I long have loved, nor loved in vain,
-Rank'd with their friends, not number'd with their train:
-And if yet higher the proud list should end,
-Still let me say,--No follower, but a friend.
-
-Yet think not Friendship only prompts my lays;
-I follow Virtue; where she shines, I praise:
-Point she to priest or elder, Whig or Tory,
-Or round a Quaker's beaver cast a glory.
-I never (to my sorrow I declare)
-Dined with the Man of Ross, or my Lord Mayor.
-Some, in their choice of friends, (nay, look not grave) 100
-Have still a secret bias to a knave:
-To find an honest man I beat about.
-And love him, court him, praise him, in or out.
-
-_F_. Then why so few commended?
-
-_P_.                          Not so fierce;
-Find you the virtue, and I'll find the verse.
-But random praise--the task can ne'er be done;
-Each mother asks it for her booby son,
-Each widow asks it for 'the best of men,'
-For him she weeps, and him she weds again.
-Praise cannot stoop, like satire, to the ground;
-The number may be hang'd, but not be crown'd.
-Enough for half the greatest of these days,
-To 'scape my censure, not expect my praise.
-Are they not rich? what more can they pretend?
-Dare they to hope a poet for their friend?
-What Richelieu wanted, Louis scarce could gain,
-And what young Ammon wish'd, but wish'd in vain.
-No power the Muse's friendship can command;
-No power, when Virtue claims it, can withstand:
-To Cato, Virgil paid one honest line;
-Oh let my country's friends illumine mine!
---What are you thinking?
-
-_F_.              Faith, the thought's no sin--
-I think your friends are out, and would be in.
-
-_P_. If merely to come in, sir, they go out,
-The way they take is strangely round about.
-
-_F_. They too may be corrupted, you'll allow?
-
-_P_. I only call those knaves who are so now.
-Is that too little? Come then, I'll comply--
-Spirit of Arnall! aid me while I lie.
-Cobham's a coward, Polwarth is a slave,
-And Lyttleton a dark, designing knave,
-St John has ever been a wealthy fool--
-But let me add, Sir Robert's mighty dull,
-Has never made a friend in private life,
-And was, besides, a tyrant to his wife.
-
-But pray, when others praise him, do I blame?
-Call Verres, Wolsey, any odious name?
-Why rail they then, if but a wreath of mine,
-O all-accomplish'd St John! deck thy shrine?
-
-What! shall each spur-gall'd hackney of the day,
-When Paxton gives him double pots and pay,
-Or each new-pension'd sycophant, pretend
-To break my windows if I treat a friend?
-Then wisely plead, to me they meant no hurt,
-But 'twas my guest at whom they threw the dirt?
-Sure, if I spare the minister, no rules
-Of honour bind me, not to maul his tools;
-Sure, if they cannot cut, it may be said
-His saws are toothless, and his hatchet's lead.
-
-It anger'd Turenne, once upon a day,
-To see a footman kick'd that took his pay:
-But when he heard the affront the fellow gave,
-Knew one a man of honour, one a knave,
-The prudent general turn'd it to a jest,
-And begg'd he'd take the pains to kick the rest:
-Which not at present having time to do----
-
-_F_. Hold sir! for God's-sake where 'a the affront to you?
-Against your worship when had Selkirk writ?
-Or Page pour'd forth the torrent of his wit?
-Or grant the bard whose distich all commend
-'In power a servant, out of power a friend,'
-To Walpole guilty of some venial sin;
-What's that to you who ne'er was out nor in?
-
-The priest whose flattery bedropp'd the crown,
-How hurt he you? he only stain'd the gown.
-And how did, pray, the florid youth offend,
-Whose speech you took, and gave it to a friend?
-
-_P_. Faith, it imports not much from whom it came;
-Whoever borrow'd, could not be to blame,
-Since the whole house did afterwards the same.
-Let courtly wits to wits afford supply,
-As hog to hog in huts of Westphaly;
-If one, through Nature's bounty, or his lord's,
-Has what the frugal, dirty soil affords,
-From him the next receives it, thick or thin,
-As pure a mess almost as it came in;
-The blessed benefit, not there confined,
-Drops to the third, who nuzzles close behind;
-From tail to mouth, they feed and they carouse:
-The last full fairly gives it to the House.
-
-_F_. This filthy simile, this beastly line
-Quite turns my stomach----
-
-_P_.               So does flattery mine;
-And all your courtly civet-cats can vent,
-Perfume to you, to me is excrement.
-But hear me further--Japhet, 'tis agreed,
-Writ not, and Chartres scarce could write or read,
-In all the courts of Pindus guiltless quite;
-But pens can forge, my friend, that cannot write;
-And must no egg in Japhet's face be thrown,
-Because the deed he forged was not my own?
-Must never patriot then declaim at gin,
-Unless, good man! he has been fairly in?
-No zealous pastor blame a failing spouse,
-Without a staring reason on his brows?
-And each blasphemer quite escape the rod,
-Because the insult's not on man, but God?
-
-Ask you what provocation I have had?
-The strong antipathy of good to bad.
-When truth or virtue an affront endures,
-The affront is mine, my friend, and should be yours.
-Mine, as a foe profess'd to false pretence,
-Who think a coxcomb's honour like his sense;
-Mine, as a friend to every worthy mind;
-And mine, as man, who feel for all mankind.
-
-_F_. You're strangely proud.
-
-_P_.                    So proud, I am no slave:
-So impudent, I own myself no knave:
-So odd, my country's ruin makes me grave.
-Yes, I am proud; I must be proud to see
-Men not afraid of God, afraid of me:
-Safe from the bar, the pulpit, and the throne,
-Yet touch'd and shamed by ridicule alone.
-
-O sacred weapon! left for truth's defence,
-Sole dread of folly, vice, and insolence!
-To all but heaven-directed hands denied,
-The Muse may give thee, but the gods must guide:
-Rev'rent I touch thee! but with honest zeal;
-To rouse the watchmen of the public weal,
-To virtue's work provoke the tardy Hall,
-And goad the prelate slumbering in his stall.
-Ye tinsel insects! whom a court maintains,
-That counts your beauties only by your stains,
-Spin all your cobwebs o'er the eye of day!
-The Muse's wing shall brush you all away:
-All his grace preaches, all his lordship sings,
-All that makes saints of queens, and gods of kings,--
-All, all but truth, drops dead-born from the press,
-Like the last gazette, or the last address.
-
-When black ambition stains a public cause,
-A monarch's sword when mad vain-glory draws,
-Not Waller's wreath can hide the nation's scar,
-Nor Boileau turn the feather to a star.
-
-Not so, when, diadem'd with rays divine,
-Touch'd with the flame that breaks from Virtue's shrine,
-Her priestess Muse forbids the good to die,
-And opes the temple of Eternity.
-There, other trophies deck the truly brave,
-Than such as Anstis casts into the grave;
-Far other stars than ---- and ---- wear,
-And may descend to Mordington from Stair:
-(Such as on Hough's unsullied mitre shine,
-Or beam, good Digby, from a heart like thine)
-Let Envy howl, while Heaven's whole chorus sings,
-And bark at honour not conferr'd by kings;
-Let Flattery sickening see the incense rise,
-Sweet to the world, and grateful to the skies:
-Truth guards the poet, sanctifies the line,
-And makes immortal verse as mean as mine.
-
-Yes, the last pen for freedom let me draw,
-When truth stands trembling on the edge of law;
-Here, last of Britons! let your names be read;
-Are none, none living? let me praise the dead,
-And for that cause which made your fathers shine,
-Fall by the votes of their degenerate line.
-
-_F_. Alas! alas! pray end what you began,
-And write next winter more 'Essays on Man.'
+"Paradise Lost: Book 11" by John Milton
+Undoubtedly he will relent, and turn
+From his displeasure; in whose look serene,
+When angry most he seemed and most severe,
+What else but favour, grace, and mercy, shone?
+So spake our father penitent; nor Eve
+Felt less remorse: they, forthwith to the place
+Repairing where he judged them, prostrate fell
+Before him reverent; and both confessed
+Humbly their faults, and pardon begged; with tears
+Watering the ground, and with their sighs the air
+Frequenting, sent from hearts contrite, in sign
+Of sorrow unfeigned, and humiliation meek.
+Thus they, in lowliest plight, repentant stood
+Praying; for from the mercy-seat above
+Prevenient grace descending had removed
+The stony from their hearts, and made new flesh
+Regenerate grow instead; that sighs now breathed
+Unutterable; which the Spirit of prayer
+Inspired, and winged for Heaven with speedier flight
+Than loudest oratory:  Yet their port
+Not of mean suitors; nor important less
+Seemed their petition, than when the ancient pair
+In fables old, less ancient yet than these,
+Deucalion and chaste Pyrrha, to restore
+The race of mankind drowned, before the shrine
+Of Themis stood devout.  To Heaven their prayers
+Flew up, nor missed the way, by envious winds
+Blown vagabond or frustrate: in they passed
+Dimensionless through heavenly doors; then clad
+With incense, where the golden altar fumed,
+By their great intercessour, came in sight
+Before the Father's throne: them the glad Son
+Presenting, thus to intercede began.
+See$ Father, what first-fruits on earth are sprung
+From thy implanted grace in Man; these sighs
+And prayers, which in this golden censer mixed
+With incense, I thy priest before thee bring;
+Fruits of more pleasing savour, from thy seed
+Sown with contrition in his heart, than those
+Which, his own hand manuring, all the trees
+Of Paradise could have produced, ere fallen
+From innocence.  Now therefore, bend thine ear
+To supplication; hear his sighs, though mute;
+Unskilful with what words to pray, let me
+Interpret for him; me, his advocate
+And propitiation; all his works on me,
+Good, or not good, ingraft; my merit those
+Shall perfect, and for these my death shall pay.
+Accept me; and, in me, from these receive
+The smell of peace toward mankind: let him live
+Before thee reconciled, at least his days
+Numbered, though sad; till death, his doom, (which I
+To mitigate thus plead, not to reverse,)
+To better life shall yield him: where with me
+All my redeemed may dwell in joy and bliss;
+Made one with me, as I with thee am one.
+To whom the Father, without cloud, serene.
+All thy request for Man, accepted Son,
+Obtain; all thy request was my decree:
+But, longer in that Paradise to dwell,
+The law I gave to Nature him forbids:
+Those pure immortal elements, that know,
+No gross, no unharmonious mixture foul,
+Eject him, tainted now; and purge him off,
+As a distemper, gross, to air as gross,
+And mortal food; as may dispose him best
+For dissolution wrought by sin, that first
+Distempered all things, and of incorrupt
+Corrupted.  I, at first, with two fair gifts
+Created him endowed; with happiness,
+And immortality: that fondly lost,
+This other served but to eternize woe;
+Till I provided death: so death becomes
+His final remedy; and, after life,
+Tried in sharp tribulation, and refined
+By faith and faithful works, to second life,
+Waked in the renovation of the just,
+Resigns him up with Heaven and Earth renewed.
+But let us call to synod all the Blest,
+Through Heaven's wide bounds: from them I will not hide
+My judgements; how with mankind I proceed,
+As how with peccant Angels late they saw,
+And in their state, though firm, stood more confirmed.
+He ended, and the Son gave signal high
+To the bright minister that watched; he blew
+His trumpet, heard in Oreb since perhaps
+When God descended, and perhaps once more
+To sound at general doom.  The angelick blast
+Filled all the regions: from their blisful bowers
+Of amarantine shade, fountain or spring,
+By the waters of life, where'er they sat
+In fellowships of joy, the sons of light
+Hasted, resorting to the summons high;
+And took their seats; till from his throne supreme
+The Almighty thus pronounced his sovran will.
+O Sons, like one of us Man is become
+To know both good and evil, since his taste
+Of that defended fruit; but let him boast
+His knowledge of good lost, and evil got;
+Happier! had it sufficed him to have known
+Good by itself, and evil not at all.
+He sorrows now, repents, and prays contrite,
+My motions in him; longer than they move,
+His heart I know, how variable and vain,
+Self-left.  Lest therefore his now bolder hand
+Reach also of the tree of life, and eat,
+And live for ever, dream at least to live
+For ever, to remove him I decree,
+And send him from the garden forth to till
+The ground whence he was taken, fitter soil.
+Michael, this my behest have thou in charge;
+Take to thee from among the Cherubim
+Thy choice of flaming warriours, lest the Fiend,
+Or in behalf of Man, or to invade
+Vacant possession, some new trouble raise:
+Haste thee, and from the Paradise of God
+Without remorse drive out the sinful pair;
+From hallowed ground the unholy; and denounce
+To them, and to their progeny, from thence
+Perpetual banishment.  Yet, lest they faint
+At the sad sentence rigorously urged,
+(For I behold them softened, and with tears
+Bewailing their excess,) all terrour hide.
+If patiently thy bidding they obey,
+Dismiss them not disconsolate; reveal
+To Adam what shall come in future days,
+As I shall thee enlighten; intermix
+My covenant in the Woman's seed renewed;
+So send them forth, though sorrowing, yet in peace:
+And on the east side of the garden place,
+Where entrance up from Eden easiest climbs,
+Cherubick watch; and of a sword the flame
+Wide-waving; all approach far off to fright,
+And guard all passage to the tree of life:
+Lest Paradise a receptacle prove
+To Spirits foul, and all my trees their prey;
+With whose stolen fruit Man once more to delude.
+He ceased; and the arch-angelick Power prepared
+For swift descent; with him the cohort bright
+Of watchful Cherubim: four faces each
+Had, like a double Janus; all their shape
+Spangled with eyes more numerous than those
+Of Argus, and more wakeful than to drouse,
+Charmed with Arcadian pipe, the pastoral reed
+Of Hermes, or his opiate rod.  Mean while,
+To re-salute the world with sacred light,
+Leucothea waked; and with fresh dews imbalmed
+The earth; when Adam and first matron Eve
+Had ended now their orisons, and found
+Strength added from above; new hope to spring
+Out of despair; joy, but with fear yet linked;
+Which thus to Eve his welcome words renewed.
+Eve, easily my faith admit, that all
+The good which we enjoy from Heaven descends;
+But, that from us aught should ascend to Heaven
+So prevalent as to concern the mind
+Of God high-blest, or to incline his will,
+Hard to belief may seem; yet this will prayer
+Or one short sigh of human breath, upborne
+Even to the seat of God.  For since I sought
+By prayer the offended Deity to appease;
+Kneeled, and before him humbled all my heart;
+Methought I saw him placable and mild,
+Bending his ear; persuasion in me grew
+That I was heard with favour; peace returned
+Home to my breast, and to my memory
+His promise, that thy seed shall bruise our foe;
+Which, then not minded in dismay, yet now
+Assures me that the bitterness of death
+Is past, and we shall live.  Whence hail to thee,
+Eve rightly called, mother of all mankind,
+Mother of all things living, since by thee
+Man is to live; and all things live for Man.
+To whom thus Eve with sad demeanour meek.
+Ill-worthy I such title should belong
+To me transgressour; who, for thee ordained
+A help, became thy snare; to me reproach
+Rather belongs, distrust, and all dispraise:
+But infinite in pardon was my Judge,
+That I, who first brought death on all, am graced
+The source of life; next favourable thou,
+Who highly thus to entitle me vouchsaf'st,
+Far other name deserving.  But the field
+To labour calls us, now with sweat imposed,
+Though after sleepless night; for see!the morn,
+All unconcerned with our unrest, begins
+Her rosy progress smiling: let us forth;
+I never from thy side henceforth to stray,
+Where'er our day's work lies, though now enjoined
+Laborious, till day droop; while here we dwell,
+What can be toilsome in these pleasant walks?
+Here let us live, though in fallen state, content.
+So spake, so wished much humbled Eve; but Fate
+Subscribed not:  Nature first gave signs, impressed
+On bird, beast, air; air suddenly eclipsed,
+After short blush of morn; nigh in her sight
+The bird of Jove, stooped from his aery tour,
+Two birds of gayest plume before him drove;
+Down from a hill the beast that reigns in woods,
+First hunter then, pursued a gentle brace,
+Goodliest of all the forest, hart and hind;
+Direct to the eastern gate was bent their flight.
+Adam observed, and with his eye the chase
+Pursuing, not unmoved, to Eve thus spake.
+O Eve, some further change awaits us nigh,
+Which Heaven, by these mute signs in Nature, shows
+Forerunners of his purpose; or to warn
+Us, haply too secure, of our discharge
+From penalty, because from death released
+Some days: how long, and what till then our life,
+Who knows? or more than this, that we are dust,
+And thither must return, and be no more?
+Why else this double object in our sight
+Of flight pursued in the air, and o'er the ground,
+One way the self-same hour? why in the east
+Darkness ere day's mid-course, and morning-light
+More orient in yon western cloud, that draws
+O'er the blue firmament a radiant white,
+And slow descends with something heavenly fraught?
+He erred not; for by this the heavenly bands
+Down from a sky of jasper lighted now
+In Paradise, and on a hill made halt;
+A glorious apparition, had not doubt
+And carnal fear that day dimmed Adam's eye.
+Not that more glorious, when the Angels met
+Jacob in Mahanaim, where he saw
+The field pavilioned with his guardians bright;
+Nor that, which on the flaming mount appeared
+In Dothan, covered with a camp of fire,
+Against the Syrian king, who to surprise
+One man, assassin-like, had levied war,
+War unproclaimed.  The princely Hierarch
+In their bright stand there left his Powers, to seise
+Possession of the garden; he alone,
+To find where Adam sheltered, took his way,
+Not unperceived of Adam; who to Eve,
+While the great visitant approached, thus spake.
+Eve$ now expect great tidings, which perhaps
+Of us will soon determine, or impose
+New laws to be observed; for I descry,
+From yonder blazing cloud that veils the hill,
+One of the heavenly host; and, by his gait,
+None of the meanest; some great Potentate
+Or of the Thrones above; such majesty
+Invests him coming! yet not terrible,
+That I should fear; nor sociably mild,
+As Raphael, that I should much confide;
+But solemn and sublime; whom not to offend,
+With reverence I must meet, and thou retire.
+He ended: and the Arch-Angel soon drew nigh,
+Not in his shape celestial, but as man
+Clad to meet man; over his lucid arms
+A military vest of purple flowed,
+Livelier than Meliboean, or the grain
+Of Sarra, worn by kings and heroes old
+In time of truce; Iris had dipt the woof;
+His starry helm unbuckled showed him prime
+In manhood where youth ended; by his side,
+As in a glistering zodiack, hung the sword,
+Satan's dire dread; and in his hand the spear.
+Adam bowed low; he, kingly, from his state
+Inclined not, but his coming thus declared.
+Adam, Heaven's high behest no preface needs:
+Sufficient that thy prayers are heard; and Death,
+Then due by sentence when thou didst transgress,
+Defeated of his seisure many days
+Given thee of grace; wherein thou mayest repent,
+And one bad act with many deeds well done
+Mayest cover:  Well may then thy Lord, appeased,
+Redeem thee quite from Death's rapacious claim;
+But longer in this Paradise to dwell
+Permits not: to remove thee I am come,
+And send thee from the garden forth to till
+The ground whence thou wast taken, fitter soil.
+He added not; for Adam at the news
+Heart-struck with chilling gripe of sorrow stood,
+That all his senses bound; Eve, who unseen
+Yet all had heard, with audible lament
+Discovered soon the place of her retire.
+O unexpected stroke, worse than of Death!
+Must I thus leave thee$ Paradise? thus leave
+Thee, native soil! these happy walks and shades,
+Fit haunt of Gods? where I had hope to spend,
+Quiet though sad, the respite of that day
+That must be mortal to us both.  O flowers,
+That never will in other climate grow,
+My early visitation, and my last
+ ;t even, which I bred up with tender hand
+From the first opening bud, and gave ye names!
+Who now shall rear ye to the sun, or rank
+Your tribes, and water from the ambrosial fount?
+Thee lastly, nuptial bower! by me adorned
+With what to sight or smell was sweet! from thee
+How shall I part, and whither wander down
+Into a lower world; to this obscure
+And wild? how shall we breathe in other air
+Less pure, accustomed to immortal fruits?
+Whom thus the Angel interrupted mild.
+Lament not, Eve, but patiently resign
+What justly thou hast lost, nor set thy heart,
+Thus over-fond, on that which is not thine:
+Thy going is not lonely; with thee goes
+Thy husband; whom to follow thou art bound;
+Where he abides, think there thy native soil.
+Adam, by this from the cold sudden damp
+Recovering, and his scattered spirits returned,
+To Michael thus his humble words addressed.
+Celestial, whether among the Thrones, or named
+Of them the highest; for such of shape may seem
+Prince above princes! gently hast thou told
+Thy message, which might else in telling wound,
+And in performing end us; what besides
+Of sorrow, and dejection, and despair,
+Our frailty can sustain, thy tidings bring,
+Departure from this happy place, our sweet
+Recess, and only consolation left
+Familiar to our eyes! all places else
+Inhospitable appear, and desolate;
+Nor knowing us, nor known:  And, if by prayer
+Incessant I could hope to change the will
+Of Him who all things can, I would not cease
+To weary him with my assiduous cries:
+But prayer against his absolute decree
+No more avails than breath against the wind,
+Blown stifling back on him that breathes it forth:
+Therefore to his great bidding I submit.
+This most afflicts me, that, departing hence,
+As from his face I shall be hid, deprived
+His blessed countenance:  Here I could frequent
+With worship place by place where he vouchsafed
+Presence Divine; and to my sons relate,
+'On this mount he appeared; under this tree
+'Stood visible; among these pines his voice
+'I heard; here with him at this fountain talked:
+So many grateful altars I would rear
+Of grassy turf, and pile up every stone
+Of lustre from the brook, in memory,
+Or monument to ages; and theron
+Offer sweet-smelling gums, and fruits, and flowers:
+In yonder nether world where shall I seek
+His bright appearances, or foot-step trace?
+For though I fled him angry, yet recalled
+To life prolonged and promised race, I now
+Gladly behold though but his utmost skirts
+Of glory; and far off his steps adore.
+To whom thus Michael with regard benign.
+Adam, thou knowest Heaven his, and all the Earth;
+Not this rock only; his Omnipresence fills
+Land, sea, and air, and every kind that lives,
+Fomented by his virtual power and warmed:
+All the earth he gave thee to possess and rule,
+No despicable gift; surmise not then
+His presence to these narrow bounds confined
+Of Paradise, or Eden: this had been
+Perhaps thy capital seat, from whence had spread
+All generations; and had hither come
+From all the ends of the earth, to celebrate
+And reverence thee, their great progenitor.
+But this pre-eminence thou hast lost, brought down
+To dwell on even ground now with thy sons:
+Yet doubt not but in valley, and in plain,
+God is, as here; and will be found alike
+Present; and of his presence many a sign
+Still following thee, still compassing thee round
+With goodness and paternal love, his face
+Express, and of his steps the track divine.
+Which that thou mayest believe, and be confirmed
+Ere thou from hence depart; know, I am sent
+To show thee what shall come in future days
+To thee, and to thy offspring: good with bad
+Expect to hear; supernal grace contending
+With sinfulness of men; thereby to learn
+True patience, and to temper joy with fear
+And pious sorrow; equally inured
+By moderation either state to bear,
+Prosperous or adverse: so shalt thou lead
+Safest thy life, and best prepared endure
+Thy mortal passage when it comes.--Ascend
+This hill; let Eve (for I have drenched her eyes)
+Here sleep below; while thou to foresight wakest;
+As once thou sleptst, while she to life was formed.
+To whom thus Adam gratefully replied.
+Ascend, I follow thee, safe Guide, the path
+Thou leadest me; and to the hand of Heaven submit,
+However chastening; to the evil turn
+My obvious breast; arming to overcome
+By suffering, and earn rest from labour won,
+If so I may attain. -- So both ascend
+In the visions of God.  It was a hill,
+Of Paradise the highest; from whose top
+The hemisphere of earth, in clearest ken,
+Stretched out to the amplest reach of prospect lay.
+Not higher that hill, nor wider looking round,
+Whereon, for different cause, the Tempter set
+Our second Adam, in the wilderness;
+To show him all Earth's kingdoms, and their glory.
+His eye might there command wherever stood
+City of old or modern fame, the seat
+Of mightiest empire, from the destined walls
+Of Cambalu, seat of Cathaian Can,
+And Samarchand by Oxus, Temir's throne,
+To Paquin of Sinaean kings; and thence
+To Agra and Lahor of great Mogul,
+Down to the golden Chersonese; or where
+The Persian in Ecbatan sat, or since
+In Hispahan; or where the Russian Ksar
+In Mosco; or the Sultan in Bizance,
+Turchestan-born; nor could his eye not ken
+The empire of Negus to his utmost port
+Ercoco, and the less maritim kings
+Mombaza, and Quiloa, and Melind,
+And Sofala, thought Ophir, to the realm
+Of Congo, and Angola farthest south;
+Or thence from Niger flood to Atlas mount
+The kingdoms of Almansor, Fez and Sus,
+Morocco, and Algiers, and Tremisen;
+On Europe thence, and where Rome was to sway
+The world: in spirit perhaps he also saw
+Rich Mexico, the seat of Montezume,
+And Cusco in Peru, the richer seat
+Of Atabalipa; and yet unspoiled
+Guiana, whose great city Geryon's sons
+Call El Dorado.  But to nobler sights
+Michael from Adam's eyes the film removed,
+Which that false fruit that promised clearer sight
+Had bred; then purged with euphrasy and rue
+The visual nerve, for he had much to see;
+And from the well of life three drops instilled.
+So deep the power of these ingredients pierced,
+Even to the inmost seat of mental sight,
+That Adam, now enforced to close his eyes,
+Sunk down, and all his spirits became entranced;
+But him the gentle Angel by the hand
+Soon raised, and his attention thus recalled.
+Adam, now ope thine eyes; and first behold
+The effects, which thy original crime hath wrought
+In some to spring from thee; who never touched
+The excepted tree; nor with the snake conspired;
+Nor sinned thy sin; yet from that sin derive
+Corruption, to bring forth more violent deeds.
+His eyes he opened, and beheld a field,
+Part arable and tilth, whereon were sheaves
+New reaped; the other part sheep-walks and folds;
+I' the midst an altar as the land-mark stood,
+Rustick, of grassy sord; thither anon
+A sweaty reaper from his tillage brought
+First fruits, the green ear, and the yellow sheaf,
+Unculled, as came to hand; a shepherd next,
+More meek, came with the firstlings of his flock,
+Choicest and best; then, sacrificing, laid
+The inwards and their fat, with incense strowed,
+On the cleft wood, and all due rights performed:
+His offering soon propitious fire from Heaven
+Consumed with nimble glance, and grateful steam;
+The other's not, for his was not sincere;
+Whereat he inly raged, and, as they talked,
+Smote him into the midriff with a stone
+That beat out life; he fell;and, deadly pale,
+Groaned out his soul with gushing blood effused.
+Much at that sight was Adam in his heart
+Dismayed, and thus in haste to the Angel cried.
+O Teacher, some great mischief hath befallen
+To that meek man, who well had sacrificed;
+Is piety thus and pure devotion paid?
+To whom Michael thus, he also moved, replied.
+These two are brethren, Adam, and to come
+Out of thy loins; the unjust the just hath slain,
+For envy that his brother's offering found
+From Heaven acceptance; but the bloody fact
+Will be avenged; and the other's faith, approved,
+Lose no reward; though here thou see him die,
+Rolling in dust and gore.  To which our sire.
+Alas! both for the deed, and for the cause!
+But have I now seen Death?  Is this the way
+I must return to native dust?  O sight
+Of terrour, foul and ugly to behold,
+Horrid to think, how horrible to feel!
+To whom thus Michael.  Death thou hast seen
+In his first shape on Man; but many shapes
+Of Death, and many are the ways that lead
+To his grim cave, all dismal; yet to sense
+More terrible at the entrance, than within.
+Some, as thou sawest, by violent stroke shall die;
+By fire, flood, famine, by intemperance more
+In meats and drinks, which on the earth shall bring
+Diseases dire, of which a monstrous crew
+Before thee shall appear; that thou mayest know
+What misery the inabstinence of Eve
+Shall bring on Men.  Immediately a place
+Before his eyes appeared, sad, noisome, dark;
+A lazar-house it seemed; wherein were laid
+Numbers of all diseased; all maladies
+Of ghastly spasm, or racking torture, qualms
+Of heart-sick agony, all feverous kinds,
+Convulsions, epilepsies, fierce catarrhs,
+Intestine stone and ulcer, colick-pangs,
+Demoniack phrenzy, moaping melancholy,
+And moon-struck madness, pining atrophy,
+Marasmus, and wide-wasting pestilence,
+Dropsies, and asthmas, and joint-racking rheums.
+Dire was the tossing, deep the groans; Despair
+Tended the sick busiest from couch to couch;
+And over them triumphant Death his dart
+Shook, but delayed to strike, though oft invoked
+With vows, as their chief good, and final hope.
+Sight so deform what heart of rock could long
+Dry-eyed behold?  Adam could not, but wept,
+Though not of woman born; compassion quelled
+His best of man, and gave him up to tears
+A space, till firmer thoughts restrained excess;
+And, scarce recovering words, his plaint renewed.
+O miserable mankind, to what fall
+Degraded, to what wretched state reserved!
+Better end here unborn.  Why is life given
+To be thus wrested from us? rather, why
+Obtruded on us thus? who, if we knew
+What we receive, would either no accept
+Life offered, or soon beg to lay it down;
+Glad to be so dismissed in peace.  Can thus
+The image of God in Man, created once
+So goodly and erect, though faulty since,
+To such unsightly sufferings be debased
+Under inhuman pains?  Why should not Man,
+Retaining still divine similitude
+In part, from such deformities be free,
+And, for his Maker's image sake, exempt?
+Their Maker's image, answered Michael, then
+Forsook them, when themselves they vilified
+To serve ungoverned Appetite; and took
+His image whom they served, a brutish vice,
+Inductive mainly to the sin of Eve.
+Therefore so abject is their punishment,
+Disfiguring not God's likeness, but their own;
+Or if his likeness, by themselves defaced;
+While they pervert pure Nature's healthful rules
+To loathsome sickness; worthily, since they
+God's image did not reverence in themselves.
+I yield it just, said Adam, and submit.
+But is there yet no other way, besides
+These painful passages, how we may come
+To death, and mix with our connatural dust?
+There is, said Michael, if thou well observe
+The rule of Not too much; by temperance taught,
+In what thou eatest and drinkest; seeking from thence
+Due nourishment, not gluttonous delight,
+Till many years over thy head return:
+So mayest thou live; till, like ripe fruit, thou drop
+Into thy mother's lap; or be with ease
+Gathered, nor harshly plucked; for death mature:
+This is Old Age; but then, thou must outlive
+Thy youth, thy strength, thy beauty; which will change
+To withered, weak, and gray; thy senses then,
+Obtuse, all taste of pleasure must forego,
+To what thou hast; and, for the air of youth,
+Hopeful and cheerful, in thy blood will reign
+A melancholy damp of cold and dry
+To weigh thy spirits down, and last consume
+The balm of life.  To whom our ancestor.
+Henceforth I fly not death, nor would prolong
+Life much; bent rather, how I may be quit,
+Fairest and easiest, of this cumbrous charge;
+Which I must keep till my appointed day
+Of rendering up, and patiently attend
+My dissolution.  Michael replied.
+Nor love thy life, nor hate; but what thou livest
+Live well; how long, or short, permit to Heaven:
+And now prepare thee for another sight.
+He looked, and saw a spacious plain, whereon
+Were tents of various hue; by some, were herds
+Of cattle grazing; others, whence the sound
+Of instruments, that made melodious chime,
+Was heard, of harp and organ; and, who moved
+Their stops and chords, was seen; his volant touch,
+Instinct through all proportions, low and high,
+Fled and pursued transverse the resonant fugue.
+In other part stood one who, at the forge
+Labouring, two massy clods of iron and brass
+Had melted, (whether found where casual fire
+Had wasted woods on mountain or in vale,
+Down to the veins of earth; thence gliding hot
+To some cave's mouth; or whether washed by stream
+From underground;) the liquid ore he drained
+Into fit moulds prepared; from which he formed
+First his own tools; then, what might else be wrought
+Fusil or graven in metal.  After these,
+But on the hither side, a different sort
+From the high neighbouring hills, which was their seat,
+Down to the plain descended; by their guise
+Just men they seemed, and all their study bent
+To worship God aright, and know his works
+Not hid; nor those things last, which might preserve
+Freedom and peace to Men; they on the plain
+Long had not walked, when from the tents, behold!
+A bevy of fair women, richly gay
+In gems and wanton dress; to the harp they sung
+Soft amorous ditties, and in dance came on:
+The men, though grave, eyed them; and let their eyes
+Rove without rein; till, in the amorous net
+Fast caught, they liked; and each his liking chose;
+And now of love they treat, till the evening-star,
+Love's harbinger, appeared; then, all in heat
+They light the nuptial torch, and bid invoke
+Hymen, then first to marriage rites invoked:
+With feast and musick all the tents resound.
+Such happy interview, and fair event
+Of love and youth not lost, songs, garlands, flowers,
+And charming symphonies, attached the heart
+Of Adam, soon inclined to admit delight,
+The bent of nature; which he thus expressed.
+True opener of mine eyes, prime Angel blest;
+Much better seems this vision, and more hope
+Of peaceful days portends, than those two past;
+Those were of hate and death, or pain much worse;
+Here Nature seems fulfilled in all her ends.
+To whom thus Michael.  Judge not what is best
+By pleasure, though to nature seeming meet;
+Created, as thou art, to nobler end
+Holy and pure, conformity divine.
+Those tents thou sawest so pleasant, were the tents
+Of wickedness, wherein shall dwell his race
+Who slew his brother; studious they appear
+Of arts that polish life, inventers rare;
+Unmindful of their Maker, though his Spirit
+Taught them; but they his gifts acknowledged none.
+Yet they a beauteous offspring shall beget;
+For that fair female troop thou sawest, that seemed
+Of Goddesses, so blithe, so smooth, so gay,
+Yet empty of all good wherein consists
+Woman's domestick honour and chief praise;
+Bred only and completed to the taste
+Of lustful appetence, to sing, to dance,
+To dress, and troll the tongue, and roll the eye:
+To these that sober race of men, whose lives
+Religious titled them the sons of God,
+Shall yield up all their virtue, all their fame
+Ignobly, to the trains and to the smiles
+Of these fair atheists; and now swim in joy,
+Erelong to swim at large; and laugh, for which
+The world erelong a world of tears must weep.
+To whom thus Adam, of short joy bereft.
+O pity and shame, that they, who to live well
+Entered so fair, should turn aside to tread
+Paths indirect, or in the mid way faint!
+But still I see the tenour of Man's woe
+Holds on the same, from Woman to begin.
+From Man's effeminate slackness it begins,
+Said the Angel, who should better hold his place
+By wisdom, and superiour gifts received.
+But now prepare thee for another scene.
+He looked, and saw wide territory spread
+Before him, towns, and rural works between;
+Cities of men with lofty gates and towers,
+Concourse in arms, fierce faces threatening war,
+Giants of mighty bone and bold emprise;
+Part wield their arms, part curb the foaming steed,
+Single or in array of battle ranged
+Both horse and foot, nor idly mustering stood;
+One way a band select from forage drives
+A herd of beeves, fair oxen and fair kine,
+From a fat meadow ground; or fleecy flock,
+Ewes and their bleating lambs over the plain,
+Their booty; scarce with life the shepherds fly,
+But call in aid, which makes a bloody fray;
+With cruel tournament the squadrons join;
+Where cattle pastured late, now scattered lies
+With carcasses and arms the ensanguined field,
+Deserted:  Others to a city strong
+Lay siege, encamped; by battery, scale, and mine,
+Assaulting; others from the wall defend
+With dart and javelin, stones, and sulphurous fire;
+On each hand slaughter, and gigantick deeds.
+In other part the sceptered heralds call
+To council, in the city-gates; anon
+Gray-headed men and grave, with warriours mixed,
+Assemble, and harangues are heard; but soon,
+In factious opposition; till at last,
+Of middle age one rising, eminent
+In wise deport, spake much of right and wrong,
+Of justice, or religion, truth, and peace,
+And judgement from above: him old and young
+Exploded, and had seized with violent hands,
+Had not a cloud descending snatched him thence
+Unseen amid the throng: so violence
+Proceeded, and oppression, and sword-law,
+Through all the plain, and refuge none was found.
+Adam was all in tears, and to his guide
+Lamenting turned full sad; O!what are these,
+Death's ministers, not men? who thus deal death
+Inhumanly to men, and multiply
+Ten thousandfold the sin of him who slew
+His brother: for of whom such massacre
+Make they, but of their brethren; men of men
+But who was that just man, whom had not Heaven
+Rescued, had in his righteousness been lost?
+To whom thus Michael.  These are the product
+Of those ill-mated marriages thou sawest;
+Where good with bad were matched, who of themselves
+Abhor to join; and, by imprudence mixed,
+Produce prodigious births of body or mind.
+Such were these giants, men of high renown;
+For in those days might only shall be admired,
+And valour and heroick virtue called;
+To overcome in battle, and subdue
+Nations, and bring home spoils with infinite
+Man-slaughter, shall be held the highest pitch
+Of human glory; and for glory done
+Of triumph, to be styled great conquerours
+Patrons of mankind, Gods, and sons of Gods;
+Destroyers rightlier called, and plagues of men.
+Thus fame shall be achieved, renown on earth;
+And what most merits fame, in silence hid.
+But he, the seventh from thee, whom thou beheldst
+The only righteous in a world preverse,
+And therefore hated, therefore so beset
+With foes, for daring single to be just,
+And utter odious truth, that God would come
+To judge them with his Saints; him the Most High
+Rapt in a balmy cloud with winged steeds
+Did, as thou sawest, receive, to walk with God
+High in salvation and the climes of bliss,
+Exempt from death; to show thee what reward
+Awaits the good; the rest what punishment;
+Which now direct thine eyes and soon behold.
+He looked, and saw the face of things quite changed;
+The brazen throat of war had ceased to roar;
+All now was turned to jollity and game,
+To luxury and riot, feast and dance;
+Marrying or prostituting, as befel,
+Rape or adultery, where passing fair
+Allured them; thence from cups to civil broils.
+At length a reverend sire among them came,
+And of their doings great dislike declared,
+And testified against their ways; he oft
+Frequented their assemblies, whereso met,
+Triumphs or festivals; and to them preached
+Conversion and repentance, as to souls
+In prison, under judgements imminent:
+But all in vain: which when he saw, he ceased
+Contending, and removed his tents far off;
+Then, from the mountain hewing timber tall,
+Began to build a vessel of huge bulk;
+Measured by cubit, length, and breadth, and highth;
+Smeared round with pitch; and in the side a door
+Contrived; and of provisions laid in large,
+For man and beast: when lo, a wonder strange!
+Of every beast, and bird, and insect small,
+Came sevens, and pairs; and entered in as taught
+Their order: last the sire and his three sons,
+With their four wives; and God made fast the door.
+Mean while the south-wind rose, and, with black wings
+Wide-hovering, all the clouds together drove
+From under Heaven; the hills to their supply
+Vapour, and exhalation dusk and moist,
+Sent up amain; and now the thickened sky
+Like a dark cieling stood; down rushed the rain
+Impetuous; and continued, till the earth
+No more was seen: the floating vessel swum
+Uplifted, and secure with beaked prow
+Rode tilting o'er the waves; all dwellings else
+Flood overwhelmed, and them with all their pomp
+Deep under water rolled; sea covered sea,
+Sea without shore; and in their palaces,
+Where luxury late reigned, sea-monsters whelped
+And stabled; of mankind, so numerous late,
+All left, in one small bottom swum imbarked.
+How didst thou grieve then, Adam, to behold
+The end of all thy offspring, end so sad,
+Depopulation!  Thee another flood,
+Of tears and sorrow a flood, thee also drowned,
+And sunk thee as thy sons; till, gently reared
+By the Angel, on thy feet thou stoodest at last,
+Though comfortless; as when a father mourns
+His children, all in view destroyed at once;
+And scarce to the Angel utter'dst thus thy plaint.
+O visions ill foreseen!  Better had I
+Lived ignorant of future! so had borne
+My part of evil only, each day's lot
+Enough to bear; those now, that were dispensed
+The burden of many ages, on me light
+At once, by my foreknowledge gaining birth
+Abortive, to torment me ere their being,
+With thought that they must be.  Let no man seek
+Henceforth to be foretold, what shall befall
+Him or his children; evil he may be sure,
+Which neither his foreknowing can prevent;
+And he the future evil shall no less
+In apprehension than in substance feel,
+Grievous to bear: but that care now is past,
+Man is not whom to warn: those few escaped
+Famine and anguish will at last consume,
+Wandering that watery desart:  I had hope,
+When violence was ceased, and war on earth,
+All would have then gone well; peace would have crowned
+With length of happy days the race of Man;
+But I was far deceived; for now I see
+Peace to corrupt no less than war to waste.
+How comes it thus? unfold, celestial Guide,
+And whether here the race of Man will end.
+To whom thus Michael.  Those, whom last thou sawest
+In triumph and luxurious wealth, are they
+First seen in acts of prowess eminent
+And great exploits, but of true virtue void;
+Who, having spilt much blood, and done much wast
+Subduing nations, and achieved thereby
+Fame in the world, high titles, and rich prey;
+Shall change their course to pleasure, ease, and sloth,
+Surfeit, and lust; till wantonness and pride
+Raise out of friendship hostile deeds in peace.
+The conquered also, and enslaved by war,
+Shall, with their freedom lost, all virtue lose
+And fear of God; from whom their piety feigned
+In sharp contest of battle found no aid
+Against invaders; therefore, cooled in zeal,
+Thenceforth shall practice how to live secure,
+Worldly or dissolute, on what their lords
+Shall leave them to enjoy; for the earth shall bear
+More than enough, that temperance may be tried:
+So all shall turn degenerate, all depraved;
+Justice and temperance, truth and faith, forgot;
+One man except, the only son of light
+In a dark age, against example good,
+Against allurement, custom, and a world
+Offended: fearless of reproach and scorn,
+The grand-child, with twelve sons encreased, departs
+From Canaan, to a land hereafter called
+Egypt, divided by the river Nile;
+See where it flows, disgorging at seven mouths
+Into the sea:  To sojourn in that land
+He comes, invited by a younger son
+In time of dearth; a son, whose worthy deeds
+Raise him to be the second in that realm
+Of Pharaoh:  There he dies, and leaves his race
+Growing into a nation, and now grown
+Suspected to a sequent king, who seeks
+To stop their overgrowth, as inmate guests
+Or violence, he of their wicked ways
+Shall them admonish; and before them set
+The paths of righteousness, how much more safe
+And full of peace; denouncing wrath to come
+On their impenitence; and shall return
+Of them derided, but of God observed
+The one just man alive; by his command
+Shall build a wonderous ark, as thou beheldst,
+To save himself, and houshold, from amidst
+A world devote to universal wrack.
+No sooner he, with them of man and beast
+Select for life, shall in the ark be lodged,
+And sheltered round; but all the cataracts
+Of Heaven set open on the Earth shall pour
+Rain, day and night; all fountains of the deep,
+Broke up, shall heave the ocean to usurp
+Beyond all bounds; till inundation rise
+Above the highest hills:  Then shall this mount
+Of Paradise by might of waves be moved
+Out of his place, pushed by the horned flood,
+With all his verdure spoiled, and trees adrift,
+Down the great river to the opening gulf,
+And there take root an island salt and bare,
+The haunt of seals, and orcs, and sea-mews' clang:
+To teach thee that God attributes to place
+No sanctity, if none be thither brought
+By men who there frequent, or therein dwell.
+And now, what further shall ensue, behold.
+He looked, and saw the ark hull on the flood,
+Which now abated; for the clouds were fled,
+Driven by a keen north-wind, that, blowing dry,
+Wrinkled the face of deluge, as decayed;
+And the clear sun on his wide watery glass
+Gazed hot, and of the fresh wave largely drew,
+As after thirst; which made their flowing shrink
+From standing lake to tripping ebb, that stole
+With soft foot towards the deep; who now had stopt
+His sluces, as the Heaven his windows shut.
+The ark no more now floats, but seems on ground,
+Fast on the top of some high mountain fixed.
+And now the tops of hills, as rocks, appear;
+With clamour thence the rapid currents drive,
+Towards the retreating sea, their furious tide.
+Forthwith from out the ark a raven flies,
+And after him, the surer messenger,
+A dove sent forth once and again to spy
+Green tree or ground, whereon his foot may light:
+The second time returning, in his bill
+An olive-leaf he brings, pacifick sign:
+Anon dry ground appears, and from his ark
+The ancient sire descends, with all his train;
+Then with uplifted hands, and eyes devout,
+Grateful to Heaven, over his head beholds
+A dewy cloud, and in the cloud a bow
+Conspicuous with three lifted colours gay,
+Betokening peace from God, and covenant new.
+Whereat the heart of Adam, erst so sad,
+Greatly rejoiced; and thus his joy broke forth.
+O thou, who future things canst represent
+As present, heavenly Instructer!  I revive
+At this last sight; assured that Man shall live,
+With all the creatures, and their seed preserve.
+Far less I now lament for one whole world
+Of wicked sons destroyed, than I rejoice
+For one man found so perfect, and so just,
+That God vouchsafes to raise another world
+From him, and all his anger to forget.
+But say, what mean those coloured streaks in Heaven
+Distended, as the brow of God appeased?
+Or serve they, as a flowery verge, to bind
+The fluid skirts of that same watery cloud,
+Lest it again dissolve, and shower the earth?
+To whom the Arch-Angel.  Dextrously thou aimest;
+So willingly doth God remit his ire,
+Though late repenting him of Man depraved;
+Grieved at his heart, when looking down he saw
+The whole earth filled with violence, and all flesh
+Corrupting each their way; yet, those removed,
+Such grace shall one just man find in his sight,
+That he relents, not to blot out mankind;
+And makes a covenant never to destroy
+The earth again by flood; nor let the sea
+Surpass his bounds; nor rain to drown the world,
+With man therein or beast; but, when he brings
+Over the earth a cloud, will therein set
+His triple-coloured bow, whereon to look,
+And call to mind his covenant: Day and night,
+Seed-time and harvest, heat and hoary frost,
+Shall hold their course; till fire purge all things new,
+Both Heaven and Earth, wherein the just shall dwell.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -686,4 +1106,4 @@ And write next winter more 'Essays on Man.'
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 01:28 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 22, 2025 at 02:23 PM GMT+5<!-- TIMESTAMP:END -->*
