@@ -69,37 +69,71 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Do a jigsaw puzzle
+Buy a new house decoration
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "It is useless to meet revenge with revenge; it will heal nothing."
-> — J.R.R. Tolkien
+> "Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."
+> — Celestine Chua
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Fragment of a Ghost Story" by Percy Bysshe Shelley
-A shovel of his ashes took
-From the hearth's obscurest nook,
-Muttering mysteries as she went.
-Helen and Henry knew that Granny
-Was as much afraid of Ghosts as any,
-And so they followed hard--
-But Helen clung to her brother's arm,
-And her own spasm made her shake.
+"The Water-Fall" by Henry Vaughan
+1 With what deep murmurs through time's silent stealth
+2 Doth thy transparent, cool, and wat'ry wealth
+3 Here flowing fall,
+4 And chide, and call,
+5 As if his liquid, loose retinue stay'd
+6 Ling'ring, and were of this steep place afraid;
+7 The common pass
+8 Where, clear as glass,
+9 All must descend
+10 Not to an end,
+11 But quicken'd by this deep and rocky grave,
+12 Rise to a longer course more bright and brave.
+
+13 Dear stream! dear bank, where often I
+14 Have sate and pleas'd my pensive eye,
+15 Why, since each drop of thy quick store
+16 Runs thither whence it flow'd before,
+17 Should poor souls fear a shade or night,
+18 Who came, sure, from a sea of light?
+19 Or since those drops are all sent back
+20 So sure to thee, that none doth lack,
+21 Why should frail flesh doubt any more
+22 That what God takes, he'll not restore?
+
+23 O useful element and clear!
+24 My sacred wash and cleanser here,
+25 My first consigner unto those
+26 Fountains of life where the Lamb goes!
+27 What sublime truths and wholesome themes
+28 Lodge in thy mystical deep streams!
+29 Such as dull man can never find
+30 Unless that Spirit lead his mind
+31 Which first upon thy face did move,
+32 And hatch'd all with his quick'ning love.
+33 As this loud brook's incessant fall
+34 In streaming rings restagnates all,
+35 Which reach by course the bank, and then
+36 Are no more seen, just so pass men.
+37 O my invisible estate,
+38 My glorious liberty, still late!
+39 Thou art the channel my soul seeks,
+40 Not this with cataracts and creeks.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 34°C, smoke in Karachi 🇵🇰
+🌡️ 35°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -190,4 +224,4 @@ And her own spasm made her shake.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 01:33 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 02:28 PM GMT+5<!-- TIMESTAMP:END -->*
