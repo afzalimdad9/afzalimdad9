@@ -69,45 +69,81 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Mow your neighbor's lawn
+Create a personal website
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "If you do not conquer self, you will be conquered by self."
-> — Napoleon Hill
+> "Don't listen to the person who has the answers; listen to the person who has the questions."
+> — Albert Einstein
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"October" by Edward Thomas
-THE green elm with the one great bough of gold
-Lets leaves into the grass slip, one by one,--
-The short hill grass, the mushrooms small milk-white,
-Harebell and scabious and tormentil,
-That blackberry and gorse, in dew and sun,
-Bow down to; and the wind travels too light
-To shake the fallen birch leaves from the fern;
-The gossamers wander at their own will.
-At heavier steps than birds' the squirrels scold.
+"The Doubter's Prayer" by Anne Bronte
+Eternal Power, of earth and air!
+Unseen, yet seen in all around,
+Remote, but dwelling everywhere,
+Though silent, heard in every sound.
+If e'er thine ear in mercy bent,
+When wretched mortals cried to Thee,
+And if, indeed, Thy Son was sent,
+To save lost sinners such as me:
 
-The rich scene has grown fresh again and new
-As Spring and to the touch is not more cool
-Than it is warm to the gaze; and now I might
-As happy be as earth is beautiful,
-Were I some other or with earth could turn
-In alternation of violet and rose,
-Harebell and snowdrop, at their season due,
-And gorse that has no time not to be gay.
-But if this be not happiness,--who knows?
-Some day I shall think this a happy day,
-And this mood by the name of melancholy
-Shall no more blackened and obscured be.
+Then hear me now, while, kneeling here,
+I lift to thee my heart and eye,
+And all my soul ascends in prayer,
+Oh, give me -­ give me Faith! I cry.
+
+Without some glimmering in my heart,
+I could not raise this fervent prayer;
+But, oh! a stronger light impart,
+And in Thy mercy fix it there.
+
+While Faith is with me, I am blest;
+It turns my darkest night to day;
+But while I clasp it to my breast,
+I often feel it slide away.
+
+Then, cold and dark, my spirit sinks,
+To see my light of life depart;
+And every fiend of Hell, methinks,
+Enjoys the anguish of my heart.
+
+What shall I do, if all my love,
+My hopes, my toil, are cast away,
+And if there be no God above,
+To hear and bless me when I pray?
+
+If this be vain delusion all,
+If death be an eternal sleep,
+And none can hear my secret call,
+Or see the silent tears I weep!
+
+Oh, help me, God! For thou alone
+Canst my distracted soul relieve;
+Forsake it not: it is thine own,
+Though weak, yet longing to believe.
+
+Oh, drive these cruel doubts away;
+And make me know, that Thou art God!
+A faith, that shines by night and day,
+Will lighten every earthly load.
+
+If I believe that Jesus died,
+And, waking, rose to reign above;
+Then surely Sorrow, Sin, and Pride,
+Must yield to Peace, and Hope, and Love.
+
+And all the blessed words He said
+Will strength and holy joy impart:
+A shield of safety o'er my head,
+A spring of comfort in my heart.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -203,4 +239,4 @@ Shall no more blackened and obscured be.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 08:26 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 09:30 PM GMT+5<!-- TIMESTAMP:END -->*
