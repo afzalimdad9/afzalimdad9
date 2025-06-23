@@ -69,82 +69,61 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Find a DIY to do
+Create a meal plan for the coming week
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "The best way to understanding is a few good examples."
-> — Isaac Newton
+> "No man ever steps in the same river twice, for it's not the same river and he's not the same man."
+> — Heraclitus
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"A Woman's Last Word" by Robert Browning
-Let's contend no more, Love,
-  Strive nor weep:
-All be as before, Love,
-  --Only sleep!
+"The Flower" by Lord Alfred Tennyson
+Once in a golden hour
+I cast to earth a seed.
+Up there came a flower,
+The people said, a weed.
 
-What so wild as words are?
-  I and thou
-In debate, as birds are,
-  Hawk on bough!
+To and fro they went
+Thro' my garden bower,
+And muttering discontent
+Cursed me and my flower.
 
-See the creature stalking
-  While we speak!
-Hush and hide the talking,
-  Cheek on cheek.
+Then it grew so tall
+It wore a crown of light,
+But thieves from o'er the wall
+Stole the seed by night.
 
-What so false as truth is,
-  False to thee?
-Where the serpent's tooth is,
-  Shun the tree--
+Sow'd it far and wide
+By every town and tower,
+Till all the people cried,
+"Splendid is the flower!"
 
-Where the apple reddens,
-  Never pry--
-Lest we lose our Edens,
-  Eve and I.
+Read my little fable:
+He that runs may read.
+Most can raise the flowers now,
+For all have got the seed.
 
-Be a god and hold me
-  With a charm!
-Be a man and fold me
-  With thine arm!
-
-Teach me, only teach, Love!
-  As I ought
-I will speak thy speech, Love,
-  Think thy thought--
-
-Meet, if thou require it,
-  Both demands,
-Laying flesh and spirit
-  In thy hands.
-
-That shall be to-morrow,
-  Not to-night:
-I must bury sorrow
-  Out of sight:
-
---Must a little weep, Love,
-  (Foolish me!)
-And so fall asleep, Love,
-  Loved by thee.
+And some are pretty enough,
+And some are poor indeed;
+And now again the people
+Call it but a weed.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 31°C, haze in Karachi 🇵🇰
+🌡️ 32°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -235,4 +214,4 @@ And so fall asleep, Love,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 08:56 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 09:38 AM GMT+5<!-- TIMESTAMP:END -->*
