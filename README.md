@@ -69,66 +69,53 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't.
+Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Buy a new house decoration
+Study a foreign language
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."
-> — Celestine Chua
+> "Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying."
+> — Ming-Dao Deng
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Water-Fall" by Henry Vaughan
-1 With what deep murmurs through time's silent stealth
-2 Doth thy transparent, cool, and wat'ry wealth
-3 Here flowing fall,
-4 And chide, and call,
-5 As if his liquid, loose retinue stay'd
-6 Ling'ring, and were of this steep place afraid;
-7 The common pass
-8 Where, clear as glass,
-9 All must descend
-10 Not to an end,
-11 But quicken'd by this deep and rocky grave,
-12 Rise to a longer course more bright and brave.
+"128. The Farewell" by Robert Burns
+FAREWELL, old Scotia’s bleak domains,
+Far dearer than the torrid plains,
+  Where rich ananas blow!
+Farewell, a mother’s blessing dear!
+A borther’s sigh! a sister’s tear!
+  My Jean’s heart-rending throe!
+Farewell, my Bess! tho’ thou’rt bereft
+  Of my paternal care.
+A faithful brother I have left,
+  My part in him thou’lt share!
+    Adieu, too, to you too,
+      My Smith, my bosom frien’;
+    When kindly you mind me,
+      O then befriend my Jean!
 
-13 Dear stream! dear bank, where often I
-14 Have sate and pleas'd my pensive eye,
-15 Why, since each drop of thy quick store
-16 Runs thither whence it flow'd before,
-17 Should poor souls fear a shade or night,
-18 Who came, sure, from a sea of light?
-19 Or since those drops are all sent back
-20 So sure to thee, that none doth lack,
-21 Why should frail flesh doubt any more
-22 That what God takes, he'll not restore?
 
-23 O useful element and clear!
-24 My sacred wash and cleanser here,
-25 My first consigner unto those
-26 Fountains of life where the Lamb goes!
-27 What sublime truths and wholesome themes
-28 Lodge in thy mystical deep streams!
-29 Such as dull man can never find
-30 Unless that Spirit lead his mind
-31 Which first upon thy face did move,
-32 And hatch'd all with his quick'ning love.
-33 As this loud brook's incessant fall
-34 In streaming rings restagnates all,
-35 Which reach by course the bank, and then
-36 Are no more seen, just so pass men.
-37 O my invisible estate,
-38 My glorious liberty, still late!
-39 Thou art the channel my soul seeks,
-40 Not this with cataracts and creeks.
+What bursting anguish tears my heart;
+From thee, my Jeany, must I part!
+  Thou, weeping, answ’rest—“No!”
+Alas! misfortune stares my face,
+And points to ruin and disgrace,
+  I for thy sake must go!
+Thee, Hamilton, and Aiken dear,
+  A grateful, warm adieu:
+I, with a much-indebted tear,
+  Shall still remember you!
+    All hail then, the gale then,
+      Wafts me from thee, dear shore!
+    It rustles, and whistles
+      I’ll never see thee more!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -224,4 +211,4 @@ Buy a new house decoration
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 02:28 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 03:27 PM GMT+5<!-- TIMESTAMP:END -->*
