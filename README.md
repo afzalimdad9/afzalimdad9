@@ -69,58 +69,44 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Study a foreign language
+Invite some friends over for a game night
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying."
-> — Ming-Dao Deng
+> "Peaceful is the one who expects nothing."
+> — Maxime Lagace
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"128. The Farewell" by Robert Burns
-FAREWELL, old Scotia’s bleak domains,
-Far dearer than the torrid plains,
-  Where rich ananas blow!
-Farewell, a mother’s blessing dear!
-A borther’s sigh! a sister’s tear!
-  My Jean’s heart-rending throe!
-Farewell, my Bess! tho’ thou’rt bereft
-  Of my paternal care.
-A faithful brother I have left,
-  My part in him thou’lt share!
-    Adieu, too, to you too,
-      My Smith, my bosom frien’;
-    When kindly you mind me,
-      O then befriend my Jean!
+""By the Waters of Babylon."" by George Gordon, Lord Byron
+In the valley of waters we wept on the day
+When the host of the Stranger made Salem his prey;
+And our heads on our bosoms all droopingly lay,
+And our hearts were so full of the land far away!
 
+The song they demanded in vain--it lay still
+In our souls as the wind that hath died on the hill--
+They called for the harp--but our blood they shall spill
+Ere our right hands shall teach them one tone of their skill.
 
-What bursting anguish tears my heart;
-From thee, my Jeany, must I part!
-  Thou, weeping, answ’rest—“No!”
-Alas! misfortune stares my face,
-And points to ruin and disgrace,
-  I for thy sake must go!
-Thee, Hamilton, and Aiken dear,
-  A grateful, warm adieu:
-I, with a much-indebted tear,
-  Shall still remember you!
-    All hail then, the gale then,
-      Wafts me from thee, dear shore!
-    It rustles, and whistles
-      I’ll never see thee more!
+All stringlessly hung in the willow's sad tree,
+As dead as her dead-leaf, those mute harps must be:
+Our hands may be fettered--our tears still are free
+For our God--and our Glory--and Sion, Oh _Thee!_
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 35°C, haze in Karachi 🇵🇰
+🌡️ 34°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -211,4 +197,4 @@ I, with a much-indebted tear,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 03:27 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 04:21 PM GMT+5<!-- TIMESTAMP:END -->*
