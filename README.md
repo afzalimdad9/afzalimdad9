@@ -69,67 +69,37 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Your mama's so FAT she can't save files bigger than 4GB.
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Start a collection
+Mow your neighbor's lawn
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Fool me once, shame on you; fool me twice, shame on me. "
-> — Chinese Proverb
+> "Receive without pride, let go without attachment."
+> — Marcus Aurelius
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"From the French" by George Gordon, Lord Byron
-Must thou go, my glorious Chief,
-  Severed from thy faithful few?
-Who can tell thy warrior's grief,
-  Maddening o'er that long adieu?
-Woman's love, and Friendship's zeal,
-  Dear as both have been to me--
-What are they to all I feel,
-  With a soldier's faith for thee?
-
-Idol of the soldier's soul!
-  First in fight, but mightiest now;
-Many could a world control;
-  Thee alone no doom can bow.
-By thy side for years I dared
-  Death; and envied those who fell,
-When their dying shout was heard,
-  Blessing him they served so well.
-
-Would that I were cold with those,
-  Since this hour I live to see;
-When the doubts of coward foes
-  Scarce dare trust a man with thee,
-Dreading each should set thee free!
-  Oh! although in dungeons pent,
-All their chains were light to me,
-  Gazing on thy soul unbent.
-
-Would the sycophants of him
-  Now so deaf to duty's prayer,
-Were his borrowed glories dim,
-  In his native darkness share?
-Were that world this hour his own,
-  All thou calmly dost resign,
-Could he purchase with that throne
-  Hearts like those which still are thine?
-
-My Chief, my King, my Friend, adieu!
-  Never did I droop before;
-Never to my Sovereign sue,
-  As his foes I now implore:
-All I ask is to divide
-  Every peril he must brave;
-Sharing by the hero's side
-  His fall--his exile--and his grave.
+"Versicles" by George Gordon, Lord Byron
+I READ the "Christabel;"
+        Very well:
+I read the "Missionary;"
+        Pretty--very:
+I tried at "Ilderim;"
+        Ahem!
+I read a sheet of "Marg'ret of _Anjou_;"
+        _Can you_?
+I turned a page of Webster's "Waterloo;"
+        Pooh! pooh!
+I looked at Wordsworth's milk-white "Rylstone Doe;"
+        Hillo!
+I read "Glenarvon," too, by Caro Lamb;
+        God damn!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -225,4 +195,4 @@ Sharing by the hero's side
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 23, 2025 at 11:33 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 24, 2025 at 12:18 AM GMT+5<!-- TIMESTAMP:END -->*
