@@ -69,62 +69,31 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Take your cat on a walk
+Learn a new recipe
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "What you resist, persists."
-> — Carl Jung
+> "Attitude, not aptitude, determines altitude.  "
+> — Zig Ziglar
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"At Home" by Christina Rossetti
-When I was dead, my spirit turned
-To seek the much-frequented house:
-I passed the door, and saw my friends
-Feasting beneath green orange boughs;
-From hand to hand they pushed the wine,
-They sucked the pulp of plum and peach;
-They sang, they jested, and they laughed,
-For each was loved of each.
-
-I listened to thier honest chat:
-Said one: "To-morrow we shall be
-Plod plod along the featureless sands,
-And coasting miles and miles of sea."
-Said one: "Before the turn of tide
-We will achieve the eyrie-seat."
-Said one: "To-morrow shall be like
-To-day, but much more sweet."
-
-"To-morrow," said they, strong with hope,
-And dwelt upon the pleasant way:
-"To-morrow," cried they, one and all,
-While no one spoke of yesterday.
-Their life stood full at blessed noon;
-I, only I, had passed away:
-"To-morrow and to-day," they cried;
-I was of yesterday.
-
-I shivered comfortless, but cast
-No chill across the table-cloth;
-I, all-forgotten, shivered, sad
-To stay, and yet to part how loth:
-I passed from the familiar room,
-I who from love had passed away,
-Like the remembrance of a guest
-That tarrieth but a day.
+"A Dirge" by Percy Bysshe Shelley
+Rough wind, that moanest loud
+Grief too sad for song;
+Wild wind, when sullen cloud
+Knells all the night long;
+Sad storm whose tears are vain,
+Bare woods, whose branches strain,
+Deep caves and dreary main,--
+Wail, for the world's wrong!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -220,4 +189,4 @@ That tarrieth but a day.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 24, 2025 at 11:33 PM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 24, 2025 at 11:51 PM GMT+5<!-- TIMESTAMP:END -->*
