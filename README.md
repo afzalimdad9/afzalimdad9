@@ -69,42 +69,48 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."
+The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Go to the library and find an interesting book
+Start a daily journal
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
 <!-- QUOTE:START -->
-> "Inspire yourself to be great. Being good isn't good enough."
-> — Gurbaksh Chahal
+> "Remain calm. Be kind."
+> — Colin Powell
 <!-- QUOTE:END -->
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Stonepit" by John Clare
-The passing traveller with wonder sees
-A deep and ancient stonepit full of trees;
-So deep and very deep the place has been,
-The church might stand within and not be seen.
-The passing stranger oft with wonder stops
-And thinks he een could walk upon their tops,
-And often stoops to see the busy crow,
-And stands above and sees the eggs below;
-And while the wild horse gives its head a toss,
-The squirrel dances up and runs across.
-The boy that stands and kills the black nosed bee
-Dares down as soon as magpies' nests are found,
-And wonders when he climbs the highest tree
-To find it reaches scarce above the ground.
+"Sonnet 135: Whoever hath her wish, thou hast thy 'Will,'" by William Shakespeare
+Whoever hath her wish, thou hast thy 'Will,'
+And 'Will' to boot, and 'Will' in over-plus;
+More than enough am I that vex'd thee still,
+To thy sweet will making addition thus.
+Wilt thou, whose will is large and spacious,
+Not once vouchsafe to hide my will in thine?
+Shall will in others seem right gracious,
+And in my will no fair acceptance shine?
+The sea, all water, yet receives rain still,
+And in abundance addeth to his store;
+So thou, being rich in 'Will,' add to thy 'Will'
+One will of mine, to make thy large will more.
+  Let no unkind 'No' fair beseechers kill;
+  Think all but one, and me in that one 'Will.'
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 31°C, haze in Karachi 🇵🇰
+🌡️ 32°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -195,4 +201,4 @@ To find it reaches scarce above the ground.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-*Last updated: <!-- TIMESTAMP:START -->June 24, 2025 at 08:22 AM GMT+5<!-- TIMESTAMP:END -->*
+*Last updated: <!-- TIMESTAMP:START -->June 24, 2025 at 09:32 AM GMT+5<!-- TIMESTAMP:END -->*
