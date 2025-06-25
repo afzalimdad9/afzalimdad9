@@ -28,21 +28,6 @@ async function getActivity() {
   }
 }
 
-// Fetch a random quote
-async function getQuote() {
-  try {
-    const { data } = await axios.get('https://zenquotes.io/api/random');
-    if (Array.isArray(data) && data.length > 0) {
-      const quote = data[0];
-      // You can use quote.h for HTML, or format your own Markdown:
-      return `> "${quote.q}"\n> \u2014 ${quote.a}`;
-    }
-    return 'No quote found!';
-  } catch {
-    return 'No quote available!';
-  }
-}
-
 // Fetch a random poem
 async function getPoetry() {
   try {
@@ -190,10 +175,9 @@ async function updateReadme() {
     const languages = await getLanguageStats();
     const weather = await getWeather();
     // Fetch dynamic content
-    const [joke, activity, quote, poetry] = await Promise.all([
+    const [joke, activity, poetry] = await Promise.all([
       getJoke(),
       getActivity(),
-      getQuote(),
       getPoetry()
     ]);
 
@@ -325,7 +309,6 @@ async function updateReadme() {
       { pattern: /<!-- TYPING_LINES:START -->[\s\S]*?<!-- TYPING_LINES:END -->/, replacement: typingLines.join(';') },
       { pattern: /<!-- JOKE:START -->[\s\S]*?<!-- JOKE:END -->/, replacement: `<!-- JOKE:START -->\n${joke}\n<!-- JOKE:END -->` },
       { pattern: /<!-- ACTIVITY:START -->[\s\S]*?<!-- ACTIVITY:END -->/, replacement: `<!-- ACTIVITY:START -->\n${activity}\n<!-- ACTIVITY:END -->` },
-      { pattern: /<!-- QUOTE:START -->[\s\S]*?<!-- QUOTE:END -->/, replacement: `<!-- QUOTE:START -->\n${quote}\n<!-- QUOTE:END -->` },
       { pattern: /<!-- WEATHER:START -->[\s\S]*?<!-- WEATHER:END -->/, replacement: `<!-- WEATHER:START -->\n${weather}\n<!-- WEATHER:END -->` },
       { pattern: /<!-- TIMESTAMP:START -->[\s\S]*?<!-- TIMESTAMP:END -->/, replacement: `<!-- TIMESTAMP:START -->${new Date().toLocaleString('en-US', { timeZone: 'Asia/Karachi', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' })}<!-- TIMESTAMP:END -->` },
       { pattern: /<!-- POETRY:START -->[\s\S]*?<!-- POETRY:END -->/, replacement: `<!-- POETRY:START -->\n${poetry}\n<!-- POETRY:END -->` }
