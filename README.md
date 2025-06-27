@@ -35,7 +35,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 6/25/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 6/26/2025)
 - 🔥 [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥 ⭐ 3 (Updated: 6/24/2025)
 - 🔥 [express-generator-typescript](https://github.com/afzalimdad9/express-generator-typescript) - Create a new express app similar to express-generator but with TypeScript ⭐ 0 (Updated: 6/22/2025)
 <!-- HOT_REPOS:END -->
@@ -71,17 +71,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Research a topic you're interested in
+Take your dog on a walk
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -90,2021 +85,777 @@ Research a topic you're interested in
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Troilus and Criseyde: Book II" by Geoffrey Chaucer
-
-Out of these blake wawes for to sayle,
-O wind, O wind, the weder ginneth clere;
-For in this see the boot hath swich travayle,
-Of my conning, that unnethe I it stere:
-This see clepe I the tempestous matere
-Of desespeyr that Troilus was inne:
-But now of hope the calendes biginne.
-
-O lady myn, that called art Cleo,
-Thou be my speed fro this forth, and my muse,
-To ryme wel this book, til I have do;
-Me nedeth here noon other art to use.
-For-why to every lovere I me excuse,
-That of no sentement I this endyte,
-But out of Latin in my tonge it wryte.
-
-Wherfore I nil have neither thank ne blame
-Of al this werk, but prey yow mekely,
-Disblameth me if any word be lame,
-For as myn auctor seyde, so seye I.
-Eek though I speke of love unfelingly,
-No wondre is, for it no-thing of newe is;
-A blind man can nat Iuggen wel in hewis.
-
-Ye knowe eek, that in forme of speche is chaunge
-With-inne a thousand yeer, and wordes tho
-That hadden prys, now wonder nyce and straunge
-Us thinketh hem; and yet they spake hem so,
-And spedde as wel in love as men now do;
-Eek for to winne love in sondry ages,
-In sondry londes, sondry ben usages.
-
-And for-thy if it happe in any wyse,
-That here be any lovere in this place
-That herkneth, as the storie wol devyse,
-How Troilus com to his lady grace,
-And thenketh, so nolde I nat love purchace,
-Or wondreth on his speche or his doinge,
-I noot; but it is me no wonderinge;
-
-For every wight which that to Rome went,
-Halt nat o path, or alwey o manere;
-Eek in som lond were al the gamen shent,
-If that they ferde in love as men don here,
-As thus, in open doing or in chere,
-In visitinge, in forme, or seyde hire sawes;
-For-thy men seyn, ech contree hath his lawes.
-
-Eek scarsly been ther in this place three
-That han in love seid lyk and doon in al;
-For to thy purpos this may lyken thee,
-And thee right nought, yet al is seyd or shal;
-Eek som men grave in tree, som in stoon wal,
-As it bitit; but sin I have begonne,
-Myn auctor shal I folwen, if I conne.
-
-Exclipit prohemium Secundi Libri.
-
-
-Incipit Liber Secundus.
-
-In May, that moder is of monthes glade,
-That fresshe floures, blewe, and whyte, and rede,
-Ben quike agayn, that winter dede made,
-And ful of bawme is fleting every mede;
-Whan Phebus doth his brighte bemes sprede
-Right in the whyte Bole, it so bitidde
-As I shal singe, on Mayes day the thridde,
-
-That Pandarus, for al his wyse speche,
-Felt eek his part of loves shottes kene,
-That, coude he never so wel of loving preche,
-It made his hewe a-day ful ofte grene;
-So shoop it, that hym fil that day a tene
-In love, for which in wo to bedde he wente,
-And made, er it was day, ful many a wente.
-
-The swalwe Proigne, with a sorwful lay,
-Whan morwe com, gan make hir waymentinge,
-Why she forshapen was; and ever lay
-Pandare a-bedde, half in a slomeringe,
-Til she so neigh him made hir chiteringe
-How Tereus gan forth hir suster take,
-That with the noyse of hir he gan a-wake;
-
-And gan to calle, and dresse him up to ryse,
-Remembringe him his erand was to done
-From Troilus, and eek his greet empryse;
-And caste and knew in good plyt was the mone
-To doon viage, and took his wey ful sone
-Un-to his neces paleys ther bi-syde;
-Now Ianus, god of entree, thou him gyde!
-
-Whan he was come un-to his neces place,
-`Wher is my lady?' to hir folk seyde he;
-And they him tolde; and he forth in gan pace,
-And fond, two othere ladyes sete and she,
-With-inne a paved parlour; and they three
-Herden a mayden reden hem the geste
-Of the Sege of Thebes, whyl hem leste.
-
-Quod Pandarus, `Ma dame, god yow see,
-With al your book and al the companye!'
-`Ey, uncle myn, welcome y-wis,' quod she,
-And up she roos, and by the hond in hye
-She took him faste, and seyde, `This night thrye,
-To goode mote it turne, of yow I mette!'
-And with that word she doun on bench him sette.
-
-`Ye, nece, ye shal fare wel the bet,
-If god wole, al this yeer,' quod Pandarus;
-`But I am sory that I have yow let
-To herknen of your book ye preysen thus;
-For goddes love, what seith it? tel it us.
-Is it of love? O, som good ye me lere!'
-`Uncle,' quod she, `your maistresse is not here!'
-
-With that they gonnen laughe, and tho she seyde,
-`This romaunce is of Thebes, that we rede;
-And we han herd how that king Laius deyde
-Thurgh Edippus his sone, and al that dede;
-And here we stenten at these lettres rede,
-How the bisshop, as the book can telle,
-Amphiorax, fil thurgh the ground to helle.'
-
-Quod Pandarus, `Al this knowe I my-selve,
-And al the assege of Thebes and the care;
-For her-of been ther maked bokes twelve: --
-But lat be this, and tel me how ye fare;
-Do wey your barbe, and shew your face bare;
-Do wey your book, rys up, and lat us daunce,
-And lat us don to May som observaunce.'
-
-`A! God forbede!' quod she. `Be ye mad?
-Is that a widewes lyf, so god you save?
-By god, ye maken me right sore a-drad,
-Ye ben so wilde, it semeth as ye rave!
-It sete me wel bet ay in a cave
-To bidde, and rede on holy seyntes lyves;
-Lat maydens gon to daunce, and yonge wyves.'
-
-`As ever thryve I,' quod this Pandarus,
-`Yet coude I telle a thing to doon you pleye.'
-`Now, uncle dere,' quod she, `tel it us
-For goddes love; is than the assege aweye?
-I am of Grekes so ferd that I deye.'
-`Nay, nay,' quod he, `as ever mote I thryve!
-It is a thing wel bet than swiche fyve.'
-
-`Ye, holy god,' quod she, `what thing is that?
-What! Bet than swiche fyve? Ey, nay, y-wis!
-For al this world ne can I reden what
-It sholde been; som Iape, I trowe, is this;
-And but your-selven telle us what it is,
-My wit is for to arede it al to lene;
-As help me god, I noot nat what ye meene.'
-
-`And I your borow, ne never shal, for me,
-This thing be told to yow, as mote I thryve!'
-`And why so, uncle myn? Why so?' quod she.
-`By god,' quod he, `that wole I telle as blyve;
-For prouder womman were ther noon on-lyve,
-And ye it wiste, in al the toun of Troye;
-I iape nought, as ever have I Ioye!'
-
-Tho gan she wondren more than biforn
-A thousand fold, and doun hir eyen caste;
-For never, sith the tyme that she was born,
-To knowe thing desired she so faste;
-And with a syk she seyde him at the laste,
-`Now, uncle myn, I nil yow nought displese,
-Nor axen more, that may do yow disese.'
-
-So after this, with many wordes glade,
-And freendly tales, and with mery chere,
-Of this and that they pleyde, and gunnen wade
-In many an unkouth glad and deep matere,
-As freendes doon, whan they ben met y-fere;
-Til she gan axen him how Ector ferde,
-That was the tounes wal and Grekes yerde.
-
-`Ful wel, I thanke it god,' quod Pandarus,
-`Save in his arm he hath a litel wounde;
-And eek his fresshe brother Troilus,
-The wyse worthy Ector the secounde,
-In whom that ever vertu list abounde,
-As alle trouthe and alle gentillesse,
-Wysdom, honour, fredom, and worthinesse.'
-
-`In good feith, eem,' quod she, `that lyketh me;
-They faren wel, god save hem bothe two!
-For trewely I holde it greet deyntee
-A kinges sone in armes wel to do,
-And been of good condiciouns ther-to;
-For greet power and moral vertu here
-Is selde y-seye in o persone y-fere.'
-
-`In good feith, that is sooth,' quod Pandarus;
-`But, by my trouthe, the king hath sones tweye,
-That is to mene, Ector and Troilus,
-That certainly, though that I sholde deye,
-They been as voyde of vyces, dar I seye,
-As any men that liveth under the sonne,
-Hir might is wyde y-knowe, and what they conne.
-
-`Of Ector nedeth it nought for to telle:
-In al this world ther nis a bettre knight
-Than he, that is of worthinesse welle;
-And he wel more vertu hath than might.
-This knoweth many a wys and worthy wight.
-The same prys of Troilus I seye,
-God help me so, I knowe not swiche tweye.'
-
-`By god,' quod she, `of Ector that is sooth;
-Of Troilus the same thing trowe I;
-For, dredelees, men tellen that he dooth
-In armes day by day so worthily,
-And bereth him here at hoom so gentilly
-To every wight, that al the prys hath he
-Of hem that me were levest preysed be.'
-
-`Ye sey right sooth, y-wis,' quod Pandarus;
-`For yesterday, who-so hadde with him been,
-He might have wondred up-on Troilus;
-For never yet so thikke a swarm of been
-Ne fleigh, as Grekes fro him gonne fleen;
-And thorugh the feld, in everi wightes ere,
-Ther nas no cry but "Troilus is there!"
-
-`Now here, now there, he hunted hem so faste,
-Ther nas but Grekes blood; and Troilus,
-Now hem he hurte, and hem alle doun he caste;
-Ay where he wente, it was arayed thus:
-He was hir deeth, and sheld and lyf for us;
-That as that day ther dorste noon with-stonde,
-Whyl that he held his blody swerd in honde.
-
-`Therto he is the freendlieste man
-Of grete estat, that ever I saw my lyve;
-And wher him list, best felawshipe can
-To suche as him thinketh able for to thryve.'
-And with that word tho Pandarus, as blyve,
-He took his leve, and seyde, `I wol go henne.'
-`Nay, blame have I, myn uncle,' quod she thenne.
-
-`What eyleth yow to be thus wery sone,
-And namelich of wommen? Wol ye so?
-Nay, sitteth down; by god, I have to done
-With yow, to speke of wisdom er ye go.'
-And every wight that was a-boute hem tho,
-That herde that, gan fer a-wey to stonde,
-Whyl they two hadde al that hem liste in honde.
-
-Whan that hir tale al brought was to an ende,
-Of hire estat and of hir governaunce,
-Quod Pandarus, `Now is it tyme I wende;
-But yet, I seye, aryseth, lat us daunce,
-And cast your widwes habit to mischaunce:
-What list yow thus your-self to disfigure,
-Sith yow is tid thus fair an aventure?'
-
-`A! Wel bithought! For love of god,' quod she,
-`Shal I not witen what ye mene of this?'
-`No, this thing axeth layser,' tho quod he,
-`And eek me wolde muche greve, y-wis,
-If I it tolde, and ye it toke amis.
-Yet were it bet my tonge for to stille
-Than seye a sooth that were ayeins your wille.
-
-`For, nece, by the goddesse Minerve,
-And Iuppiter, that maketh the thonder ringe,
-And by the blisful Venus that I serve,
-Ye been the womman in this world livinge,
-With-oute paramours, to my wittinge,
-That I best love, and lothest am to greve,
-And that ye witen wel your-self, I leve.'
-
-`Y-wis, myn uncle,' quod she, `grant mercy;
-Your freendship have I founden ever yit;
-I am to no man holden trewely,
-So muche as yow, and have so litel quit;
-And, with the grace of god, emforth my wit,
-As in my gilt I shal you never offende;
-And if I have er this, I wol amende.
-
-`But, for the love of god, I yow beseche,
-As ye ben he that I love most and triste,
-Lat be to me your fremde manere speche,
-And sey to me, your nece, what yow liste:'
-And with that word hir uncle anoon hir kiste,
-And seyde, `Gladly, leve nece dere,
-Tak it for good that I shal seye yow here.'
-
-With that she gan hir eiyen doun to caste,
-And Pandarus to coghe gan a lyte,
-And seyde, `Nece, alwey, lo! To the laste,
-How-so it be that som men hem delyte
-With subtil art hir tales for to endyte,
-Yet for al that, in hir entencioun
-Hir tale is al for som conclusioun.
-
-`And sithen thende is every tales strengthe,
-And this matere is so bihovely,
-What sholde I peynte or drawen it on lengthe
-To yow, that been my freend so feithfully?'
-And with that word he gan right inwardly
-Biholden hir, and loken on hir face,
-And seyde, `On suche a mirour goode grace!'
-
-Than thoughte he thus: `If I my tale endyte
-Ought hard, or make a proces any whyle,
-She shal no savour han ther-in but lyte,
-And trowe I wolde hir in my wil bigyle.
-For tendre wittes wenen al be wyle
-Ther-as they can nat pleynly understonde;
-For-thy hir wit to serven wol I fonde --'
-
-And loked on hir in a besy wyse,
-And she was war that he byheld hir so,
-And seyde, `Lord! So faste ye me avyse!
-Sey ye me never er now? What sey ye, no?'
-`Yes, yes,' quod he, `and bet wole er I go;
-But, by my trouthe, I thoughte now if ye
-Be fortunat, for now men shal it see.
-
-`For to every wight som goodly aventure
-Som tyme is shape, if he it can receyven;
-And if that he wol take of it no cure,
-Whan that it commeth, but wilfully it weyven,
-Lo, neither cas nor fortune him deceyven,
-But right his verray slouthe and wrecchednesse;
-And swich a wight is for to blame, I gesse.
-
-`Good aventure, O bele nece, have ye
-Ful lightly founden, and ye conne it take;
-And, for the love of god, and eek of me,
-Cacche it anoon, lest aventure slake.
-What sholde I lenger proces of it make?
-Yif me your hond, for in this world is noon,
-If that yow list, a wight so wel begoon.
-
-`And sith I speke of good entencioun,
-As I to yow have told wel here-biforn,
-And love as wel your honour and renoun
-As creature in al this world y-born;
-By alle the othes that I have yow sworn,
-And ye be wrooth therfore, or wene I lye,
-Ne shal I never seen yow eft with ye.
-
-`Beth nought agast, ne quaketh nat; wher-to?
-Ne chaungeth nat for fere so your hewe;
-For hardely the werste of this is do;
-And though my tale as now be to yow newe,
-Yet trist alwey, ye shal me finde trewe;
-And were it thing that me thoughte unsittinge,
-To yow nolde I no swiche tales bringe.'
-
-`Now, my good eem, for goddes love, I preye,'
-Quod she, `com of, and tel me what it is;
-For bothe I am agast what ye wol seye,
-And eek me longeth it to wite, y-wis.
-For whether it be wel or be amis,
-Say on, lat me not in this fere dwelle:'
-`So wol I doon; now herkneth, I shal telle:
-
-`Now, nece myn, the kinges dere sone,
-The goode, wyse, worthy, fresshe, and free,
-Which alwey for to do wel is his wone,
-The noble Troilus, so loveth thee,
-That, bot ye helpe, it wol his bane be.
-Lo, here is al, what sholde I more seye?
-Doth what yow list, to make him live or deye.
-
-`But if ye lete him deye, I wol sterve;
-Have her my trouthe, nece, I nil not lyen;
-Al sholde I with this knyf my throte kerve --'
-With that the teres braste out of his yen,
-And seyde, `If that ye doon us bothe dyen,
-Thus giltelees, than have ye fisshed faire;
-What mende ye, though that we bothe apeyre?
-
-`Allas! He which that is my lord so dere,
-That trewe man, that noble gentil knight,
-That nought desireth but your freendly chere,
-I see him deye, ther he goth up-right,
-And hasteth him, with al his fulle might,
-For to be slayn, if fortune wol assente;
-Allas! That god yow swich a beautee sente!
-
-`If it be so that ye so cruel be,
-That of his deeth yow liste nought to recche,
-That is so trewe and worthy, as ye see,
-No more than of a Iapere or a wrecche,
-If ye be swich, your beautee may not strecche
-To make amendes of so cruel a dede;
-Avysement is good bifore the nede.
-
-`Wo worth the faire gemme vertulees!
-Wo worth that herbe also that dooth no bote!
-Wo worth that beautee that is routhelees!
-Wo worth that wight that tret ech under fote!
-And ye, that been of beautee crop and rote,
-If therwith-al in you ther be no routhe,
-Than is it harm ye liven, by my trouthe!
-
-`And also thenk wel that this is no gaude;
-For me were lever, thou and I and he
-Were hanged, than I sholde been his baude,
-As heyghe, as men mighte on us alle y-see:
-I am thyn eem, the shame were to me,
-As wel as thee, if that I sholde assente,
-Thorugh myn abet, that he thyn honour shente.
-
-`Now understond, for I yow nought requere,
-To binde yow to him thorugh no beheste,
-But only that ye make him bettre chere
-Than ye han doon er this, and more feste,
-So that his lyf be saved, at the leste;
-This al and som, and playnly our entente;
-God help me so, I never other mente.
-
-`Lo, this request is not but skile, y-wis,
-Ne doute of reson, pardee, is ther noon.
-I sette the worste that ye dredden this,
-Men wolden wondren seen him come or goon:
-Ther-ayeins answere I thus a-noon,
-That every wight, but he be fool of kinde,
-Wol deme it love of freendship in his minde.
-
-`What? Who wol deme, though he see a man
-To temple go, that he the images eteth?
-Thenk eek how wel and wysly that he can
-Governe him-self, that he no-thing foryeteth,
-That, wher he cometh, he prys and thank him geteth;
-And eek ther-to, he shal come here so selde,
-What fors were it though al the toun behelde?
-
-`Swich love of freendes regneth al this toun;
-And wrye yow in that mantel ever-mo;
-And god so wis be my savacioun,
-As I have seyd, your beste is to do so.
-But alwey, goode nece, to stinte his wo,
-So lat your daunger sucred ben a lyte,
-That of his deeth ye be nought for to wyte.'
-
-Criseyde, which that herde him in this wyse,
-Thoughte, `I shal fele what he meneth, y-wis.'
-`Now, eem,' quod she, `what wolde ye devyse?
-What is your reed I sholde doon of this?'
-`That is wel seyd,' quod be. `certayn, best is
-That ye him love ayein for his lovinge,
-As love for love is skilful guerdoninge.
-
-`Thenk eek, how elde wasteth every houre
-In eche of yow a party of beautee;
-And therfore, er that age thee devoure,
-Go love, for, olde, ther wol no wight of thee.
-Lat this proverbe a lore un-to yow be;
-"To late y-war, quod Beautee, whan it paste;"
-And elde daunteth daunger at the laste.
-
-`The kinges fool is woned to cryen loude,
-Whan that him thinketh a womman bereth hir hye,
-"So longe mote ye live, and alle proude,
-Til crowes feet be growe under your ye,
-And sende yow thanne a mirour in to prye
-In whiche that ye may see your face a-morwe!"
-Nece, I bidde wisshe yow no more sorwe.'
-
-With this he stente, and caste adoun the heed,
-And she bigan to breste a-wepe anoon,
-And seyde, `Allas, for wo! Why nere I deed?
-For of this world the feith is al agoon!
-Allas! What sholden straunge to me doon,
-Whan he, that for my beste freend I wende,
-Ret me to love, and sholde it me defende?
-
-`Allas! I wolde han trusted, doutelees,
-That if that I, thurgh my disaventure,
-Had loved other him or Achilles,
-Ector, or any mannes creature,
-Ye nolde han had no mercy ne mesure
-On me, but alwey had me in repreve;
-This false world, allas! Who may it leve?
-
-`What? Is this al the Ioye and al the feste?
-Is this your reed, is this my blisful cas?
-Is this the verray mede of your beheste?
-Is al this peynted proces seyd, allas!
-Right for this fyn? O lady myn, Pallas!
-Thou in this dredful cas for me purveye;
-For so astonied am I that I deye!'
-
-With that she gan ful sorwfully to syke;
-`A! May it be no bet?' quod Pandarus;
-`By god, I shal no-more come here this wyke,
-And god to-forn, that am mistrusted thus;
-I see ful wel that ye sette lyte of us,
-Or of our deeth! Allas! I woful wrecche!
-Mighte he yet live, of me is nought to recche.
-
-`O cruel god, O dispitouse Marte,
-O Furies three of helle, on yow I crye!
-So lat me never out of this hous departe,
-If that I mente harm or vilanye!
-But sith I see my lord mot nedes dye,
-And I with him, here I me shryve, and seye
-That wikkedly ye doon us bothe deye.
-
-`But sith it lyketh yow that I be deed,
-By Neptunus, that god is of the see,
-Fro this forth shal I never eten breed
-Til I myn owene herte blood may see;
-For certayn, I wole deye as sone as he --'
-And up he sterte, and on his wey he raughte,
-Til she agayn him by the lappe caughte.
-
-Criseyde, which that wel neigh starf for fere,
-So as she was the ferfulleste wight
-That mighte be, and herde eek with hir ere,
-And saw the sorwful ernest of the knight,
-And in his preyere eek saw noon unright,
-And for the harm that mighte eek fallen more,
-She gan to rewe and dredde hir wonder sore;
-
-And thoughte thus, `Unhappes fallen thikke
-Alday for love, and in swich maner cas,
-As men ben cruel in hem-self and wikke;
-And if this man slee here him-self, allas!
-In my presence, it wol be no solas.
-What men wolde of hit deme I can nat seye;
-It nedeth me ful sleyly for to pleye.'
-
-And with a sorwful syk she seyde thrye,
-`A! Lord! What me is tid a sory chaunce!
-For myn estat lyth in Iupartye,
-And eek myn emes lyf lyth in balaunce;
-But nathelees, with goddes governaunce,
-I shal so doon, myn honour shal I kepe,
-And eek his lyf;' and stinte for to wepe.
-
-`Of harmes two, the lesse is for to chese;
-Yet have I lever maken him good chere
-In honour, than myn emes lyf to lese;
-Ye seyn, ye no-thing elles me requere?'
-`No, wis,' quod he, `myn owene nece dere.'
-`Now wel,' quod she, `and I wol doon my peyne;
-I shal myn herte ayeins my lust constreyne.
-
-`But that I nil not holden him in honde,
-Ne love a man, ne can I not, ne may
-Ayeins my wil; but elles wol I fonde,
-Myn honour sauf, plese him fro day to day;
-Ther-to nolde I nought ones have seyd nay,
-But that I dredde, as in my fantasye;
-But cesse cause, ay cesseth maladye.
-
-`And here I make a protestacioun,
-That in this proces if ye depper go,
-That certaynly, for no savacioun
-Of yow, though that ye sterve bothe two,
-Though al the world on o day be my fo,
-Ne shal I never on him han other routhe. --'
-`I graunte wel,' quod Pandare, `by my trouthe.
-
-`But may I truste wel ther-to,' quod he,
-`That of this thing that ye han hight me here,
-Ye wol it holden trewly un-to me?'
-`Ye, doutelees,' quod she, `myn uncle dere.'
-`Ne that I shal han cause in this matere,'
-Quod he, `to pleyne, or after yow to preche?'
-`Why, no, parde; what nedeth more speche?'
-
-Tho fillen they in othere tales glade,
-Til at the laste, `O good eem,' quod she tho,
-`For love of god, which that us bothe made,
-Tel me how first ye wisten of his wo:
-Wot noon of hit but ye?' He seyde, `No.'
-`Can he wel speke of love?' quod she, `I preye,
-Tel me, for I the bet me shal purveye.'
-
-Tho Pandarus a litel gan to smyle,
-And seyde, `By my trouthe, I shal yow telle.
-This other day, nought gon ful longe whyle,
-In-with the paleys-gardyn, by a welle,
-Gan he and I wel half a day to dwelle,
-Right for to speken of an ordenaunce,
-How we the Grekes myghte disavaunce.
-
-`Sone after that bigonne we to lepe,
-And casten with our dartes to and fro,
-Til at the laste he seyde he wolde slepe,
-And on the gres a-doun he leyde him tho;
-And I after gan rome to and fro
-Til that I herde, as that I welk allone,
-How he bigan ful wofully to grone.
-
-`Tho gan I stalke him softely bihinde,
-And sikerly, the sothe for to seyne,
-As I can clepe ayein now to my minde,
-Right thus to Love he gan him for to pleyne;
-He seyde, "Lord! Have routhe up-on my peyne,
-Al have I been rebel in myn entente;
-Now, MEA CULPA, lord! I me repente.
-
-`"O god, that at thy disposicioun
-Ledest the fyn by Iuste purveyaunce,
-Of every wight, my lowe confessioun
-Accepte in gree, and send me swich penaunce
-As lyketh thee, but from desesperaunce,
-That may my goost departe awey fro thee,
-Thou be my sheld, for thy benignitee.
-
-`"For certes, lord, so soore hath she me wounded,
-That stod in blak, with loking of hir yen,
-That to myn hertes botme it is y-sounded,
-Thorugh which I woot that I mot nedes dyen;
-This is the worste, I dar me not bi-wryen;
-And wel the hotter been the gledes rede,
-That men hem wryen with asshen pale and dede."
-
-`With that he smoot his heed adoun anoon,
-And gan to motre, I noot what, trewely.
-And I with that gan stille awey to goon,
-And leet ther-of as no-thing wist hadde I,
-And come ayein anoon and stood him by,
-And seyde, "A-wake, ye slepen al to longe;
-It semeth nat that love dooth yow longe,
-
-`"That slepen so that no man may yow wake.
-Who sey ever or this so dul a man?"
-"Ye, freend," quod he, "do ye your hedes ake
-For love, and lat me liven as I can."
-But though that he for wo was pale and wan,
-Yet made he tho as freshe a countenaunce
-As though he shulde have led the newe daunce.
-
-`This passed forth, til now, this other day,
-It fel that I com roming al allone
-Into his chaumbre, and fond how that he lay
-Up-on his bed; but man so sore grone
-Ne herde I never, and what that was his mone,
-Ne wist I nought; for, as I was cominge,
-Al sodeynly he lefte his compleyninge.
-
-`Of which I took somwat suspecioun,
-And neer I com, and fond he wepte sore;
-And god so wis be my savacioun,
-As never of thing hadde I no routhe more.
-For neither with engyn, ne with no lore,
-Unethes mighte I fro the deeth him kepe;
-That yet fele I myn herte for him wepe.
-
-`And god wot, never, sith that I was born,
-Was I so bisy no man for to preche,
-Ne never was to wight so depe y-sworn,
-Or he me tolde who mighte been his leche.
-But now to yow rehersen al his speche,
-Or alle his woful wordes for to soune,
-Ne bid me not, but ye wol see me swowne.
-
-`But for to save his lyf, and elles nought,
-And to non harm of yow, thus am I driven;
-And for the love of god that us hath wrought,
-Swich chere him dooth, that he and I may liven.
-Now have I plat to yow myn herte shriven;
-And sin ye woot that myn entente is clene,
-Tak hede ther-of, for I non yvel mene.
-
-`And right good thrift, I prey to god, have ye,
-That han swich oon y-caught with-oute net;
-And be ye wys, as ye ben fair to see,
-Wel in the ring than is the ruby set.
-Ther were never two so wel y-met,
-Whan ye ben his al hool, as he is youre:
-Ther mighty god yet graunte us see that houre!'
-
-`Nay, therof spak I not, a, ha!' quod she,
-`As helpe me god, ye shenden every deel!'
-`O mercy, dere nece,' anoon quod he,
-`What-so I spak, I mente nought but weel,
-By Mars the god, that helmed is of steel;
-Now beth nought wrooth, my blood, my nece dere.'
-`Now wel,' quod she, `foryeven be it here!'
-
-With this he took his leve, and hoom he wente;
-And lord, he was glad and wel bigoon!
-Criseyde aroos, no lenger she ne stente,
-But straught in-to hir closet wente anoon,
-And sette here doun as stille as any stoon,
-And every word gan up and doun to winde,
-That he hadde seyd, as it com hir to minde;
-
-And wex somdel astonied in hir thought,
-Right for the newe cas; but whan that she
-Was ful avysed, tho fond she right nought
-Of peril, why she oughte afered be.
-For man may love, of possibilitee,
-A womman so, his herte may to-breste,
-And she nought love ayein, but-if hir leste.
-
-But as she sat allone and thoughte thus,
-Thascry aroos at skarmish al with-oute,
-And men cryde in the strete, `See, Troilus
-Hath right now put to flight the Grekes route!'
-With that gan al hir meynee for to shoute,
-`A! Go we see, caste up the latis wyde;
-For thurgh this strete he moot to palays ryde;
-
-`For other wey is fro the yate noon
-Of Dardanus, ther open is the cheyne.'
-With that com he and al his folk anoon
-An esy pas rydinge, in routes tweyne,
-Right as his happy day was, sooth to seyne,
-For which, men say, may nought disturbed be
-That shal bityden of necessitee.
-
-This Troilus sat on his baye stede,
-Al armed, save his heed, ful richely,
-And wounded was his hors, and gan to blede,
-On whiche he rood a pas, ful softely;
-But swych a knightly sighte, trewely,
-As was on him, was nought, with-outen faile,
-To loke on Mars, that god is of batayle.
-
-So lyk a man of armes and a knight
-He was to seen, fulfild of heigh prowesse;
-For bothe he hadde a body and a might
-To doon that thing, as wel as hardinesse;
-And eek to seen him in his gere him dresse,
-So fresh, so yong, so weldy semed he,
-It was an heven up-on him for to see.
-
-His helm to-hewen was in twenty places,
-That by a tissew heng, his bak bihinde,
-His sheld to-dasshed was with swerdes and maces,
-In which men mighte many an arwe finde
-That thirled hadde horn and nerf and rinde;
-And ay the peple cryde, `Here cometh our Ioye,
-And, next his brother, holdere up of Troye!'
-
-For which he wex a litel reed for shame,
-Whan he the peple up-on him herde cryen,
-That to biholde it was a noble game,
-How sobreliche he caste doun his yen.
-Cryseyda gan al his chere aspyen,
-And leet so softe it in hir herte sinke,
-That to hir-self she seyde, `Who yaf me drinke?'
-
-For of hir owene thought she wex al reed,
-Remembringe hir right thus, `Lo, this is he
-Which that myn uncle swereth he moot be deed,
-But I on him have mercy and pitee;'
-And with that thought, for pure a-shamed, she
-Gan in hir heed to pulle, and that as faste,
-Whyl he and al the peple for-by paste,
-
-And gan to caste and rollen up and doun
-With-inne hir thought his excellent prowesse,
-And his estat, and also his renoun,
-His wit, his shap, and eek his gentillesse;
-But most hir favour was, for his distresse
-Was al for hir, and thoughte it was a routhe
-To sleen swich oon, if that he mente trouthe.
-
-Now mighte som envyous Iangle thus,
-`This was a sodeyn love; how mighte it be
-That she so lightly lovede Troilus
-Right for the firste sighte; ye, pardee?'
-Now who-so seyth so, mote he never thee!
-For every thing, a ginning hath it nede
-Er al be wrought, with-outen any drede.
-
-For I sey nought that she so sodeynly
-Yaf him hir love, but that she gan enclyne
-To lyke him first, and I have told yow why;
-And after that, his manhod and his pyne
-Made love with-inne hir for to myne,
-For which, by proces and by good servyse,
-He gat hir love, and in no sodeyn wyse.
-
-And also blisful Venus, wel arayed,
-Sat in hir seventhe hous of hevene tho,
-Disposed wel, and with aspectes payed,
-To helpen sely Troilus of his wo.
-And, sooth to seyn, she nas not al a fo
-To Troilus in his nativitee;
-God woot that wel the soner spedde he.
-
-Now lat us stinte of Troilus a throwe,
-That rydeth forth, and lat us tourne faste
-Un-to Criseyde, that heng hir heed ful lowe,
-Ther-as she sat allone, and gan to caste
-Wher-on she wolde apoynte hir at the laste,
-If it so were hir eem ne wolde cesse,
-For Troilus, up-on hir for to presse.
-
-And, lord! So she gan in hir thought argue
-In this matere of which I have yow told,
-And what to doon best were, and what eschue,
-That plyted she ful ofte in many fold.
-Now was hir herte warm, now was it cold,
-And what she thoughte somwhat shal I wryte,
-As to myn auctor listeth for to endyte.
-
-She thoughte wel that Troilus persone
-She knew by sighte and eek his gentillesse,
-And thus she seyde, `Al were it nought to done,
-To graunte him love, yet, for his worthinesse,
-It were honour, with pley and with gladnesse,
-In honestee, with swich a lord to dele,
-For myn estat, and also for his hele.
-
-`Eek, wel wot I my kinges sone is he;
-And sith he hath to see me swich delyt,
-If I wolde utterly his sighte flee,
-Peraunter he mighte have me in dispyt,
-Thurgh which I mighte stonde in worse plyt;
-Now were I wys, me hate to purchace,
-With-outen nede, ther I may stonde in grace?
-
-`In every thing, I woot, ther lyth mesure.
-For though a man forbede dronkenesse,
-He nought for-bet that every creature
-Be drinkelees for alwey, as I gesse;
-Eek sith I woot for me is his distresse,
-I ne oughte not for that thing him despyse,
-Sith it is so, he meneth in good wyse.
-
-`And eek I knowe, of longe tyme agoon,
-His thewes goode, and that he is not nyce.
-Ne avauntour, seyth men, certein, he is noon;
-To wys is he to do so gret a vyce;
-Ne als I nel him never so cheryce,
-That he may make avaunt, by Iuste cause;
-He shal me never binde in swiche a clause.
-
-`Now set a cas, the hardest is, y-wis,
-Men mighten deme that he loveth me;
-What dishonour were it un-to me, this?
-May I him lette of that? Why nay, pardee!
-I knowe also, and alday here and see,
-Men loven wommen al this toun aboute;
-Be they the wers? Why, nay, with-outen doute.
-
-`I thenk eek how he able is for to have
-Of al this noble toun the thriftieste,
-To been his love, so she hir honour save;
-For out and out he is the worthieste,
-Save only Ector, which that is the beste.
-And yet his lyf al lyth now in my cure,
-But swich is love, and eek myn aventure.
-
-`Ne me to love, a wonder is it nought;
-For wel wot I my-self, so god me spede,
-Al wolde I that noon wiste of this thought,
-I am oon the fayreste, out of drede,
-And goodlieste, who-so taketh hede;
-And so men seyn in al the toun of Troye.
-What wonder is it though he of me have Ioye?
-
-`I am myn owene woman, wel at ese,
-I thank it god, as after myn estat;
-Right yong, and stonde unteyd in lusty lese,
-With-outen Ialousye or swich debat;
-Shal noon housbonde seyn to me "Chekmat!"
-For either they ben ful of Ialousye,
-Or maisterful, or loven novelrye.
-
-`What shal I doon? To what fyn live I thus?
-Shal I nat loven, in cas if that me leste?
-What, par dieux! I am nought religious!
-And though that I myn herte sette at reste
-Upon this knight, that is the worthieste,
-And kepe alwey myn honour and my name,
-By alle right, it may do me no shame.'
-
-But right as whan the sonne shyneth brighte,
-In March, that chaungeth ofte tyme his face,
-And that a cloud is put with wind to flighte
-Which over-sprat the sonne as for a space,
-A cloudy thought gan thorugh hir soule pace,
-That over-spradde hir brighte thoughtes alle,
-So that for fere almost she gan to falle.
-
-That thought was this: `Allas! Sin I am free,
-Sholde I now love, and putte in Iupartye
-My sikernesse, and thrallen libertee?
-Allas! How dorste I thenken that folye?
-May I nought wel in other folk aspye
-Hir dredful Ioye, hir constreynt, and hir peyne?
-Ther loveth noon, that she nath why to pleyne.
-
-`For love is yet the moste stormy lyf,
-Right of him-self, that ever was bigonne;
-For ever som mistrust, or nyce stryf,
-Ther is in love, som cloud is over that sonne:
-Ther-to we wrecched wommen no-thing conne,
-Whan us is wo, but wepe and sitte and thinke;
-Our wreche is this, our owene wo to drinke.
-
-`Also these wikked tonges been so prest
-To speke us harm, eek men be so untrewe,
-That, right anoon as cessed is hir lest,
-So cesseth love, and forth to love a newe:
-But harm y-doon, is doon, who-so it rewe.
-For though these men for love hem first to-rende,
-Ful sharp biginning breketh ofte at ende.
-
-`How ofte tyme hath it y-knowen be,
-The treson, that to womman hath be do?
-To what fyn is swich love, I can nat see,
-Or wher bicometh it, whan it is ago;
-Ther is no wight that woot, I trowe so,
-Wher it bycomth; lo, no wight on it sporneth;
-That erst was no-thing, in-to nought it torneth.
-
-`How bisy, if I love, eek moste I be
-To plesen hem that Iangle of love, and demen,
-And coye hem, that they sey non harm of me?
-For though ther be no cause, yet hem semen
-Al be for harm that folk hir freendes quemen;
-And who may stoppen every wikked tonge,
-Or soun of belles whyl that they be ronge?'
-
-And after that, hir thought bigan to clere,
-And seyde, `He which that no-thing under-taketh,
-No thing ne acheveth, be him looth or dere.'
-And with an other thought hir herte quaketh;
-Than slepeth hope, and after dreed awaketh;
-Now hoot, now cold; but thus, bi-twixen tweye,
-She rist hir up, and went hir for to pleye.
-
-Adoun the steyre anoon-right tho she wente
-In-to the gardin, with hir neces three,
-And up and doun ther made many a wente,
-Flexippe, she, Tharbe, and Antigone,
-To pleyen, that it Ioye was to see;
-And othere of hir wommen, a gret route,
-hir folwede in the gardin al aboute.
-
-This yerd was large, and rayled alle the aleyes,
-And shadwed wel with blosmy bowes grene,
-And benched newe, and sonded alle the weyes,
-In which she walketh arm in arm bi-twene;
-Til at the laste Antigone the shene
-Gan on a Troian song to singe clere,
-That it an heven was hir voys to here. --
-
-She seyde, `O love, to whom I have and shal
-Ben humble subgit, trewe in myn entente,
-As I best can, to yow, lord, yeve ich al
-For ever-more, myn hertes lust to rente.
-For never yet thy grace no wight sente
-So blisful cause as me, my lyf to lede
-In alle Ioye and seurtee, out of drede.
-
-`Ye, blisful god, han me so wel beset
-In love, y-wis, that al that bereth lyf
-Imaginen ne cowde how to ben bet;
-For, lord, with-outen Ialousye or stryf,
-I love oon which that is most ententyf
-To serven wel, unwery or unfeyned,
-That ever was, and leest with harm distreyned.
-
-`As he that is the welle of worthinesse,
-Of trouthe ground, mirour of goodliheed,
-Of wit Appollo, stoon of sikernesse,
-Of vertu rote, of lust findere and heed,
-Thurgh which is alle sorwe fro me deed,
-Y-wis, I love him best, so doth he me;
-Now good thrift have he, wher-so that he be!
-
-`Whom sholde I thanke but yow, god of love,
-Of al this blisse, in which to bathe I ginne?
-And thanked be ye, lord, for that I love!
-This is the righte lyf that I am inne,
-To flemen alle manere vyce and sinne:
-This doth me so to vertu for to entende,
-That day by day I in my wil amende.
-
-`And who-so seyth that for to love is vyce,
-Or thraldom, though he fele in it distresse,
-He outher is envyous, or right nyce,
-Or is unmighty, for his shrewednesse,
-To loven; for swich maner folk, I gesse,
-Defamen love, as no-thing of him knowe;
-Thei speken, but they bente never his bowe.
-
-`What is the sonne wers, of kinde righte,
-Though that a man, for feblesse of his yen,
-May nought endure on it to see for brighte?
-Or love the wers, though wrecches on it cryen?
-No wele is worth, that may no sorwe dryen.
-And for-thy, who that hath an heed of verre,
-Fro cast of stones war him in the werre!
-
-`But I with al myn herte and al my might,
-As I have seyd, wol love, un-to my laste,
-My dere herte, and al myn owene knight,
-In which myn herte growen is so faste,
-And his in me, that it shal ever laste.
-Al dredde I first to love him to biginne,
-Now woot I wel, ther is no peril inne.'
-
-And of hir song right with that word she stente,
-And therwith-al, `Now, nece,' quod Criseyde,
-`Who made this song with so good entente?'
-Antigone answerde anoon, and seyde,
-`Ma dame, y-wis, the goodlieste mayde
-Of greet estat in al the toun of Troye;
-And let hir lyf in most honour and Ioye.'
-
-`Forsothe, so it semeth by hir song,'
-Quod tho Criseyde, and gan ther-with to syke,
-And seyde, `Lord, is there swich blisse among
-These lovers, as they conne faire endyte?'
-`Ye, wis,' quod freshe Antigone the whyte,
-`For alle the folk that han or been on lyve
-Ne conne wel the blisse of love discryve.
-
-`But wene ye that every wrecche woot
-The parfit blisse of love? Why, nay, y-wis;
-They wenen al be love, if oon be hoot;
-Do wey, do wey, they woot no-thing of this!
-Men mosten axe at seyntes if it is
-Aught fair in hevene; Why? For they conne telle;
-And axen fendes, is it foul in helle.'
-
-Criseyde un-to that purpos nought answerde,
-But seyde, `Y-wis, it wol be night as faste.'
-But every word which that she of hir herde,
-She gan to prenten in hir herte faste;
-And ay gan love hir lasse for to agaste
-Than it dide erst, and sinken in hir herte,
-That she wex somwhat able to converte.
-
-The dayes honour, and the hevenes ye,
-The nightes fo, al this clepe I the sonne,
-Gan westren faste, and dounward for to wrye,
-As he that hadde his dayes cours y-ronne;
-And whyte thinges wexen dimme and donne
-For lak of light, and sterres for to appere,
-That she and al hir folk in wente y-fere.
-
-So whan it lyked hir to goon to reste,
-And voyded weren they that voyden oughte,
-She seyde, that to slepe wel hir leste.
-Hir wommen sone til hir bed hir broughte.
-Whan al was hust, than lay she stille, and thoughte
-Of al this thing the manere and the wyse.
-Reherce it nedeth nought, for ye ben wyse.
-
-A nightingale, upon a cedre grene,
-Under the chambre-wal ther as she lay,
-Ful loude sang ayein the mone shene,
-Paraunter, in his briddes wyse, a lay
-Of love, that made hir herte fresh and gay.
-That herkned she so longe in good entente,
-Til at the laste the dede sleep hir hente.
-
-And as she sleep, anoon-right tho hir mette,
-How that an egle, fethered whyt as boon,
-Under hir brest his longe clawes sette,
-And out hir herte he rente, and that a-noon,
-And dide his herte in-to hir brest to goon,
-Of which she nought agroos, ne no-thing smerte,
-And forth he fleigh, with herte left for herte.
-
-Now lat hir slepe, and we our tales holde
-Of Troilus, that is to paleys riden,
-Fro the scarmuch, of the whiche I tolde,
-And in his chaumbre sit, and hath abiden
-Til two or three of his messages yeden
-For Pandarus, and soughten him ful faste,
-Til they him founde and broughte him at the laste.
-
-This Pandarus com leping in at ones,
-And seiyde thus: `Who hath ben wel y-bete
-To-day with swerdes, and with slinge-stones,
-But Troilus, that hath caught him an hete?'
-And gan to Iape, and seyde, `Lord, so ye swete!
-But rys, and lat us soupe and go to reste;'
-And he answerde him, `Do we as thee leste.'
-
-With al the haste goodly that they mighte,
-They spedde hem fro the souper un-to bedde;
-And every wight out at the dore him dighte,
-And wher him liste upon his wey him spedde;
-But Troilus, that thoughte his herte bledde
-For wo, til that he herde som tydinge,
-He seyde, `Freend, shal I now wepe or singe?'
-
-Quod Pandarus, `Ly stille and lat me slepe,
-And don thyn hood, thy nedes spedde be;
-And chese, if thou wolt singe or daunce or lepe;
-At shorte wordes, thow shal trowe me. --
-Sire, my nece wol do wel by thee,
-And love thee best, by god and by my trouthe,
-But lak of pursuit make it in thy slouthe.
-
-`For thus ferforth I have thy work bigonne,
-Fro day to day, til this day, by the morwe,
-Hir love of freendship have I to thee wonne,
-And also hath she leyd hir feyth to borwe.
-Algate a foot is hameled of thy sorwe.'
-What sholde I lenger sermon of it holde?
-As ye han herd bifore, al he him tolde.
-
-But right as floures, thorugh the colde of night
-Y-closed, stoupen on hir stalke lowe,
-Redressen hem a-yein the sonne bright,
-And spreden on hir kinde cours by rowe,
-Right so gan tho his eyen up to throwe
-This Troilus, and seyde, `O Venus dere,
-Thy might, thy grace, y-heried be it here!'
-
-And to Pandare he held up bothe his hondes,
-And seyde, `Lord, al thyn be that I have;
-For I am hool, al brosten been my bondes;
-A thousand Troians who so that me yave,
-Eche after other, god so wis me save,
-Ne mighte me so gladen; lo, myn herte,
-It spredeth so for Ioye, it wol to-sterte!
-
-`But Lord, how shal I doon, how shal I liven?
-Whan shal I next my dere herte see?
-How shal this longe tyme a-wey be driven,
-Til that thou be ayein at hir fro me?
-Thou mayst answere, "A-byd, a-byd," but he
-That hangeth by the nekke, sooth to seyne,
-In grete disese abydeth for the peyne.'
-
-`Al esily, now, for the love of Marte,'
-Quod Pandarus, `for every thing hath tyme;
-So longe abyd til that the night departe;
-For al so siker as thow lyst here by me,
-And god toforn, I wol be there at pryme,
-And for thy werk somwhat as I shal seye,
-Or on som other wight this charge leye.
-
-`For pardee, god wot, I have ever yit
-Ben redy thee to serve, and to this night
-Have I nought fayned, but emforth my wit
-Don al thy lust, and shal with al my might.
-Do now as I shal seye, and fare a-right;
-And if thou nilt, wyte al thy-self thy care,
-On me is nought along thyn yvel fare.
-
-`I woot wel that thow wyser art than I
-A thousand fold, but if I were as thou,
-God help me so, as I wolde outrely,
-Right of myn owene hond, wryte hir right now
-A lettre, in which I wolde hir tellen how
-I ferde amis, and hir beseche of routhe;
-Now help thy-self, and leve it not for slouthe.
-
-`And I my-self shal ther-with to hir goon;
-And whan thou wost that I am with hir there,
-Worth thou up-on a courser right anoon,
-Ye, hardily, right in thy beste gere,
-And ryd forth by the place, as nought ne were,
-And thou shalt finde us, if I may, sittinge
-At som windowe, in-to the strete lokinge.
-
-`And if thee list, than maystow us saluwe,
-And up-on me make thy contenaunce;
-But, by thy lyf, be war and faste eschuwe
-To tarien ought, god shilde us fro mischaunce!
-Ryd forth thy wey, and hold thy governaunce;
-And we shal speke of thee som-what, I trowe,
-Whan Thou art goon, to do thyne eres glowe!
-
-`Touching thy lettre, thou art wys y-nough,
-I woot thow nilt it digneliche endyte;
-As make it with thise argumentes tough;
-Ne scrivenish or craftily thou it wryte;
-Beblotte it with thy teres eek a lyte;
-And if thou wryte a goodly word al softe,
-Though it be good, reherce it not to ofte.
-
-`For though the beste harpour upon lyve
-Wolde on the beste souned Ioly harpe
-That ever was, with alle his fingres fyve,
-Touche ay o streng, or ay o werbul harpe,
-Were his nayles poynted never so sharpe,
-It shulde maken every wight to dulle,
-To here his glee, and of his strokes fulle.
-
-`Ne Iompre eek no discordaunt thing y-fere,
-As thus, to usen termes of phisyk;
-In loves termes, hold of thy matere
-The forme alwey, and do that it be lyk;
-For if a peyntour wolde peynte a pyk
-With asses feet, and hede it as an ape,
-It cordeth nought; so nere it but a Iape.'
-
-This counseyl lyked wel to Troilus;
-But, as a dreedful lover, he seyde this: --
-`Allas, my dere brother Pandarus,
-I am ashamed for to wryte, y-wis,
-Lest of myn innocence I seyde a-mis,
-Or that she nolde it for despyt receyve;
-Thanne were I deed, ther mighte it no-thing weyve.'  1050
-
-To that Pandare answerde, `If thee lest,
-Do that I seye, and lat me therwith goon;
-For by that lord that formed est and west,
-I hope of it to bringe answere anoon
-Right of hir hond, and if that thou nilt noon,
-Lat be; and sory mote he been his lyve,
-Ayeins thy lust that helpeth thee to thryve.'
-
-Quod Troilus, `Depardieux, I assente;
-Sin that thee list, I will aryse and wryte;
-And blisful god preye ich, with good entente,
-The vyage, and the lettre I shal endyte,
-So spede it; and thou, Minerva, the whyte,
-Yif thou me wit my lettre to devyse:'
-And sette him doun, and wroot right in this wyse. --
-
-First he gan hir his righte lady calle,
-His hertes lyf, his lust, his sorwes leche,
-His blisse, and eek these othere termes alle,
-That in swich cas these loveres alle seche;
-And in ful humble wyse, as in his speche,
-He gan him recomaunde un-to hir grace;
-To telle al how, it axeth muchel space.
-
-And after this, ful lowly he hir prayde
-To be nought wrooth, though he, of his folye,
-So hardy was to hir to wryte, and seyde,
-That love it made, or elles moste he dye,
-And pitously gan mercy for to crye;
-And after that he seyde, and ley ful loude,
-Him-self was litel worth, and lesse he coude;
-
-And that she sholde han his conning excused,
-That litel was, and eek he dredde hir so,
-And his unworthinesse he ay acused;
-And after that, than gan he telle his woo;
-But that was endeles, with-outen ho;
-And seyde, he wolde in trouthe alwey him holde; --
-And radde it over, and gan the lettre folde.
-
-And with his salte teres gan he bathe
-The ruby in his signet, and it sette
-Upon the wex deliverliche and rathe;
-Ther-with a thousand tymes, er he lette,
-He kiste tho the lettre that he shette,
-And seyde, `Lettre, a blisful destenee
-Thee shapen is, my lady shal thee see.'
-
-This Pandare took the lettre, and that by tyme
-A-morwe, and to his neces paleys sterte,
-And faste he swoor, that it was passed pryme,
-And gan to Iape, and seyde, `Y-wis, myn herte,
-So fresh it is, al-though it sore smerte,
-I may not slepe never a Mayes morwe;
-I have a Ioly wo, a lusty sorwe.'
-
-Criseyde, whan that she hir uncle herde,
-With dreedful herte, and desirous to here
-The cause of his cominge, thus answerde:
-`Now by your feyth, myn uncle,' quod she, `dere,
-What maner windes gydeth yow now here?
-Tel us your Ioly wo and your penaunce,
-How ferforth be ye put in loves daunce.'
-
-`By god,' quod he, `I hoppe alwey bihinde!'
-And she to-laugh, it thoughte hir herte breste.
-Quod Pandarus, `Loke alwey that ye finde
-Game in myn hood, but herkneth, if yow leste;
-Ther is right now come in-to toune a geste,
-A Greek espye, and telleth newe thinges,
-For which I come to telle yow tydinges.
-
-`Into the gardin go we, and we shal here,
-Al prevely, of this a long sermoun.'
-With that they wenten arm in arm y-fere
-In-to the gardin from the chaumbre doun.
-And whan that he so fer was that the soun
-Of that he speke, no man here mighte,
-He seyde hir thus, and out the lettre plighte,
-
-`Lo, he that is al hoolly youres free
-Him recomaundeth lowly to your grace,
-And sent to you this lettre here by me;
-Avyseth you on it, whan ye han space,
-And of som goodly answere yow purchace;
-Or, helpe me god, so pleynly for to seyne,
-He may not longe liven for his peyne.'
-
-Ful dredfully tho gan she stonde stille,
-And took it nought, but al hir humble chere
-Gan for to chaunge, and seyde, `Scrit ne bille,
-For love of god, that toucheth swich matere,
-Ne bring me noon; and also, uncle dere,
-To myn estat have more reward, I preye,
-Than to his lust; what sholde I more seye?
-
-`And loketh now if this be resonable,
-And letteth nought, for favour ne for slouthe,
-To seyn a sooth; now were it covenable
-To myn estat, by god, and by your trouthe,
-To taken it, or to han of him routhe,
-In harming of my-self or in repreve?
-Ber it a-yein, for him that ye on leve!'
-
-This Pandarus gan on hir for to stare,
-And seyde, `Now is this the grettest wonder
-That ever I sey! Lat be this nyce fare!
-To deethe mote I smiten be with thonder,
-If, for the citee which that stondeth yonder,
-Wolde I a lettre un-to yow bringe or take
-To harm of yow; what list yow thus it make?
-
-`But thus ye faren, wel neigh alle and some,
-That he that most desireth yow to serve,
-Of him ye recche leest wher he bicome,
-And whether that he live or elles sterve.
-But for al that that ever I may deserve,
-Refuse it nought,' quod he, and hente hir faste,
-And in hir bosom the lettre doun he thraste,
-
-And seyde hire, `Now cast it awey anoon,
-That folk may seen and gauren on us tweye.'
-Quod she, `I can abyde til they be goon,'
-And gan to smyle, and seyde hym, `Eem, I preye,
-Swich answere as yow list, your-self purveye,
-For trewely I nil no lettre wryte.'
-`No? than wol I,' quod he, `so ye endyte.'
-
-Therwith she lough, and seyde, `Go we dyne.'
-And he gan at him-self to iape faste,
-And seyde, `Nece, I have so greet a pyne
-For love, that every other day I faste' --
-And gan his beste Iapes forth to caste;
-And made hir so to laughe at his folye,
-That she for laughter wende for to dye.
-
-And whan that she was comen in-to halle,
-`Now, eem,' quod she, `we wol go dine anoon;'
-And gan some of hir women to hir calle,
-And streyght in-to hir chaumbre gan she goon;
-But of hir besinesses, this was oon
-A-monges othere thinges, out of drede,
-Ful prively this lettre for to rede;
-
-Avysed word by word in every lyne,
-And fond no lak, she thoughte he coude good;
-And up it putte, and went hir in to dyne.
-But Pandarus, that in a study stood,
-Er he was war, she took him by the hood,
-And seyde, `Ye were caught er that ye wiste;'
-`I vouche sauf,' quod he. `do what yow liste.'
-
-Tho wesshen they, and sette hem doun and ete;
-And after noon ful sleyly Pandarus
-Gan drawe him to the window next the strete,
-And seyde, `Nece, who hath arayed thus
-The yonder hous, that stant afor-yeyn us?'
-`Which hous?' quod she, and gan for to biholde,
-And knew it wel, and whos it was him tolde,
-
-And fillen forth in speche of thinges smale,
-And seten in the window bothe tweye.
-Whan Pandarus saw tyme un-to his tale,
-And saw wel that hir folk were alle aweye,
-`Now, nece myn, tel on,' quod he; `I seye,
-How liketh yow the lettre that ye woot?
-Can he ther-on? For, by my trouthe, I noot.'
-
-Therwith al rosy hewed tho wex she,
-And gan to humme, and seyde, `So I trowe.'
-`Aquyte him wel, for goddes love,' quod he;
-`My-self to medes wol the lettre sowe.'
-And held his hondes up, and sat on knowe,
-`Now, goode nece, be it never so lyte,
-Yif me the labour, it to sowe and plyte.'
-
-`Ye, for I can so wryte,' quod she tho;
-`And eek I noot what I sholde to him seye.'
-`Nay, nece,' quod Pandare, `sey nat so;
-Yet at the leste thanketh him, I preye,
-Of his good wil, and doth him not to deye.
-Now for the love of me, my nece dere,
-Refuseth not at this tyme my preyere.'
-
-`Depar-dieux,' quod she, `God leve al be wel!
-God help me so, this is the firste lettre
-That ever I wroot, ye, al or any del.'
-And in-to a closet, for to avyse hir bettre,
-She wente allone, and gan hir herte unfettre
-Out of disdaynes prison but a lyte;
-And sette hir doun, and gan a lettre wryte,
-
-Of which to telle in short is myn entente
-Theffect, as fer as I can understonde: --
-She thonked him of al that he wel mente
-Towardes hir, but holden him in honde
-She nolde nought, ne make hir-selven bonde
-In love, but as his suster, him to plese,
-She wolde fayn to doon his herte an ese.
-
-She shette it, and to Pandarus in gan goon,
-There as he sat and loked in-to the strete,
-And doun she sette hir by him on a stoon
-Of Iaspre, up-on a quisshin gold y-bete,
-And seyde, `As wisly helpe me god the grete,
-I never dide a thing with more peyne
-Than wryte this, to which ye me constreyne;'
-
-And took it him: He thonked hir and seyde,
-`God woot, of thing ful ofte looth bigonne
-Cometh ende good; and nece myn, Criseyde,
-That ye to him of hard now ben y-wonne
-Oughte he be glad, by god and yonder sonne!
-For-why men seyth, "Impressiounes lighte
-Ful lightly been ay redy to the flighte.'
-
-`But ye han pleyed tyraunt neigh to longe,
-And hard was it your herte for to grave;
-Now stint, that ye no longer on it honge,
-Al wolde ye the forme of daunger save.
-But hasteth yow to doon him Ioye have;
-For trusteth wel, to longe y-doon hardnesse
-Causeth despyt ful often, for destresse.'
-
-And right as they declamed this matere,
-Lo, Troilus, right at the stretes ende,
-Com ryding with his tenthe some y-fere,
-Al softely, and thiderward gan bende
-Ther-as they sete, as was his way to wende
-To paleys-ward; and Pandare him aspyde,
-And seyde, `Nece, y-see who cometh here ryde!
-
-`O flee not in, he seeth us, I suppose;
-Lest he may thinke that ye him eschuwe.'
-`Nay, nay,' quod she, and wex as reed as rose.
-With that he gan hir humbly to saluwe
-With dreedful chere, and oft his hewes muwe;
-And up his look debonairly he caste,
-And bekked on Pandare, and forth he paste.
-
-God woot if he sat on his hors a-right,
-Or goodly was beseyn, that ilke day!
-God woot wher he was lyk a manly knight!
-What sholde I drecche, or telle of his aray?
-Criseyde, which that alle these thinges say,
-To telle in short, hir lyked al y-fere,
-His persone, his aray, his look, his chere,
-
-His goodly manere, and his gentillesse,
-So wel, that never, sith that she was born,
-Ne hadde she swich routhe of his distresse;
-And how-so she hath hard ben her-biforn,
-To god hope I, she hath now caught a thorn,
-She shal not pulle it out this nexte wyke;
-God sende mo swich thornes on to pyke!
-
-Pandare, which that stood hir faste by,
-Felte iren hoot, and he bigan to smyte,
-And seyde, `Nece, I pray yow hertely,
-Tel me that I shal axen yow a lyte:
-A womman, that were of his deeth to wyte,
-With-outen his gilt, but for hir lakked routhe,
-Were it wel doon?' Quod she, `Nay, by my trouthe!'
-
-`God help me so,' quod he, `ye sey me sooth.
-Ye felen wel your-self that I not lye;
-Lo, yond he rit!' Quod she, `Ye, so he dooth!'
-`Wel,' quod Pandare, `as I have told yow thrye,
-Lat be youre nyce shame and youre folye,
-And spek with him in esing of his herte;
-Lat nycetee not do yow bothe smerte.'
-
-But ther-on was to heven and to done;
-Considered al thing, it may not be;
-And why, for shame; and it were eek to sone
-To graunten him so greet a libertee.
-`For playnly hir entente,' as seyde she,
-`Was for to love him unwist, if she mighte,
-And guerdon him with no-thing but with sighte.'
-
-But Pandarus thoughte, `It shal not be so,
-If that I may; this nyce opinioun
-Shal not be holden fully yeres two.'
-What sholde I make of this a long sermoun?
-He moste assente on that conclusioun,
-As for the tyme; and whan that it was eve,
-And al was wel, he roos and took his leve.
-
-And on his wey ful faste homward he spedde,
-And right for Ioye he felte his herte daunce;
-And Troilus he fond alone a-bedde,
-That lay as dooth these loveres, in a traunce,
-Bitwixen hope and derk desesperaunce.
-But Pandarus, right at his in-cominge,
-He song, as who seyth, `Lo! Sumwhat I bringe,'
-
-And seyde, `Who is in his bed so sone
-Y-buried thus?' `It am I, freend,' quod he.
-`Who, Troilus? Nay, helpe me so the mone,'
-Quod Pandarus, `Thou shalt aryse and see
-A charme that was sent right now to thee,
-The which can helen thee of thyn accesse,
-If thou do forth-with al thy besinesse.'
-
-`Ye, through the might of god!' quod Troilus.
-And Pandarus gan him the lettre take,
-And seyde, `Pardee, god hath holpen us;
-Have here a light, and loke on al this blake.'
-But ofte gan the herte glade and quake
-Of Troilus, whyl that he gan it rede,
-So as the wordes yave him hope or drede.
-
-But fynally, he took al for the beste
-That she him wroot, for somwhat he biheld
-On which, him thoughte, he mighte his herte reste,
-Al covered she the wordes under sheld.
-Thus to the more worthy part he held,
-That, what for hope and Pandarus biheste,
-His grete wo for-yede he at the leste.
-
-But as we may alday our-selven see,
-Through more wode or col, the more fyr;
-Right so encrees hope, of what it be,
-Therwith ful ofte encreseth eek desyr;
-Or, as an ook cometh of a litel spyr,
-So through this lettre, which that she him sente,
-Encresen gan desyr, of which he brente.
-
-Wherfore I seye alwey, that day and night
-This Troilus gan to desiren more
-Than he dide erst, thurgh hope, and dide his might
-To pressen on, as by Pandarus lore,
-And wryten to hir of his sorwes sore
-Fro day to day; he leet it not refreyde,
-That by Pandare he wroot somwhat or seyde;
-
-And dide also his othere observaunces
-That to a lovere longeth in this cas;
-And, after that these dees turnede on chaunces,
-So was he outher glad or seyde `Allas!'
-And held after his gestes ay his pas;
-And aftir swiche answeres as he hadde,
-So were his dayes sory outher gladde.
-
-But to Pandare alwey was his recours,
-And pitously gan ay til him to pleyne,
-And him bisoughte of rede and som socours;
-And Pandarus, that sey his wode peyne,
-Wex wel neigh deed for routhe, sooth to seyne,
-And bisily with al his herte caste
-Som of his wo to sleen, and that as faste;
-
-And seyde, `Lord, and freend, and brother dere,
-God woot that thy disese dooth me wo.
-But woltow stinten al this woful chere,
-And, by my trouthe, or it be dayes two,
-And god to-forn, yet shal I shape it so,
-That thou shalt come in-to a certayn place,
-Ther-as thou mayst thy-self hir preye of grace.
-
-`And certainly, I noot if thou it wost,
-But tho that been expert in love it seye,
-It is oon of the thinges that furthereth most,
-A man to have a leyser for to preye,
-And siker place his wo for to biwreye;
-For in good herte it moot som routhe impresse,
-To here and see the giltles in distresse.
-
-`Paraunter thenkestow: though it be so
-That kinde wolde doon hir to biginne
-To han a maner routhe up-on my wo,
-Seyth Daunger, "Nay, thou shalt me never winne;
-So reuleth hir hir hertes goost with-inne,
-That, though she bende, yet she stant on rote;
-What in effect is this un-to my bote?"
-
-`Thenk here-ayeins, whan that the sturdy ook,
-On which men hakketh ofte, for the nones,
-Receyved hath the happy falling strook,
-The grete sweigh doth it come al at ones,
-As doon these rokkes or these milne-stones.
-For swifter cours cometh thing that is of wighte,
-Whan it descendeth, than don thinges lighte.
-
-`And reed that boweth doun for every blast,
-Ful lightly, cesse wind, it wol aryse;
-But so nil not an ook whan it is cast;
-It nedeth me nought thee longe to forbyse.
-Men shal reioysen of a greet empryse
-Acheved wel, and stant with-outen doute,
-Al han men been the lenger ther-aboute.
-
-`But, Troilus, yet tel me, if thee lest,
-A thing now which that I shal axen thee;
-Which is thy brother that thou lovest best
-As in thy verray hertes privetee?'
-`Y-wis, my brother Deiphebus,' quod he.
-`Now,' quod Pandare, `er houres twyes twelve,
-He shal thee ese, unwist of it him-selve.
-
-`Now lat me allone, and werken as I may,'
-Quod he; and to Deiphebus wente he tho
-Which hadde his lord and grete freend ben ay;
-Save Troilus, no man he lovede so.
-To telle in short, with-outen wordes mo,
-Quod Pandarus, `I pray yow that ye be
-Freend to a cause which that toucheth me.'
-
-`Yis, pardee,' quod Deiphebus, `wel thow wost,
-In al that ever I may, and god to-fore,
-Al nere it but for man I love most,
-My brother Troilus; but sey wherfore
-It is; for sith that day that I was bore,
-I nas, ne never-mo to been I thinke,
-Ayeins a thing that mighte thee for-thinke.'
-
-Pandare gan him thonke, and to him seyde,
-`Lo, sire, I have a lady in this toun,
-That is my nece, and called is Criseyde,
-Which some men wolden doon oppressioun,
-And wrongfully have hir possessioun:
-Wherfor I of your lordship yow biseche
-To been our freend, with-oute more speche.'
-
-Deiphebus him answerde, `O, is not this,
-That thow spekest of to me thus straungely,
-Criseyda, my freend?' He seyde, `Yis.'
-`Than nedeth,' quod Deiphebus, `hardely,
-Na-more to speke, for trusteth wel, that I
-Wol be hir champioun with spore and yerde;
-I roughte nought though alle hir foos it herde.
-
-`But tel me how, thou that woost al this matere,
-How I might best avaylen? Now lat see.'
-Quod Pandarus; `If ye, my lord so dere,
-Wolden as now don this honour to me,
-To preyen hir to-morwe, lo, that she
-Come un-to yow hir pleyntes to devyse,
-Hir adversaries wolde of it agryse.
-
-`And if I more dorste preye as now,
-And chargen yow to have so greet travayle,
-To han som of your bretheren here with yow,
-That mighten to hir cause bet avayle,
-Than, woot I wel, she mighte never fayle
-For to be holpen, what at your instaunce,
-What with hir othere freendes governaunce.'
-
-Deiphebus, which that comen was, of kinde,
-To al honour and bountee to consente,
-Answerde, `It shal be doon; and I can finde
-Yet gretter help to this in myn entente.
-What wolt thow seyn, if I for Eleyne sente
-To speke of this? I trowe it be the beste;
-For she may leden Paris as hir leste.
-
-`Of Ector, which that is my lord, my brother,
-It nedeth nought to preye him freend to be;
-For I have herd him, o tyme and eek other,
-Speke of Criseyde swich honour, that he
-May seyn no bet, swich hap to him hath she.
-It nedeth nought his helpes for to crave;
-He shal be swich, right as we wole him have.
-
-`Spek thou thy-self also to Troilus
-On my bihalve, and pray him with us dyne.'
-`Sire, al this shal be doon,' quod Pandarus;
-And took his leve, and never gan to fyne,
-But to his neces hous, as streyt as lyne,
-He com; and fond hir fro the mete aryse;
-And sette him doun, and spak right in this wyse.
-
-He seyde, `O veray god, so have I ronne!
-Lo, nece myn, see ye nought how I swete?
-I noot whether ye the more thank me conne.
-Be ye nought war how that fals Poliphete
-Is now aboute eft-sones for to plete,
-And bringe on yow advocacyes newe?'
-`I? No,' quod she, and chaunged al hir hewe.
-
-`What is he more aboute, me to drecche
-And doon me wrong? What shal I do, allas?
-Yet of him-self no-thing ne wolde I recche,
-Nere it for Antenor and Eneas,
-That been his freendes in swich maner cas;
-But, for the love of god, myn uncle dere,
-No fors of that; lat him have al y-fere;
-
-`With-outen that I have ynough for us.'
-`Nay,' quod Pandare, `it shal no-thing be so.
-For I have been right now at Deiphebus,
-And Ector, and myne othere lordes mo,
-And shortly maked eche of hem his fo;
-That, by my thrift, he shal it never winne
-For ought he can, whan that so he biginne.'
-
-And as they casten what was best to done,
-Deiphebus, of his owene curtasye,
-Com hir to preye, in his propre persone,
-To holde him on the morwe companye
-At diner, which she nolde not denye,
-But goodly gan to his preyere obeye.
-He thonked hir, and wente up-on his weye.
-
-Whanne this was doon, this Pandare up a-noon,
-To telle in short, and forth gan for to wende
-To Troilus, as stille as any stoon;
-And al this thing he tolde him, word and ende;
-And how that he Deiphebus gan to blende;
-And seyde him, `Now is tyme, if that thou conne,
-To bere thee wel to-morwe, and al is wonne.
-
-`Now spek, now prey, now pitously compleyne;
-Lat not for nyce shame, or drede, or slouthe;
-Som-tyme a man mot telle his owene peyne;
-Bileve it, and she shal han on thee routhe;
-Thou shalt be saved by thy feyth, in trouthe.
-But wel wot I, thou art now in a drede;
-And what it is, I leye, I can arede.
-
-`Thow thinkest now, "How sholde I doon al this?
-For by my cheres mosten folk aspye,
-That for hir love is that I fare a-mis;
-Yet hadde I lever unwist for sorwe dye."
-Now thenk not so, for thou dost greet folye.
-For I right now have founden o manere
-Of sleighte, for to coveren al thy chere.
-
-`Thow shalt gon over night, and that as blyve,
-Un-to Deiphebus hous, as thee to pleye,
-Thy maladye a-wey the bet to dryve,
-For-why thou semest syk, soth for to seye.
-Sone after that, doun in thy bed thee leye,
-And sey, thow mayst no lenger up endure,
-And ly right there, and byde thyn aventure.
-
-`Sey that thy fever is wont thee for to take
-The same tyme, and lasten til a-morwe;
-And lat see now how wel thou canst it make,
-For, par-dee, syk is he that is in sorwe.
-Go now, farwel! And, Venus here to borwe,
-I hope, and thou this purpos holde ferme,
-Thy grace she shal fully ther conferme.'
-
-Quod Troilus, `Y-wis, thou nedelees
-Conseylest me, that sykliche I me feyne,
-For I am syk in ernest, doutelees,
-So that wel neigh I sterve for the peyne.'
-Quod Pandarus, `Thou shalt the bettre pleyne,
-And hast the lasse need to countrefete;
-For him men demen hoot that men seen swete.
-
-`Lo, holde thee at thy triste cloos, and I
-Shal wel the deer un-to thy bowe dryve.'
-Therwith he took his leve al softely,
-And Troilus to paleys wente blyve.
-So glad ne was he never in al his lyve;
-And to Pandarus reed gan al assente,
-And to Deiphebus hous at night he wente.
-
-What nedeth yow to tellen al the chere
-That Deiphebus un-to his brother made,
-Or his accesse, or his siklych manere,
-How men gan him with clothes for to lade,
-Whan he was leyd, and how men wolde him glade?
-But al for nought; he held forth ay the wyse
-That ye han herd Pandare er this devyse.
-
-But certeyn is, er Troilus him leyde,
-Deiphebus had him prayed, over night,
-To been a freend and helping to Criseyde.
-God woot, that he it grauntede anon-right,
-To been hir fulle freend with al his might.
-But swich a nede was to preye him thenne,
-As for to bidde a wood man for to renne.
-
-The morwen com, and neighen gan the tyme
-Of meel-tyd, that the faire quene Eleyne
-Shoop hir to been, an houre after the pryme,
-With Deiphebus, to whom she nolde feyne;
-But as his suster, hoomly, sooth to seyne,
-She com to diner in hir playn entente.
-But god and Pandare wiste al what this mente.
-
-Com eek Criseyde, al innocent of this,
-Antigone, hir sister Tarbe also;
-But flee we now prolixitee best is,
-For love of god, and lat us faste go
-Right to the effect, with-oute tales mo,
-Why al this folk assembled in this place;
-And lat us of hir saluinges pace.
-
-Gret honour dide hem Deiphebus, certeyn,
-And fedde hem wel with al that mighte lyke.
-But ever-more, `Allas!' was his refreyn,
-`My goode brother Troilus, the syke,
-Lyth yet"--and therwith-al he gan to syke;
-And after that, he peyned him to glade
-Hem as he mighte, and chere good he made.
-
-Compleyned eek Eleyne of his syknesse
-So feithfully, that pitee was to here,
-And every wight gan waxen for accesse
-A leche anoon, and seyde, `In this manere
-Men curen folk; this charme I wol yow lere.'
-But ther sat oon, al list hir nought to teche,
-That thoughte, best coude I yet been his leche.
-
-After compleynt, him gonnen they to preyse,
-As folk don yet, whan som wight hath bigonne
-To preyse a man, and up with prys him reyse
-A thousand fold yet hyer than the sonne: --
-`He is, he can, that fewe lordes conne.'
-And Pandarus, of that they wolde afferme,
-He not for-gat hir preysing to conferme.
-
-Herde al this thing Criseyde wel y-nough,
-And every word gan for to notifye;
-For which with sobre chere hir herte lough;
-For who is that ne wolde hir glorifye,
-To mowen swich a knight don live or dye?
-But al passe I, lest ye to longe dwelle;
-For for o fyn is al that ever I telle.
-
-The tyme com, fro diner for to ryse,
-And, as hem oughte, arisen everychoon,
-And gonne a while of this and that devyse.
-But Pandarus brak al this speche anoon,
-And seyde to Deiphebus, `Wole ye goon,
-If youre wille be, as I yow preyde,
-To speke here of the nedes of Criseyde?'
-
-Eleyne, which that by the hond hir held,
-Took first the tale, and seyde, `Go we blyve;'
-And goodly on Criseyde she biheld,
-And seyde, `Ioves lat him never thryve,
-That dooth yow harm, and bringe him sone of lyve!
-And yeve me sorwe, but he shal it rewe,
-If that I may, and alle folk be trewe.'
-
-`Tel thou thy neces cas,' quod Deiphebus
-To Pandarus, `for thou canst best it telle.' --
-`My lordes and my ladyes, it stant thus;
-What sholde I lenger,' quod he, `do yow dwelle?'
-He rong hem out a proces lyk a belle,
-Up-on hir fo, that highte Poliphete,
-So heynous, that men mighte on it spete.
-
-Answerde of this ech worse of hem than other,
-And Poliphete they gonnen thus to warien,
-`An-honged be swich oon, were he my brother;
-And so he shal, for it ne may not varien.'
-What sholde I lenger in this tale tarien?
-Pleynly, alle at ones, they hir highten
-To been hir helpe in al that ever they mighten.
-
-Spak than Eleyne, and seyde, `Pandarus,
-Woot ought my lord, my brother, this matere,
-I mene, Ector? Or woot it Troilus?'
-He seyde, `Ye, but wole ye now me here?
-Me thinketh this, sith Troilus is here,
-It were good, if that ye wolde assente,
-She tolde hir-self him al this, er she wente.
-
-`For he wole have the more hir grief at herte,
-By cause, lo, that she a lady is;
-And, by your leve, I wol but right in sterte,
-And do yow wite, and that anoon, y-wis,
-If that he slepe, or wole ought here of this.'
-And in he lepte, and seyde him in his ere,
-`God have thy soule, y-brought have I thy bere!'
-
-To smylen of this gan tho Troilus,
-And Pandarus, with-oute rekeninge,
-Out wente anoon to Eleyne and Deiphebus,
-And seyde hem, `So there be no taryinge,
-Ne more pres, he wol wel that ye bringe
-Criseyda, my lady, that is here;
-And as he may enduren, he wole here.
-
-`But wel ye woot, the chaumbre is but lyte,
-And fewe folk may lightly make it warm;
-Now loketh ye, (for I wol have no wyte,
-To bringe in prees that mighte doon him harm
-Or him disesen, for my bettre arm),
-Wher it be bet she byde til eft-sones;
-Now loketh ye, that knowen what to doon is.
-
-`I sey for me, best is, as I can knowe,
-That no wight in ne wente but ye tweye,
-But it were I, for I can, in a throwe,
-Reherce hir cas unlyk that she can seye;
-And after this, she may him ones preye
-To ben good lord, in short, and take hir leve;
-This may not muchel of his ese him reve.
-
-`And eek, for she is straunge, he wol forbere
-His ese, which that him thar nought for yow;
-Eek other thing that toucheth not to here,
-He wol me telle, I woot it wel right now,
-That secret is, and for the tounes prow.'
-And they, that no-thing knewe of his entente,
-With-oute more, to Troilus in they wente.
-
-Eleyne, in al hir goodly softe wyse,
-Gan him saluwe, and womanly to pleye,
-And seyde, `Ywis, ye moste alweyes aryse!
-Now fayre brother, beth al hool, I preye!'
-And gan hir arm right over his sholder leye,
-And him with al hir wit to recomforte;
-As she best coude, she gan him to disporte.
-
-So after this quod she, `We yow biseke,
-My dere brother, Deiphebus and I,
-For love of god, and so doth Pandare eke,
-To been good lord and freend, right hertely,
-Un-to Criseyde, which that certeinly
-Receyveth wrong, as woot wel here Pandare,
-That can hir cas wel bet than I declare.'
-
-This Pandarus gan newe his tunge affyle,
-And al hir cas reherce, and that anoon;
-Whan it was seyd, sone after, in a whyle,
-Quod Troilus, `As sone as I may goon,
-I wol right fayn with al my might ben oon,
-Have god my trouthe, hir cause to sustene.'
-`Good thrift have ye,' quod Eleyne the quene.
-
-Quod Pandarus, `And it your wille be
-That she may take hir leve, er that she go?'
-`O, elles god for-bede,' tho quod he,
-`If that she vouche sauf for to do so.'
-And with that word quod Troilus, `Ye two,
-Deiphebus, and my suster leef and dere,
-To yow have I to speke of o matere,
-
-`To been avysed by your reed the bettre': --
-And fond, as hap was, at his beddes heed,
-The copie of a tretis and a lettre,
-That Ector hadde him sent to axen reed,
-If swich a man was worthy to ben deed,
-Woot I nought who; but in a grisly wyse
-He preyede hem anoon on it avyse.
-
-Deiphebus gan this lettre to unfolde
-In ernest greet; so did Eleyne the quene;
-And rominge outward, fast it gan biholde,
-Downward a steyre, in-to an herber grene.
-This ilke thing they redden hem bi-twene;
-And largely, the mountaunce of an houre,
-Thei gonne on it to reden and to poure.
-
-Now lat hem rede, and turne we anoon
-To Pandarus, that gan ful faste prye
-That al was wel, and out he gan to goon
-In-to the grete chambre, and that in hye,
-And seyde, `God save al this companye!
-Com, nece myn; my lady quene Eleyne
-Abydeth yow, and eek my lordes tweyne.
-
-`Rys, take with yow your nece Antigone,
-Or whom yow list, or no fors, hardily;
-The lesse prees, the bet; com forth with me,
-And loke that ye thonke humblely
-Hem alle three, and, whan ye may goodly
-Your tyme y-see, taketh of hem your leve,
-Lest we to longe his restes him bireve.'
-
-Al innocent of Pandarus entente,
-Quod tho Criseyde, `Go we, uncle dere';
-And arm in arm inward with him she wente,
-Avysed wel hir wordes and hir chere;
-And Pandarus, in ernestful manere,
-Seyde, `Alle folk, for goddes love, I preye,
-Stinteth right here, and softely yow pleye.
-
-`Aviseth yow what folk ben here with-inne,
-And in what plyt oon is, god him amende!
-And inward thus ful softely biginne;
-Nece, I conjure and heighly yow defende,
-On his half, which that sowle us alle sende,
-And in the vertue of corounes tweyne,
-Slee nought this man, that hath for yow this peyne!
-
-`Fy on the devel! Thenk which oon he is,
-And in what plyt he lyth; com of anoon;
-Thenk al swich taried tyd, but lost it nis!
-That wol ye bothe seyn, whan ye ben oon.
-Secoundelich, ther yet devyneth noon
-Up-on yow two; come of now, if ye conne;
-Whyl folk is blent, lo, al the tyme is wonne!
-
-`In titering, and pursuite, and delayes,
-The folk devyne at wagginge of a stree;
-And though ye wolde han after merye dayes,
-Than dar ye nought, and why? For she, and she
-Spak swich a word; thus loked he, and he;
-Lest tyme I loste, I dar not with yow dele;
-Com of therfore, and bringeth him to hele.'
-
-But now to yow, ye lovers that ben here,
-Was Troilus nought in a cankedort,
-That lay, and mighte whispringe of hem here,
-And thoughte, `O lord, right now renneth my sort
-Fully to dye, or han anoon comfort';
-And was the firste tyme he shulde hir preye
-Of love; O mighty god, what shal he seye?
+"The Triumph of Life" by Percy Bysshe Shelley
+Swift as a spirit hastening to his task
+Of glory and of good, the Sun sprang forth
+Rejoicing in his splendour, and the mask
 
+Of darkness fell from the awakened Earth--
+The smokeless altars of the mountain snows
+Flamed above crimson clouds, and at the birth
+
+Of light, the Ocean's orison arose,
+To which the birds tempered their matin lay.
+All flowers in field or forest which unclose
+
+Their trembling eyelids to the kiss of day,
+Swinging their censers in the element,
+With orient incense lit by the new ray
+
+Burned slow and inconsumably, and sent
+Their odorous sighs up to the smiling air;
+And, in succession due, did continent,
+
+Isle, ocean, and all things that in them wear
+The form and character of mortal mould,
+Rise as the Sun their father rose, to bear
+
+Their portion of the toil, which he of old
+Took as his own, and then imposed on them:
+But I, whom thoughts which must remain untold
+
+Had kept as wakeful as the stars that gem
+The cone of night, now they were laid asleep
+Stretched my faint limbs beneath the hoary stem
+
+Which an old chestnut flung athwart the steep
+Of a green Apennine: before me fled
+The night; behind me rose the day; the deep
+
+Was at my feet, and Heaven above my head,--
+When a strange trance over my fancy grew
+Which was not slumber, for the shade it spread
+
+Was so transparent, that the scene came through
+As clear as when a veil of light is drawn
+O'er evening hills they glimmer; and I knew
+
+That I had felt the freshness of that dawn
+Bathe in the same cold dew my brow and hair,
+And sate as thus upon that slope of lawn
+
+Under the self-same bough, and heard as there
+The birds, the fountains and the ocean hold
+Sweet talk in music through the enamoured air,
+And then a vision on my train was rolled.
+
+...
+
+As in that trance of wondrous thought I lay,
+This was the tenour of my waking dream:--
+Methought I sate beside a public way
+
+Thick strewn with summer dust, and a great stream
+Of people there was hurrying to and fro,
+Numerous as gnats upon the evening gleam,
+
+All hastening onward, yet none seemed to know
+Whither he went, or whence he came, or why
+He made one of the multitude, and so
+
+Was borne amid the crowd, as through the sky
+One of the million leaves of summer's bier;
+Old age and youth, manhood and infancy,
+
+Mixed in one mighty torrent did appear,
+Some flying from the thing they feared, and some
+Seeking the object of another's fear;
+
+And others, as with steps towards the tomb,
+Pored on the trodden worms that crawled beneath,
+And others mournfully within the gloom
+
+Of their own shadow walked, and called it death;
+And some fled from it as it were a ghost,
+Half fainting in the affliction of vain breath:
+
+But more, with motions which each other crossed,
+Pursued or shunned the shadows the clouds threw,
+Or birds within the noonday aether lost,
+
+Upon that path where flowers never grew,--
+And, weary with vain toil and faint for thirst,
+Heard not the fountains, whose melodious dew
+
+Out of their mossy cells forever burst;
+Nor felt the breeze which from the forest told
+Of grassy paths and wood-lawns interspersed
+
+With overarching elms and caverns cold,
+And violet banks where sweet dreams brood, but they
+Pursued their serious folly as of old.
+
+And as I gazed, methought that in the way
+The throng grew wilder, as the woods of June
+When the south wind shakes the extinguished day,
+
+And a cold glare, intenser than the noon,
+But icy cold, obscured with blinding light
+The sun, as he the stars. Like the young moon--
+
+When on the sunlit limits of the night
+Her white shell trembles amid crimson air,
+And whilst the sleeping tempest gathers might--
+
+Doth, as the herald of its coming, bear
+The ghost of its dead mother, whose dim form
+Bends in dark aether from her infant's chair,--
+
+So came a chariot on the silent storm
+Of its own rushing splendour, and a Shape
+So sate within, as one whom years deform,
+
+Beneath a dusky hood and double cape,
+Crouching within the shadow of a tomb;
+And o'er what seemed the head a cloud-like crape
+
+Was bent, a dun and faint aethereal gloom
+Tempering the light. Upon the chariot-beam
+A Janus-visaged Shadow did assume
+
+The guidance of that wonder-winged team;
+The shapes which drew it in thick lightenings
+Were lost:--I heard alone on the air's soft stream
+
+The music of their ever-moving wings.
+All the four faces of that Charioteer
+Had their eyes banded; little profit brings
+
+Speed in the van and blindness in the rear,
+Nor then avail the beams that quench the sun,--
+Or that with banded eyes could pierce the sphere
+
+Of all that is, has been or will be done;
+So ill was the car guided--but it passed
+With solemn speed majestically on.
+
+The crowd gave way, and I arose aghast,
+Or seemed to rise, so mighty was the trance,
+And saw, like clouds upon the thunder-blast,
+
+The million with fierce song and maniac dance
+Raging around--such seemed the jubilee
+As when to greet some conqueror's advance
+
+Imperial Rome poured forth her living sea
+From senate-house, and forum, and theatre,
+When ... upon the free
+
+Had bound a yoke, which soon they stooped to bear.
+Nor wanted here the just similitude
+Of a triumphal pageant, for where'er
+
+The chariot rolled, a captive multitude
+Was driven;--all those who had grown old in power
+Or misery,--all who had their age subdued
+
+By action or by suffering, and whose hour
+Was drained to its last sand in weal or woe,
+So that the trunk survived both fruit and flower;--
+
+All those whose fame or infamy must grow
+Till the great winter lay the form and name
+Of this green earth with them for ever low;--
+
+All but the sacred few who could not tame
+Their spirits to the conquerors--but as soon
+As they had touched the world with living flame,
+
+Fled back like eagles to their native noon,
+Or those who put aside the diadem
+Of earthly thrones or gems...
+
+Were there, of Athens or Jerusalem.
+Were neither mid the mighty captives seen,
+Nor mid the ribald crowd that followed them,
+
+Nor those who went before fierce and obscene.
+The wild dance maddens in the van, and those
+Who lead it--fleet as shadows on the green,
+
+Outspeed the chariot, and without repose
+Mix with each other in tempestuous measure
+To savage music, wilder as it grows,
+
+They, tortured by their agonizing pleasure,
+Convulsed and on the rapid whirlwinds spun
+Of that fierce Spirit, whose unholy leisure
+
+Was soothed by mischief since the world begun,
+Throw back their heads and loose their streaming hair;
+And in their dance round her who dims the sun,
+
+Maidens and youths fling their wild arms in air
+As their feet twinkle; they recede, and now
+Bending within each other's atmosphere,
+
+Kindle invisibly--and as they glow,
+Like moths by light attracted and repelled,
+Oft to their bright destruction come and go,
+
+Till like two clouds into one vale impelled,
+That shake the mountains when their lightnings mingle
+And die in rain--the fiery band which held
+
+Their natures, snaps--while the shock still may tingle
+One falls and then another in the path
+Senseless--nor is the desolation single,
+
+Yet ere I can say WHERE--the chariot hath
+Passed over them--nor other trace I find
+But as of foam after the ocean's wrath
+
+Is spent upon the desert shore;--behind,
+Old men and women foully disarrayed,
+Shake their gray hairs in the insulting wind,
+
+And follow in the dance, with limbs decayed,
+Seeking to reach the light which leaves them still
+Farther behind and deeper in the shade.
+
+But not the less with impotence of will
+They wheel, though ghastly shadows interpose
+Round them and round each other, and fulfil
+
+Their work, and in the dust from whence they rose
+Sink, and corruption veils them as they lie,
+And past in these performs what ... in those.
+
+Struck to the heart by this sad pageantry,
+Half to myself I said--'And what is this?
+Whose shape is that within the car? And why--'
+
+I would have added--'is all here amiss?--'
+But a voice answered--'Life!'--I turned, and knew
+(O Heaven, have mercy on such wretchedness!)
+
+That what I thought was an old root which grew
+To strange distortion out of the hill side,
+Was indeed one of those deluded crew,
+
+And that the grass, which methought hung so wide
+And white, was but his thin discoloured hair,
+And that the holes he vainly sought to hide,
+
+Were or had been eyes:--'If thou canst forbear
+To join the dance, which I had well forborne,'
+Said the grim Feature, of my thought aware,
+
+'I will unfold that which to this deep scorn
+Led me and my companions, and relate
+The progress of the pageant since the morn;
+
+'If thirst of knowledge shall not then abate,
+Follow it thou even to the night, but I
+Am weary.'--Then like one who with the weight
+
+Of his own words is staggered, wearily
+He paused; and ere he could resume, I cried:
+'First, who art thou?'--'Before thy memory,
+
+'I feared, loved, hated, suffered, did and died,
+And if the spark with which Heaven lit my spirit
+Had been with purer nutriment supplied,
+
+'Corruption would not now thus much inherit
+Of what was once Rousseau,--nor this disguise
+Stain that which ought to have disdained to wear it;
+
+'If I have been extinguished, yet there rise
+A thousand beacons from the spark I bore'--
+'And who are those chained to the car?'--'The wise,
+
+'The great, the unforgotten,--they who wore
+Mitres and helms and crowns, or wreaths of light,
+Signs of thought's empire over thought--their lore
+
+'Taught them not this, to know themselves; their might
+Could not repress the mystery within,
+And for the morn of truth they feigned, deep night
+
+'Caught them ere evening.'--'Who is he with chin
+Upon his breast, and hands crossed on his chain?'--
+'The child of a fierce hour; he sought to win
+
+'The world, and lost all that it did contain
+Of greatness, in its hope destroyed; and more
+Of fame and peace than virtue's self can gain
+
+'Without the opportunity which bore
+Him on its eagle pinions to the peak
+From which a thousand climbers have before
+
+'Fallen, as Napoleon fell.'--I felt my cheek
+Alter, to see the shadow pass away,
+Whose grasp had left the giant world so weak
+
+That every pigmy kicked it as it lay;
+And much I grieved to think how power and will
+In opposition rule our mortal day,
+
+And why God made irreconcilable
+Good and the means of good; and for despair
+I half disdained mine eyes' desire to fill
+
+With the spent vision of the times that were
+And scarce have ceased to be.--'Dost thou behold,'
+Said my guide, 'those spoilers spoiled, Voltaire,
+
+'Frederick, and Paul, Catherine, and Leopold,
+And hoary anarchs, demagogues, and sage--
+names which the world thinks always old,
+
+'For in the battle Life and they did wage,
+She remained conqueror. I was overcome
+By my own heart alone, which neither age,
+
+'Nor tears, nor infamy, nor now the tomb
+Could temper to its object.'--'Let them pass,'
+I cried, 'the world and its mysterious doom
+
+'Is not so much more glorious than it was,
+That I desire to worship those who drew
+New figures on its false and fragile glass
+
+'As the old faded.'--'Figures ever new
+Rise on the bubble, paint them as you may;
+We have but thrown, as those before us threw,
+
+'Our shadows on it as it passed away.
+But mark how chained to the triumphal chair
+The mighty phantoms of an elder day;
+
+'All that is mortal of great Plato there
+Expiates the joy and woe his master knew not;
+The star that ruled his doom was far too fair.
+
+'And life, where long that flower of Heaven grew not,
+Conquered that heart by love, which gold, or pain,
+Or age, or sloth, or slavery could subdue not.
+
+'And near him walk the ... twain,
+The tutor and his pupil, whom Dominion
+Followed as tame as vulture in a chain.
+
+'The world was darkened beneath either pinion
+Of him whom from the flock of conquerors
+Fame singled out for her thunder-bearing minion;
+
+'The other long outlived both woes and wars,
+Throned in the thoughts of men, and still had kept
+The jealous key of Truth's eternal doors,
+
+'If Bacon's eagle spirit had not lept
+Like lightning out of darkness--he compelled
+The Proteus shape of Nature, as it slept
+
+'To wake, and lead him to the caves that held
+The treasure of the secrets of its reign.
+See the great bards of elder time, who quelled
+
+'The passions which they sung, as by their strain
+May well be known: their living melody
+Tempers its own contagion to the vein
+
+'Of those who are infected with it--I
+Have suffered what I wrote, or viler pain!
+And so my words have seeds of misery--
+
+'Even as the deeds of others, not as theirs.'
+And then he pointed to a company,
+
+'Midst whom I quickly recognized the heirs
+Of Caesar's crime, from him to Constantine;
+The anarch chiefs, whose force and murderous snares
+
+Had founded many a sceptre-bearing line,
+And spread the plague of gold and blood abroad:
+And Gregory and John, and men divine,
+
+Who rose like shadows between man and God;
+Till that eclipse, still hanging over heaven,
+Was worshipped by the world o'er which they strode,
+
+For the true sun it quenched--'Their power was given
+But to destroy,' replied the leader:--'I
+Am one of those who have created, even
+
+'If it be but a world of agony.'--
+'Whence camest thou? and whither goest thou?
+How did thy course begin?' I said, 'and why?
+
+'Mine eyes are sick of this perpetual flow
+Of people, and my heart sick of one sad thought--
+Speak!'--'Whence I am, I partly seem to know,
+
+'And how and by what paths I have been brought
+To this dread pass, methinks even thou mayst guess;--
+Why this should be, my mind can compass not;
+
+'Whither the conqueror hurries me, still less;--
+But follow thou, and from spectator turn
+Actor or victim in this wretchedness,
+
+'And what thou wouldst be taught I then may learn
+From thee. Now listen:--In the April prime,
+When all the forest-tips began to burn
+
+'With kindling green, touched by the azure clime
+Of the young season, I was laid asleep
+Under a mountain, which from unknown time
+
+'Had yawned into a cavern, high and deep;
+And from it came a gentle rivulet,
+Whose water, like clear air, in its calm sweep
+
+'Bent the soft grass, and kept for ever wet
+The stems of the sweet flowers, and filled the grove
+With sounds, which whoso hears must needs forget
+
+'All pleasure and all pain, all hate and love,
+Which they had known before that hour of rest;
+A sleeping mother then would dream not of
+
+'Her only child who died upon the breast
+At eventide--a king would mourn no more
+The crown of which his brows were dispossessed
+
+'When the sun lingered o'er his ocean floor
+To gild his rival's new prosperity.
+'Thou wouldst forget thus vainly to deplore
+
+'Ills, which if ills can find no cure from thee,
+The thought of which no other sleep will quell,
+Nor other music blot from memory,
+
+'So sweet and deep is the oblivious spell;
+And whether life had been before that sleep
+The Heaven which I imagine, or a Hell
+
+'Like this harsh world in which I woke to weep,
+I know not. I arose, and for a space
+The scene of woods and waters seemed to keep,
+
+Though it was now broad day, a gentle trace
+Of light diviner than the common sun
+Sheds on the common earth, and all the place
+
+'Was filled with magic sounds woven into one
+Oblivious melody, confusing sense
+Amid the gliding waves and shadows dun;
+
+'And, as I looked, the bright omnipresence
+Of morning through the orient cavern flowed,
+And the sun's image radiantly intense
+
+'Burned on the waters of the well that glowed
+Like gold, and threaded all the forest's maze
+With winding paths of emerald fire; there stood
+
+'Amid the sun, as he amid the blaze
+Of his own glory, on the vibrating
+Floor of the fountain, paved with flashing rays,
+
+'A Shape all light, which with one hand did fling
+Dew on the earth, as if she were the dawn,
+And the invisible rain did ever sing
+
+'A silver music on the mossy lawn;
+And still before me on the dusky grass,
+Iris her many-coloured scarf had drawn:
+
+'In her right hand she bore a crystal glass,
+Mantling with bright Nepenthe; the fierce splendour
+Fell from her as she moved under the mass
+
+'Of the deep cavern, and with palms so tender,
+Their tread broke not the mirror of its billow,
+Glided along the river, and did bend her
+
+'Head under the dark boughs, till like a willow
+Her fair hair swept the bosom of the stream
+That whispered with delight to be its pillow.
+
+'As one enamoured is upborne in dream
+O'er lily-paven lakes, mid silver mist
+To wondrous music, so this shape might seem
+
+'Partly to tread the waves with feet which kissed
+The dancing foam; partly to glide along
+The air which roughened the moist amethyst,
+
+'Or the faint morning beams that fell among
+The trees, or the soft shadows of the trees;
+And her feet, ever to the ceaseless song
+
+'Of leaves, and winds, and waves, and birds, and bees,
+And falling drops, moved in a measure new
+Yet sweet, as on the summer evening breeze,
+
+'Up from the lake a shape of golden dew
+Between two rocks, athwart the rising moon,
+Dances i' the wind, where never eagle flew;
+
+'And still her feet, no less than the sweet tune
+To which they moved, seemed as they moved to blot
+The thoughts of him who gazed on them; and soon
+
+'All that was, seemed as if it had been not;
+And all the gazer's mind was strewn beneath
+Her feet like embers; and she, thought by thought,
+
+'Trampled its sparks into the dust of death
+As day upon the threshold of the east
+Treads out the lamps of night, until the breath
+
+'Of darkness re-illumine even the least
+Of heaven's living eyes--like day she came,
+Making the night a dream; and ere she ceased
+
+'To move, as one between desire and shame
+Suspended, I said--If, as it doth seem,
+Thou comest from the realm without a name
+
+'Into this valley of perpetual dream,
+Show whence I came, and where I am, and why--
+Pass not away upon the passing stream.
+
+'Arise and quench thy thirst, was her reply.
+And as a shut lily stricken by the wand
+Of dewy morning's vital alchemy,
+
+'I rose; and, bending at her sweet command,
+Touched with faint lips the cup she raised,
+And suddenly my brain became as sand
+
+'Where the first wave had more than half erased
+The track of deer on desert Labrador;
+Whilst the wolf, from which they fled amazed,
+
+'Leaves his stamp visibly upon the shore,
+Until the second bursts;--so on my sight
+Burst a new vision, never seen before,
+
+'And the fair shape waned in the coming light,
+As veil by veil the silent splendour drops
+From Lucifer, amid the chrysolite
+
+'Of sunrise, ere it tinge the mountain-tops;
+And as the presence of that fairest planet,
+Although unseen, is felt by one who hopes
+
+'That his day's path may end as he began it,
+In that star's smile, whose light is like the scent
+Of a jonquil when evening breezes fan it,
+
+'Or the soft note in which his dear lament
+The Brescian shepherd breathes, or the caress
+That turned his weary slumber to content;
+
+'So knew I in that light's severe excess
+The presence of that Shape which on the stream
+Moved, as I moved along the wilderness,
+
+'More dimly than a day-appearing dream,
+The host of a forgotten form of sleep;
+A light of heaven, whose half-extinguished beam
+
+'Through the sick day in which we wake to weep
+Glimmers, for ever sought, for ever lost;
+So did that shape its obscure tenour keep
+
+'Beside my path, as silent as a ghost;
+But the new Vision, and the cold bright car,
+With solemn speed and stunning music, crossed
+
+'The forest, and as if from some dread war
+Triumphantly returning, the loud million
+Fiercely extolled the fortune of her star.
+
+'A moving arch of victory, the vermilion
+And green and azure plumes of Iris had
+Built high over her wind-winged pavilion,
+
+'And underneath aethereal glory clad
+The wilderness, and far before her flew
+The tempest of the splendour, which forbade
+
+'Shadow to fall from leaf and stone; the crew
+Seemed in that light, like atomies to dance
+Within a sunbeam;--some upon the new
+
+'Embroidery of flowers, that did enhance
+The grassy vesture of the desert, played,
+Forgetful of the chariot's swift advance;
+
+'Others stood gazing, till within the shade
+Of the great mountain its light left them dim;
+Others outspeeded it; and others made
+
+'Circles around it, like the clouds that swim
+Round the high moon in a bright sea of air;
+And more did follow, with exulting hymn,
+
+'The chariot and the captives fettered there:--
+But all like bubbles on an eddying flood
+Fell into the same track at last, and were
+
+'Borne onward.--I among the multitude
+Was swept--me, sweetest flowers delayed not long;
+Me, not the shadow nor the solitude;
+
+'Me, not that falling stream's Lethean song;
+Me, not the phantom of that early Form
+Which moved upon its motion--but among
+
+'The thickest billows of that living storm
+I plunged, and bared my bosom to the clime
+Of that cold light, whose airs too soon deform.
+
+'Before the chariot had begun to climb
+The opposing steep of that mysterious dell,
+Behold a wonder worthy of the rhyme
+
+'Of him who from the lowest depths of hell,
+Through every paradise and through all glory,
+Love led serene, and who returned to tell
+
+'The words of hate and awe; the wondrous story
+How all things are transfigured except Love;
+For deaf as is a sea, which wrath makes hoary,
+
+'The world can hear not the sweet notes that move
+The sphere whose light is melody to lovers--
+A wonder worthy of his rhyme.--The grove
+
+'Grew dense with shadows to its inmost covers,
+The earth was gray with phantoms, and the air
+Was peopled with dim forms, as when there hovers
+
+'A flock of vampire-bats before the glare
+Of the tropic sun, bringing, ere evening,
+Strange night upon some Indian isle;--thus were
+
+'Phantoms diffused around; and some did fling
+Shadows of shadows, yet unlike themselves,
+Behind them; some like eaglets on the wing
+
+'Were lost in the white day; others like elves
+Danced in a thousand unimagined shapes
+Upon the sunny streams and grassy shelves;
+
+'And others sate chattering like restless apes
+On vulgar hands,...
+Some made a cradle of the ermined capes
+
+'Of kingly mantles; some across the tiar
+Of pontiffs sate like vultures; others played
+Under the crown which girt with empire
+
+'A baby's or an idiot's brow, and made
+Their nests in it. The old anatomies
+Sate hatching their bare broods under the shade
+
+'Of daemon wings, and laughed from their dead eyes
+To reassume the delegated power,
+Arrayed in which those worms did monarchize,
+
+'Who made this earth their charnel. Others more
+Humble, like falcons, sate upon the fist
+Of common men, and round their heads did soar;
+
+Or like small gnats and flies, as thick as mist
+On evening marshes, thronged about the brow
+Of lawyers, statesmen, priest and theorist;--
+
+'And others, like discoloured flakes of snow
+On fairest bosoms and the sunniest hair,
+Fell, and were melted by the youthful glow
+
+'Which they extinguished; and, like tears, they were
+A veil to those from whose faint lids they rained
+In drops of sorrow. I became aware
+
+'Of whence those forms proceeded which thus stained
+The track in which we moved. After brief space,
+From every form the beauty slowly waned;
+
+'From every firmest limb and fairest face
+The strength and freshness fell like dust, and left
+The action and the shape without the grace
+
+'Of life. The marble brow of youth was cleft
+With care; and in those eyes where once hope shone,
+Desire, like a lioness bereft
+
+'Of her last cub, glared ere it died; each one
+Of that great crowd sent forth incessantly
+These shadows, numerous as the dead leaves blown
+
+'In autumn evening from a poplar tree.
+Each like himself and like each other were
+At first; but some distorted seemed to be
+
+'Obscure clouds, moulded by the casual air;
+And of this stuff the car's creative ray
+Wrought all the busy phantoms that were there,
+
+'As the sun shapes the clouds; thus on the way
+Mask after mask fell from the countenance
+And form of all; and long before the day
+
+'Was old, the joy which waked like heaven's glance
+The sleepers in the oblivious valley, died;
+And some grew weary of the ghastly dance,
+
+'And fell, as I have fallen, by the wayside;--
+Those soonest from whose forms most shadows passed,
+And least of strength and beauty did abide.
+
+'Then, what is life? I cried.'--
+
+STANZA, WRITTEN AT BRACKNELL.
+
+Thy dewy looks sink in my breast;
+Thy gentle words stir poison there;
+Thou hast disturbed the only rest
+That was the portion of despair!
+Subdued to Duty's hard control,
+I could have borne my wayward lot:
+The chains that bind this ruined soul
+Had cankered then--but crushed it not.
+
+STANZAS.--APRIL, 1814.
+
+Away! the moor is dark beneath the moon,
+Rapid clouds have drank the last pale beam of even:
+Away! the gathering winds will call the darkness soon,
+And profoundest midnight shroud the serene lights of heaven.
+
+Pause not! The time is past! Every voice cries, Away!
+Tempt not with one last tear thy friend's ungentle mood:
+Thy lover's eye, so glazed and cold, dares not entreat thy stay:
+Duty and dereliction guide thee back to solitude.
+
+Away, away! to thy sad and silent home;
+Pour bitter tears on its desolated hearth;
+Watch the dim shades as like ghosts they go and come,
+And complicate strange webs of melancholy mirth.
+
+The leaves of wasted autumn woods shall float around thine head:
+The blooms of dewy spring shall gleam beneath thy feet:
+But thy soul or this world must fade in the frost that binds the dead,
+Ere midnight's frown and morning's smile, ere thou and peace may meet.
+
+The cloud shadows of midnight possess their own repose,
+For the weary winds are silent, or the moon is in the deep:
+Some respite to its turbulence unresting ocean knows;
+Whatever moves, or toils, or grieves, hath its appointed sleep.
+
+Thou in the grave shalt rest--yet till the phantoms flee
+Which that house and heath and garden made dear to thee erewhile,
+Thy remembrance, and repentance, and deep musings are not free
+From the music of two voices and the light of one sweet smile.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -2206,4 +957,4 @@ Of love; O mighty god, what shal he seye?
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->June 26, 2025 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->June 27, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
