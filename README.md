@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -35,9 +35,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 6/26/2025)
+- 🔥 [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema ⭐ 0 (Updated: 6/27/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 6/27/2025)
 - 🔥 [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥 ⭐ 3 (Updated: 6/24/2025)
-- 🔥 [express-generator-typescript](https://github.com/afzalimdad9/express-generator-typescript) - Create a new express app similar to express-generator but with TypeScript ⭐ 0 (Updated: 6/22/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -71,12 +71,14 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Take your dog on a walk
+Hold a video game tournament with some friends
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -85,782 +87,195 @@ Take your dog on a walk
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Triumph of Life" by Percy Bysshe Shelley
-Swift as a spirit hastening to his task
-Of glory and of good, the Sun sprang forth
-Rejoicing in his splendour, and the mask
-
-Of darkness fell from the awakened Earth--
-The smokeless altars of the mountain snows
-Flamed above crimson clouds, and at the birth
-
-Of light, the Ocean's orison arose,
-To which the birds tempered their matin lay.
-All flowers in field or forest which unclose
-
-Their trembling eyelids to the kiss of day,
-Swinging their censers in the element,
-With orient incense lit by the new ray
-
-Burned slow and inconsumably, and sent
-Their odorous sighs up to the smiling air;
-And, in succession due, did continent,
-
-Isle, ocean, and all things that in them wear
-The form and character of mortal mould,
-Rise as the Sun their father rose, to bear
-
-Their portion of the toil, which he of old
-Took as his own, and then imposed on them:
-But I, whom thoughts which must remain untold
-
-Had kept as wakeful as the stars that gem
-The cone of night, now they were laid asleep
-Stretched my faint limbs beneath the hoary stem
-
-Which an old chestnut flung athwart the steep
-Of a green Apennine: before me fled
-The night; behind me rose the day; the deep
-
-Was at my feet, and Heaven above my head,--
-When a strange trance over my fancy grew
-Which was not slumber, for the shade it spread
-
-Was so transparent, that the scene came through
-As clear as when a veil of light is drawn
-O'er evening hills they glimmer; and I knew
-
-That I had felt the freshness of that dawn
-Bathe in the same cold dew my brow and hair,
-And sate as thus upon that slope of lawn
-
-Under the self-same bough, and heard as there
-The birds, the fountains and the ocean hold
-Sweet talk in music through the enamoured air,
-And then a vision on my train was rolled.
-
-...
-
-As in that trance of wondrous thought I lay,
-This was the tenour of my waking dream:--
-Methought I sate beside a public way
-
-Thick strewn with summer dust, and a great stream
-Of people there was hurrying to and fro,
-Numerous as gnats upon the evening gleam,
-
-All hastening onward, yet none seemed to know
-Whither he went, or whence he came, or why
-He made one of the multitude, and so
-
-Was borne amid the crowd, as through the sky
-One of the million leaves of summer's bier;
-Old age and youth, manhood and infancy,
-
-Mixed in one mighty torrent did appear,
-Some flying from the thing they feared, and some
-Seeking the object of another's fear;
-
-And others, as with steps towards the tomb,
-Pored on the trodden worms that crawled beneath,
-And others mournfully within the gloom
-
-Of their own shadow walked, and called it death;
-And some fled from it as it were a ghost,
-Half fainting in the affliction of vain breath:
-
-But more, with motions which each other crossed,
-Pursued or shunned the shadows the clouds threw,
-Or birds within the noonday aether lost,
-
-Upon that path where flowers never grew,--
-And, weary with vain toil and faint for thirst,
-Heard not the fountains, whose melodious dew
-
-Out of their mossy cells forever burst;
-Nor felt the breeze which from the forest told
-Of grassy paths and wood-lawns interspersed
-
-With overarching elms and caverns cold,
-And violet banks where sweet dreams brood, but they
-Pursued their serious folly as of old.
-
-And as I gazed, methought that in the way
-The throng grew wilder, as the woods of June
-When the south wind shakes the extinguished day,
-
-And a cold glare, intenser than the noon,
-But icy cold, obscured with blinding light
-The sun, as he the stars. Like the young moon--
-
-When on the sunlit limits of the night
-Her white shell trembles amid crimson air,
-And whilst the sleeping tempest gathers might--
-
-Doth, as the herald of its coming, bear
-The ghost of its dead mother, whose dim form
-Bends in dark aether from her infant's chair,--
-
-So came a chariot on the silent storm
-Of its own rushing splendour, and a Shape
-So sate within, as one whom years deform,
-
-Beneath a dusky hood and double cape,
-Crouching within the shadow of a tomb;
-And o'er what seemed the head a cloud-like crape
-
-Was bent, a dun and faint aethereal gloom
-Tempering the light. Upon the chariot-beam
-A Janus-visaged Shadow did assume
-
-The guidance of that wonder-winged team;
-The shapes which drew it in thick lightenings
-Were lost:--I heard alone on the air's soft stream
-
-The music of their ever-moving wings.
-All the four faces of that Charioteer
-Had their eyes banded; little profit brings
-
-Speed in the van and blindness in the rear,
-Nor then avail the beams that quench the sun,--
-Or that with banded eyes could pierce the sphere
-
-Of all that is, has been or will be done;
-So ill was the car guided--but it passed
-With solemn speed majestically on.
-
-The crowd gave way, and I arose aghast,
-Or seemed to rise, so mighty was the trance,
-And saw, like clouds upon the thunder-blast,
-
-The million with fierce song and maniac dance
-Raging around--such seemed the jubilee
-As when to greet some conqueror's advance
-
-Imperial Rome poured forth her living sea
-From senate-house, and forum, and theatre,
-When ... upon the free
-
-Had bound a yoke, which soon they stooped to bear.
-Nor wanted here the just similitude
-Of a triumphal pageant, for where'er
-
-The chariot rolled, a captive multitude
-Was driven;--all those who had grown old in power
-Or misery,--all who had their age subdued
-
-By action or by suffering, and whose hour
-Was drained to its last sand in weal or woe,
-So that the trunk survived both fruit and flower;--
-
-All those whose fame or infamy must grow
-Till the great winter lay the form and name
-Of this green earth with them for ever low;--
-
-All but the sacred few who could not tame
-Their spirits to the conquerors--but as soon
-As they had touched the world with living flame,
-
-Fled back like eagles to their native noon,
-Or those who put aside the diadem
-Of earthly thrones or gems...
-
-Were there, of Athens or Jerusalem.
-Were neither mid the mighty captives seen,
-Nor mid the ribald crowd that followed them,
-
-Nor those who went before fierce and obscene.
-The wild dance maddens in the van, and those
-Who lead it--fleet as shadows on the green,
-
-Outspeed the chariot, and without repose
-Mix with each other in tempestuous measure
-To savage music, wilder as it grows,
-
-They, tortured by their agonizing pleasure,
-Convulsed and on the rapid whirlwinds spun
-Of that fierce Spirit, whose unholy leisure
-
-Was soothed by mischief since the world begun,
-Throw back their heads and loose their streaming hair;
-And in their dance round her who dims the sun,
-
-Maidens and youths fling their wild arms in air
-As their feet twinkle; they recede, and now
-Bending within each other's atmosphere,
-
-Kindle invisibly--and as they glow,
-Like moths by light attracted and repelled,
-Oft to their bright destruction come and go,
-
-Till like two clouds into one vale impelled,
-That shake the mountains when their lightnings mingle
-And die in rain--the fiery band which held
-
-Their natures, snaps--while the shock still may tingle
-One falls and then another in the path
-Senseless--nor is the desolation single,
-
-Yet ere I can say WHERE--the chariot hath
-Passed over them--nor other trace I find
-But as of foam after the ocean's wrath
-
-Is spent upon the desert shore;--behind,
-Old men and women foully disarrayed,
-Shake their gray hairs in the insulting wind,
-
-And follow in the dance, with limbs decayed,
-Seeking to reach the light which leaves them still
-Farther behind and deeper in the shade.
-
-But not the less with impotence of will
-They wheel, though ghastly shadows interpose
-Round them and round each other, and fulfil
-
-Their work, and in the dust from whence they rose
-Sink, and corruption veils them as they lie,
-And past in these performs what ... in those.
-
-Struck to the heart by this sad pageantry,
-Half to myself I said--'And what is this?
-Whose shape is that within the car? And why--'
-
-I would have added--'is all here amiss?--'
-But a voice answered--'Life!'--I turned, and knew
-(O Heaven, have mercy on such wretchedness!)
-
-That what I thought was an old root which grew
-To strange distortion out of the hill side,
-Was indeed one of those deluded crew,
-
-And that the grass, which methought hung so wide
-And white, was but his thin discoloured hair,
-And that the holes he vainly sought to hide,
-
-Were or had been eyes:--'If thou canst forbear
-To join the dance, which I had well forborne,'
-Said the grim Feature, of my thought aware,
-
-'I will unfold that which to this deep scorn
-Led me and my companions, and relate
-The progress of the pageant since the morn;
-
-'If thirst of knowledge shall not then abate,
-Follow it thou even to the night, but I
-Am weary.'--Then like one who with the weight
-
-Of his own words is staggered, wearily
-He paused; and ere he could resume, I cried:
-'First, who art thou?'--'Before thy memory,
-
-'I feared, loved, hated, suffered, did and died,
-And if the spark with which Heaven lit my spirit
-Had been with purer nutriment supplied,
-
-'Corruption would not now thus much inherit
-Of what was once Rousseau,--nor this disguise
-Stain that which ought to have disdained to wear it;
-
-'If I have been extinguished, yet there rise
-A thousand beacons from the spark I bore'--
-'And who are those chained to the car?'--'The wise,
-
-'The great, the unforgotten,--they who wore
-Mitres and helms and crowns, or wreaths of light,
-Signs of thought's empire over thought--their lore
-
-'Taught them not this, to know themselves; their might
-Could not repress the mystery within,
-And for the morn of truth they feigned, deep night
-
-'Caught them ere evening.'--'Who is he with chin
-Upon his breast, and hands crossed on his chain?'--
-'The child of a fierce hour; he sought to win
-
-'The world, and lost all that it did contain
-Of greatness, in its hope destroyed; and more
-Of fame and peace than virtue's self can gain
-
-'Without the opportunity which bore
-Him on its eagle pinions to the peak
-From which a thousand climbers have before
-
-'Fallen, as Napoleon fell.'--I felt my cheek
-Alter, to see the shadow pass away,
-Whose grasp had left the giant world so weak
-
-That every pigmy kicked it as it lay;
-And much I grieved to think how power and will
-In opposition rule our mortal day,
-
-And why God made irreconcilable
-Good and the means of good; and for despair
-I half disdained mine eyes' desire to fill
-
-With the spent vision of the times that were
-And scarce have ceased to be.--'Dost thou behold,'
-Said my guide, 'those spoilers spoiled, Voltaire,
-
-'Frederick, and Paul, Catherine, and Leopold,
-And hoary anarchs, demagogues, and sage--
-names which the world thinks always old,
-
-'For in the battle Life and they did wage,
-She remained conqueror. I was overcome
-By my own heart alone, which neither age,
-
-'Nor tears, nor infamy, nor now the tomb
-Could temper to its object.'--'Let them pass,'
-I cried, 'the world and its mysterious doom
-
-'Is not so much more glorious than it was,
-That I desire to worship those who drew
-New figures on its false and fragile glass
-
-'As the old faded.'--'Figures ever new
-Rise on the bubble, paint them as you may;
-We have but thrown, as those before us threw,
-
-'Our shadows on it as it passed away.
-But mark how chained to the triumphal chair
-The mighty phantoms of an elder day;
-
-'All that is mortal of great Plato there
-Expiates the joy and woe his master knew not;
-The star that ruled his doom was far too fair.
-
-'And life, where long that flower of Heaven grew not,
-Conquered that heart by love, which gold, or pain,
-Or age, or sloth, or slavery could subdue not.
-
-'And near him walk the ... twain,
-The tutor and his pupil, whom Dominion
-Followed as tame as vulture in a chain.
-
-'The world was darkened beneath either pinion
-Of him whom from the flock of conquerors
-Fame singled out for her thunder-bearing minion;
-
-'The other long outlived both woes and wars,
-Throned in the thoughts of men, and still had kept
-The jealous key of Truth's eternal doors,
-
-'If Bacon's eagle spirit had not lept
-Like lightning out of darkness--he compelled
-The Proteus shape of Nature, as it slept
-
-'To wake, and lead him to the caves that held
-The treasure of the secrets of its reign.
-See the great bards of elder time, who quelled
-
-'The passions which they sung, as by their strain
-May well be known: their living melody
-Tempers its own contagion to the vein
-
-'Of those who are infected with it--I
-Have suffered what I wrote, or viler pain!
-And so my words have seeds of misery--
-
-'Even as the deeds of others, not as theirs.'
-And then he pointed to a company,
-
-'Midst whom I quickly recognized the heirs
-Of Caesar's crime, from him to Constantine;
-The anarch chiefs, whose force and murderous snares
-
-Had founded many a sceptre-bearing line,
-And spread the plague of gold and blood abroad:
-And Gregory and John, and men divine,
-
-Who rose like shadows between man and God;
-Till that eclipse, still hanging over heaven,
-Was worshipped by the world o'er which they strode,
-
-For the true sun it quenched--'Their power was given
-But to destroy,' replied the leader:--'I
-Am one of those who have created, even
-
-'If it be but a world of agony.'--
-'Whence camest thou? and whither goest thou?
-How did thy course begin?' I said, 'and why?
-
-'Mine eyes are sick of this perpetual flow
-Of people, and my heart sick of one sad thought--
-Speak!'--'Whence I am, I partly seem to know,
-
-'And how and by what paths I have been brought
-To this dread pass, methinks even thou mayst guess;--
-Why this should be, my mind can compass not;
-
-'Whither the conqueror hurries me, still less;--
-But follow thou, and from spectator turn
-Actor or victim in this wretchedness,
-
-'And what thou wouldst be taught I then may learn
-From thee. Now listen:--In the April prime,
-When all the forest-tips began to burn
-
-'With kindling green, touched by the azure clime
-Of the young season, I was laid asleep
-Under a mountain, which from unknown time
-
-'Had yawned into a cavern, high and deep;
-And from it came a gentle rivulet,
-Whose water, like clear air, in its calm sweep
-
-'Bent the soft grass, and kept for ever wet
-The stems of the sweet flowers, and filled the grove
-With sounds, which whoso hears must needs forget
-
-'All pleasure and all pain, all hate and love,
-Which they had known before that hour of rest;
-A sleeping mother then would dream not of
-
-'Her only child who died upon the breast
-At eventide--a king would mourn no more
-The crown of which his brows were dispossessed
-
-'When the sun lingered o'er his ocean floor
-To gild his rival's new prosperity.
-'Thou wouldst forget thus vainly to deplore
-
-'Ills, which if ills can find no cure from thee,
-The thought of which no other sleep will quell,
-Nor other music blot from memory,
-
-'So sweet and deep is the oblivious spell;
-And whether life had been before that sleep
-The Heaven which I imagine, or a Hell
-
-'Like this harsh world in which I woke to weep,
-I know not. I arose, and for a space
-The scene of woods and waters seemed to keep,
-
-Though it was now broad day, a gentle trace
-Of light diviner than the common sun
-Sheds on the common earth, and all the place
-
-'Was filled with magic sounds woven into one
-Oblivious melody, confusing sense
-Amid the gliding waves and shadows dun;
-
-'And, as I looked, the bright omnipresence
-Of morning through the orient cavern flowed,
-And the sun's image radiantly intense
-
-'Burned on the waters of the well that glowed
-Like gold, and threaded all the forest's maze
-With winding paths of emerald fire; there stood
-
-'Amid the sun, as he amid the blaze
-Of his own glory, on the vibrating
-Floor of the fountain, paved with flashing rays,
-
-'A Shape all light, which with one hand did fling
-Dew on the earth, as if she were the dawn,
-And the invisible rain did ever sing
-
-'A silver music on the mossy lawn;
-And still before me on the dusky grass,
-Iris her many-coloured scarf had drawn:
-
-'In her right hand she bore a crystal glass,
-Mantling with bright Nepenthe; the fierce splendour
-Fell from her as she moved under the mass
-
-'Of the deep cavern, and with palms so tender,
-Their tread broke not the mirror of its billow,
-Glided along the river, and did bend her
-
-'Head under the dark boughs, till like a willow
-Her fair hair swept the bosom of the stream
-That whispered with delight to be its pillow.
-
-'As one enamoured is upborne in dream
-O'er lily-paven lakes, mid silver mist
-To wondrous music, so this shape might seem
-
-'Partly to tread the waves with feet which kissed
-The dancing foam; partly to glide along
-The air which roughened the moist amethyst,
-
-'Or the faint morning beams that fell among
-The trees, or the soft shadows of the trees;
-And her feet, ever to the ceaseless song
-
-'Of leaves, and winds, and waves, and birds, and bees,
-And falling drops, moved in a measure new
-Yet sweet, as on the summer evening breeze,
-
-'Up from the lake a shape of golden dew
-Between two rocks, athwart the rising moon,
-Dances i' the wind, where never eagle flew;
-
-'And still her feet, no less than the sweet tune
-To which they moved, seemed as they moved to blot
-The thoughts of him who gazed on them; and soon
-
-'All that was, seemed as if it had been not;
-And all the gazer's mind was strewn beneath
-Her feet like embers; and she, thought by thought,
-
-'Trampled its sparks into the dust of death
-As day upon the threshold of the east
-Treads out the lamps of night, until the breath
-
-'Of darkness re-illumine even the least
-Of heaven's living eyes--like day she came,
-Making the night a dream; and ere she ceased
-
-'To move, as one between desire and shame
-Suspended, I said--If, as it doth seem,
-Thou comest from the realm without a name
-
-'Into this valley of perpetual dream,
-Show whence I came, and where I am, and why--
-Pass not away upon the passing stream.
-
-'Arise and quench thy thirst, was her reply.
-And as a shut lily stricken by the wand
-Of dewy morning's vital alchemy,
-
-'I rose; and, bending at her sweet command,
-Touched with faint lips the cup she raised,
-And suddenly my brain became as sand
-
-'Where the first wave had more than half erased
-The track of deer on desert Labrador;
-Whilst the wolf, from which they fled amazed,
-
-'Leaves his stamp visibly upon the shore,
-Until the second bursts;--so on my sight
-Burst a new vision, never seen before,
-
-'And the fair shape waned in the coming light,
-As veil by veil the silent splendour drops
-From Lucifer, amid the chrysolite
-
-'Of sunrise, ere it tinge the mountain-tops;
-And as the presence of that fairest planet,
-Although unseen, is felt by one who hopes
-
-'That his day's path may end as he began it,
-In that star's smile, whose light is like the scent
-Of a jonquil when evening breezes fan it,
-
-'Or the soft note in which his dear lament
-The Brescian shepherd breathes, or the caress
-That turned his weary slumber to content;
-
-'So knew I in that light's severe excess
-The presence of that Shape which on the stream
-Moved, as I moved along the wilderness,
-
-'More dimly than a day-appearing dream,
-The host of a forgotten form of sleep;
-A light of heaven, whose half-extinguished beam
-
-'Through the sick day in which we wake to weep
-Glimmers, for ever sought, for ever lost;
-So did that shape its obscure tenour keep
-
-'Beside my path, as silent as a ghost;
-But the new Vision, and the cold bright car,
-With solemn speed and stunning music, crossed
-
-'The forest, and as if from some dread war
-Triumphantly returning, the loud million
-Fiercely extolled the fortune of her star.
-
-'A moving arch of victory, the vermilion
-And green and azure plumes of Iris had
-Built high over her wind-winged pavilion,
-
-'And underneath aethereal glory clad
-The wilderness, and far before her flew
-The tempest of the splendour, which forbade
-
-'Shadow to fall from leaf and stone; the crew
-Seemed in that light, like atomies to dance
-Within a sunbeam;--some upon the new
-
-'Embroidery of flowers, that did enhance
-The grassy vesture of the desert, played,
-Forgetful of the chariot's swift advance;
-
-'Others stood gazing, till within the shade
-Of the great mountain its light left them dim;
-Others outspeeded it; and others made
-
-'Circles around it, like the clouds that swim
-Round the high moon in a bright sea of air;
-And more did follow, with exulting hymn,
-
-'The chariot and the captives fettered there:--
-But all like bubbles on an eddying flood
-Fell into the same track at last, and were
-
-'Borne onward.--I among the multitude
-Was swept--me, sweetest flowers delayed not long;
-Me, not the shadow nor the solitude;
-
-'Me, not that falling stream's Lethean song;
-Me, not the phantom of that early Form
-Which moved upon its motion--but among
-
-'The thickest billows of that living storm
-I plunged, and bared my bosom to the clime
-Of that cold light, whose airs too soon deform.
-
-'Before the chariot had begun to climb
-The opposing steep of that mysterious dell,
-Behold a wonder worthy of the rhyme
-
-'Of him who from the lowest depths of hell,
-Through every paradise and through all glory,
-Love led serene, and who returned to tell
-
-'The words of hate and awe; the wondrous story
-How all things are transfigured except Love;
-For deaf as is a sea, which wrath makes hoary,
-
-'The world can hear not the sweet notes that move
-The sphere whose light is melody to lovers--
-A wonder worthy of his rhyme.--The grove
-
-'Grew dense with shadows to its inmost covers,
-The earth was gray with phantoms, and the air
-Was peopled with dim forms, as when there hovers
-
-'A flock of vampire-bats before the glare
-Of the tropic sun, bringing, ere evening,
-Strange night upon some Indian isle;--thus were
-
-'Phantoms diffused around; and some did fling
-Shadows of shadows, yet unlike themselves,
-Behind them; some like eaglets on the wing
-
-'Were lost in the white day; others like elves
-Danced in a thousand unimagined shapes
-Upon the sunny streams and grassy shelves;
-
-'And others sate chattering like restless apes
-On vulgar hands,...
-Some made a cradle of the ermined capes
-
-'Of kingly mantles; some across the tiar
-Of pontiffs sate like vultures; others played
-Under the crown which girt with empire
-
-'A baby's or an idiot's brow, and made
-Their nests in it. The old anatomies
-Sate hatching their bare broods under the shade
-
-'Of daemon wings, and laughed from their dead eyes
-To reassume the delegated power,
-Arrayed in which those worms did monarchize,
-
-'Who made this earth their charnel. Others more
-Humble, like falcons, sate upon the fist
-Of common men, and round their heads did soar;
-
-Or like small gnats and flies, as thick as mist
-On evening marshes, thronged about the brow
-Of lawyers, statesmen, priest and theorist;--
-
-'And others, like discoloured flakes of snow
-On fairest bosoms and the sunniest hair,
-Fell, and were melted by the youthful glow
-
-'Which they extinguished; and, like tears, they were
-A veil to those from whose faint lids they rained
-In drops of sorrow. I became aware
-
-'Of whence those forms proceeded which thus stained
-The track in which we moved. After brief space,
-From every form the beauty slowly waned;
-
-'From every firmest limb and fairest face
-The strength and freshness fell like dust, and left
-The action and the shape without the grace
-
-'Of life. The marble brow of youth was cleft
-With care; and in those eyes where once hope shone,
-Desire, like a lioness bereft
-
-'Of her last cub, glared ere it died; each one
-Of that great crowd sent forth incessantly
-These shadows, numerous as the dead leaves blown
-
-'In autumn evening from a poplar tree.
-Each like himself and like each other were
-At first; but some distorted seemed to be
-
-'Obscure clouds, moulded by the casual air;
-And of this stuff the car's creative ray
-Wrought all the busy phantoms that were there,
-
-'As the sun shapes the clouds; thus on the way
-Mask after mask fell from the countenance
-And form of all; and long before the day
-
-'Was old, the joy which waked like heaven's glance
-The sleepers in the oblivious valley, died;
-And some grew weary of the ghastly dance,
-
-'And fell, as I have fallen, by the wayside;--
-Those soonest from whose forms most shadows passed,
-And least of strength and beauty did abide.
-
-'Then, what is life? I cried.'--
-
-STANZA, WRITTEN AT BRACKNELL.
-
-Thy dewy looks sink in my breast;
-Thy gentle words stir poison there;
-Thou hast disturbed the only rest
-That was the portion of despair!
-Subdued to Duty's hard control,
-I could have borne my wayward lot:
-The chains that bind this ruined soul
-Had cankered then--but crushed it not.
-
-STANZAS.--APRIL, 1814.
-
-Away! the moor is dark beneath the moon,
-Rapid clouds have drank the last pale beam of even:
-Away! the gathering winds will call the darkness soon,
-And profoundest midnight shroud the serene lights of heaven.
-
-Pause not! The time is past! Every voice cries, Away!
-Tempt not with one last tear thy friend's ungentle mood:
-Thy lover's eye, so glazed and cold, dares not entreat thy stay:
-Duty and dereliction guide thee back to solitude.
-
-Away, away! to thy sad and silent home;
-Pour bitter tears on its desolated hearth;
-Watch the dim shades as like ghosts they go and come,
-And complicate strange webs of melancholy mirth.
-
-The leaves of wasted autumn woods shall float around thine head:
-The blooms of dewy spring shall gleam beneath thy feet:
-But thy soul or this world must fade in the frost that binds the dead,
-Ere midnight's frown and morning's smile, ere thou and peace may meet.
-
-The cloud shadows of midnight possess their own repose,
-For the weary winds are silent, or the moon is in the deep:
-Some respite to its turbulence unresting ocean knows;
-Whatever moves, or toils, or grieves, hath its appointed sleep.
-
-Thou in the grave shalt rest--yet till the phantoms flee
-Which that house and heath and garden made dear to thee erewhile,
-Thy remembrance, and repentance, and deep musings are not free
-From the music of two voices and the light of one sweet smile.
+"Tunbridge Wells" by John Wilmot
+At five this morn, when Phoebus raised his head
+From Thetis' lap, I raised myself from bed,
+And mounting steed, I trotted to the waters
+The rendesvous of fools, buffoons, and praters,
+Cuckolds, whores, citizens, their wives and daughters.
+
+My squeamish stomach I with wine had bribed
+To undertake the dose that was prescribed;
+But turning head, a sudden curséd view
+That innocent provision overthrew,
+And without drinking, made me purge and spew.
+From coach and six a thing unweildy rolled,
+Whose lumber, card more decently would hold.
+As wise as calf it looked, as big as bully,
+But handled, proves a mere Sir Nicholas Cully;
+A bawling fop, a natural Nokes, and yet
+He dares to censure as if he had wit.
+To make him more ridiculous, in spite
+Nature contrived the fool should be a knight.
+Though he alone were dismal signet enough,
+His train contributed to set him off,
+All of his shape, all of the selfsame stuff.
+No spleen or malice need on them be thrown:
+Nature has done the business of lampoon,
+And in their looks their characters has shown.
+
+Endeavoring this irksome sight to balk,
+And a more irksome noise, their silly talk,
+I silently slunk down t' th' Lower Walk,
+But often when one would Charybdis shun,
+Down upon Scilla 'tis one's fate to run,
+For here it was my curséd luck to find
+As great a fop, though of another kind,
+A tall stiff fool that walked in Spanish guise:
+The buckram puppet never stirred its eyes,
+But grave as owl it looked, as woodcock wise.
+He scorns the empty talking of this mad age,
+And speaks all proverbs, sentences, and adage;
+Can with as much solemnity buy eggs
+As a cabal can talk of their intrigues;
+Master o' th' Ceremonies, yet can dispense
+With the formality of talking sense.
+
+From hence unto the upper walk I ran,
+Where a new scene of foppery began.
+A tribe of curates, priests, canonical elves,
+Fit company for none besides themselves,
+Were got together. Each his distemper told,
+Scurvy, stone, strangury; some were so bold
+To charge the spleen to be their misery,
+And on that wise disease brought infamy.
+But none had modesty enough t' complain
+Their want of learning, honesty, and brain,
+The general diseases of that train.
+These call themselves ambassadors of heaven,
+And saucily pretend commissions given;
+But should an Indian king, whose small command
+Seldom extends beyond ten miles of land,
+Send forth such wretched tools in an ambassage,
+He'd find but small effects of such a message.
+Listening, I found the cob of all this rabble
+Pert Bays, with his importance comfortable.
+He, being raised to an archdeaconry
+By trampling on religion, liberty,
+Was grown to great, and looked too fat and jolly,
+To be disturbed with care and melancholy,
+Though Marvell has enough exposed his folly.
+He drank to carry off some old remains
+His lazy dull distemper left in 's veins.
+Let him drink on, but 'tis not a whole flood
+Can give sufficient sweetness to his blood
+To make his nature of his manners good.
+
+Next after these, a fulsome Irish crew
+Of silly Macs were offered to my view.
+The things did talk, but th' hearing what they said
+I did myself the kindness to evade.
+Nature has placed these wretches beneath scorn:
+They can't be called so vile as they are born.
+Amidst the crowd next I myself conveyed,
+For now were come, whitewash and paint being laid,
+Mother and daughter, mistress and the maid,
+And squire with wig and pantaloon displayed.
+But ne'er could conventicle, play, or fair
+For a true medley, with this herd compare.
+Here lords, knights, squires, ladies and countesses,
+Chandlers, mum-bacon women, sempstresses
+Were mixed together, nor did they agree
+More in their humors than their quality.
+
+Here waiting for gallant, young damsel stood,
+Leaning on cane, and muffled up in hood.
+The would-be wit, whose business was to woo,
+With hat removed and solemn scrape of shoe
+Advanceth bowing, then genteelly shrugs,
+And ruffled foretop into order tugs,
+And thus accosts her: "Madam, methinks the weather
+Is grown much more serene since you came hither.
+You influence the heavens; but should the sun
+Withdraw himself to see his rays outdone
+By your bright eyes, they would supply the morn,
+And make a day before the day be born."
+With mouth screwed up, conceited winking eyes,
+And breasts thrust forward, "Lord, sir!" she replies.
+"It is your goodness, and not my deserts,
+Which makes you show this learning, wit, and parts."
+He, puzzled, butes his nail, both to display
+The sparkling ring, and think what next to say,
+And thus breaks forth afresh: "Madam, egad!
+Your luck at cards last night was very bad:
+At cribbage fifty-nine, and the next show
+To make the game, and yet to want those two.
+God damn me, madam, I'm the son of a whore
+If in my life I saw the like before!"
+To peddler's stall he drags her, and her breast
+With hearts and such-like foolish toys he dressed;
+And then, more smartly to expound the riddle
+Of all his prattle, gives her a Scotch fiddle.
+
+Tired with this dismal stuff, away I ran
+Where were two wives, with girl just fit for man -
+Short-breathed, with pallid lips and visage wan.
+Some curtsies past, and the old compliment
+Of being glad to see each other, spent,
+With hand in hand they lovingly did walk,
+And one began thus to renew the talk:
+"I pray, good madam, if it may be thought
+No rudeness, what cause was it hither brought
+Your ladyship?" She soon replying, smiled,
+"We have a good estate, but have no child,
+And I'm informed these wells will make a barren
+Woman as fruitful as a cony warren."
+The first returned, "For this cause I am come,
+For I can have no quietness at home.
+My husband grumbles though we have got one,
+This poor young girl, and mutters for a son.
+And this is grieved with headache, pangs, and throes;
+Is full sixteen, and never yet had those."
+She soon replied, "Get her a husband, madam:
+I married at that age, and ne'er had 'em;
+Was just like her. Steel waters let alone:
+A back of steel will bring 'em better down."
+And ten to one but they themselves will try
+The same means to increase their family.
+Poor foolish fribble, who by subtlety
+Of midwife, truest friend to lechery,
+Persuaded art to be at pains and charge
+To give thy wife occasion to enlarge
+Thy silly head! For here walk Cuff and Kick,
+With brawny back and legs and potent prick,
+Who more substantially will cure thy wife,
+And on her half-dead womb bestow new life.
+From these the waters got the reputation
+Of good assistants unto generation.
+
+Some warlike men were now got into th' throng,
+With hair tied back, singing a bawdy song.
+Not much afraid, I got a nearer view,
+And 'twas my chance to know the dreadful crew.
+They were cadets, that seldom can appear:
+Damned to the stint of thirty pounds a year.
+With hawk on fist, or greyhound led in hand,
+The dogs and footboys sometimes they command.
+But now, having trimmed a cast-off spavined horse,
+With three hard-pinched-for guineas in their purse,
+Two rusty pistols, scarf about the arse,
+Coat lined with red, they here presume to swell:
+This goes for captain, that for colonel.
+So the Bear Garden ape, on his steed mounted,
+No longer is a jackanapes accounted,
+But is, by virtue of his trumpery, then
+Called by the name of "the young gentleman."
+
+Bless me! thought I, what thing is man, that thus
+In all his shapes, he is ridiculous?
+Ourselves with noise of reason we do please
+In vain: humanity's our worst disease.
+Thrice happy beasts are, who, because they be
+Of reason void, and so of foppery.
+Faith, I was so ashamed that with remorse
+I used the insolence to mount my horse;
+For he, doing only things fit for his nature,
+Did seem to me by much the wiser creature.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 29°C, smoke in Karachi 🇵🇰
+🌡️ 28°C, light intensity drizzle in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -957,4 +372,4 @@ From the music of two voices and the light of one sweet smile.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->June 27, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->June 28, 2025 at 06:42 AM GMT+5<!-- TIMESTAMP:END -->_
