@@ -9,13 +9,14 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
 <!-- RECENT_ACTIVITY:START -->
+- 📝 1 commit to **zod-formik-adapter** on 6/27/2025
 - 📝 1 commit to **afzalimdad9** on 6/24/2025
 - 📝 11 commits to **express-generator-typescript** on 6/22/2025
 - 📝 1 commit to **public-apis** on 6/21/2025
@@ -28,15 +29,15 @@
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **36** commits across **5** repositories (last 30 days)
+- 📊 **37** commits across **6** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 6/28/2025)
 - 🔥 [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema ⭐ 0 (Updated: 6/27/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 6/27/2025)
 - 🔥 [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥 ⭐ 3 (Updated: 6/24/2025)
 <!-- HOT_REPOS:END -->
 
@@ -78,7 +79,7 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Hold a video game tournament with some friends
+Find a DIY to do
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -87,195 +88,54 @@ Hold a video game tournament with some friends
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Tunbridge Wells" by John Wilmot
-At five this morn, when Phoebus raised his head
-From Thetis' lap, I raised myself from bed,
-And mounting steed, I trotted to the waters
-The rendesvous of fools, buffoons, and praters,
-Cuckolds, whores, citizens, their wives and daughters.
-
-My squeamish stomach I with wine had bribed
-To undertake the dose that was prescribed;
-But turning head, a sudden curséd view
-That innocent provision overthrew,
-And without drinking, made me purge and spew.
-From coach and six a thing unweildy rolled,
-Whose lumber, card more decently would hold.
-As wise as calf it looked, as big as bully,
-But handled, proves a mere Sir Nicholas Cully;
-A bawling fop, a natural Nokes, and yet
-He dares to censure as if he had wit.
-To make him more ridiculous, in spite
-Nature contrived the fool should be a knight.
-Though he alone were dismal signet enough,
-His train contributed to set him off,
-All of his shape, all of the selfsame stuff.
-No spleen or malice need on them be thrown:
-Nature has done the business of lampoon,
-And in their looks their characters has shown.
-
-Endeavoring this irksome sight to balk,
-And a more irksome noise, their silly talk,
-I silently slunk down t' th' Lower Walk,
-But often when one would Charybdis shun,
-Down upon Scilla 'tis one's fate to run,
-For here it was my curséd luck to find
-As great a fop, though of another kind,
-A tall stiff fool that walked in Spanish guise:
-The buckram puppet never stirred its eyes,
-But grave as owl it looked, as woodcock wise.
-He scorns the empty talking of this mad age,
-And speaks all proverbs, sentences, and adage;
-Can with as much solemnity buy eggs
-As a cabal can talk of their intrigues;
-Master o' th' Ceremonies, yet can dispense
-With the formality of talking sense.
-
-From hence unto the upper walk I ran,
-Where a new scene of foppery began.
-A tribe of curates, priests, canonical elves,
-Fit company for none besides themselves,
-Were got together. Each his distemper told,
-Scurvy, stone, strangury; some were so bold
-To charge the spleen to be their misery,
-And on that wise disease brought infamy.
-But none had modesty enough t' complain
-Their want of learning, honesty, and brain,
-The general diseases of that train.
-These call themselves ambassadors of heaven,
-And saucily pretend commissions given;
-But should an Indian king, whose small command
-Seldom extends beyond ten miles of land,
-Send forth such wretched tools in an ambassage,
-He'd find but small effects of such a message.
-Listening, I found the cob of all this rabble
-Pert Bays, with his importance comfortable.
-He, being raised to an archdeaconry
-By trampling on religion, liberty,
-Was grown to great, and looked too fat and jolly,
-To be disturbed with care and melancholy,
-Though Marvell has enough exposed his folly.
-He drank to carry off some old remains
-His lazy dull distemper left in 's veins.
-Let him drink on, but 'tis not a whole flood
-Can give sufficient sweetness to his blood
-To make his nature of his manners good.
-
-Next after these, a fulsome Irish crew
-Of silly Macs were offered to my view.
-The things did talk, but th' hearing what they said
-I did myself the kindness to evade.
-Nature has placed these wretches beneath scorn:
-They can't be called so vile as they are born.
-Amidst the crowd next I myself conveyed,
-For now were come, whitewash and paint being laid,
-Mother and daughter, mistress and the maid,
-And squire with wig and pantaloon displayed.
-But ne'er could conventicle, play, or fair
-For a true medley, with this herd compare.
-Here lords, knights, squires, ladies and countesses,
-Chandlers, mum-bacon women, sempstresses
-Were mixed together, nor did they agree
-More in their humors than their quality.
-
-Here waiting for gallant, young damsel stood,
-Leaning on cane, and muffled up in hood.
-The would-be wit, whose business was to woo,
-With hat removed and solemn scrape of shoe
-Advanceth bowing, then genteelly shrugs,
-And ruffled foretop into order tugs,
-And thus accosts her: "Madam, methinks the weather
-Is grown much more serene since you came hither.
-You influence the heavens; but should the sun
-Withdraw himself to see his rays outdone
-By your bright eyes, they would supply the morn,
-And make a day before the day be born."
-With mouth screwed up, conceited winking eyes,
-And breasts thrust forward, "Lord, sir!" she replies.
-"It is your goodness, and not my deserts,
-Which makes you show this learning, wit, and parts."
-He, puzzled, butes his nail, both to display
-The sparkling ring, and think what next to say,
-And thus breaks forth afresh: "Madam, egad!
-Your luck at cards last night was very bad:
-At cribbage fifty-nine, and the next show
-To make the game, and yet to want those two.
-God damn me, madam, I'm the son of a whore
-If in my life I saw the like before!"
-To peddler's stall he drags her, and her breast
-With hearts and such-like foolish toys he dressed;
-And then, more smartly to expound the riddle
-Of all his prattle, gives her a Scotch fiddle.
-
-Tired with this dismal stuff, away I ran
-Where were two wives, with girl just fit for man -
-Short-breathed, with pallid lips and visage wan.
-Some curtsies past, and the old compliment
-Of being glad to see each other, spent,
-With hand in hand they lovingly did walk,
-And one began thus to renew the talk:
-"I pray, good madam, if it may be thought
-No rudeness, what cause was it hither brought
-Your ladyship?" She soon replying, smiled,
-"We have a good estate, but have no child,
-And I'm informed these wells will make a barren
-Woman as fruitful as a cony warren."
-The first returned, "For this cause I am come,
-For I can have no quietness at home.
-My husband grumbles though we have got one,
-This poor young girl, and mutters for a son.
-And this is grieved with headache, pangs, and throes;
-Is full sixteen, and never yet had those."
-She soon replied, "Get her a husband, madam:
-I married at that age, and ne'er had 'em;
-Was just like her. Steel waters let alone:
-A back of steel will bring 'em better down."
-And ten to one but they themselves will try
-The same means to increase their family.
-Poor foolish fribble, who by subtlety
-Of midwife, truest friend to lechery,
-Persuaded art to be at pains and charge
-To give thy wife occasion to enlarge
-Thy silly head! For here walk Cuff and Kick,
-With brawny back and legs and potent prick,
-Who more substantially will cure thy wife,
-And on her half-dead womb bestow new life.
-From these the waters got the reputation
-Of good assistants unto generation.
-
-Some warlike men were now got into th' throng,
-With hair tied back, singing a bawdy song.
-Not much afraid, I got a nearer view,
-And 'twas my chance to know the dreadful crew.
-They were cadets, that seldom can appear:
-Damned to the stint of thirty pounds a year.
-With hawk on fist, or greyhound led in hand,
-The dogs and footboys sometimes they command.
-But now, having trimmed a cast-off spavined horse,
-With three hard-pinched-for guineas in their purse,
-Two rusty pistols, scarf about the arse,
-Coat lined with red, they here presume to swell:
-This goes for captain, that for colonel.
-So the Bear Garden ape, on his steed mounted,
-No longer is a jackanapes accounted,
-But is, by virtue of his trumpery, then
-Called by the name of "the young gentleman."
-
-Bless me! thought I, what thing is man, that thus
-In all his shapes, he is ridiculous?
-Ourselves with noise of reason we do please
-In vain: humanity's our worst disease.
-Thrice happy beasts are, who, because they be
-Of reason void, and so of foppery.
-Faith, I was so ashamed that with remorse
-I used the insolence to mount my horse;
-For he, doing only things fit for his nature,
-Did seem to me by much the wiser creature.
+"A Version of Ossian's Address to the Sun.  From the Poem "Carthon."" by George Gordon, Lord Byron
+O THOU! who rollest in yon azure field,
+Round as the orb of my forefather's shield,
+Whence are thy beams? From what eternal store
+Dost thou, O Sun! thy vast effulgence pour?
+In awful grandeur, when thou movest on high,
+The stars start back and hide them in the sky;
+The pale Moon sickens in thy brightening blaze,
+And in the western wave avoids thy gaze.
+Alone thou shinest forth--for who can rise
+Companion of thy splendour in the skies!
+The mountain oaks are seen to fall away--
+Mountains themselves by length of years decay--
+With ebbs and flows is the rough Ocean tost;
+In heaven the Moon is for a season lost,
+But thou, amidst the fullness of thy joy,
+The same art ever, blazing in the sky!
+When tempests wrap the world from pole to pole,
+When vivid lightnings flash and thunders roll,
+Thou far above their utmost fury borne,
+Look'st forth in beauty, laughing them to scorn.
+But vainly now on me thy beauties blaze--
+Ossian no longer can enraptured gaze!
+Whether at morn, in lucid lustre gay,
+On eastern clouds thy yellow tresses play,
+Or else at eve, in radiant glory drest,
+Thou tremblest at the portals of the west,
+I see no more! But thou mayest fail at length,
+Like Ossian lose thy beauty and thy strength,
+Like him--but for a season--in thy sphere
+To shine with splendour, then to disappear!
+Thy years shall have an end, and thou no more
+Bright through the world enlivening radiance pour,
+But sleep within thy clouds, and fail to rise,
+Heedless when Morning calls thee to the skies!
+Then now exult, O Sun! and gaily shine,
+While Youth and Strength and Beauty all are thine.
+For Age is dark, unlovely, as the light
+Shed by the Moon when clouds deform the night,
+Glimmering uncertain as they hurry past.
+Loud o'er the plain is heard the northern blast,
+Mists shroud the hills, and 'neath the growing gloom,
+The weary traveller shrinks and sighs for home.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, light intensity drizzle in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -372,4 +232,4 @@ Did seem to me by much the wiser creature.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->June 28, 2025 at 06:42 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->June 29, 2025 at 06:55 AM GMT+5<!-- TIMESTAMP:END -->_
