@@ -37,7 +37,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/9/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/10/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 38 (Updated: 7/7/2025)
 - 🔥 [Emojicam](https://github.com/afzalimdad9/Emojicam) - A Next.js app for video meetings, scheduling, and real-time chat. Features Google/GitHub/Email auth, Peer-to-Peer video, emoji reactions, and profile management. Built for remote teams, professionals, and educators. ⭐ 0 (Updated: 7/5/2025)
 <!-- HOT_REPOS:END -->
@@ -73,18 +73,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Listen to music you haven't heard in a while
+Learn to greet someone in a new language
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -93,37 +87,114 @@ Listen to music you haven't heard in a while
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"This Life Is All Chequer'd With Pleasures and Woes" by Thomas Moore
-This life is all chequer'd with pleasures and woes,
-That chase one another like waves of the deep --
-Each brightly or darkly, as onward it flows,
-Reflecting our eyes, as they sparkle or weep.
-So closely our whims on our miseries tread,
-That the laugh is awaked ere the tear can be dried;
-And, as fast as the rain-drop of Pity is shed,
-The goose-plumage of Folly can turn it aside.
-But pledge me the cup -- if existence would cloy,
-With hearts ever happy and heads ever wise,
-Be ours the light Sorrow, half-sister to Joy,
-And the light brilliant Folly that flashes and dies.
+"Ulalume" by Edgar Allan Poe
+The skies they were ashen and sober;
+  The leaves they were crisped and sere--
+  The leaves they were withering and sere;
+It was night in the lonesome October
+  Of my most immemorial year;
+It was hard by the dim lake of Auber,
+  In the misty mid region of Weir--
+It was down by the dank tarn of Auber,
+  In the ghoul-haunted woodland of Weir.
 
-When Hylas was sent with his urn to the fount,
-Through fields full of light, and with heart full of play,
-Light rambled the boy, over meadow and mount,
-And neglected his task for the flowers on the way.
-Thus many, like me, who in youth should have tasted
-The fountain that runs by Philosophy's shrine,
-Their time with the flowers on the margin have wasted,
-And left their light urns all as empty as mine.
-But pledge me the goblet; -- while idleness weaves
-These flowerets together, should Wisdom but see
-One bright drop or two that has fall'n on the leaves
-From her fountain divine, 'tis sufficient for me.
+Here once, through an alley Titanic.
+  Of cypress, I roamed with my Soul--
+  Of cypress, with Psyche, my Soul.
+These were days when my heart was volcanic
+  As the scoriac rivers that roll--
+  As the lavas that restlessly roll
+Their sulphurous currents down Yaanek
+  In the ultimate climes of the pole--
+That groan as they roll down Mount Yaanek
+  In the realms of the boreal pole.
+
+Our talk had been serious and sober,
+  But our thoughts they were palsied and sere--
+  Our memories were treacherous and sere--
+For we knew not the month was October,
+And we marked not the night of the year--
+  (Ah, night of all nights in the year!)
+We noted not the dim lake of Auber--
+  (Though once we had journeyed down here)--
+Remembered not the dank tarn of Auber,
+  Nor the ghoul-haunted woodland of Weir.
+
+And now as the night was senescent
+  And star-dials pointed to morn--
+  As the sun-dials hinted of morn--
+At the end of our path a liquescent
+  And nebulous lustre was born,
+Out of which a miraculous crescent
+  Arose with a duplicate horn--
+Astarte's bediamonded crescent
+  Distinct with its duplicate horn.
+
+And I said--"She is warmer than Dian:
+  She rolls through an ether of sighs--
+  She revels in a region of sighs:
+She has seen that the tears are not dry on
+  These cheeks, where the worm never dies,
+And has come past the stars of the Lion
+  To point us the path to the skies--
+  To the Lethean peace of the skies--
+Come up, in despite of the Lion,
+  To shine on us with her bright eyes--
+Come up through the lair of the Lion,
+  With love in her luminous eyes."
+
+But Psyche, uplifting her finger,
+  Said--"Sadly this star I mistrust--
+  Her pallor I strangely mistrust:--
+Oh, hasten!--oh, let us not linger!
+  Oh, fly!--let us fly!--for we must."
+In terror she spoke, letting sink her
+  Wings till they trailed in the dust--
+In agony sobbed, letting sink her
+  Plumes till they trailed in the dust--
+  Till they sorrowfully trailed in the dust.
+
+I replied--"This is nothing but dreaming:
+  Let us on by this tremulous light!
+  Let us bathe in this crystalline light!
+Its Sibyllic splendor is beaming
+  With Hope and in Beauty to-night:--
+  See!--it flickers up the sky through the night!
+Ah, we safely may trust to its gleaming,
+  And be sure it will lead us aright--
+We safely may trust to a gleaming
+  That cannot but guide us aright,
+  Since it flickers up to Heaven through the night."
+
+Thus I pacified Psyche and kissed her,
+  And tempted her out of her gloom--
+  And conquered her scruples and gloom;
+And we passed to the end of a vista,
+  But were stopped by the door of a tomb--
+  By the door of a legended tomb;
+And I said--"What is written, sweet sister,
+  On the door of this legended tomb?"
+  She replied--"Ulalume--Ulalume--
+  'Tis the vault of thy lost Ulalume!"
+
+Then my heart it grew ashen and sober
+  As the leaves that were crisped and sere--
+  As the leaves that were withering and sere;
+And I cried--"It was surely October
+  On _this_ very night of last year
+  That I journeyed--I journeyed down here--
+  That I brought a dread burden down here!
+  On this night of all nights in the year,
+  Ah, what demon has tempted me here?
+Well I know, now, this dim lake of Auber--
+  This misty mid region of Weir--
+Well I know, now, this dank tarn of Auber,--
+  This ghoul-haunted woodland of Weir."
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 29°C, overcast clouds in Karachi 🇵🇰
+🌡️ 29°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -220,4 +291,4 @@ From her fountain divine, 'tis sufficient for me.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->July 10, 2025 at 06:47 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->July 11, 2025 at 06:49 AM GMT+5<!-- TIMESTAMP:END -->_
