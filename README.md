@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -37,8 +37,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/15/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 39 (Updated: 7/15/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/14/2025)
 - 🔥 [Emojicam](https://github.com/afzalimdad9/Emojicam) - A Next.js app for video meetings, scheduling, and real-time chat. Features Google/GitHub/Email auth, Peer-to-Peer video, emoji reactions, and profile management. Built for remote teams, professionals, and educators. ⭐ 0 (Updated: 7/5/2025)
 <!-- HOT_REPOS:END -->
 
@@ -73,12 +73,15 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Go to a music festival with some friends
+Start a garden
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -87,42 +90,65 @@ Go to a music festival with some friends
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"To the Moonbeam" by Percy Bysshe Shelley
-Moonbeam, leave the shadowy vale,
-To bathe this burning brow.
-Moonbeam, why art thou so pale,
-As thou walkest o'er the dewy dale,
-Where humble wild-flowers grow?
-Is it to mimic me?
-But that can never be;
-For thine orb is bright,
-And the clouds are light,
-That at intervals shadow the star-studded night.
+"The Haunted Palace" by Edgar Allan Poe
+In the greenest of our valleys
+  By good angels tenanted,
+Once a fair and stately palace--
+  Radiant palace--reared its head.
+In the monarch Thought's dominion--
+  It stood there!
+Never seraph spread a pinion
+  Over fabric half so fair!
 
-Now all is deathy still on earth;
-Nature's tired frame reposes;
-And, ere the golden morning's birth
-Its radiant hues discloses,
-Flies forth its balmy breath.
-But mine is the midnight of Death,
-And Nature's morn
-To my bosom forlorn
-Brings but a gloomier night, implants a deadlier thorn.
+Banners yellow, glorious, golden,
+  On its roof did float and flow,
+(This--all this--was in the olden
+  Time long ago),
+And every gentle air that dallied,
+  In that sweet day,
+Along the ramparts plumed and pallid,
+  A winged odor went away.
 
-Wretch! Suppress the glare of madness
-Struggling in thine haggard eye,
-For the keenest throb of sadness,
-Pale Despair's most sickening sigh,
-Is but to mimic me;
-And this must ever be,
-When the twilight of care,
-And the night of despair,
-Seem in my breast but joys to the pangs that rankle there.
+Wanderers in that happy valley,
+  Through two luminous windows, saw
+Spirits moving musically,
+  To a lute's well-tunëd law,
+Bound about a throne where, sitting
+  (Porphyrogene!)
+In state his glory well befitting,
+  The ruler of the realm was seen.
+
+And all with pearl and ruby glowing
+  Was the fair palace door,
+Through which came flowing, flowing, flowing,
+  And sparkling evermore,
+A troop of Echoes, whose sweet duty
+  Was but to sing,
+In voices of surpassing beauty,
+  The wit and wisdom of their king.
+
+But evil things, in robes of sorrow,
+  Assailed the monarch's high estate.
+(Ah, let us mourn!--for never morrow
+  Shall dawn upon him desolate !)
+And round about his home the glory
+  That blushed and bloomed,
+Is but a dim-remembered story
+  Of the old time entombed.
+
+And travellers, now, within that valley,
+  Through the red-litten windows see
+Vast forms, that move fantastically
+  To a discordant melody,
+  While, like a ghastly rapid river,
+  Through the pale door
+A hideous throng rush out forever
+  And laugh--but smile no more.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 30°C, smoke in Karachi 🇵🇰
+🌡️ 29°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -219,4 +245,4 @@ Seem in my breast but joys to the pangs that rankle there.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->July 15, 2025 at 06:54 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->July 16, 2025 at 06:50 AM GMT+5<!-- TIMESTAMP:END -->_
