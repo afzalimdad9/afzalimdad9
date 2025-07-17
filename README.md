@@ -69,7 +69,7 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 - 👨‍💻 All of my projects are available at [portfolio](https://afzalimdad9.vercel.app)
 - 📝 I regularly write articles on [medium](https://afzalimdad9.medium.com)
 - 📫 How to reach me **<afzalimdad9@gmail.com>**
-- 📄 Know about my experiences on [Resume](https://drive.google.com/file/d/1GrGwRH1MPp9nY9klg6qIPJPn9rVqQrhA/view?usp=drive_link)
+- 📄 Know about my experiences on [Resume](https://drive.google.com/file/d/1VD-Nm8e1GHt3c2_Kl0r1XYmOvAqOVpZ9/view?usp=sharing)
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
