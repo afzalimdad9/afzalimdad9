@@ -25,19 +25,18 @@
 - 📝 20 commits to **developer-roadmap** on 6/21/2025
 - 📝 1 commit to **afzalimdad9** on 6/21/2025
 - 📝 10 commits to **express-generator-typescript** on 6/21/2025
-- 📝 11 commits to **afzalimdad9** on 6/20/2025
 <!-- RECENT_ACTIVITY:END -->
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **38** commits across **6** repositories (last 30 days)
+- 📊 **28** commits across **6** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/19/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/20/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 39 (Updated: 7/15/2025)
 - 🔥 [Emojicam](https://github.com/afzalimdad9/Emojicam) - A Next.js app for video meetings, scheduling, and real-time chat. Features Google/GitHub/Email auth, Peer-to-Peer video, emoji reactions, and profile management. Built for remote teams, professionals, and educators. ⭐ 0 (Updated: 7/5/2025)
 <!-- HOT_REPOS:END -->
@@ -73,18 +72,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn how to play a new sport
+Learn how to whistle with your fingers
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -93,455 +86,774 @@ Learn how to play a new sport
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Paradise Regained: The Third Book" by John Milton
-So spake the Son of God; and Satan stood
-A while as mute, confounded what to say,
-What to reply, confuted and convinced
-Of his weak arguing and fallacious drift;
-At length, collecting all his serpent wiles,
-With soothing words renewed, him thus accosts:—
-  "I see thou know'st what is of use to know,
-What best to say canst say, to do canst do;
-Thy actions to thy words accord; thy words
-To thy large heart give utterance due; thy heart
-Contains of good, wise, just, the perfet shape.
-Should kings and nations from thy mouth consult,
-Thy counsel would be as the oracle
-Urim and Thummim, those oraculous gems
-On Aaron's breast, or tongue of Seers old
-Infallible; or, wert thou sought to deeds
-That might require the array of war, thy skill
-Of conduct would be such that all the world
-Could not sustain thy prowess, or subsist
-In battle, though against thy few in arms.
-These godlike virtues wherefore dost thou hide?
-Affecting private life, or more obscure
-In savage wilderness, wherefore deprive
-All Earth her wonder at thy acts, thyself
-The fame and glory—glory, the reward
-That sole excites to high attempts the flame
-Of most erected spirits, most tempered pure
-AEthereal, who all pleasures else despise,
-All treasures and all gain esteem as dross,
-And dignities and powers, all but the highest?
-Thy years are ripe, and over-ripe.  The son
-Of Macedonian Philip had ere these
-Won Asia, and the throne of Cyrus held
-At his dispose; young Scipio had brought down
-The Carthaginian pride; young Pompey quelled
-The Pontic king, and in triumph had rode.
-Yet years, and to ripe years judgment mature,
-Quench not the thirst of glory, but augment.
-Great Julius, whom now all the world admires,
-The more he grew in years, the more inflamed
-With glory, wept that he had lived so long
-Ingloroious.  But thou yet art not too late."
-  To whom our Saviour calmly thus replied:—
-"Thou neither dost persuade me to seek wealth
-For empire's sake, nor empire to affect
-For glory's sake, by all thy argument.
-For what is glory but the blaze of fame,
-The people's praise, if always praise unmixed?
-And what the people but a herd confused,
-A miscellaneous rabble, who extol
-Things vulgar, and, well weighed, scarce worth the praise?
-They praise and they admire they know not what,
-And know not whom, but as one leads the other;
-And what delight to be by such extolled,
-To live upon their tongues, and be their talk?
-Of whom to be dispraised were no small praise—
-His lot who dares be singularly good.
-The intelligent among them and the wise
-Are few, and glory scarce of few is raised.
-This is true glory and renown—when God,
-Looking on the Earth, with approbation marks
-The just man, and divulges him through Heaven
-To all his Angels, who with true applause
-Recount his praises.  Thus he did to Job,
-When, to extend his fame through Heaven and Earth,
-As thou to thy reproach may'st well remember,
-He asked thee, 'Hast thou seen my servant Job?'
-Famous he was in Heaven; on Earth less known,
-Where glory is false glory, attributed
-To things not glorious, men not worthy of fame.
-They err who count it glorious to subdue
-By conquest far and wide, to overrun
-Large countries, and in field great battles win,
-Great cities by assault.  What do these worthies
-But rob and spoil, burn, slaughter, and enslave
-Peaceable nations, neighbouring or remote,
-Made captive, yet deserving freedom more
-Than those their conquerors, who leave behind
-Nothing but ruin wheresoe'er they rove,
-And all the flourishing works of peace destroy;
-Then swell with pride, and must be titled Gods,
-Great benefactors of mankind, Deliverers,
-Worshipped with temple, priest, and sacrifice?
-One is the son of Jove, of Mars the other;
-Till conqueror Death discover them scarce men,
-Rowling in brutish vices, and deformed,
-Violent or shameful death their due reward.
-But, if there be in glory aught of good;
-It may be means far different be attained,
-Without ambition, war, or violence—
-By deeds of peace, by wisdom eminent,
-By patience, temperance.  I mention still
-Him whom thy wrongs, with saintly patience borne,
-Made famous in a land and times obscure;
-Who names not now with honour patient Job?
-Poor Socrates, (who next more memorable?)
-By what he taught and suffered for so doing,
-For truth's sake suffering death unjust, lives now
-Equal in fame to proudest conquerors.
-Yet, if for fame and glory aught be done,
-Aught suffered—if young African for fame
-His wasted country freed from Punic rage—
-The deed becomes unpraised, the man at least,
-And loses, though but verbal, his reward.
-Shall I seek glory, then, as vain men seek,
-Oft not deserved?  I seek not mine, but His
-Who sent me, and thereby witness whence I am."
-  To whom the Tempter, murmuring, thus replied:—
-"Think not so slight of glory, therein least
-Resembling thy great Father.  He seeks glory,
-And for his glory all things made, all things
-Orders and governs; nor content in Heaven,
-By all his Angels glorified, requires
-Glory from men, from all men, good or bad,
-Wise or unwise, no difference, no exemption.
-Above all sacrifice, or hallowed gift,
-Glory he requires, and glory he receives,
-Promiscuous from all nations, Jew, or Greek,
-Or Barbarous, nor exception hath declared;
-From us, his foes pronounced, glory he exacts."
-  To whom our Saviour fervently replied:
-"And reason; since his Word all things produced,
-Though chiefly not for glory as prime end,
-But to shew forth his goodness, and impart
-His good communicable to every soul
-Freely; of whom what could He less expect
-Than glory and benediction—that is, thanks—
-The slightest, easiest, readiest recompense
-From them who could return him nothing else,
-And, not returning that, would likeliest render
-Contempt instead, dishonour, obloquy?
-Hard recompense, unsuitable return
-For so much good, so much beneficience!
-But why should man seek glory, who of his own
-Hath nothing, and to whom nothing belongs
-But condemnation, ignominy, and shame—
-Who, for so many benefits received,
-Turned recreant to God, ingrate and false,
-And so of all true good himself despoiled;
-Yet, sacrilegious, to himself would take
-That which to God alone of right belongs?
-Yet so much bounty is in God, such grace,
-That who advances his glory, not their own,
-Them he himself to glory will advance."
-  So spake the Son of God; and here again
-Satan had not to answer, but stood struck
-With guilt of his own sin—for he himself,
-Insatiable of glory, had lost all;
-Yet of another plea bethought him soon:—
-  "Of glory, as thou wilt," said he, "so deem;
-Worth or not worth the seeking, let it pass.
-But to a Kingdom thou art born—ordained
-To sit upon thy father David's throne,
-By mother's side thy father, though thy right
-Be now in powerful hands, that will not part
-Easily from possession won with arms.
-Judaea now and all the Promised Land,
-Reduced a province under Roman yoke,
-Obeys Tiberius, nor is always ruled
-With temperate sway: oft have they violated
-The Temple, oft the Law, with foul affronts,
-Abominations rather, as did once
-Antiochus.  And think'st thou to regain
-Thy right by sitting still, or thus retiring?
-So did not Machabeus.  He indeed
-Retired unto the Desert, but with arms;
-And o'er a mighty king so oft prevailed
-That by strong hand his family obtained,
-Though priests, the crown, and David's throne usurped,
-With Modin and her suburbs once content.
-If kingdom move thee not, let move thee zeal
-And duty—zeal and duty are not slow,
-But on Occasion's forelock watchful wait:
-They themselves rather are occasion best—
-Zeal of thy Father's house, duty to free
-Thy country from her heathen servitude.
-So shalt thou best fulfil, best verify,
-The Prophets old, who sung thy endless reign—
-The happier reign the sooner it begins.
-Rein then; what canst thou better do the while?"
-  To whom our Saviour answer thus returned:—
-"All things are best fulfilled in their due time;
-And time there is for all things, Truth hath said.
-If of my reign Prophetic Writ hath told
-That it shall never end, so, when begin
-The Father in his purpose hath decreed—
-He in whose hand all times and seasons rowl.
-What if he hath decreed that I shall first
-Be tried in humble state, and things adverse,
-By tribulations, injuries, insults,
-Contempts, and scorns, and snares, and violence,
-Suffering, abstaining, quietly expecting
-Without distrust or doubt, that He may know
-What I can suffer, how obey?  Who best
-Can suffer best can do, best reign who first
-Well hath obeyed—just trial ere I merit
-My exaltation without change or end.
-But what concerns it thee when I begin
-My everlasting Kingdom?  Why art thou
-Solicitous?  What moves thy inquisition?
-Know'st thou not that my rising is thy fall,
-And my promotion will be thy destruction?"
-  To whom the Tempter, inly racked, replied:—
-"Let that come when it comes.  All hope is lost
-Of my reception into grace; what worse?
-For where no hope is left is left no fear.
-If there be worse, the expectation more
-Of worse torments me than the feeling can.
-I would be at the worst; worst is my port,
-My harbour, and my ultimate repose,
-The end I would attain, my final good.
-My error was my error, and my crime
-My crime; whatever, for itself condemned,
-And will alike be punished, whether thou
-Reign or reign not—though to that gentle brow
-Willingly I could fly, and hope thy reign,
-From that placid aspect and meek regard,
-Rather than aggravate my evil state,
-Would stand between me and thy Father's ire
-(Whose ire I dread more than the fire of Hell)
-A shelter and a kind of shading cool
-Interposition, as a summer's cloud.
-If I, then, to the worst that can be haste,
-Why move thy feet so slow to what is best?
-Happiest, both to thyself and all the world,
-That thou, who worthiest art, shouldst be their King!
-Perhaps thou linger'st in deep thoughts detained
-Of the enterprise so hazardous and high!
-No wonder; for, though in thee be united
-What of perfection can in Man be found,
-Or human nature can receive, consider
-Thy life hath yet been private, most part spent
-At home, scarce viewed the Galilean towns,
-And once a year Jerusalem, few days'
-Short sojourn; and what thence couldst thou observe?
-The world thou hast not seen, much less her glory,
-Empires, and monarchs, and their radiant courts—
-Best school of best experience, quickest in sight
-In all things that to greatest actions lead.
-The wisest, unexperienced, will be ever
-Timorous, and loth, with novice modesty
-(As he who, seeking asses, found a kingdom)
-Irresolute, unhardy, unadventrous.
-But I will bring thee where thou soon shalt quit
-Those rudiments, and see before thine eyes
-The monarchies of the Earth, their pomp and state—
-Sufficient introduction to inform
-Thee, of thyself so apt, in regal arts,
-And regal mysteries; that thou may'st know
-How best their opposition to withstand."
-  With that (such power was given him then), he took
-The Son of God up to a mountain high.
-It was a mountain at whose verdant feet
-A spacious plain outstretched in circuit wide
-Lay pleasant; from his side two rivers flowed,
-The one winding, the other straight, and left between
-Fair champaign, with less rivers interveined,
-Then meeting joined their tribute to the sea.
-Fertil of corn the glebe, of oil, and wine;
-With herds the pasture thronged, with flocks the hills;
-Huge cities and high-towered, that well might seem
-The seats of mightiest monarchs; and so large
-The prospect was that here and there was room
-For barren desert, fountainless and dry.
-To this high mountain-top the Tempter brought
-Our Saviour, and new train of words began:—
-  "Well have we speeded, and o'er hill and dale,
-Forest, and field, and flood, temples and towers,
-Cut shorter many a league.  Here thou behold'st
-Assyria, and her empire's ancient bounds,
-Araxes and the Caspian lake; thence on
-As far as Indus east, Euphrates west,
-And oft beyond; to south the Persian bay,
-And, inaccessible, the Arabian drouth:
-Here, Nineveh, of length within her wall
-Several days' journey, built by Ninus old,
-Of that first golden monarchy the seat,
-And seat of Salmanassar, whose success
-Israel in long captivity still mourns;
-There Babylon, the wonder of all tongues,
-As ancient, but rebuilt by him who twice
-Judah and all thy father David's house
-Led captive, and Jerusalem laid waste,
-Till Cyrus set them free; Persepolis,
-His city, there thou seest, and Bactra there;
-Ecbatana her structure vast there shews,
-And Hecatompylos her hunderd gates;
-There Susa by Choaspes, amber stream,
-The drink of none but kings; of later fame,
-Built by Emathian or by Parthian hands,
-The great Seleucia, Nisibis, and there
-Artaxata, Teredon, Ctesiphon,
-Turning with easy eye, thou may'st behold.
-All these the Parthian (now some ages past
-By great Arsaces led, who founded first
-That empire) under his dominion holds,
-From the luxurious kings of Antioch won.
-And just in time thou com'st to have a view
-Of his great power; for now the Parthian king
-In Ctesiphon hath gathered all his host
-Against the Scythian, whose incursions wild
-Have wasted Sogdiana; to her aid
-He marches now in haste.  See, though from far,
-His thousands, in what martial equipage
-They issue forth, steel bows and shafts their arms,
-Of equal dread in flight or in pursuit—
-All horsemen, in which fight they most excel;
-See how in warlike muster they appear,
-In rhombs, and wedges, and half-moons, and wings."
-  He looked, and saw what numbers numberless
-The city gates outpoured, light-armed troops
-In coats of mail and military pride.
-In mail their horses clad, yet fleet and strong,
-Prauncing their riders bore, the flower and choice
-Of many provinces from bound to bound—
-From Arachosia, from Candaor east,
-And Margiana, to the Hyrcanian cliffs
-Of Caucasus, and dark Iberian dales;
-From Atropatia, and the neighbouring plains
-Of Adiabene, Media, and the south
-Of Susiana, to Balsara's haven.
-He saw them in their forms of battle ranged,
-How quick they wheeled, and flying behind them shot
-Sharp sleet of arrowy showers against the face
-Of their pursuers, and overcame by flight;
-The field all iron cast a gleaming brown.
-Nor wanted clouds of foot, nor, on each horn,
-Cuirassiers all in steel for standing fight,
-Chariots, or elephants indorsed with towers
-Of archers; nor of labouring pioners
-A multitude, with spades and axes armed,
-To lay hills plain, fell woods, or valleys fill,
-Or where plain was raise hill, or overlay
-With bridges rivers proud, as with a yoke:
-Mules after these, camels and dromedaries,
-And waggons fraught with utensils of war.
-Such forces met not, nor so wide a camp,
-When Agrican, with all his northern powers,
-Besieged Albracea, as romances tell,
-The city of Gallaphrone, from thence to win
-The fairest of her sex, Angelica,
-His daughter, sought by many prowest knights,
-Both Paynim and the peers of Charlemane.
-Such and so numerous was their chivalry;
-At sight whereof the Fiend yet more presumed,
-And to our Saviour thus his words renewed:—
-  "That thou may'st know I seek not to engage
-Thy virtue, and not every way secure
-On no slight grounds thy safety, hear and mark
-To what end I have brought thee hither, and shew
-All this fair sight.  Thy kingdom, though foretold
-By Prophet or by Angel, unless thou
-Endeavour, as thy father David did,
-Thou never shalt obtain: prediction still
-In all things, and all men, supposes means;
-Without means used, what it predicts revokes.
-But say thou wert possessed of David's throne
-By free consent of all, none opposite,
-Samaritan or Jew; how couldst thou hope
-Long to enjoy it quiet and secure
-Between two such enclosing enemies,
-Roman and Parthian?  Therefore one of these
-Thou must make sure thy own: the Parthian first,
-By my advice, as nearer, and of late
-Found able by invasion to annoy
-Thy country, and captive lead away her kings,
-Antigonus and old Hyrcanus, bound,
-Maugre the Roman.  It shall be my task
-To render thee the Parthian at dispose,
-Choose which thou wilt, by conquest or by league.
-By him thou shalt regain, without him not,
-That which alone can truly reinstall thee
-In David's royal seat, his true successor—
-Deliverance of thy brethren, those Ten Tribes
-Whose offspring in his territory yet serve
-In Habor, and among the Medes dispersed:
-The sons of Jacob, two of Joseph, lost
-Thus long from Israel, serving, as of old
-Their fathers in the land of Egypt served,
-This offer sets before thee to deliver.
-These if from servitude thou shalt restore
-To their inheritance, then, nor till then,
-Thou on the throne of David in full glory,
-From Egypt to Euphrates and beyond,
-Shalt reign, and Rome or Caesar not need fear."
-  To whom our Saviour answered thus, unmoved:—
-"Much ostentation vain of fleshly arm
-And fragile arms, much instrument of war,
-Long in preparing, soon to nothing brought,
-Before mine eyes thou hast set, and in my ear
-Vented much policy, and projects deep
-Of enemies, of aids, battles, and leagues,
-Plausible to the world, to me worth naught.
-Means I must use, thou say'st; prediction else
-Will unpredict, and fail me of the throne!
-My time, I told thee (and that time for thee
-Were better farthest off), is not yet come.
-When that comes, think not thou to find me slack
-On my part aught endeavouring, or to need
-Thy politic maxims, or that cumbersome
-Luggage of war there shewn me—argument
-Of human weakness rather than of strength.
-My brethren, as thou call'st them, those Ten Tribes,
-I must deliver, if I mean to reign
-David's true heir, and his full sceptre sway
-To just extent over all Israel's sons!
-But whence to thee this zeal?  Where was it then
-For Israel, or for David, or his throne,
-When thou stood'st up his tempter to the pride
-Of numbering Israel—which cost the lives
-of threescore and ten thousand Israelites
-By three days' pestilence?  Such was thy zeal
-To Israel then, the same that now to me.
-As for those captive tribes, themselves were they
-Who wrought their own captivity, fell off
-From God to worship calves, the deities
-Of Egypt, Baal next and Ashtaroth,
-And all the idolatries of heathen round,
-Besides their other worse than heathenish crimes;
-Nor in the land of their captivity
-Humbled themselves, or penitent besought
-The God of their forefathers, but so died
-Impenitent, and left a race behind
-Like to themselves, distinguishable scarce
-From Gentiles, but by circumcision vain,
-And God with idols in their worship joined.
-Should I of these the liberty regard,
-Who, freed, as to their ancient patrimony,
-Unhumbled, unrepentant, unreformed,
-Headlong would follow, and to their gods perhaps
-Of Bethel and of Dan?  No; let them serve
-Their enemies who serve idols with God.
-Yet He at length, time to himself best known,
-Remembering Abraham, by some wondrous call
-May bring them back, repentant and sincere,
-And at their passing cleave the Assyrian flood,
-While to their native land with joy they haste,
-As the Red Sea and Jordan once he cleft,
-When to the Promised Land their fathers passed.
-To his due time and providence I leave them."
-  So spake Israel's true King, and to the Fiend
-Made answer meet, that made void all his wiles.
-So fares it when with truth falsehood contends.
+"The Witch of Atlas" by Percy Bysshe Shelley
+TO MARY
+
+(ON HER OBJECTING TO THE FOLLOWING POEM, UPON THE
+SCORE OF ITS CONTAINING NO HUMAN INTEREST).
+
+How, my dear Mary,--are you critic-bitten
+(For vipers kill, though dead) by some review,
+That you condemn these verses I have written,
+Because they tell no story, false or true?
+What, though no mice are caught by a young kitten,
+May it not leap and play as grown cats do,
+Till its claws come? Prithee, for this one time,
+Content thee with a visionary rhyme.
+
+What hand would crush the silken-winged fly,
+The youngest of inconstant April's minions,
+Because it cannot climb the purest sky,
+Where the swan sings, amid the sun's dominions?
+Not thine. Thou knowest 'tis its doom to die,
+When Day shall hide within her twilight pinions
+The lucent eyes, and the eternal smile,
+Serene as thine, which lent it life awhile.
+
+To thy fair feet a winged Vision came,
+Whose date should have been longer than a day,
+And o'er thy head did beat its wings for fame,
+And in thy sight its fading plumes display;
+The watery bow burned in the evening flame.
+But the shower fell, the swift Sun went his way--
+And that is dead.--O, let me not believe
+That anything of mine is fit to live!
+
+Wordsworth informs us he was nineteen years
+Considering and retouching Peter Bell;
+Watering his laurels with the killing tears
+Of slow, dull care, so that their roots to Hell
+Might pierce, and their wide branches blot the spheres
+Of Heaven, with dewy leaves and flowers; this well
+May be, for Heaven and Earth conspire to foil
+The over-busy gardener's blundering toil.
+
+My Witch indeed is not so sweet a creature
+As Ruth or Lucy, whom his graceful praise
+Clothes for our grandsons--but she matches Peter,
+Though he took nineteen years, and she three days
+In dressing. Light the vest of flowing metre
+She wears; he, proud as dandy with his stays,
+Has hung upon his wiry limbs a dress
+Like King Lear's 'looped and windowed raggedness.'
+
+If you strip Peter, you will see a fellow
+Scorched by Hell's hyperequatorial climate
+Into a kind of a sulphureous yellow:
+A lean mark, hardly fit to fling a rhyme at;
+In shape a Scaramouch, in hue Othello.
+If you unveil my Witch, no priest nor primate
+Can shrive you of that sin,--if sin there be
+In love, when it becomes idolatry.
+
+THE WITCH OF ATLAS.
+
+Before those cruel Twins, whom at one birth
+Incestuous Change bore to her father Time,
+Error and Truth, had hunted from the Earth
+All those bright natures which adorned its prime,
+And left us nothing to believe in, worth
+The pains of putting into learned rhyme,
+A lady-witch there lived on Atlas' mountain
+Within a cavern, by a secret fountain.
+
+Her mother was one of the Atlantides:
+The all-beholding Sun had ne'er beholden
+In his wide voyage o'er continents and seas
+So fair a creature, as she lay enfolden
+In the warm shadow of her loveliness;--
+He kissed her with his beams, and made all golden
+The chamber of gray rock in which she lay--
+She, in that dream of joy, dissolved away.
+
+'Tis said, she first was changed into a vapour,
+And then into a cloud, such clouds as flit,
+Like splendour-winged moths about a taper,
+Round the red west when the sun dies in it:
+And then into a meteor, such as caper
+On hill-tops when the moon is in a fit:
+Then, into one of those mysterious stars
+Which hide themselves between the Earth and Mars.
+
+Ten times the Mother of the Months had bent
+Her bow beside the folding-star, and bidden
+With that bright sign the billows to indent
+The sea-deserted sand--like children chidden,
+At her command they ever came and went--
+Since in that cave a dewy splendour hidden
+Took shape and motion: with the living form
+Of this embodied Power, the cave grew warm.
+
+A lovely lady garmented in light
+From her own beauty--deep her eyes, as are
+Two openings of unfathomable night
+Seen through a Temple's cloven roof--her hair
+Dark--the dim brain whirls dizzy with delight.
+Picturing her form; her soft smiles shone afar,
+And her low voice was heard like love, and drew
+All living things towards this wonder new.
+
+And first the spotted cameleopard came,
+And then the wise and fearless elephant;
+Then the sly serpent, in the golden flame
+Of his own volumes intervolved;--all gaunt
+And sanguine beasts her gentle looks made tame.
+They drank before her at her sacred fount;
+And every beast of beating heart grew bold,
+Such gentleness and power even to behold.
+
+The brinded lioness led forth her young,
+That she might teach them how they should forego
+Their inborn thirst of death; the pard unstrung
+His sinews at her feet, and sought to know
+With looks whose motions spoke without a tongue
+How he might be as gentle as the doe.
+The magic circle of her voice and eyes
+All savage natures did imparadise.
+
+And old Silenus, shaking a green stick
+Of lilies, and the wood-gods in a crew
+Came, blithe, as in the olive copses thick
+Cicadae are, drunk with the noonday dew:
+And Dryope and Faunus followed quick,
+Teasing the God to sing them something new;
+Till in this cave they found the lady lone,
+Sitting upon a seat of emerald stone.
+
+And universal Pan, 'tis said, was there,
+And though none saw him,--through the adamant
+Of the deep mountains, through the trackless air,
+And through those living spirits, like a want,
+He passed out of his everlasting lair
+Where the quick heart of the great world doth pant,
+And felt that wondrous lady all alone,--
+And she felt him, upon her emerald throne.
+
+And every nymph of stream and spreading tree,
+And every shepherdess of Ocean's flocks,
+Who drives her white waves over the green sea,
+And Ocean with the brine on his gray locks,
+And quaint Priapus with his company,
+All came, much wondering how the enwombed rocks
+Could have brought forth so beautiful a birth;--
+Her love subdued their wonder and their mirth.
+
+The herdsmen and the mountain maidens came,
+And the rude kings of pastoral Garamant--
+Their spirits shook within them, as a flame
+Stirred by the air under a cavern gaunt:
+Pigmies, and Polyphemes, by many a name,
+Centaurs, and Satyrs, and such shapes as haunt
+Wet clefts,--and lumps neither alive nor dead,
+Dog-headed, bosom-eyed, and bird-footed.
+
+For she was beautiful--her beauty made
+The bright world dim, and everything beside
+Seemed like the fleeting image of a shade:
+No thought of living spirit could abide,
+Which to her looks had ever been betrayed,
+On any object in the world so wide,
+On any hope within the circling skies,
+But on her form, and in her inmost eyes.
+
+Which when the lady knew, she took her spindle
+And twined three threads of fleecy mist, and three
+Long lines of light, such as the dawn may kindle
+The clouds and waves and mountains with; and she
+As many star-beams, ere their lamps could dwindle
+In the belated moon, wound skilfully;
+And with these threads a subtle veil she wove--
+A shadow for the splendour of her love.
+
+The deep recesses of her odorous dwelling
+Were stored with magic treasures--sounds of air,
+Which had the power all spirits of compelling,
+Folded in cells of crystal silence there;
+Such as we hear in youth, and think the feeling
+Will never die--yet ere we are aware,
+The feeling and the sound are fled and gone,
+And the regret they leave remains alone.
+
+And there lay Visions swift, and sweet, and quaint,
+Each in its thin sheath, like a chrysalis,
+Some eager to burst forth, some weak and faint
+With the soft burthen of intensest bliss.
+It was its work to bear to many a saint
+Whose heart adores the shrine which holiest is,
+Even Love's:--and others white, green, gray, and black,
+And of all shapes--and each was at her beck.
+
+And odours in a kind of aviary
+Of ever-blooming Eden-trees she kept,
+Clipped in a floating net, a love-sick Fairy
+Had woven from dew-beams while the moon yet slept;
+As bats at the wired window of a dairy,
+They beat their vans; and each was an adept,
+When loosed and missioned, making wings of winds,
+To stir sweet thoughts or sad, in destined minds.
+
+And liquors clear and sweet, whose healthful might
+Could medicine the sick soul to happy sleep,
+And change eternal death into a night
+Of glorious dreams--or if eyes needs must weep,
+Could make their tears all wonder and delight,
+She in her crystal vials did closely keep:
+If men could drink of those clear vials, 'tis said
+The living were not envied of the dead.
+
+Her cave was stored with scrolls of strange device,
+The works of some Saturnian Archimage,
+Which taught the expiations at whose price
+Men from the Gods might win that happy age
+Too lightly lost, redeeming native vice;
+And which might quench the Earth-consuming rage
+Of gold and blood--till men should live and move
+Harmonious as the sacred stars above;
+
+And how all things that seem untameable,
+Not to be checked and not to be confined,
+Obey the spells of Wisdom's wizard skill;
+Time, earth, and fire--the ocean and the wind,
+And all their shapes--and man's imperial will;
+And other scrolls whose writings did unbind
+The inmost lore of Love--let the profane
+Tremble to ask what secrets they contain.
+
+And wondrous works of substances unknown,
+To which the enchantment of her father's power
+Had changed those ragged blocks of savage stone,
+Were heaped in the recesses of her bower;
+Carved lamps and chalices, and vials which shone
+In their own golden beams--each like a flower,
+Out of whose depth a fire-fly shakes his light
+Under a cypress in a starless night.
+
+At first she lived alone in this wild home,
+And her own thoughts were each a minister,
+Clothing themselves, or with the ocean foam,
+Or with the wind, or with the speed of fire,
+To work whatever purposes might come
+Into her mind; such power her mighty Sire
+Had girt them with, whether to fly or run,
+Through all the regions which he shines upon.
+
+The Ocean-nymphs and Hamadryades,
+Oreads and Naiads, with long weedy locks,
+Offered to do her bidding through the seas,
+Under the earth, and in the hollow rocks,
+And far beneath the matted roots of trees,
+And in the gnarled heart of stubborn oaks,
+So they might live for ever in the light
+Of her sweet presence--each a satellite.
+
+'This may not be,' the wizard maid replied;
+'The fountains where the Naiades bedew
+Their shining hair, at length are drained and dried;
+The solid oaks forget their strength, and strew
+Their latest leaf upon the mountains wide;
+The boundless ocean like a drop of dew
+Will be consumed--the stubborn centre must
+Be scattered, like a cloud of summer dust.
+
+'And ye with them will perish, one by one;--
+If I must sigh to think that this shall be,
+If I must weep when the surviving Sun
+Shall smile on your decay--oh, ask not me
+To love you till your little race is run;
+I cannot die as ye must--over me
+Your leaves shall glance--the streams in which ye dwell
+Shall be my paths henceforth, and so--farewell!'--
+
+She spoke and wept:--the dark and azure well
+Sparkled beneath the shower of her bright tears,
+And every little circlet where they fell
+Flung to the cavern-roof inconstant spheres
+And intertangled lines of light:--a knell
+Of sobbing voices came upon her ears
+From those departing Forms, o'er the serene
+Of the white streams and of the forest green.
+
+All day the wizard lady sate aloof,
+Spelling out scrolls of dread antiquity,
+Under the cavern's fountain-lighted roof;
+Or broidering the pictured poesy
+Of some high tale upon her growing woof,
+Which the sweet splendour of her smiles could dye
+In hues outshining heaven--and ever she
+Added some grace to the wrought poesy.
+
+While on her hearth lay blazing many a piece
+Of sandal wood, rare gums, and cinnamon;
+Men scarcely know how beautiful fire is--
+Each flame of it is as a precious stone
+Dissolved in ever-moving light, and this
+Belongs to each and all who gaze upon.
+The Witch beheld it not, for in her hand
+She held a woof that dimmed the burning brand.
+
+This lady never slept, but lay in trance
+All night within the fountain--as in sleep.
+Its emerald crags glowed in her beauty's glance;
+Through the green splendour of the water deep
+She saw the constellations reel and dance
+Like fire-flies--and withal did ever keep
+The tenour of her contemplations calm,
+With open eyes, closed feet, and folded palm.
+
+And when the whirlwinds and the clouds descended
+From the white pinnacles of that cold hill,
+She passed at dewfall to a space extended,
+Where in a lawn of flowering asphodel
+Amid a wood of pines and cedars blended,
+There yawned an inextinguishable well
+Of crimson fire--full even to the brim,
+And overflowing all the margin trim.
+
+Within the which she lay when the fierce war
+Of wintry winds shook that innocuous liquor
+In many a mimic moon and bearded star
+O'er woods and lawns;--the serpent heard it flicker
+In sleep, and dreaming still, he crept afar--
+And when the windless snow descended thicker
+Than autumn leaves, she watched it as it came
+Melt on the surface of the level flame.
+
+She had a boat, which some say Vulcan wrought
+For Venus, as the chariot of her star;
+But it was found too feeble to be fraught
+With all the ardours in that sphere which are,
+And so she sold it, and Apollo bought
+And gave it to this daughter: from a car
+Changed to the fairest and the lightest boat
+Which ever upon mortal stream did float.
+
+And others say, that, when but three hours old,
+The first-born Love out of his cradle lept,
+And clove dun Chaos with his wings of gold,
+And like a horticultural adept,
+Stole a strange seed, and wrapped it up in mould,
+And sowed it in his mother's star, and kept
+Watering it all the summer with sweet dew,
+And with his wings fanning it as it grew.
+
+The plant grew strong and green, the snowy flower
+Fell, and the long and gourd-like fruit began
+To turn the light and dew by inward power
+To its own substance; woven tracery ran
+Of light firm texture, ribbed and branching, o'er
+The solid rind, like a leaf's veined fan--
+Of which Love scooped this boat--and with soft motion
+Piloted it round the circumfluous ocean.
+
+This boat she moored upon her fount, and lit
+A living spirit within all its frame,
+Breathing the soul of swiftness into it.
+Couched on the fountain like a panther tame,
+One of the twain at Evan's feet that sit--
+Or as on Vesta's sceptre a swift flame--
+Or on blind Homer's heart a winged thought,--
+In joyous expectation lay the boat.
+
+Then by strange art she kneaded fire and snow
+Together, tempering the repugnant mass
+With liquid love--all things together grow
+Through which the harmony of love can pass;
+And a fair Shape out of her hands did flow--
+A living Image, which did far surpass
+In beauty that bright shape of vital stone
+Which drew the heart out of Pygmalion.
+
+A sexless thing it was, and in its growth
+It seemed to have developed no defect
+Of either sex, yet all the grace of both,--
+In gentleness and strength its limbs were decked;
+The bosom swelled lightly with its full youth,
+The countenance was such as might select
+Some artist that his skill should never die,
+Imaging forth such perfect purity.
+
+From its smooth shoulders hung two rapid wings,
+Fit to have borne it to the seventh sphere,
+Tipped with the speed of liquid lightenings,
+Dyed in the ardours of the atmosphere:
+She led her creature to the boiling springs
+Where the light boat was moored, and said: 'Sit here!'
+And pointed to the prow, and took her seat
+Beside the rudder, with opposing feet.
+
+And down the streams which clove those mountains vast,
+Around their inland islets, and amid
+The panther-peopled forests whose shade cast
+Darkness and odours, and a pleasure hid
+In melancholy gloom, the pinnace passed;
+By many a star-surrounded pyramid
+Of icy crag cleaving the purple sky,
+And caverns yawning round unfathomably.
+
+The silver noon into that winding dell,
+With slanted gleam athwart the forest tops,
+Tempered like golden evening, feebly fell;
+A green and glowing light, like that which drops
+From folded lilies in which glow-worms dwell,
+When Earth over her face Night's mantle wraps;
+Between the severed mountains lay on high,
+Over the stream, a narrow rift of sky.
+
+And ever as she went, the Image lay
+With folded wings and unawakened eyes;
+And o'er its gentle countenance did play
+The busy dreams, as thick as summer flies,
+Chasing the rapid smiles that would not stay,
+And drinking the warm tears, and the sweet sighs
+Inhaling, which, with busy murmur vain,
+They had aroused from that full heart and brain.
+
+And ever down the prone vale, like a cloud
+Upon a stream of wind, the pinnace went:
+Now lingering on the pools, in which abode
+The calm and darkness of the deep content
+In which they paused; now o'er the shallow road
+Of white and dancing waters, all besprent
+With sand and polished pebbles:--mortal boat
+In such a shallow rapid could not float.
+
+And down the earthquaking cataracts which shiver
+Their snow-like waters into golden air,
+Or under chasms unfathomable ever
+Sepulchre them, till in their rage they tear
+A subterranean portal for the river,
+It fled--the circling sunbows did upbear
+Its fall down the hoar precipice of spray,
+Lighting it far upon its lampless way.
+
+And when the wizard lady would ascend
+The labyrinths of some many-winding vale,
+Which to the inmost mountain upward tend--
+She called 'Hermaphroditus!'--and the pale
+And heavy hue which slumber could extend
+Over its lips and eyes, as on the gale
+A rapid shadow from a slope of grass,
+Into the darkness of the stream did pass.
+
+And it unfurled its heaven-coloured pinions,
+With stars of fire spotting the stream below;
+And from above into the Sun's dominions
+Flinging a glory, like the golden glow
+In which Spring clothes her emerald-winged minions,
+All interwoven with fine feathery snow
+And moonlight splendour of intensest rime,
+With which frost paints the pines in winter time.
+
+And then it winnowed the Elysian air
+Which ever hung about that lady bright,
+With its aethereal vans--and speeding there,
+Like a star up the torrent of the night,
+Or a swift eagle in the morning glare
+Breasting the whirlwind with impetuous flight,
+The pinnace, oared by those enchanted wings,
+Clove the fierce streams towards their upper springs.
+
+The water flashed, like sunlight by the prow
+Of a noon-wandering meteor flung to Heaven;
+The still air seemed as if its waves did flow
+In tempest down the mountains; loosely driven
+The lady's radiant hair streamed to and fro:
+Beneath, the billows having vainly striven
+Indignant and impetuous, roared to feel
+The swift and steady motion of the keel.
+
+Or, when the weary moon was in the wane,
+Or in the noon of interlunar night,
+The lady-witch in visions could not chain
+Her spirit; but sailed forth under the light
+Of shooting stars, and bade extend amain
+Its storm-outspeeding wings, the Hermaphrodite;
+She to the Austral waters took her way,
+Beyond the fabulous Thamondocana,--
+
+Where, like a meadow which no scythe has shaven,
+Which rain could never bend, or whirl-blast shake,
+With the Antarctic constellations paven,
+Canopus and his crew, lay the Austral lake--
+There she would build herself a windless haven
+Out of the clouds whose moving turrets make
+The bastions of the storm, when through the sky
+The spirits of the tempest thundered by:
+
+A haven beneath whose translucent floor
+The tremulous stars sparkled unfathomably,
+And around which the solid vapours hoar,
+Based on the level waters, to the sky
+Lifted their dreadful crags, and like a shore
+Of wintry mountains, inaccessibly
+Hemmed in with rifts and precipices gray,
+And hanging crags, many a cove and bay.
+
+And whilst the outer lake beneath the lash
+Of the wind's scourge, foamed like a wounded thing,
+And the incessant hail with stony clash
+Ploughed up the waters, and the flagging wing
+Of the roused cormorant in the lightning flash
+Looked like the wreck of some wind-wandering
+Fragment of inky thunder-smoke--this haven
+Was as a gem to copy Heaven engraven,--
+
+On which that lady played her many pranks,
+Circling the image of a shooting star,
+Even as a tiger on Hydaspes' banks
+Outspeeds the antelopes which speediest are,
+In her light boat; and many quips and cranks
+She played upon the water, till the car
+Of the late moon, like a sick matron wan,
+To journey from the misty east began.
+
+And then she called out of the hollow turrets
+Of those high clouds, white, golden and vermilion,
+The armies of her ministering spirits--
+In mighty legions, million after million,
+They came, each troop emblazoning its merits
+On meteor flags; and many a proud pavilion
+Of the intertexture of the atmosphere
+They pitched upon the plain of the calm mere.
+
+They framed the imperial tent of their great Queen
+Of woven exhalations, underlaid
+With lambent lightning-fire, as may be seen
+A dome of thin and open ivory inlaid
+With crimson silk--cressets from the serene
+Hung there, and on the water for her tread
+A tapestry of fleece-like mist was strewn,
+Dyed in the beams of the ascending moon.
+
+And on a throne o'erlaid with starlight, caught
+Upon those wandering isles of aery dew,
+Which highest shoals of mountain shipwreck not,
+She sate, and heard all that had happened new
+Between the earth and moon, since they had brought
+The last intelligence--and now she grew
+Pale as that moon, lost in the watery night--
+And now she wept, and now she laughed outright.
+
+These were tame pleasures; she would often climb
+The steepest ladder of the crudded rack
+Up to some beaked cape of cloud sublime,
+And like Arion on the dolphin's back
+Ride singing through the shoreless air;--oft-time
+Following the serpent lightning's winding track,
+She ran upon the platforms of the wind,
+And laughed to bear the fire-balls roar behind.
+
+And sometimes to those streams of upper air
+Which whirl the earth in its diurnal round,
+She would ascend, and win the spirits there
+To let her join their chorus. Mortals found
+That on those days the sky was calm and fair,
+And mystic snatches of harmonious sound
+Wandered upon the earth where'er she passed,
+And happy thoughts of hope, too sweet to last.
+
+But her choice sport was, in the hours of sleep,
+To glide adown old Nilus, where he threads
+Egypt and Aethiopia, from the steep
+Of utmost Axume, until he spreads,
+Like a calm flock of silver-fleeced sheep,
+His waters on the plain: and crested heads
+Of cities and proud temples gleam amid,
+And many a vapour-belted pyramid.
+
+By Moeris and the Mareotid lakes,
+Strewn with faint blooms like bridal chamber floors,
+Where naked boys bridling tame water-snakes,
+Or charioteering ghastly alligators,
+Had left on the sweet waters mighty wakes
+Of those huge forms--within the brazen doors
+Of the great Labyrinth slept both boy and beast,
+Tired with the pomp of their Osirian feast.
+
+And where within the surface of the river
+The shadows of the massy temples lie,
+And never are erased--but tremble ever
+Like things which every cloud can doom to die,
+Through lotus-paven canals, and wheresoever
+The works of man pierced that serenest sky
+With tombs, and towers, and fanes, 'twas her delight
+To wander in the shadow of the night.
+
+With motion like the spirit of that wind
+Whose soft step deepens slumber, her light feet
+Passed through the peopled haunts of humankind.
+Scattering sweet visions from her presence sweet,
+Through fane, and palace-court, and labyrinth mined
+With many a dark and subterranean street
+Under the Nile, through chambers high and deep
+She passed, observing mortals in their sleep.
+
+A pleasure sweet doubtless it was to see
+Mortals subdued in all the shapes of sleep.
+Here lay two sister twins in infancy;
+There, a lone youth who in his dreams did weep;
+Within, two lovers linked innocently
+In their loose locks which over both did creep
+Like ivy from one stem;--and there lay calm
+Old age with snow-bright hair and folded palm.
+
+But other troubled forms of sleep she saw,
+Not to be mirrored in a holy song--
+Distortions foul of supernatural awe,
+And pale imaginings of visioned wrong;
+And all the code of Custom's lawless law
+Written upon the brows of old and young:
+'This,' said the wizard maiden, 'is the strife
+Which stirs the liquid surface of man's life.'
+
+And little did the sight disturb her soul.--
+We, the weak mariners of that wide lake
+Where'er its shores extend or billows roll,
+Our course unpiloted and starless make
+O'er its wild surface to an unknown goal:--
+But she in the calm depths her way could take,
+Where in bright bowers immortal forms abide
+Beneath the weltering of the restless tide.
+
+And she saw princes couched under the glow
+Of sunlike gems; and round each temple-court
+In dormitories ranged, row after row,
+She saw the priests asleep--all of one sort--
+For all were educated to be so.--
+The peasants in their huts, and in the port
+The sailors she saw cradled on the waves,
+And the dead lulled within their dreamless graves.
+
+And all the forms in which those spirits lay
+Were to her sight like the diaphanous
+Veils, in which those sweet ladies oft array
+Their delicate limbs, who would conceal from us
+Only their scorn of all concealment: they
+Move in the light of their own beauty thus.
+But these and all now lay with sleep upon them,
+And little thought a Witch was looking on them.
+
+She, all those human figures breathing there,
+Beheld as living spirits--to her eyes
+The naked beauty of the soul lay bare,
+And often through a rude and worn disguise
+She saw the inner form most bright and fair--
+And then she had a charm of strange device,
+Which, murmured on mute lips with tender tone,
+Could make that spirit mingle with her own.
+
+Alas! Aurora, what wouldst thou have given
+For such a charm when Tithon became gray?
+Or how much, Venus, of thy silver heaven
+Wouldst thou have yielded, ere Proserpina
+Had half (oh! why not all?) the debt forgiven
+Which dear Adonis had been doomed to pay,
+To any witch who would have taught you it?
+The Heliad doth not know its value yet.
+
+'Tis said in after times her spirit free
+Knew what love was, and felt itself alone--
+But holy Dian could not chaster be
+Before she stooped to kiss Endymion,
+Than now this lady--like a sexless bee
+Tasting all blossoms, and confined to none,
+Among those mortal forms, the wizard-maiden
+Passed with an eye serene and heart unladen.
+
+To those she saw most beautiful, she gave
+Strange panacea in a crystal bowl:--
+They drank in their deep sleep of that sweet wave,
+And lived thenceforward as if some control,
+Mightier than life, were in them; and the grave
+Of such, when death oppressed the weary soul,
+Was as a green and overarching bower
+Lit by the gems of many a starry flower.
+
+For on the night when they were buried, she
+Restored the embalmers' ruining, and shook
+The light out of the funeral lamps, to be
+A mimic day within that deathy nook;
+And she unwound the woven imagery
+Of second childhood's swaddling bands, and took
+The coffin, its last cradle, from its niche,
+And threw it with contempt into a ditch.
+
+And there the body lay, age after age.
+Mute, breathing, beating, warm, and undecaying,
+Like one asleep in a green hermitage,
+With gentle smiles about its eyelids playing,
+And living in its dreams beyond the rage
+Of death or life; while they were still arraying
+In liveries ever new, the rapid, blind
+And fleeting generations of mankind.
+
+And she would write strange dreams upon the brain
+Of those who were less beautiful, and make
+All harsh and crooked purposes more vain
+Than in the desert is the serpent's wake
+Which the sand covers--all his evil gain
+The miser in such dreams would rise and shake
+Into a beggar's lap;--the lying scribe
+Would his own lies betray without a bribe.
+
+The priests would write an explanation full,
+Translating hieroglyphics into Greek,
+How the God Apis really was a bull,
+And nothing more; and bid the herald stick
+The same against the temple doors, and pull
+The old cant down; they licensed all to speak
+Whate'er they thought of hawks, and cats, and geese,
+By pastoral letters to each diocese.
+
+The king would dress an ape up in his crown
+And robes, and seat him on his glorious seat,
+And on the right hand of the sunlike throne
+Would place a gaudy mock-bird to repeat
+The chatterings of the monkey.--Every one
+Of the prone courtiers crawled to kiss the feet
+Of their great Emperor, when the morning came,
+And kissed--alas, how many kiss the same!
+
+The soldiers dreamed that they were blacksmiths, and
+Walked out of quarters in somnambulism;
+Round the red anvils you might see them stand
+Like Cyclopses in Vulcan's sooty abysm,
+Beating their swords to ploughshares;--in a band
+The gaolers sent those of the liberal schism
+Free through the streets of Memphis, much, I wis,
+To the annoyance of king Amasis.
+
+And timid lovers who had been so coy,
+They hardly knew whether they loved or not,
+Would rise out of their rest, and take sweet joy,
+To the fulfilment of their inmost thought;
+And when next day the maiden and the boy
+Met one another, both, like sinners caught,
+Blushed at the thing which each believed was done
+Only in fancy--till the tenth moon shone;
+
+And then the Witch would let them take no ill:
+Of many thousand schemes which lovers find,
+The Witch found one,--and so they took their fill
+Of happiness in marriage warm and kind.
+Friends who, by practice of some envious skill,
+Were torn apart--a wide wound, mind from mind!--
+She did unite again with visions clear
+Of deep affection and of truth sincere.
+
+These were the pranks she played among the cities
+Of mortal men, and what she did to Sprites
+And Gods, entangling them in her sweet ditties
+To do her will, and show their subtle sleights,
+I will declare another time; for it is
+A tale more fit for the weird winter nights
+Than for these garish summer days, when we
+Scarcely believe much more than we can see.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌤️ Weather data unavailable
+🌡️ 29°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -638,4 +950,4 @@ So fares it when with truth falsehood contends.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->July 20, 2025 at 07:00 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->July 21, 2025 at 06:57 AM GMT+5<!-- TIMESTAMP:END -->_
