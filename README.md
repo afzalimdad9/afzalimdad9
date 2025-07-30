@@ -29,7 +29,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/28/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/29/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 40 (Updated: 7/23/2025)
 - 🔥 [Emojicam](https://github.com/afzalimdad9/Emojicam) - A Next.js app for video meetings, scheduling, and real-time chat. Features Google/GitHub/Email auth, Peer-to-Peer video, emoji reactions, and profile management. Built for remote teams, professionals, and educators. ⭐ 0 (Updated: 7/5/2025)
 <!-- HOT_REPOS:END -->
@@ -65,16 +65,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Watch a classic movie
+Organize your dresser
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -83,30 +79,37 @@ Watch a classic movie
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Hope Of My Heart" by John McCrae
-"Delicta juventutis et ignorantius ejus, quoesumus ne memineris, Domine."
+"Montrose" by William Topaz McGonagall
+Beautiful town of Montrose, I will now commence my lay,
+And I will write in praise of thee without dismay,
+And in spite of all your foes,
+l will venture to call thee Bonnie Montrose.
+Your beautiful Chain Bridge is magnificent to be seen,
+Spanning the river Esk, a beautiful tidal stream,
+Which abounds with trout and salmon,
+Which can be had for the catching without any gammon.
 
+Then as for the Mid Links, it is most beautiful to be seen, And I'm sure is a very nice bowling green,
+Where young men can enjoy themselves and inhale the pure air,
+Emanating from the sea and the beautiful flowers there,
+And as for the High Street, it's most beautiful to see,
+There's no street can surpass it in the town of Dundee,
+Because it is so long and wide,
+That the people can pass on either side
+Without jostling one another or going to any bother.
 
-
-I left, to earth, a little maiden fair,
-With locks of gold, and eyes that shamed the light;
-I prayed that God might have her in His care
-And sight.
-
-Earth's love was false; her voice, a siren's song;
-(Sweet mother-earth was but a lying name)
-The path she showed was but the path of wrong
-And shame.
-
-"Cast her not out!" I cry. God's kind words come --
-"Her future is with Me, as was her past;
-It shall be My good will to bring her home
-At last."
+Beautiful town of Montrose, near by the seaside,
+With your fine shops and streets so wide,
+'Tis health for the people that in you reside,
+Because they do inhale the pure fragrant air,
+Emanating from the pure salt wave and shrubberies growing there;
+And the inhabitants of Montrose ought to feel gay,
+Because it is one of the bonniest towns in Scotland at the present day.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 29°C, haze in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -203,4 +206,4 @@ At last."
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->July 29, 2025 at 07:04 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->July 30, 2025 at 06:54 AM GMT+5<!-- TIMESTAMP:END -->_
