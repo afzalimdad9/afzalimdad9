@@ -9,7 +9,7 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [slack-updates](https://github.com/afzalimdad9/slack-updates) - A Node.js script to fetch time tracking data from Clockify API and send formatted daily updates to Slack using message blocks
+- 🔭 I'm currently working on [fs-app-test](https://github.com/afzalimdad9/fs-app-test)
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
 - 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
@@ -30,24 +30,24 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [fs-app-test](https://github.com/afzalimdad9/fs-app-test) - No description ⭐ 0 (Updated: 7/31/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/31/2025)
 - 🔥 [slack-updates](https://github.com/afzalimdad9/slack-updates) - A Node.js script to fetch time tracking data from Clockify API and send formatted daily updates to Slack using message blocks ⭐ 0 (Updated: 7/30/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/30/2025)
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 40 (Updated: 7/23/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
 <!-- DYNAMIC_TECH_STACK:START -->
 **Most Used Languages This Month:**
 
-JavaScript: 44.9% █████████░░░░░░░░░░░
+JavaScript: 45.0% █████████░░░░░░░░░░░
 
-HTML: 39.6% ████████░░░░░░░░░░░░
+HTML: 39.5% ████████░░░░░░░░░░░░
 
 TypeScript: 5.3% █░░░░░░░░░░░░░░░░░░░
 
-Rich Text Format: 3.9% █░░░░░░░░░░░░░░░░░░░
+Rich Text Format: 3.8% █░░░░░░░░░░░░░░░░░░░
 
-CSS: 3.2% █░░░░░░░░░░░░░░░░░░░
+CSS: 3.3% █░░░░░░░░░░░░░░░░░░░
 
 Solidity: 1.5% ░░░░░░░░░░░░░░░░░░░░
 
@@ -66,12 +66,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Your mama's so FAT she can't save files bigger than 4GB.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Start a family tree
+Learn how to make an Alexa skill
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -80,687 +80,423 @@ Start a family tree
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Daemon of the World" by Percy Bysshe Shelley
-A FRAGMENT.
+"Street Cries" by Sidney Lanier
+Oft seems the Time a market-town
+Where many merchant-spirits meet
+Who up and down and up and down
+Cry out along the street
 
-PART 1.
+Their needs, as wares; one THUS, one SO:
+Till all the ways are full of sound:
+-- But still come rain, and sun, and snow,
+And still the world goes round.
 
-Nec tantum prodere vati,
-Quantum scire licet. Venit aetas omnis in unam
-Congeriem, miserumque premunt tot saecula pectus.
-LUCAN, Phars. v. 176.
 
-How wonderful is Death,
-Death and his brother Sleep!
-One pale as yonder wan and horned moon,
-With lips of lurid blue,
-The other glowing like the vital morn,
-When throned on ocean's wave
-It breathes over the world:
-Yet both so passing strange and wonderful!
 
-Hath then the iron-sceptred Skeleton,
-Whose reign is in the tainted sepulchres,
-To the hell dogs that couch beneath his throne
-Cast that fair prey? Must that divinest form,
-Which love and admiration cannot view
-Without a beating heart, whose azure veins
-Steal like dark streams along a field of snow,
-Whose outline is as fair as marble clothed
-In light of some sublimest mind, decay?
-Nor putrefaction's breath
-Leave aught of this pure spectacle
-But loathsomeness and ruin?--
-Spare aught but a dark theme,
-On which the lightest heart might moralize?
-Or is it but that downy-winged slumbers
-Have charmed their nurse coy Silence near her lids
-To watch their own repose?
-Will they, when morning's beam
-Flows through those wells of light,
-Seek far from noise and day some western cave,
-Where woods and streams with soft and pausing winds
-A lulling murmur weave?--
-Ianthe doth not sleep
-The dreamless sleep of death:
-Nor in her moonlight chamber silently
-Doth Henry hear her regular pulses throb,
-Or mark her delicate cheek
-With interchange of hues mock the broad moon,
-Outwatching weary night,
-Without assured reward.
-Her dewy eyes are closed;
-On their translucent lids, whose texture fine
-Scarce hides the dark blue orbs that burn below
-With unapparent fire,
-The baby Sleep is pillowed:
-Her golden tresses shade
-The bosom's stainless pride,
-Twining like tendrils of the parasite
-Around a marble column.
+I. Remonstrance.
 
-Hark! whence that rushing sound?
-'Tis like a wondrous strain that sweeps
-Around a lonely ruin
-When west winds sigh and evening waves respond
-In whispers from the shore:
-'Tis wilder than the unmeasured notes
-Which from the unseen lyres of dells and groves
-The genii of the breezes sweep.
-Floating on waves of music and of light,
-The chariot of the Daemon of the World
-Descends in silent power:
-Its shape reposed within: slight as some cloud
-That catches but the palest tinge of day
-When evening yields to night,
-Bright as that fibrous woof when stars indue
-Its transitory robe.
-Four shapeless shadows bright and beautiful
-Draw that strange car of glory, reins of light
-Check their unearthly speed; they stop and fold
-Their wings of braided air:
-The Daemon leaning from the ethereal car
-Gazed on the slumbering maid.
-Human eye hath ne'er beheld
-A shape so wild, so bright, so beautiful,
-As that which o'er the maiden's charmed sleep
-Waving a starry wand,
-Hung like a mist of light.
-Such sounds as breathed around like odorous winds
-Of wakening spring arose,
-Filling the chamber and the moonlight sky.
-Maiden, the world's supremest spirit
-Beneath the shadow of her wings
-Folds all thy memory doth inherit
-From ruin of divinest things,
-Feelings that lure thee to betray,
-And light of thoughts that pass away.
-For thou hast earned a mighty boon,
-The truths which wisest poets see
-Dimly, thy mind may make its own,
-Rewarding its own majesty,
-Entranced in some diviner mood
-Of self-oblivious solitude.
 
-Custom, and Faith, and Power thou spurnest;
-From hate and awe thy heart is free;
-Ardent and pure as day thou burnest,
-For dark and cold mortality
-A living light, to cheer it long,
-The watch-fires of the world among.
+"Opinion, let me alone: I am not thine.
+Prim Creed, with categoric point, forbear
+To feature me my Lord by rule and line.
+Thou canst not measure Mistress Nature's hair,
+Not one sweet inch: nay, if thy sight is sharp,
+Would'st count the strings upon an angel's harp?
+Forbear, forbear.
 
-Therefore from nature's inner shrine,
-Where gods and fiends in worship bend,
-Majestic spirit, be it thine
-The flame to seize, the veil to rend,
-Where the vast snake Eternity
-In charmed sleep doth ever lie.
+"Oh let me love my Lord more fathom deep
+Than there is line to sound with: let me love
+My fellow not as men that mandates keep:
+Yea, all that's lovable, below, above,
+That let me love by heart, by heart, because
+(Free from the penal pressure of the laws)
+I find it fair.
 
-All that inspires thy voice of love,
-Or speaks in thy unclosing eyes,
-Or through thy frame doth burn or move,
-Or think or feel, awake, arise!
-Spirit, leave for mine and me
-Earth's unsubstantial mimicry!
+"The tears I weep by day and bitter night,
+Opinion! for thy sole salt vintage fall.
+-- As morn by morn I rise with fresh delight,
+Time through my casement cheerily doth call
+`Nature is new, 'tis birthday every day,
+Come feast with me, let no man say me nay,
+Whate'er befall.'
 
-It ceased, and from the mute and moveless frame
-A radiant spirit arose,
-All beautiful in naked purity.
-Robed in its human hues it did ascend,
-Disparting as it went the silver clouds,
-It moved towards the car, and took its seat
-Beside the Daemon shape.
+"So fare I forth to feast: I sit beside
+Some brother bright: but, ere good-morrow's passed,
+Burly Opinion wedging in hath cried
+`Thou shalt not sit by us, to break thy fast,
+Save to our Rubric thou subscribe and swear --
+`Religion hath blue eyes and yellow hair:'
+She's Saxon, all.'
 
-Obedient to the sweep of aery song,
-The mighty ministers
-Unfurled their prismy wings.
-The magic car moved on;
-The night was fair, innumerable stars
-Studded heaven's dark blue vault;
-The eastern wave grew pale
-With the first smile of morn.
-The magic car moved on.
-From the swift sweep of wings
-The atmosphere in flaming sparkles flew;
-And where the burning wheels
-Eddied above the mountain's loftiest peak
-Was traced a line of lightning.
-Now far above a rock the utmost verge
-Of the wide earth it flew,
-The rival of the Andes, whose dark brow
-Frowned o'er the silver sea.
-Far, far below the chariot's stormy path,
-Calm as a slumbering babe,
-Tremendous ocean lay.
-Its broad and silent mirror gave to view
-The pale and waning stars,
-The chariot's fiery track,
-And the grey light of morn
-Tingeing those fleecy clouds
-That cradled in their folds the infant dawn.
-The chariot seemed to fly
-Through the abyss of an immense concave,
-Radiant with million constellations, tinged
-With shades of infinite colour,
-And semicircled with a belt
-Flashing incessant meteors.
+"Then, hard a-hungered for my brother's grace
+Till well-nigh fain to swear his folly's true,
+In sad dissent I turn my longing face
+To him that sits on the left: `Brother, -- with you?'
+-- `Nay, not with me, save thou subscribe and swear
+`Religion hath black eyes and raven hair:'
+Nought else is true.'
 
-As they approached their goal,
-The winged shadows seemed to gather speed.
-The sea no longer was distinguished; earth
-Appeared a vast and shadowy sphere, suspended
-In the black concave of heaven
-With the sun's cloudless orb,
-Whose rays of rapid light
-Parted around the chariot's swifter course,
-And fell like ocean's feathery spray
-Dashed from the boiling surge
-Before a vessel's prow.
+"Debarred of banquets that my heart could make
+With every man on every day of life,
+I homeward turn, my fires of pain to slake
+In deep endearments of a worshipped wife.
+`I love thee well, dear Love,' quoth she, `and yet
+Would that thy creed with mine completely met,
+As one, not two.'
 
-The magic car moved on.
-Earth's distant orb appeared
-The smallest light that twinkles in the heavens,
-Whilst round the chariot's way
-Innumerable systems widely rolled,
-And countless spheres diffused
-An ever varying glory.
-It was a sight of wonder! Some were horned,
-And like the moon's argentine crescent hung
-In the dark dome of heaven; some did shed
-A clear mild beam like Hesperus, while the sea
-Yet glows with fading sunlight; others dashed
-Athwart the night with trains of bickering fire,
-Like sphered worlds to death and ruin driven;
-Some shone like stars, and as the chariot passed
-Bedimmed all other light.
+"Assassin! Thief! Opinion, 'tis thy work.
+By Church, by throne, by hearth, by every good
+That's in the Town of Time, I see thee lurk,
+And e'er some shadow stays where thou hast stood.
+Thou hand'st sweet Socrates his hemlock sour;
+Thou sav'st Barabbas in that hideous hour,
+And stabb'st the good
 
-Spirit of Nature! here
-In this interminable wilderness
-Of worlds, at whose involved immensity
-Even soaring fancy staggers,
-Here is thy fitting temple.
-Yet not the lightest leaf
-That quivers to the passing breeze
-Is less instinct with thee,--
-Yet not the meanest worm.
-That lurks in graves and fattens on the dead,
-Less shares thy eternal breath.
-Spirit of Nature! thou
-Imperishable as this glorious scene,
-Here is thy fitting temple.
+"Deliverer Christ; thou rack'st the souls of men;
+Thou tossest girls to lions and boys to flames;
+Thou hew'st Crusader down by Saracen;
+Thou buildest closets full of secret shames;
+Indifferent cruel, thou dost blow the blaze
+Round Ridley or Servetus; all thy days
+Smell scorched; I would
 
-If solitude hath ever led thy steps
-To the shore of the immeasurable sea,
-And thou hast lingered there
-Until the sun's broad orb
-Seemed resting on the fiery line of ocean,
-Thou must have marked the braided webs of gold
-That without motion hang
-Over the sinking sphere:
-Thou must have marked the billowy mountain clouds,
-Edged with intolerable radiancy,
-Towering like rocks of jet
-Above the burning deep:
-And yet there is a moment
-When the sun's highest point
-Peers like a star o'er ocean's western edge,
-When those far clouds of feathery purple gleam
-Like fairy lands girt by some heavenly sea:
-Then has thy rapt imagination soared
-Where in the midst of all existing things
-The temple of the mightiest Daemon stands.
+"-- Thou base-born Accident of time and place --
+Bigot Pretender unto Judgment's throne --
+Bastard, that claimest with a cunning face
+Those rights the true, true Son of Man doth own
+By Love's authority -- thou Rebel cold
+At head of civil wars and quarrels old --
+Thou Knife on a throne --
 
-Yet not the golden islands
-That gleam amid yon flood of purple light,
-Nor the feathery curtains
-That canopy the sun's resplendent couch,
-Nor the burnished ocean waves
-Paving that gorgeous dome,
-So fair, so wonderful a sight
-As the eternal temple could afford.
-The elements of all that human thought
-Can frame of lovely or sublime, did join
-To rear the fabric of the fane, nor aught
-Of earth may image forth its majesty.
-Yet likest evening's vault that faery hall,
-As heaven low resting on the wave it spread
-Its floors of flashing light,
-Its vast and azure dome;
-And on the verge of that obscure abyss
-Where crystal battlements o'erhang the gulf
-Of the dark world, ten thousand spheres diffuse
-Their lustre through its adamantine gates.
+"I would thou left'st me free, to live with love,
+And faith, that through the love of love doth find
+My Lord's dear presence in the stars above,
+The clods below, the flesh without, the mind
+Within, the bread, the tear, the smile.
+Opinion, damned Intriguer, gray with guile,
+Let me alone."
 
-The magic car no longer moved;
-The Daemon and the Spirit
-Entered the eternal gates.
-Those clouds of aery gold
-That slept in glittering billows
-Beneath the azure canopy,
-With the ethereal footsteps trembled not;
-While slight and odorous mists
-Floated to strains of thrilling melody
-Through the vast columns and the pearly shrines.
+____
+Baltimore, 1878-9.
 
-The Daemon and the Spirit
-Approached the overhanging battlement,
-Below lay stretched the boundless universe!
-There, far as the remotest line
-That limits swift imagination's flight.
-Unending orbs mingled in mazy motion,
-Immutably fulfilling
-Eternal Nature's law.
-Above, below, around,
-The circling systems formed
-A wilderness of harmony.
-Each with undeviating aim
-In eloquent silence through the depths of space
-Pursued its wondrous way.--
 
-Awhile the Spirit paused in ecstasy.
-Yet soon she saw, as the vast spheres swept by,
-Strange things within their belted orbs appear.
-Like animated frenzies, dimly moved
-Shadows, and skeletons, and fiendly shapes,
-Thronging round human graves, and o'er the dead
-Sculpturing records for each memory
-In verse, such as malignant gods pronounce,
-Blasting the hopes of men, when heaven and hell
-Confounded burst in ruin o'er the world:
-And they did build vast trophies, instruments
-Of murder, human bones, barbaric gold,
-Skins torn from living men, and towers of skulls
-With sightless holes gazing on blinder heaven,
-Mitres, and crowns, and brazen chariots stained
-With blood, and scrolls of mystic wickedness,
-The sanguine codes of venerable crime.
-The likeness of a throned king came by.
-When these had passed, bearing upon his brow
-A threefold crown; his countenance was calm.
-His eye severe and cold; but his right hand
-Was charged with bloody coin, and he did gnaw
-By fits, with secret smiles, a human heart
-Concealed beneath his robe; and motley shapes,
-A multitudinous throng, around him knelt.
-With bosoms bare, and bowed heads, and false looks
-Of true submission, as the sphere rolled by.
-Brooking no eye to witness their foul shame,
-Which human hearts must feel, while human tongues
-Tremble to speak, they did rage horribly,
-Breathing in self-contempt fierce blasphemies
-Against the Daemon of the World, and high
-Hurling their armed hands where the pure Spirit,
-Serene and inaccessibly secure,
-Stood on an isolated pinnacle.
-The flood of ages combating below,
-The depth of the unbounded universe
-Above, and all around
-Necessity's unchanging harmony.
 
-PART 2.
+II. The Ship of Earth.
 
-O happy Earth! reality of Heaven!
-To which those restless powers that ceaselessly
-Throng through the human universe aspire;
-Thou consummation of all mortal hope!
-Thou glorious prize of blindly-working will!
-Whose rays, diffused throughout all space and time,
-Verge to one point and blend for ever there:
-Of purest spirits thou pure dwelling-place!
-Where care and sorrow, impotence and crime,
-Languor, disease, and ignorance dare not come:
-O happy Earth, reality of Heaven!
 
-Genius has seen thee in her passionate dreams,
-And dim forebodings of thy loveliness,
-Haunting the human heart, have there entwined
-Those rooted hopes, that the proud Power of Evil
-Shall not for ever on this fairest world
-Shake pestilence and war, or that his slaves
-With blasphemy for prayer, and human blood
-For sacrifice, before his shrine for ever
-In adoration bend, or Erebus
-With all its banded fiends shall not uprise
-To overwhelm in envy and revenge
-The dauntless and the good, who dare to hurl
-Defiance at his throne, girt tho' it be
-With Death's omnipotence. Thou hast beheld
-His empire, o'er the present and the past;
-It was a desolate sight--now gaze on mine,
-Futurity. Thou hoary giant Time,
-Render thou up thy half-devoured babes,--
-And from the cradles of eternity,
-Where millions lie lulled to their portioned sleep
-By the deep murmuring stream of passing things,
-Tear thou that gloomy shroud.--Spirit, behold
-Thy glorious destiny!
+"Thou Ship of Earth, with Death, and Birth, and Life, and Sex aboard,
+And fires of Desires burning hotly in the hold,
+I fear thee, O! I fear thee, for I hear the tongue and sword
+At battle on the deck, and the wild mutineers are bold!
 
-The Spirit saw
-The vast frame of the renovated world
-Smile in the lap of Chaos, and the sense
-Of hope thro' her fine texture did suffuse
-Such varying glow, as summer evening casts
-On undulating clouds and deepening lakes.
-Like the vague sighings of a wind at even,
-That wakes the wavelets of the slumbering sea
-And dies on the creation of its breath,
-And sinks and rises, fails and swells by fits,
-Was the sweet stream of thought that with wild motion
-Flowed o'er the Spirit's human sympathies.
-The mighty tide of thought had paused awhile,
-Which from the Daemon now like Ocean's stream
-Again began to pour.--
+"The dewdrop morn may fall from off the petal of the sky,
+But all the deck is wet with blood and stains the crystal red.
+A pilot, GOD, a pilot! for the helm is left awry,
+And the best sailors in the ship lie there among the dead!"
 
-To me is given
-The wonders of the human world to keep-
-Space, matter, time and mind--let the sight
-Renew and strengthen all thy failing hope.
-All things are recreated, and the flame
-Of consentaneous love inspires all life:
-The fertile bosom of the earth gives suck
-To myriads, who still grow beneath her care,
-Rewarding her with their pure perfectness:
-The balmy breathings of the wind inhale
-Her virtues, and diffuse them all abroad:
-Health floats amid the gentle atmosphere,
-Glows in the fruits, and mantles on the stream;
-No storms deform the beaming brow of heaven,
-Nor scatter in the freshness of its pride
-The foliage of the undecaying trees;
-But fruits are ever ripe, flowers ever fair,
-And Autumn proudly bears her matron grace,
-Kindling a flush on the fair cheek of Spring,
-Whose virgin bloom beneath the ruddy fruit
-Reflects its tint and blushes into love.
+____
+Prattville, Alabama, 1868.
 
-The habitable earth is full of bliss;
-Those wastes of frozen billows that were hurled
-By everlasting snow-storms round the poles,
-Where matter dared not vegetate nor live,
-But ceaseless frost round the vast solitude
-Bound its broad zone of stillness, are unloosed;
-And fragrant zephyrs there from spicy isles
-Ruffle the placid ocean-deep, that rolls
-Its broad, bright surges to the sloping sand,
-Whose roar is wakened into echoings sweet
-To murmur through the heaven-breathing groves
-And melodise with man's blest nature there.
 
-The vast tract of the parched and sandy waste
-Now teems with countless rills and shady woods,
-Corn-fields and pastures and white cottages;
-And where the startled wilderness did hear
-A savage conqueror stained in kindred blood,
-Hymmng his victory, or the milder snake
-Crushing the bones of some frail antelope
-Within his brazen folds--the dewy lawn,
-Offering sweet incense to the sunrise, smiles
-To see a babe before his mother's door,
-Share with the green and golden basilisk
-That comes to lick his feet, his morning's meal.
 
-Those trackless deeps, where many a weary sail
-Has seen, above the illimitable plain,
-Morning on night and night on morning rise,
-Whilst still no land to greet the wanderer spread
-Its shadowy mountains on the sunbright sea,
-Where the loud roarings of the tempest-waves
-So long have mingled with the gusty wind
-In melancholy loneliness, and swept
-The desert of those ocean solitudes,
-But vocal to the sea-bird's harrowing shriek,
-The bellowing monster, and the rushing storm,
-Now to the sweet and many-mingling sounds
-Of kindliest human impulses respond:
-Those lonely realms bright garden-isles begem,
-With lightsome clouds and shining seas between,
-And fertile valleys resonant with bliss,
-Whilst green woods overcanopy the wave,
-Which like a toil-worn labourer leaps to shore,
-To meet the kisses of the flowerets there.
+III. How Love Looked for Hell.
 
-Man chief perceives the change, his being notes
-The gradual renovation, and defines
-Each movement of its progress on his mind.
-Man, where the gloom of the long polar night
-Lowered o'er the snow-clad rocks and frozen soil,
-Where scarce the hardiest herb that braves the frost
-Basked in the moonlight's ineffectual glow,
-Shrank with the plants, and darkened with the night;
-Nor where the tropics bound the realms of day
-With a broad belt of mingling cloud and flame,
-Where blue mists through the unmoving atmosphere
-Scattered the seeds of pestilence, and fed
-Unnatural vegetation, where the land
-Teemed with all earthquake, tempest and disease,
-Was man a nobler being; slavery
-Had crushed him to his country's blood-stained dust.
 
-Even where the milder zone afforded man
-A seeming shelter, yet contagion there,
-Blighting his being with unnumbered ills,
-Spread like a quenchless fire; nor truth availed
-Till late to arrest its progress, or create
-That peace which first in bloodless victory waved
-Her snowy standard o'er this favoured clime:
-There man was long the train-bearer of slaves,
-The mimic of surrounding misery,
-The jackal of ambition's lion-rage,
-The bloodhound of religion's hungry zeal.
+"To heal his heart of long-time pain
+One day Prince Love for to travel was fain
+With Ministers Mind and Sense.
+`Now what to thee most strange may be?'
+Quoth Mind and Sense. `All things above,
+One curious thing I first would see --
+Hell,' quoth Love.
 
-Here now the human being stands adorning
-This loveliest earth with taintless body and mind;
-Blest from his birth with all bland impulses,
-Which gently in his noble bosom wake
-All kindly passions and all pure desires.
-Him, still from hope to hope the bliss pursuing,
-Which from the exhaustless lore of human weal
-Dawns on the virtuous mind, the thoughts that rise
-In time-destroying infiniteness gift
-With self-enshrined eternity, that mocks
-The unprevailing hoariness of age,
-And man, once fleeting o'er the transient scene
-Swift as an unremembered vision, stands
-Immortal upon earth: no longer now
-He slays the beast that sports around his dwelling
-And horribly devours its mangled flesh,
-Or drinks its vital blood, which like a stream
-Of poison thro' his fevered veins did flow
-Feeding a plague that secretly consumed
-His feeble frame, and kindling in his mind
-Hatred, despair, and fear and vain belief,
-The germs of misery, death, disease and crime.
-No longer now the winged habitants,
-That in the woods their sweet lives sing away,
-Flee from the form of man; but gather round,
-And prune their sunny feathers on the hands
-Which little children stretch in friendly sport
-Towards these dreadless partners of their play.
-All things are void of terror: man has lost
-His desolating privilege, and stands
-An equal amidst equals: happiness
-And science dawn though late upon the earth;
-Peace cheers the mind, health renovates the frame;
-Disease and pleasure cease to mingle here,
-Reason and passion cease to combat there;
-Whilst mind unfettered o'er the earth extends
-Its all-subduing energies, and wields
-The sceptre of a vast dominion there.
+"Then Mind rode in and Sense rode out:
+They searched the ways of man about.
+First frightfully groaneth Sense.
+`'Tis here, 'tis here,' and spurreth in fear
+To the top of the hill that hangeth above
+And plucketh the Prince: `Come, come, 'tis here --'
+`Where?' quoth Love --
 
-Mild is the slow necessity of death:
-The tranquil spirit fails beneath its grasp,
-Without a groan, almost without a fear,
-Resigned in peace to the necessity,
-Calm as a voyager to some distant land,
-And full of wonder, full of hope as he.
-The deadly germs of languor and disease
-Waste in the human frame, and Nature gifts
-With choicest boons her human worshippers.
-How vigorous now the athletic form of age!
-How clear its open and unwrinkled brow!
-Where neither avarice, cunning, pride, or care,
-Had stamped the seal of grey deformity
-On all the mingling lineaments of time.
-How lovely the intrepid front of youth!
-How sweet the smiles of taintless infancy.
+"`Not far, not far,' said shivering Sense
+As they rode on. `A short way hence,
+-- But seventy paces hence:
+Look, King, dost see where suddenly
+This road doth dip from the height above?
+Cold blew a mouldy wind by me'
+(`Cold?' quoth Love)
 
-Within the massy prison's mouldering courts,
-Fearless and free the ruddy children play,
-Weaving gay chaplets for their innocent brows
-With the green ivy and the red wall-flower,
-That mock the dungeon's unavailing gloom;
-The ponderous chains, and gratings of strong iron,
-There rust amid the accumulated ruins
-Now mingling slowly with their native earth:
-There the broad beam of day, which feebly once
-Lighted the cheek of lean captivity
-With a pale and sickly glare, now freely shines
-On the pure smiles of infant playfulness:
-No more the shuddering voice of hoarse despair
-Peals through the echoing vaults, but soothing notes
-Of ivy-fingered winds and gladsome birds
-And merriment are resonant around.
+"`As I rode down, and the River was black,
+And yon-side, lo! an endless wrack
+And rabble of souls,' sighed Sense,
+`Their eyes upturned and begged and burned
+In brimstone lakes, and a Hand above
+Beat back the hands that upward yearned --'
+`Nay!' quoth Love --
 
-The fanes of Fear and Falsehood hear no more
-The voice that once waked multitudes to war
-Thundering thro' all their aisles: but now respond
-To the death dirge of the melancholy wind:
-It were a sight of awfulness to see
-The works of faith and slavery, so vast,
-So sumptuous, yet withal so perishing!
-Even as the corpse that rests beneath their wall.
-A thousand mourners deck the pomp of death
-To-day, the breathing marble glows above
-To decorate its memory, and tongues
-Are busy of its life: to-morrow, worms
-In silence and in darkness seize their prey.
-These ruins soon leave not a wreck behind:
-Their elements, wide-scattered o'er the globe,
-To happier shapes are moulded, and become
-Ministrant to all blissful impulses:
-Thus human things are perfected, and earth,
-Even as a child beneath its mother's love,
-Is strengthened in all excellence, and grows
-Fairer and nobler with each passing year.
+"`Yea, yea, sweet Prince; thyself shalt see,
+Wilt thou but down this slope with me;
+'Tis palpable,' whispered Sense.
+-- At the foot of the hill a living rill
+Shone, and the lilies shone white above;
+`But now 'twas black, 'twas a river, this rill,'
+(`Black?' quoth Love)
 
-Now Time his dusky pennons o'er the scene
-Closes in steadfast darkness, and the past
-Fades from our charmed sight. My task is done:
-Thy lore is learned. Earth's wonders are thine own,
-With all the fear and all the hope they bring.
-My spells are past: the present now recurs.
-Ah me! a pathless wilderness remains
-Yet unsubdued by man's reclaiming hand.
+"`Ay, black, but lo! the lilies grow,
+And yon-side where was woe, was woe,
+-- Where the rabble of souls,' cried Sense,
+`Did shrivel and turn and beg and burn,
+Thrust back in the brimstone from above --
+Is banked of violet, rose, and fern:'
+`How?' quoth Love:
 
-Yet, human Spirit, bravely hold thy course,
-Let virtue teach thee firmly to pursue
-The gradual paths of an aspiring change:
-For birth and life and death, and that strange state
-Before the naked powers that thro' the world
-Wander like winds have found a human home,
-All tend to perfect happiness, and urge
-The restless wheels of being on their way,
-Whose flashing spokes, instinct with infinite life,
-Bicker and burn to gain their destined goal:
-For birth but wakes the universal mind
-Whose mighty streams might else in silence flow
-Thro' the vast world, to individual sense
-Of outward shows, whose unexperienced shape
-New modes of passion to its frame may lend;
-Life is its state of action, and the store
-Of all events is aggregated there
-That variegate the eternal universe;
-Death is a gate of dreariness and gloom,
-That leads to azure isles and beaming skies
-And happy regions of eternal hope.
-Therefore, O Spirit! fearlessly bear on:
-Though storms may break the primrose on its stalk,
-Though frosts may blight the freshness of its bloom,
-Yet spring's awakening breath will woo the earth,
-To feed with kindliest dews its favourite flower,
-That blooms in mossy banks and darksome glens,
-Lighting the green wood with its sunny smile.
+"`For lakes of pain, yon pleasant plain
+Of woods and grass and yellow grain
+Doth ravish the soul and sense:
+And never a sigh beneath the sky,
+And folk that smile and gaze above --'
+`But saw'st thou here, with thine own eye,
+Hell?' quoth Love.
 
-Fear not then, Spirit, death's disrobing hand,
-So welcome when the tyrant is awake,
-So welcome when the bigot's hell-torch flares;
-'Tis but the voyage of a darksome hour,
-The transient gulf-dream of a startling sleep.
-For what thou art shall perish utterly,
-But what is thine may never cease to be;
-Death is no foe to virtue: earth has seen
-Love's brightest roses on the scaffold bloom,
-Mingling with freedom's fadeless laurels there,
-And presaging the truth of visioned bliss.
-Are there not hopes within thee, which this scene
-Of linked and gradual being has confirmed?
-Hopes that not vainly thou, and living fires
-Of mind as radiant and as pure as thou,
-Have shone upon the paths of men--return,
-Surpassing Spirit, to that world, where thou
-Art destined an eternal war to wage
-With tyranny and falsehood, and uproot
-The germs of misery from the human heart.
-Thine is the hand whose piety would soothe
-The thorny pillow of unhappy crime,
-Whose impotence an easy pardon gains,
-Watching its wanderings as a friend's disease:
-Thine is the brow whose mildness would defy
-Its fiercest rage, and brave its sternest will,
-When fenced by power and master of the world.
-Thou art sincere and good; of resolute mind,
-Free from heart-withering custom's cold control,
-Of passion lofty, pure and unsubdued.
-Earth's pride and meanness could not vanquish thee,
-And therefore art thou worthy of the boon
-Which thou hast now received: virtue shall keep
-Thy footsteps in the path that thou hast trod,
-And many days of beaming hope shall bless
-Thy spotless life of sweet and sacred love.
-Go, happy one, and give that bosom joy
-Whose sleepless spirit waits to catch
-Light, life and rapture from thy smile.
+"`I saw true hell with mine own eye,
+True hell, or light hath told a lie,
+True, verily,' quoth stout Sense.
+Then Love rode round and searched the ground,
+The caves below, the hills above;
+`But I cannot find where thou hast found
+Hell,' quoth Love.
 
-The Daemon called its winged ministers.
-Speechless with bliss the Spirit mounts the car,
-That rolled beside the crystal battlement,
-Bending her beamy eyes in thankfulness.
-The burning wheels inflame
-The steep descent of Heaven's untrodden way.
-Fast and far the chariot flew:
-The mighty globes that rolled
-Around the gate of the Eternal Fane
-Lessened by slow degrees, and soon appeared
-Such tiny twinklers as the planet orbs
-That ministering on the solar power
-With borrowed light pursued their narrower way.
-Earth floated then below:
-The chariot paused a moment;
-The Spirit then descended:
-And from the earth departing
-The shadows with swift wings
-Speeded like thought upon the light of Heaven.
+"There, while they stood in a green wood
+And marvelled still on Ill and Good,
+Came suddenly Minister Mind.
+`In the heart of sin doth hell begin:
+'Tis not below, 'tis not above,
+It lieth within, it lieth within:'
+(`Where?' quoth Love)
 
-The Body and the Soul united then,
-A gentle start convulsed Ianthe's frame:
-Her veiny eyelids quietly unclosed;
-Moveless awhile the dark blue orbs remained:
-She looked around in wonder and beheld
-Henry, who kneeled in silence by her couch,
-Watching her sleep with looks of speechless love,
-And the bright beaming stars
-That through the casement shone.
+"`I saw a man sit by a corse;
+`Hell's in the murderer's breast: remorse!'
+Thus clamored his mind to his mind:
+Not fleshly dole is the sinner's goal,
+Hell's not below, nor yet above,
+'Tis fixed in the ever-damned soul --'
+`Fixed?' quoth Love --
+
+"`Fixed: follow me, would'st thou but see:
+He weepeth under yon willow tree,
+Fast chained to his corse,' quoth Mind.
+Full soon they passed, for they rode fast,
+Where the piteous willow bent above.
+`Now shall I see at last, at last,
+Hell,' quoth Love.
+
+"There when they came Mind suffered shame:
+`These be the same and not the same,'
+A-wondering whispered Mind.
+Lo, face by face two spirits pace
+Where the blissful willow waves above:
+One saith: `Do me a friendly grace --'
+(`Grace!' quoth Love)
+
+"`Read me two Dreams that linger long,
+Dim as returns of old-time song
+That flicker about the mind.
+I dreamed (how deep in mortal sleep!)
+I struck thee dead, then stood above,
+With tears that none but dreamers weep;'
+`Dreams,' quoth Love;
+
+"`In dreams, again, I plucked a flower
+That clung with pain and stung with power,
+Yea, nettled me, body and mind.'
+`'Twas the nettle of sin, 'twas medicine;
+No need nor seed of it here Above;
+In dreams of hate true loves begin.'
+`True,' quoth Love.
+
+"`Now strange,' quoth Sense, and `Strange,' quoth Mind,
+`We saw it, and yet 'tis hard to find,
+-- But we saw it,' quoth Sense and Mind.
+Stretched on the ground, beautiful-crowned
+Of the piteous willow that wreathed above,
+`But I cannot find where ye have found
+Hell,' quoth Love."
+
+____
+Baltimore, 1878-9.
+
+
+
+IV. Tyranny.
+
+
+"Spring-germs, spring-germs,
+I charge you by your life, go back to death.
+This glebe is sick, this wind is foul of breath.
+Stay: feed the worms.
+
+"Oh! every clod
+Is faint, and falters from the war of growth
+And crumbles in a dreary dust of sloth,
+Unploughed, untrod.
+
+"What need, what need,
+To hide with flowers the curse upon the hills,
+Or sanctify the banks of sluggish rills
+Where vapors breed?
+
+"And -- if needs must --
+Advance, O Summer-heats! upon the land,
+And bake the bloody mould to shards and sand
+And dust.
+
+"Before your birth,
+Burn up, O Roses! with your dainty flame.
+Good Violets, sweet Violets, hide shame
+Below the earth.
+
+"Ye silent Mills,
+Reject the bitter kindness of the moss.
+O Farms! protest if any tree emboss
+The barren hills.
+
+"Young Trade is dead,
+And swart Work sullen sits in the hillside fern
+And folds his arms that find no bread to earn,
+And bows his head.
+
+"Spring-germs, spring-germs,
+Albeit the towns have left you place to play,
+I charge you, sport not. Winter owns to-day,
+Stay: feed the worms."
+
+____
+Prattville, Alabama, 1868.
+
+
+
+V. Life and Song.
+
+
+"If life were caught by a clarionet,
+And a wild heart, throbbing in the reed,
+Should thrill its joy and trill its fret,
+And utter its heart in every deed,
+
+"Then would this breathing clarionet
+Type what the poet fain would be;
+For none o' the singers ever yet
+Has wholly lived his minstrelsy,
+
+"Or clearly sung his true, true thought,
+Or utterly bodied forth his life,
+Or out of life and song has wrought
+The perfect one of man and wife;
+
+"Or lived and sung, that Life and Song
+Might each express the other's all,
+Careless if life or art were long
+Since both were one, to stand or fall:
+
+"So that the wonder struck the crowd,
+Who shouted it about the land:
+`His song was only living aloud,
+His work, a singing with his hand!'"
+
+____
+
+
+
+
+VI. To Richard Wagner.
+
+
+"I saw a sky of stars that rolled in grime.
+All glory twinkled through some sweat of fight,
+From each tall chimney of the roaring time
+That shot his fire far up the sooty night
+Mixt fuels -- Labor's Right and Labor's Crime --
+Sent upward throb on throb of scarlet light
+Till huge hot blushes in the heavens blent
+With golden hues of Trade's high firmament.
+
+"Fierce burned the furnaces; yet all seemed well,
+Hope dreamed rich music in the rattling mills.
+`Ye foundries, ye shall cast my church a bell,'
+Loud cried the Future from the farthest hills:
+`Ye groaning forces, crack me every shell
+Of customs, old constraints, and narrow ills;
+Thou, lithe Invention, wake and pry and guess,
+Till thy deft mind invents me Happiness.'
+
+"And I beheld high scaffoldings of creeds
+Crumbling from round Religion's perfect Fane:
+And a vast noise of rights, wrongs, powers, needs,
+-- Cries of new Faiths that called `This Way is plain,'
+-- Grindings of upper against lower greeds --
+-- Fond sighs for old things, shouts for new, -- did reign
+Below that stream of golden fire that broke,
+Mottled with red, above the seas of smoke.
+
+"Hark! Gay fanfares from halls of old Romance
+Strike through the clouds of clamor: who be these
+That, paired in rich processional, advance
+From darkness o'er the murk mad factories
+Into yon flaming road, and sink, strange Ministrants!
+Sheer down to earth, with many minstrelsies
+And motions fine, and mix about the scene
+And fill the Time with forms of ancient mien?
+
+"Bright ladies and brave knights of Fatherland;
+Sad mariners, no harbor e'er may hold,
+A swan soft floating tow'rds a magic strand;
+Dim ghosts, of earth, air, water, fire, steel, gold,
+Wind, grief, and love; a lewd and lurking band
+Of Powers -- dark Conspiracy, Cunning cold,
+Gray Sorcery; magic cloaks and rings and rods;
+Valkyries, heroes, Rhinemaids, giants, gods!
+
+* * * * *
+
+"O Wagner, westward bring thy heavenly art,
+No trifler thou: Siegfried and Wotan be
+Names for big ballads of the modern heart.
+Thine ears hear deeper than thine eyes can see.
+Voice of the monstrous mill, the shouting mart,
+Not less of airy cloud and wave and tree,
+Thou, thou, if even to thyself unknown,
+Hast power to say the Time in terms of tone."
+
+____
+
+
+
+
+VII. A Song of Love.
+
+
+"Hey, rose, just born
+Twin to a thorn;
+Was't so with you, O Love and Scorn?
+
+"Sweet eyes that smiled,
+Now wet and wild;
+O Eye and Tear -- mother and child.
+
+"Well: Love and Pain
+Be kinsfolk twain:
+Yet would, Oh would I could love again."
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 29°C, smoke in Karachi 🇵🇰
+🌡️ 29°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **42** total stars earned
-- 🍴 **6** total forks
+- 🏆 **40** total stars earned
+- 🍴 **4** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -851,4 +587,4 @@ That through the casement shone.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->July 31, 2025 at 06:54 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 1, 2025 at 07:04 AM GMT+5<!-- TIMESTAMP:END -->_
