@@ -9,13 +9,14 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [fs-app-test](https://github.com/afzalimdad9/fs-app-test)
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [fs-app-test](https://github.com/afzalimdad9/fs-app-test)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
 <!-- RECENT_ACTIVITY:START -->
+- 📝 1 commit to **fs-app-test** on 7/31/2025
 - 📝 1 commit to **slack-updates** on 7/30/2025
 - 📝 1 commit to **afzalimdad9** on 7/17/2025
 - 📝 2 commits to **Emojicam** on 7/5/2025
@@ -23,15 +24,15 @@
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **4** commits across **3** repositories (last 30 days)
+- 📊 **5** commits across **4** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/1/2025)
 - 🔥 [fs-app-test](https://github.com/afzalimdad9/fs-app-test) - No description ⭐ 0 (Updated: 7/31/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 7/31/2025)
 - 🔥 [slack-updates](https://github.com/afzalimdad9/slack-updates) - A Node.js script to fetch time tracking data from Clockify API and send formatted daily updates to Slack using message blocks ⭐ 0 (Updated: 7/30/2025)
 <!-- HOT_REPOS:END -->
 
@@ -66,12 +67,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Your mama's so FAT she can't save files bigger than 4GB.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn how to make an Alexa skill
+Practice coding in your favorite lanaguage
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -80,417 +85,69 @@ Learn how to make an Alexa skill
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Street Cries" by Sidney Lanier
-Oft seems the Time a market-town
-Where many merchant-spirits meet
-Who up and down and up and down
-Cry out along the street
-
-Their needs, as wares; one THUS, one SO:
-Till all the ways are full of sound:
--- But still come rain, and sun, and snow,
-And still the world goes round.
-
-
-
-I. Remonstrance.
-
-
-"Opinion, let me alone: I am not thine.
-Prim Creed, with categoric point, forbear
-To feature me my Lord by rule and line.
-Thou canst not measure Mistress Nature's hair,
-Not one sweet inch: nay, if thy sight is sharp,
-Would'st count the strings upon an angel's harp?
-Forbear, forbear.
-
-"Oh let me love my Lord more fathom deep
-Than there is line to sound with: let me love
-My fellow not as men that mandates keep:
-Yea, all that's lovable, below, above,
-That let me love by heart, by heart, because
-(Free from the penal pressure of the laws)
-I find it fair.
-
-"The tears I weep by day and bitter night,
-Opinion! for thy sole salt vintage fall.
--- As morn by morn I rise with fresh delight,
-Time through my casement cheerily doth call
-`Nature is new, 'tis birthday every day,
-Come feast with me, let no man say me nay,
-Whate'er befall.'
-
-"So fare I forth to feast: I sit beside
-Some brother bright: but, ere good-morrow's passed,
-Burly Opinion wedging in hath cried
-`Thou shalt not sit by us, to break thy fast,
-Save to our Rubric thou subscribe and swear --
-`Religion hath blue eyes and yellow hair:'
-She's Saxon, all.'
-
-"Then, hard a-hungered for my brother's grace
-Till well-nigh fain to swear his folly's true,
-In sad dissent I turn my longing face
-To him that sits on the left: `Brother, -- with you?'
--- `Nay, not with me, save thou subscribe and swear
-`Religion hath black eyes and raven hair:'
-Nought else is true.'
-
-"Debarred of banquets that my heart could make
-With every man on every day of life,
-I homeward turn, my fires of pain to slake
-In deep endearments of a worshipped wife.
-`I love thee well, dear Love,' quoth she, `and yet
-Would that thy creed with mine completely met,
-As one, not two.'
-
-"Assassin! Thief! Opinion, 'tis thy work.
-By Church, by throne, by hearth, by every good
-That's in the Town of Time, I see thee lurk,
-And e'er some shadow stays where thou hast stood.
-Thou hand'st sweet Socrates his hemlock sour;
-Thou sav'st Barabbas in that hideous hour,
-And stabb'st the good
-
-"Deliverer Christ; thou rack'st the souls of men;
-Thou tossest girls to lions and boys to flames;
-Thou hew'st Crusader down by Saracen;
-Thou buildest closets full of secret shames;
-Indifferent cruel, thou dost blow the blaze
-Round Ridley or Servetus; all thy days
-Smell scorched; I would
-
-"-- Thou base-born Accident of time and place --
-Bigot Pretender unto Judgment's throne --
-Bastard, that claimest with a cunning face
-Those rights the true, true Son of Man doth own
-By Love's authority -- thou Rebel cold
-At head of civil wars and quarrels old --
-Thou Knife on a throne --
-
-"I would thou left'st me free, to live with love,
-And faith, that through the love of love doth find
-My Lord's dear presence in the stars above,
-The clods below, the flesh without, the mind
-Within, the bread, the tear, the smile.
-Opinion, damned Intriguer, gray with guile,
-Let me alone."
-
-____
-Baltimore, 1878-9.
-
-
-
-II. The Ship of Earth.
-
-
-"Thou Ship of Earth, with Death, and Birth, and Life, and Sex aboard,
-And fires of Desires burning hotly in the hold,
-I fear thee, O! I fear thee, for I hear the tongue and sword
-At battle on the deck, and the wild mutineers are bold!
-
-"The dewdrop morn may fall from off the petal of the sky,
-But all the deck is wet with blood and stains the crystal red.
-A pilot, GOD, a pilot! for the helm is left awry,
-And the best sailors in the ship lie there among the dead!"
-
-____
-Prattville, Alabama, 1868.
-
-
-
-III. How Love Looked for Hell.
-
-
-"To heal his heart of long-time pain
-One day Prince Love for to travel was fain
-With Ministers Mind and Sense.
-`Now what to thee most strange may be?'
-Quoth Mind and Sense. `All things above,
-One curious thing I first would see --
-Hell,' quoth Love.
-
-"Then Mind rode in and Sense rode out:
-They searched the ways of man about.
-First frightfully groaneth Sense.
-`'Tis here, 'tis here,' and spurreth in fear
-To the top of the hill that hangeth above
-And plucketh the Prince: `Come, come, 'tis here --'
-`Where?' quoth Love --
-
-"`Not far, not far,' said shivering Sense
-As they rode on. `A short way hence,
--- But seventy paces hence:
-Look, King, dost see where suddenly
-This road doth dip from the height above?
-Cold blew a mouldy wind by me'
-(`Cold?' quoth Love)
-
-"`As I rode down, and the River was black,
-And yon-side, lo! an endless wrack
-And rabble of souls,' sighed Sense,
-`Their eyes upturned and begged and burned
-In brimstone lakes, and a Hand above
-Beat back the hands that upward yearned --'
-`Nay!' quoth Love --
-
-"`Yea, yea, sweet Prince; thyself shalt see,
-Wilt thou but down this slope with me;
-'Tis palpable,' whispered Sense.
--- At the foot of the hill a living rill
-Shone, and the lilies shone white above;
-`But now 'twas black, 'twas a river, this rill,'
-(`Black?' quoth Love)
-
-"`Ay, black, but lo! the lilies grow,
-And yon-side where was woe, was woe,
--- Where the rabble of souls,' cried Sense,
-`Did shrivel and turn and beg and burn,
-Thrust back in the brimstone from above --
-Is banked of violet, rose, and fern:'
-`How?' quoth Love:
-
-"`For lakes of pain, yon pleasant plain
-Of woods and grass and yellow grain
-Doth ravish the soul and sense:
-And never a sigh beneath the sky,
-And folk that smile and gaze above --'
-`But saw'st thou here, with thine own eye,
-Hell?' quoth Love.
-
-"`I saw true hell with mine own eye,
-True hell, or light hath told a lie,
-True, verily,' quoth stout Sense.
-Then Love rode round and searched the ground,
-The caves below, the hills above;
-`But I cannot find where thou hast found
-Hell,' quoth Love.
-
-"There, while they stood in a green wood
-And marvelled still on Ill and Good,
-Came suddenly Minister Mind.
-`In the heart of sin doth hell begin:
-'Tis not below, 'tis not above,
-It lieth within, it lieth within:'
-(`Where?' quoth Love)
-
-"`I saw a man sit by a corse;
-`Hell's in the murderer's breast: remorse!'
-Thus clamored his mind to his mind:
-Not fleshly dole is the sinner's goal,
-Hell's not below, nor yet above,
-'Tis fixed in the ever-damned soul --'
-`Fixed?' quoth Love --
-
-"`Fixed: follow me, would'st thou but see:
-He weepeth under yon willow tree,
-Fast chained to his corse,' quoth Mind.
-Full soon they passed, for they rode fast,
-Where the piteous willow bent above.
-`Now shall I see at last, at last,
-Hell,' quoth Love.
-
-"There when they came Mind suffered shame:
-`These be the same and not the same,'
-A-wondering whispered Mind.
-Lo, face by face two spirits pace
-Where the blissful willow waves above:
-One saith: `Do me a friendly grace --'
-(`Grace!' quoth Love)
-
-"`Read me two Dreams that linger long,
-Dim as returns of old-time song
-That flicker about the mind.
-I dreamed (how deep in mortal sleep!)
-I struck thee dead, then stood above,
-With tears that none but dreamers weep;'
-`Dreams,' quoth Love;
-
-"`In dreams, again, I plucked a flower
-That clung with pain and stung with power,
-Yea, nettled me, body and mind.'
-`'Twas the nettle of sin, 'twas medicine;
-No need nor seed of it here Above;
-In dreams of hate true loves begin.'
-`True,' quoth Love.
-
-"`Now strange,' quoth Sense, and `Strange,' quoth Mind,
-`We saw it, and yet 'tis hard to find,
--- But we saw it,' quoth Sense and Mind.
-Stretched on the ground, beautiful-crowned
-Of the piteous willow that wreathed above,
-`But I cannot find where ye have found
-Hell,' quoth Love."
-
-____
-Baltimore, 1878-9.
-
-
-
-IV. Tyranny.
-
-
-"Spring-germs, spring-germs,
-I charge you by your life, go back to death.
-This glebe is sick, this wind is foul of breath.
-Stay: feed the worms.
-
-"Oh! every clod
-Is faint, and falters from the war of growth
-And crumbles in a dreary dust of sloth,
-Unploughed, untrod.
-
-"What need, what need,
-To hide with flowers the curse upon the hills,
-Or sanctify the banks of sluggish rills
-Where vapors breed?
-
-"And -- if needs must --
-Advance, O Summer-heats! upon the land,
-And bake the bloody mould to shards and sand
-And dust.
-
-"Before your birth,
-Burn up, O Roses! with your dainty flame.
-Good Violets, sweet Violets, hide shame
-Below the earth.
-
-"Ye silent Mills,
-Reject the bitter kindness of the moss.
-O Farms! protest if any tree emboss
-The barren hills.
-
-"Young Trade is dead,
-And swart Work sullen sits in the hillside fern
-And folds his arms that find no bread to earn,
-And bows his head.
-
-"Spring-germs, spring-germs,
-Albeit the towns have left you place to play,
-I charge you, sport not. Winter owns to-day,
-Stay: feed the worms."
-
-____
-Prattville, Alabama, 1868.
-
-
-
-V. Life and Song.
-
-
-"If life were caught by a clarionet,
-And a wild heart, throbbing in the reed,
-Should thrill its joy and trill its fret,
-And utter its heart in every deed,
-
-"Then would this breathing clarionet
-Type what the poet fain would be;
-For none o' the singers ever yet
-Has wholly lived his minstrelsy,
-
-"Or clearly sung his true, true thought,
-Or utterly bodied forth his life,
-Or out of life and song has wrought
-The perfect one of man and wife;
-
-"Or lived and sung, that Life and Song
-Might each express the other's all,
-Careless if life or art were long
-Since both were one, to stand or fall:
-
-"So that the wonder struck the crowd,
-Who shouted it about the land:
-`His song was only living aloud,
-His work, a singing with his hand!'"
-
-____
-
-
-
-
-VI. To Richard Wagner.
-
-
-"I saw a sky of stars that rolled in grime.
-All glory twinkled through some sweat of fight,
-From each tall chimney of the roaring time
-That shot his fire far up the sooty night
-Mixt fuels -- Labor's Right and Labor's Crime --
-Sent upward throb on throb of scarlet light
-Till huge hot blushes in the heavens blent
-With golden hues of Trade's high firmament.
-
-"Fierce burned the furnaces; yet all seemed well,
-Hope dreamed rich music in the rattling mills.
-`Ye foundries, ye shall cast my church a bell,'
-Loud cried the Future from the farthest hills:
-`Ye groaning forces, crack me every shell
-Of customs, old constraints, and narrow ills;
-Thou, lithe Invention, wake and pry and guess,
-Till thy deft mind invents me Happiness.'
-
-"And I beheld high scaffoldings of creeds
-Crumbling from round Religion's perfect Fane:
-And a vast noise of rights, wrongs, powers, needs,
--- Cries of new Faiths that called `This Way is plain,'
--- Grindings of upper against lower greeds --
--- Fond sighs for old things, shouts for new, -- did reign
-Below that stream of golden fire that broke,
-Mottled with red, above the seas of smoke.
-
-"Hark! Gay fanfares from halls of old Romance
-Strike through the clouds of clamor: who be these
-That, paired in rich processional, advance
-From darkness o'er the murk mad factories
-Into yon flaming road, and sink, strange Ministrants!
-Sheer down to earth, with many minstrelsies
-And motions fine, and mix about the scene
-And fill the Time with forms of ancient mien?
-
-"Bright ladies and brave knights of Fatherland;
-Sad mariners, no harbor e'er may hold,
-A swan soft floating tow'rds a magic strand;
-Dim ghosts, of earth, air, water, fire, steel, gold,
-Wind, grief, and love; a lewd and lurking band
-Of Powers -- dark Conspiracy, Cunning cold,
-Gray Sorcery; magic cloaks and rings and rods;
-Valkyries, heroes, Rhinemaids, giants, gods!
-
-* * * * *
-
-"O Wagner, westward bring thy heavenly art,
-No trifler thou: Siegfried and Wotan be
-Names for big ballads of the modern heart.
-Thine ears hear deeper than thine eyes can see.
-Voice of the monstrous mill, the shouting mart,
-Not less of airy cloud and wave and tree,
-Thou, thou, if even to thyself unknown,
-Hast power to say the Time in terms of tone."
-
-____
-
-
-
-
-VII. A Song of Love.
-
-
-"Hey, rose, just born
-Twin to a thorn;
-Was't so with you, O Love and Scorn?
-
-"Sweet eyes that smiled,
-Now wet and wild;
-O Eye and Tear -- mother and child.
-
-"Well: Love and Pain
-Be kinsfolk twain:
-Yet would, Oh would I could love again."
+"The Hock-cart, or Harvest Home" by Robert Herrick
+To the Right Honourable Mildmay, Earl of Westmoreland
+
+Come, sons of summer, by whose toil
+We are the lords of wine and oil;
+By whose tough labours, and rough hands,
+We rip up first, then reap our lands.
+Crown'd with the ears of corn, now come,
+And to the pipe sing Harvest Home.
+Come forth, my lord, and see the cart
+Dress'd up with all the country art.
+See, here a malkin, there a sheet,
+As spotless pure, as it is sweet;
+The horses, mares, and frisking fillies,
+(Clad, all, in linen, white as lilies.)
+The harvest swains and wenches bound
+For joy, to see the Hock-cart crown'd.
+About the cart, hear, how the rout
+Of rural younglings raise the shout;
+Pressing before, some coming after,
+Those with a shout, and these with laughter.
+Some bless the cart; some kisses the sheaves;
+Some prank them up with oaken leaves;
+Some cross the fill-horse; some with great
+Devotion, stroke the home-borne wheat;
+While other rustics, less attent
+To prayers than to merriment,
+Run after with their breeches rent.
+Well, on, brave boys, to your lord's hearth,
+Glitt'ring with fire, where, for your mirth,
+Ye shall see first the large and chief
+Foundation of your feast, fat beef,
+With upper stories, mutton, veal,
+And bacon, (which makes full the meal)
+With sev'ral dishes standing by,
+As here a custard, there a pie,
+And here all tempting frumenty.
+And for to make the merry cheer,
+If smirking wine be wanting here,
+There's that which drowns all care, stout beer,
+Which freely drink to your lord's health,
+Then to the plough, (the common-wealth)
+Next to your flails, your fanes, your fats;
+Then to the maids with wheaten hats;
+To the rough sickle and crook'd scythe,
+Drink frolic boys, till all be blythe.
+Feed and grow fat; and as ye eat,
+Be mindful, that the lab'ring neat
+(As you) may have their fill of meat
+And know, besides, ye must revoke
+The patient ox unto the yoke,
+And all go back unto the plough
+And harrow, (though they're hang'd up now.)
+And, you must know, your lord's word's true,
+Feed him ye must, whose food fills you.
+And that this pleasure is like rain,
+Not sent ye for to drown your pain,
+But for to make it spring again.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 29°C, haze in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -587,4 +244,4 @@ Yet would, Oh would I could love again."
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 1, 2025 at 07:04 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 2, 2025 at 06:49 AM GMT+5<!-- TIMESTAMP:END -->_
