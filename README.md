@@ -31,7 +31,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/1/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/2/2025)
 - 🔥 [fs-app-test](https://github.com/afzalimdad9/fs-app-test) - No description ⭐ 0 (Updated: 7/31/2025)
 - 🔥 [slack-updates](https://github.com/afzalimdad9/slack-updates) - A Node.js script to fetch time tracking data from Clockify API and send formatted daily updates to Slack using message blocks ⭐ 0 (Updated: 7/30/2025)
 <!-- HOT_REPOS:END -->
@@ -67,16 +67,15 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Practice coding in your favorite lanaguage
+Take a caffeine nap
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -85,64 +84,51 @@ Practice coding in your favorite lanaguage
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Hock-cart, or Harvest Home" by Robert Herrick
-To the Right Honourable Mildmay, Earl of Westmoreland
+"Children" by Henry Wadsworth Longfellow
+Come to me, O ye children!
+For I hear you at your play,
+And the questions that perplexed me
+Have vanished quite away.
 
-Come, sons of summer, by whose toil
-We are the lords of wine and oil;
-By whose tough labours, and rough hands,
-We rip up first, then reap our lands.
-Crown'd with the ears of corn, now come,
-And to the pipe sing Harvest Home.
-Come forth, my lord, and see the cart
-Dress'd up with all the country art.
-See, here a malkin, there a sheet,
-As spotless pure, as it is sweet;
-The horses, mares, and frisking fillies,
-(Clad, all, in linen, white as lilies.)
-The harvest swains and wenches bound
-For joy, to see the Hock-cart crown'd.
-About the cart, hear, how the rout
-Of rural younglings raise the shout;
-Pressing before, some coming after,
-Those with a shout, and these with laughter.
-Some bless the cart; some kisses the sheaves;
-Some prank them up with oaken leaves;
-Some cross the fill-horse; some with great
-Devotion, stroke the home-borne wheat;
-While other rustics, less attent
-To prayers than to merriment,
-Run after with their breeches rent.
-Well, on, brave boys, to your lord's hearth,
-Glitt'ring with fire, where, for your mirth,
-Ye shall see first the large and chief
-Foundation of your feast, fat beef,
-With upper stories, mutton, veal,
-And bacon, (which makes full the meal)
-With sev'ral dishes standing by,
-As here a custard, there a pie,
-And here all tempting frumenty.
-And for to make the merry cheer,
-If smirking wine be wanting here,
-There's that which drowns all care, stout beer,
-Which freely drink to your lord's health,
-Then to the plough, (the common-wealth)
-Next to your flails, your fanes, your fats;
-Then to the maids with wheaten hats;
-To the rough sickle and crook'd scythe,
-Drink frolic boys, till all be blythe.
-Feed and grow fat; and as ye eat,
-Be mindful, that the lab'ring neat
-(As you) may have their fill of meat
-And know, besides, ye must revoke
-The patient ox unto the yoke,
-And all go back unto the plough
-And harrow, (though they're hang'd up now.)
-And, you must know, your lord's word's true,
-Feed him ye must, whose food fills you.
-And that this pleasure is like rain,
-Not sent ye for to drown your pain,
-But for to make it spring again.
+Ye open the eastern windows,
+That look towards the sun,
+Where thoughts are singing swallows
+And the brooks of morning run.
+
+In your hearts are the birds and the sunshine,
+In your thoughts the brooklet's flow,
+But in mine is the wind of Autumn
+And the first fall of the snow.
+
+Ah! what would the world be to us
+If the children were no more?
+We should dread the desert behind us
+Worse than the dark before.
+
+What the leaves are to the forest,
+With light and air for food,
+Ere their sweet and tender juices
+Have been hardened into wood, --
+
+That to the world are children;
+Through them it feels the glow
+Of a brighter and sunnier climate
+Than reaches the trunks below.
+
+Come to me, O ye children!
+And whisper in my ear
+What the birds and the winds are singing
+In your sunny atmosphere.
+
+For what are all our contrivings,
+And the wisdom of our books,
+When compared with your caresses,
+And the gladness of your looks?
+
+Ye are better than all the ballads
+That ever were sung or said;
+For ye are living poems,
+And all the rest are dead.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -244,4 +230,4 @@ But for to make it spring again.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 2, 2025 at 06:49 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 3, 2025 at 07:02 AM GMT+5<!-- TIMESTAMP:END -->_
