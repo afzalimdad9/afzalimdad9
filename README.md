@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [fs-app-test](https://github.com/afzalimdad9/fs-app-test)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -31,9 +31,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/2/2025)
+- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 41 (Updated: 8/3/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/3/2025)
 - 🔥 [fs-app-test](https://github.com/afzalimdad9/fs-app-test) - No description ⭐ 0 (Updated: 7/31/2025)
-- 🔥 [slack-updates](https://github.com/afzalimdad9/slack-updates) - A Node.js script to fetch time tracking data from Clockify API and send formatted daily updates to Slack using message blocks ⭐ 0 (Updated: 7/30/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -67,15 +67,14 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Take a caffeine nap
+Start a family tree
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -84,51 +83,26 @@ Take a caffeine nap
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Children" by Henry Wadsworth Longfellow
-Come to me, O ye children!
-For I hear you at your play,
-And the questions that perplexed me
-Have vanished quite away.
+"A Dream" by Edgar Allan Poe
+In visions of the dark night
+  I have dreamed of joy departed--
+But a waking dream of life and light
+  Hath left me broken-hearted.
 
-Ye open the eastern windows,
-That look towards the sun,
-Where thoughts are singing swallows
-And the brooks of morning run.
+Ah! what is not a dream by day
+  To him whose eyes are cast
+On things around him with a ray
+  Turned back upon the past?
 
-In your hearts are the birds and the sunshine,
-In your thoughts the brooklet's flow,
-But in mine is the wind of Autumn
-And the first fall of the snow.
+That holy dream--that holy dream,
+  While all the world were chiding,
+Hath cheered me as a lovely beam,
+  A lonely spirit guiding.
 
-Ah! what would the world be to us
-If the children were no more?
-We should dread the desert behind us
-Worse than the dark before.
-
-What the leaves are to the forest,
-With light and air for food,
-Ere their sweet and tender juices
-Have been hardened into wood, --
-
-That to the world are children;
-Through them it feels the glow
-Of a brighter and sunnier climate
-Than reaches the trunks below.
-
-Come to me, O ye children!
-And whisper in my ear
-What the birds and the winds are singing
-In your sunny atmosphere.
-
-For what are all our contrivings,
-And the wisdom of our books,
-When compared with your caresses,
-And the gladness of your looks?
-
-Ye are better than all the ballads
-That ever were sung or said;
-For ye are living poems,
-And all the rest are dead.
+What though that light, thro' storm and night,
+  So trembled from afar--
+What could there be more purely bright
+  In Truth's day star?
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -138,7 +112,7 @@ And all the rest are dead.
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **40** total stars earned
+- 🏆 **41** total stars earned
 - 🍴 **4** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -230,4 +204,4 @@ And all the rest are dead.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 3, 2025 at 07:02 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 4, 2025 at 07:02 AM GMT+5<!-- TIMESTAMP:END -->_
