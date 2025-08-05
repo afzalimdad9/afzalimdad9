@@ -19,20 +19,19 @@
 - 📝 1 commit to **fs-app-test** on 7/31/2025
 - 📝 1 commit to **slack-updates** on 7/30/2025
 - 📝 1 commit to **afzalimdad9** on 7/17/2025
-- 📝 2 commits to **Emojicam** on 7/5/2025
 <!-- RECENT_ACTIVITY:END -->
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **5** commits across **4** repositories (last 30 days)
+- 📊 **3** commits across **3** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 41 (Updated: 8/3/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/3/2025)
+- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 42 (Updated: 8/4/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/4/2025)
 - 🔥 [fs-app-test](https://github.com/afzalimdad9/fs-app-test) - No description ⭐ 0 (Updated: 7/31/2025)
 <!-- HOT_REPOS:END -->
 
@@ -67,14 +66,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Start a family tree
+Mow your neighbor's lawn
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -83,26 +80,65 @@ Start a family tree
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"A Dream" by Edgar Allan Poe
-In visions of the dark night
-  I have dreamed of joy departed--
-But a waking dream of life and light
-  Hath left me broken-hearted.
+"All In a Family Way" by Thomas Moore
+My banks are all furnished with rags,
+So thick, even Freddy can't thin 'em;
+I've torn up my old money-bags,
+Having little or nought to put in 'em.
+My tradesman are smashing by dozens,
+But this is all nothing, they say;
+For bankrupts, since Adam, are cousins,
+So, it's all in the family way.
 
-Ah! what is not a dream by day
-  To him whose eyes are cast
-On things around him with a ray
-  Turned back upon the past?
 
-That holy dream--that holy dream,
-  While all the world were chiding,
-Hath cheered me as a lovely beam,
-  A lonely spirit guiding.
+My Debt not a penny takes from me,
+As sages the matter explain; --
+Bob owes it to Tom and then Tommy
+Just owes it to Bob back again.
+Since all have thus taken to owing,
+There's nobody left that can pay;
+And this is the way to keep going, --
+All quite in the family way.
 
-What though that light, thro' storm and night,
-  So trembled from afar--
-What could there be more purely bright
-  In Truth's day star?
+
+My senators vote away millions,
+To put in Prosperity's budget;
+And though it were billions or trillions,
+The generous rogues wouldn't grudge it.
+'Tis all but a family hop,
+'Twas Pitt began dancing the hay;
+Hands round! -- why the deuce should we stop?
+'Tis all in the family way.
+
+
+My labourers used to eat mutton,
+As any great man of the State does;
+And now the poor devils are put on
+Small rations of tea and potatoes.
+But cheer up John, Sawney and Paddy,
+The King is your father, they say;
+So ev'n if you starve for your Daddy,
+'Tis all in the family way.
+
+
+My rich manufacturers tumble,
+My poor ones have nothing to chew;
+And, even if themselves do not grumble,
+Their stomachs undoubtedly do.
+But coolly to fast en famille,
+Is as good for the soul as to pray;
+And famine itself is genteel,
+When one starves in a family way.
+
+
+I have found out a secret for Freddy,
+A secret for next Budget day;
+Though, perhaps he may know it already,
+As he, too, 's a sage in his way.
+When next for the Treasury scene he
+Announces "the Devil to pay",
+Let him write on the bills, "Nota bene,
+'Tis all in the family way."
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -112,7 +148,7 @@ What could there be more purely bright
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **41** total stars earned
+- 🏆 **42** total stars earned
 - 🍴 **4** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -204,4 +240,4 @@ What could there be more purely bright
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 4, 2025 at 07:02 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 5, 2025 at 06:57 AM GMT+5<!-- TIMESTAMP:END -->_
