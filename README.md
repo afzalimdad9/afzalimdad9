@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -30,8 +30,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/6/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 41 (Updated: 8/5/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/5/2025)
 - 🔥 [fs-app-test](https://github.com/afzalimdad9/fs-app-test) - No description ⭐ 0 (Updated: 7/31/2025)
 <!-- HOT_REPOS:END -->
 
@@ -66,15 +66,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn how to iceskate or rollerskate
+Bake something you've never tried before
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -83,1688 +80,919 @@ Learn how to iceskate or rollerskate
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Hellas: A Lyrical Drama" by Percy Bysshe Shelley
-MANTIS EIM EZTHLON AGONUN.--OEDIP. COLON.
-
-PROLOGUE TO HELLAS.
-
-HERALD OF ETERNITY:
-It is the day when all the sons of God
-Wait in the roofless senate-house, whose floor
-Is Chaos, and the immovable abyss
-Frozen by His steadfast word to hyaline
-
-The shadow of God, and delegate
-Of that before whose breath the universe
-Is as a print of dew.
-Hierarchs and kings
-Who from your thrones pinnacled on the past
-Sway the reluctant present, ye who sit
-Pavilioned on the radiance or the gloom
-Of mortal thought, which like an exhalation
-Steaming from earth, conceals the ... of heaven
-Which gave it birth. ... assemble here
-Before your Father's throne; the swift decree
-Yet hovers, and the fiery incarnation
-Is yet withheld, clothed in which it shall
-annul
-The fairest of those wandering isles that gem
-The sapphire space of interstellar air,
-That green and azure sphere, that earth enwrapped
-Less in the beauty of its tender light
-Than in an atmosphere of living spirit
-Which interpenetrating all the ...
-it rolls from realm to realm
-And age to age, and in its ebb and flow
-Impels the generations
-To their appointed place,
-Whilst the high Arbiter
-Beholds the strife, and at the appointed time
-Sends His decrees veiled in eternal...
-
-Within the circuit of this pendent orb
-There lies an antique region, on which fell
-The dews of thought in the world's golden dawn
-Earliest and most benign, and from it sprung
-Temples and cities and immortal forms
-And harmonies of wisdom and of song,
-And thoughts, and deeds worthy of thoughts so fair.
-And when the sun of its dominion failed,
-And when the winter of its glory came,
-The winds that stripped it bare blew on and swept
-That dew into the utmost wildernesses
-In wandering clouds of sunny rain that thawed
-The unmaternal bosom of the North.
-Haste, sons of God, ... for ye beheld,
-Reluctant, or consenting, or astonished,
-The stern decrees go forth, which heaped on Greece
-Ruin and degradation and despair.
-A fourth now waits: assemble, sons of God,
-To speed or to prevent or to suspend,
-If, as ye dream, such power be not withheld,
-The unaccomplished destiny.
-
-CHORUS:
-The curtain of the Universe
-Is rent and shattered,
-The splendour-winged worlds disperse
-Like wild doves scattered.
-
-Space is roofless and bare,
-And in the midst a cloudy shrine,
-Dark amid thrones of light.
-In the blue glow of hyaline
-Golden worlds revolve and shine.
-In ... flight
-From every point of the Infinite,
-Like a thousand dawns on a single night
-The splendours rise and spread;
-And through thunder and darkness dread
-Light and music are radiated,
-And in their pavilioned chariots led
-By living wings high overhead
-The giant Powers move,
-Gloomy or bright as the thrones they fill.
-
-...
-
-A chaos of light and motion
-Upon that glassy ocean.
-
-...
-
-The senate of the Gods is met,
-Each in his rank and station set;
-There is silence in the spaces--
-Lo! Satan, Christ, and Mahomet
-Start from their places!
-
-CHRIST:
-Almighty Father!
-Low-kneeling at the feet of Destiny
-
-...
-
-There are two fountains in which spirits weep
-When mortals err, Discord and Slavery named,
-And with their bitter dew two Destinies
-Filled each their irrevocable urns; the third
-Fiercest and mightiest, mingled both, and added
-Chaos and Death, and slow Oblivion's lymph,
-And hate and terror, and the poisoned rain
-
-...
-
-The Aurora of the nations. By this brow
-Whose pores wept tears of blood, by these wide wounds,
-By this imperial crown of agony,
-By infamy and solitude and death,
-For this I underwent, and by the pain
-Of pity for those who would ... for me
-The unremembered joy of a revenge,
-For this I felt--by Plato's sacred light,
-Of which my spirit was a burning morrow--
-By Greece and all she cannot cease to be.
-Her quenchless words, sparks of immortal truth,
-Stars of all night--her harmonies and forms,
-Echoes and shadows of what Love adores
-In thee, I do compel thee, send forth Fate,
-Thy irrevocable child: let her descend,
-A seraph-winged Victory
-In tempest of the omnipotence of God
-Which sweeps through all things.
-
-From hollow leagues, from Tyranny which arms
-Adverse miscreeds and emulous anarchies
-To stamp, as on a winged serpent's seed,
-Upon the name of Freedom; from the storm
-Of faction, which like earthquake shakes and sickens
-The solid heart of enterprise; from all
-By which the holiest dreams of highest spirits
-Are stars beneath the dawn...
-She shall arise
-Victorious as the world arose from Chaos!
-And as the Heavens and the Earth arrayed
-Their presence in the beauty and the light
-Of Thy first smile, O Father,--as they gather
-The spirit of Thy love which paves for them
-Their path o'er the abyss, till every sphere
-Shall be one living Spirit,--so shall Greece--
-
-SATAN:
-Be as all things beneath the empyrean,
-Mine! Art thou eyeless like old Destiny,
-Thou mockery-king, crowned with a wreath of thorns?
-Whose sceptre is a reed, the broken reed
-Which pierces thee! whose throne a chair of scorn;
-For seest thou not beneath this crystal floor
-The innumerable worlds of golden light
-Which are my empire, and the least of them
-which thou wouldst redeem from me?
-Know'st thou not them my portion?
-Or wouldst rekindle the ... strife
-Which our great Father then did arbitrate
-Which he assigned to his competing sons
-Each his apportioned realm?
-Thou Destiny,
-Thou who art mailed in the omnipotence
-Of Him who tends thee forth, whate'er thy task,
-Speed, spare not to accomplish, and be mine
-Thy trophies, whether Greece again become
-The fountain in the desert whence the earth
-Shall drink of freedom, which shall give it strength
-To suffer, or a gulf of hollow death
-To swallow all delight, all life, all hope.
-Go, thou Vicegerent of my will, no less
-Than of the Father's; but lest thou shouldst faint,
-The winged hounds, Famine and Pestilence,
-Shall wait on thee, the hundred-forked snake
-Insatiate Superstition still shall...
-The earth behind thy steps, and War shall hover
-Above, and Fraud shall gape below, and Change
-Shall flit before thee on her dragon wings,
-Convulsing and consuming, and I add
-Three vials of the tears which daemons weep
-When virtuous spirits through the gate of Death
-Pass triumphing over the thorns of life,
-Sceptres and crowns, mitres and swords and snares,
-Trampling in scorn, like Him and Socrates.
-The first is Anarchy; when Power and Pleasure,
-Glory and science and security,
-On Freedom hang like fruit on the green tree,
-Then pour it forth, and men shall gather ashes.
-The second Tyranny--
-
-CHRIST:
-Obdurate spirit!
-Thou seest but the Past in the To-come.
-Pride is thy error and thy punishment.
-Boast not thine empire, dream not that thy worlds
-Are more than furnace-sparks or rainbow-drops
-Before the Power that wields and kindles them.
-True greatness asks not space, true excellence
-Lives in the Spirit of all things that live,
-Which lends it to the worlds thou callest thine.
-
-...
-
-MAHOMET:
-...Haste thou and fill the waning crescent
-With beams as keen as those which pierced the shadow
-Of Christian night rolled back upon the West,
-When the orient moon of Islam rode in triumph
-From Tmolus to the Acroceraunian snow.
-
-...
-
-Wake, thou Word
-Of God, and from the throne of Destiny
-Even to the utmost limit of thy way
-May Triumph
-
-...
-
-Be thou a curse on them whose creed
-Divides and multiplies the most high God.
-
-HELLAS.
-
-DRAMATIS PERSONAE:
-
-MAHMUD.
-HASSAN.
-DAOOD.
-AHASUERUS, A JEW.
-CHORUS OF GREEK CAPTIVE WOMEN.
-[THE PHANTOM OF MAHOMET II. (OMITTED, EDITION 1822.)]
-MESSENGERS, SLAVES, AND ATTENDANTS.
-
-SCENE:
-CONSTANTINOPLE.
-
-TIME: SUNSET.
-
-SCENE:
-A TERRACE ON THE SERAGLIO.
-MAHMUD SLEEPING,
-AN INDIAN SLAVE SITTING BESIDE HIS COUCH.
-
-CHORUS OF GREEK CAPTIVE WOMEN:
-We strew these opiate flowers
-On thy restless pillow,--
-They were stripped from Orient bowers,
-By the Indian billow.
-Be thy sleep
-Calm and deep,
-Like theirs who fell--not ours who weep!
-
-INDIAN:
-Away, unlovely dreams!
-Away, false shapes of sleep
-Be his, as Heaven seems,
-Clear, and bright, and deep!
-Soft as love, and calm as death,
-Sweet as a summer night without a breath.
-
-CHORUS:
-Sleep, sleep! our song is laden
-With the soul of slumber;
-It was sung by a Samian maiden,
-Whose lover was of the number
-Who now keep
-That calm sleep
-Whence none may wake, where none shall weep.
-
-INDIAN:
-I touch thy temples pale!
-I breathe my soul on thee!
-And could my prayers avail,
-All my joy should be
-Dead, and I would live to weep,
-So thou mightst win one hour of quiet sleep.
-
-CHORUS:
-Breathe low, low
-The spell of the mighty mistress now!
-When Conscience lulls her sated snake,
-And Tyrants sleep, let Freedom wake.
-Breathe low--low
-The words which, like secret fire, shall flow
-Through the veins of the frozen earth--low, low!
-
-SEMICHORUS 1:
-Life may change, but it may fly not;
-Hope may vanish, but can die not;
-Truth be veiled, but still it burneth;
-Love repulsed,--but it returneth!
-
-SEMICHORUS 2:
-Yet were life a charnel where
-Hope lay coffined with Despair;
-Yet were truth a sacred lie,
-Love were lust--
-
-SEMICHORUS 1:
-If Liberty
-Lent not life its soul of light,
-Hope its iris of delight,
-Truth its prophet's robe to wear,
-Love its power to give and bear.
-
-CHORUS:
-In the great morning of the world,
-The Spirit of God with might unfurled
-The flag of Freedom over Chaos,
-And all its banded anarchs fled,
-Like vultures frighted from Imaus,
-Before an earthquake's tread.--
-So from Time's tempestuous dawn
-Freedom's splendour burst and shone:--
-Thermopylae and Marathon
-Caught like mountains beacon-lighted,
-The springing Fire.--The winged glory
-On Philippi half-alighted,
-Like an eagle on a promontory.
-Its unwearied wings could fan
-The quenchless ashes of Milan.
-From age to age, from man to man,
-It lived; and lit from land to land
-Florence, Albion, Switzerland.
-
-Then night fell; and, as from night,
-Reassuming fiery flight,
-From the West swift Freedom came,
-Against the course of Heaven and doom.
-A second sun arrayed in flame,
-To burn, to kindle, to illume.
-From far Atlantis its young beams
-Chased the shadows and the dreams.
-France, with all her sanguine steams,
-Hid, but quenched it not; again
-Through clouds its shafts of glory rain
-From utmost Germany to Spain.
-As an eagle fed with morning
-Scorns the embattled tempest's warning,
-When she seeks her aerie hanging
-In the mountain-cedar's hair,
-And her brood expect the clanging
-Of her wings through the wild air,
-Sick with famine:--Freedom, so
-To what of Greece remaineth now
-Returns; her hoary ruins glow
-Like Orient mountains lost in day;
-Beneath the safety of her wings
-Her renovated nurslings prey,
-And in the naked lightenings
-Of truth they purge their dazzled eyes.
-Let Freedom leave--where'er she flies,
-A Desert, or a Paradise:
-Let the beautiful and the brave
-Share her glory, or a grave.
-
-SEMICHORUS 1:
-With the gifts of gladness
-Greece did thy cradle strew;
-
-SEMICHORUS 2:
-With the tears of sadness
-Greece did thy shroud bedew!
-
-SEMICHORUS 1:
-With an orphan's affection
-She followed thy bier through Time;
-
-SEMICHORUS 2:
-And at thy resurrection
-Reappeareth, like thou, sublime!
-
-SEMICHORUS 1:
-If Heaven should resume thee,
-To Heaven shall her spirit ascend;
-
-SEMICHORUS 2:
-If Hell should entomb thee,
-To Hell shall her high hearts bend.
-
-SEMICHORUS 1:
-If Annihilation--
-
-SEMICHORUS 2:
-Dust let her glories be!
-And a name and a nation
-Be forgotten, Freedom, with thee!
-
-INDIAN:
-His brow grows darker--breathe not--move not!
-He starts--he shudders--ye that love not,
-With your panting loud and fast,
-Have awakened him at last.
-
-MAHMUD [STARTING FROM HIS SLEEP]:
-Man the Seraglio-guard! make fast the gate!
-What! from a cannonade of three short hours?
-'Tis false! that breach towards the Bosphorus
-Cannot be practicable yet--who stirs?
-Stand to the match; that when the foe prevails
-One spark may mix in reconciling ruin
-The conqueror and the conquered! Heave the tower
-Into the gap--wrench off the roof!
-[ENTER HASSAN.]
-Ha! what!
-The truth of day lightens upon my dream
-And I am Mahmud still.
-
-HASSAN:
-Your Sublime Highness
-Is strangely moved.
-
-MAHMUD:
-The times do cast strange shadows
-On those who watch and who must rule their course,
-Lest they, being first in peril as in glory,
-Be whelmed in the fierce ebb:--and these are of them.
-Thrice has a gloomy vision hunted me
-As thus from sleep into the troubled day;
-It shakes me as the tempest shakes the sea,
-Leaving no figure upon memory's glass.
-Would that--no matter. Thou didst say thou knewest
-A Jew, whose spirit is a chronicle
-Of strange and secret and forgotten things.
-I bade thee summon him:--'tis said his tribe
-Dream, and are wise interpreters of dreams.
-
-HASSAN:
-The Jew of whom I spake is old,--so old
-He seems to have outlived a world's decay;
-The hoary mountains and the wrinkled ocean
-Seem younger still than he;--his hair and beard
-Are whiter than the tempest-sifted snow;
-His cold pale limbs and pulseless arteries
-Are like the fibres of a cloud instinct
-With light, and to the soul that quickens them
-Are as the atoms of the mountain-drift
-To the winter wind:--but from his eye looks forth
-A life of unconsumed thought which pierces
-The Present, and the Past, and the To-come.
-Some say that this is he whom the great prophet
-Jesus, the son of Joseph, for his mockery,
-Mocked with the curse of immortality.
-Some feign that he is Enoch: others dream
-He was pre-adamite and has survived
-Cycles of generation and of ruin.
-The sage, in truth, by dreadful abstinence
-And conquering penance of the mutinous flesh,
-Deep contemplation, and unwearied study,
-In years outstretched beyond the date of man,
-May have attained to sovereignty and science
-Over those strong and secret things and thoughts
-Which others fear and know not.
-
-MAHMUD:
-I would talk
-With this old Jew.
-
-HASSAN:
-Thy will is even now
-Made known to him, where he dwells in a sea-cavern
-'Mid the Demonesi, less accessible
-Than thou or God! He who would question him
-Must sail alone at sunset, where the stream
-Of Ocean sleeps around those foamless isles,
-When the young moon is westering as now,
-And evening airs wander upon the wave;
-And when the pines of that bee-pasturing isle,
-Green Erebinthus, quench the fiery shadow
-Of his gilt prow within the sapphire water,
-Then must the lonely helmsman cry aloud
-'Ahasuerus!' and the caverns round
-Will answer 'Ahasuerus!' If his prayer
-Be granted, a faint meteor will arise
-Lighting him over Marmora, and a wind
-Will rush out of the sighing pine-forest,
-And with the wind a storm of harmony
-Unutterably sweet, and pilot him
-Through the soft twilight to the Bosphorus:
-Thence at the hour and place and circumstance
-Fit for the matter of their conference
-The Jew appears. Few dare, and few who dare
-Win the desired communion--but that shout
-Bodes--
-
-[A SHOUT WITHIN.]
-
-MAHMUD:
-Evil, doubtless; Like all human sounds.
-Let me converse with spirits.
-
-HASSAN:
-That shout again.
-
-MAHMUD:
-This Jew whom thou hast summoned--
-
-HASSAN:
-Will be here--
-
-MAHMUD:
-When the omnipotent hour to which are yoked
-He, I, and all things shall compel--enough!
-Silence those mutineers--that drunken crew,
-That crowd about the pilot in the storm.
-Ay! strike the foremost shorter by a head!
-They weary me, and I have need of rest.
-Kinks are like stars--they rise and set, they have
-The worship of the world, but no repose.
-
-[EXEUNT SEVERALLY.]
-
-CHORUS:
-Worlds on worlds are rolling ever
-From creation to decay,
-Like the bubbles on a river
-Sparkling, bursting, borne away.
-But they are still immortal
-Who, through birth's orient portal
-And death's dark chasm hurrying to and fro,
-Clothe their unceasing flight
-In the brief dust and light
-Gathered around their chariots as they go;
-New shapes they still may weave,
-New gods, new laws receive,
-Bright or dim are they as the robes they last
-On Death's bare ribs had cast.
-
-A power from the unknown God,
-A Promethean conqueror, came;
-Like a triumphal path he trod
-The thorns of death and shame.
-A mortal shape to him
-Was like the vapour dim
-Which the orient planet animates with light;
-Hell, Sin, and Slavery came,
-Like bloodhounds mild and tame,
-Nor preyed, until their Lord had taken flight;
-The moon of Mahomet
-Arose, and it shall set:
-While blazoned as on Heaven's immortal noon
-The cross leads generations on.
-
-Swift as the radiant shapes of sleep
-From one whose dreams are Paradise
-Fly, when the fond wretch wakes to weep,
-And Day peers forth with her blank eyes;
-So fleet, so faint, so fair,
-The Powers of earth and air
-Fled from the folding-star of Bethlehem:
-Apollo, Pan, and Love,
-And even Olympian Jove
-Grew weak, for killing Truth had glared on them;
-Our hills and seas and streams,
-Dispeopled of their dreams,
-Their waters turned to blood, their dew to tears,
-Wailed for the golden years.
-
-[ENTER MAHMUD, HASSAN, DAOOD, AND OTHERS.]
-
-MAHMUD:
-More gold? our ancestors bought gold with victory,
-And shall I sell it for defeat?
-
-DAOOD:
-The Janizars
-Clamour for pay.
-
-MAHMUD:
-Go! bid them pay themselves
-With Christian blood! Are there no Grecian virgins
-Whose shrieks and spasms and tears they may enjoy?
-No infidel children to impale on spears?
-No hoary priests after that Patriarch
-Who bent the curse against his country's heart,
-Which clove his own at last? Go! bid them kill,
-Blood is the seed of gold.
-
-DAOOD:
-It has been sown,
-And yet the harvest to the sicklemen
-Is as a grain to each.
-
-MAHMUD:
-Then, take this signet,
-Unlock the seventh chamber in which lie
-The treasures of victorious Solyman,--
-An empire's spoil stored for a day of ruin.
-O spirit of my sires! is it not come?
-The prey-birds and the wolves are gorged and sleep;
-But these, who spread their feast on the red earth,
-Hunger for gold, which fills not.--See them fed;
-Then, lead them to the rivers of fresh death.
-[EXIT DAOOD.]
-O miserable dawn, after a night
-More glorious than the day which it usurped!
-O faith in God! O power on earth! O word
-Of the great prophet, whose o'ershadowing wings
-Darkened the thrones and idols of the West,
-Now bright!--For thy sake cursed be the hour,
-Even as a father by an evil child,
-When the orient moon of Islam rolled in triumph
-From Caucasus to White Ceraunia!
-Ruin above, and anarchy below;
-Terror without, and treachery within;
-The Chalice of destruction full, and all
-Thirsting to drink; and who among us dares
-To dash it from his lips? and where is Hope?
-
-HASSAN:
-The lamp of our dominion still rides high;
-One God is God--Mahomet is His prophet.
-Four hundred thousand Moslems, from the limits
-Of utmost Asia, irresistibly
-Throng, like full clouds at the Sirocco's cry;
-But not like them to weep their strength in tears:
-They bear destroying lightning, and their step
-Wakes earthquake to consume and overwhelm,
-And reign in ruin. Phrygian Olympus,
-Tmolus, and Latmos, and Mycale, roughen
-With horrent arms; and lofty ships even now,
-Like vapours anchored to a mountain's edge,
-Freighted with fire and whirlwind, wait at Scala
-The convoy of the ever-veering wind.
-Samos is drunk with blood;--the Greek has paid
-Brief victory with swift loss and long despair.
-The false Moldavian serfs fled fast and far
-When the fierce shout of 'Allah-illa-Allah!'
-Rose like the war-cry of the northern wind
-Which kills the sluggish clouds, and leaves a flock
-Of wild swans struggling with the naked storm.
-So were the lost Greeks on the Danube's day!
-If night is mute, yet the returning sun
-Kindles the voices of the morning birds;
-Nor at thy bidding less exultingly
-Than birds rejoicing in the golden day,
-The Anarchies of Africa unleash
-Their tempest-winged cities of the sea,
-To speak in thunder to the rebel world.
-Like sulphurous clouds, half-shattered by the storm,
-They sweep the pale Aegean, while the Queen
-Of Ocean, bound upon her island-throne,
-Far in the West, sits mourning that her sons
-Who frown on Freedom spare a smile for thee:
-Russia still hovers, as an eagle might
-Within a cloud, near which a kite and crane
-Hang tangled in inextricable fight,
-To stoop upon the victor;--for she fears
-The name of Freedom, even as she hates thine.
-But recreant Austria loves thee as the Grave
-Loves Pestilence, and her slow dogs of war
-Fleshed with the chase, come up from Italy,
-And howl upon their limits; for they see
-The panther, Freedom, fled to her old cover,
-Amid seas and mountains, and a mightier brood
-Crouch round. What Anarch wears a crown or mitre,
-Or bears the sword, or grasps the key of gold,
-Whose friends are not thy friends, whose foes thy foes?
-Our arsenals and our armouries are full;
-Our forts defy assault; ten thousand cannon
-Lie ranged upon the beach, and hour by hour
-Their earth-convulsing wheels affright the city;
-The galloping of fiery steeds makes pale
-The Christian merchant; and the yellow Jew
-Hides his hoard deeper in the faithless earth.
-Like clouds, and like the shadows of the clouds,
-Over the hills of Anatolia,
-Swift in wide troops the Tartar chivalry
-Sweep;--the far flashing of their starry lances
-Reverberates the dying light of day.
-We have one God, one King, one Hope, one Law;
-But many-headed Insurrection stands
-Divided in itself, and soon must fall.
-
-MAHMUD:
-Proud words, when deeds come short, are seasonable:
-Look, Hassan, on yon crescent moon, emblazoned
-Upon that shattered flag of fiery cloud
-Which leads the rear of the departing day;
-Wan emblem of an empire fading now!
-See how it trembles in the blood-red air,
-And like a mighty lamp whose oil is spent
-Shrinks on the horizon's edge, while, from above,
-One star with insolent and victorious light
-Hovers above its fall, and with keen beams,
-Like arrows through a fainting antelope,
-Strikes its weak form to death.
-
-HASSAN:
-Even as that moon
-Renews itself--
-
-MAHMUD:
-Shall we be not renewed!
-Far other bark than ours were needed now
-To stem the torrent of descending time:
-The Spirit that lifts the slave before his lord
-Stalks through the capitals of armed kings,
-And spreads his ensign in the wilderness:
-Exults in chains; and, when the rebel falls,
-Cries like the blood of Abel from the dust;
-And the inheritors of the earth, like beasts
-When earthquake is unleashed, with idiot fear
-Cower in their kingly dens--as I do now.
-What were Defeat when Victory must appal?
-Or Danger, when Security looks pale?--
-How said the messenger--who, from the fort
-Islanded in the Danube, saw the battle
-Of Bucharest?--that--
-
-HASSAN:
-Ibrahim's scimitar
-Drew with its gleam swift victory from Heaven,
-To burn before him in the night of battle--
-A light and a destruction.
-
-MAHMUD:
-Ay! the day
-Was ours: but how?--
-
-HASSAN:
-The light Wallachians,
-The Arnaut, Servian, and Albanian allies
-Fled from the glance of our artillery
-Almost before the thunderstone alit.
-One half the Grecian army made a bridge
-Of safe and slow retreat, with Moslem dead;
-The other--
-
-MAHMUD:
-Speak--tremble not.--
-
-HASSAN:
-Islanded
-By victor myriads, formed in hollow square
-With rough and steadfast front, and thrice flung back
-The deluge of our foaming cavalry;
-Thrice their keen wedge of battle pierced our lines.
-Our baffled army trembled like one man
-Before a host, and gave them space; but soon,
-From the surrounding hills, the batteries blazed,
-Kneading them down with fire and iron rain:
-Yet none approached; till, like a field of corn
-Under the hook of the swart sickleman,
-The band, intrenched in mounds of Turkish dead,
-Grew weak and few.--Then said the Pacha, 'Slaves,
-Render yourselves--they have abandoned you--
-What hope of refuge, or retreat, or aid?
-We grant your lives.' 'Grant that which is thine own!'
-Cried one, and fell upon his sword and died!
-Another--'God, and man, and hope abandon me;
-But I to them, and to myself, remain
-Constant:'--he bowed his head, and his heart burst.
-A third exclaimed, 'There is a refuge, tyrant,
-Where thou darest not pursue, and canst not harm
-Shouldst thou pursue; there we shall meet again.'
-Then held his breath, and, after a brief spasm,
-The indignant spirit cast its mortal garment
-Among the slain--dead earth upon the earth!
-So these survivors, each by different ways,
-Some strange, all sudden, none dishonourable,
-Met in triumphant death; and when our army
-Closed in, while yet wonder, and awe, and shame
-Held back the base hyaenas of the battle
-That feed upon the dead and fly the living,
-One rose out of the chaos of the slain:
-And if it were a corpse which some dread spirit
-Of the old saviours of the land we rule
-Had lifted in its anger, wandering by;--
-Or if there burned within the dying man
-Unquenchable disdain of death, and faith
-Creating what it feigned;--I cannot tell--
-But he cried, 'Phantoms of the free, we come!
-Armies of the Eternal, ye who strike
-To dust the citadels of sanguine kings,
-And shake the souls throned on their stony hearts,
-And thaw their frostwork diadems like dew;--
-O ye who float around this clime, and weave
-The garment of the glory which it wears,
-Whose fame, though earth betray the dust it clasped,
-Lies sepulchred in monumental thought;--
-Progenitors of all that yet is great,
-Ascribe to your bright senate, O accept
-In your high ministrations, us, your sons--
-Us first, and the more glorious yet to come!
-And ye, weak conquerors! giants who look pale
-When the crushed worm rebels beneath your tread,
-The vultures and the dogs, your pensioners tame,
-Are overgorged; but, like oppressors, still
-They crave the relic of Destruction's feast.
-The exhalations and the thirsty winds
-Are sick with blood; the dew is foul with death;
-Heaven's light is quenched in slaughter: thus, where'er
-Upon your camps, cities, or towers, or fleets,
-The obscene birds the reeking remnants cast
-Of these dead limbs,--upon your streams and mountains,
-Upon your fields, your gardens, and your housetops,
-Where'er the winds shall creep, or the clouds fly,
-Or the dews fall, or the angry sun look down
-With poisoned light--Famine, and Pestilence,
-And Panic, shall wage war upon our side!
-Nature from all her boundaries is moved
-Against ye: Time has found ye light as foam.
-The Earth rebels; and Good and Evil stake
-Their empire o'er the unborn world of men
-On this one cast;--but ere the die be thrown,
-The renovated genius of our race,
-Proud umpire of the impious game, descends,
-A seraph-winged Victory, bestriding
-The tempest of the Omnipotence of God,
-Which sweeps all things to their appointed doom,
-And you to oblivion!'--More he would have said,
-But--
-
-MAHMUD:
-Died--as thou shouldst ore thy lips had painted
-Their ruin in the hues of our success.
-A rebel's crime, gilt with a rebel's tongue!
-Your heart is Greek, Hassan.
-
-HASSAN:
-It may be so:
-A spirit not my own wrenched me within,
-And I have spoken words I fear and hate;
-Yet would I die for--
-
-MAHMUD:
-Live! oh live! outlive
-Me and this sinking empire. But the fleet--
-
-HASSAN:
-Alas!--
-
-MAHMUD:
-The fleet which, like a flock of clouds
-Chased by the wind, flies the insurgent banner!
-Our winged castles from their merchant ships!
-Our myriads before their weak pirate bands!
-Our arms before their chains! our years of empire
-Before their centuries of servile fear!
-Death is awake! Repulse is on the waters!
-They own no more the thunder-bearing banner
-Of Mahmud; but, like hounds of a base breed,
-Gorge from a stranger's hand, and rend their master.
-
-HASSAN:
-Latmos, and Ampelos, and Phanae saw
-The wreck--
-
-MAHMUD:
-The caves of the Icarian isles
-Told each to the other in loud mockery,
-And with the tongue as of a thousand echoes,
-First of the sea-convulsing fight--and, then,--
-Thou darest to speak--senseless are the mountains:
-Interpret thou their voice!
-
-HASSAN:
-My presence bore
-A part in that day's shame. The Grecian fleet
-Bore down at daybreak from the North, and hung
-As multitudinous on the ocean line,
-As cranes upon the cloudless Thracian wind.
-Our squadron, convoying ten thousand men,
-Was stretching towards Nauplia when the battle
-Was kindled.--
-First through the hail of our artillery
-The agile Hydriote barks with press of sail
-Dashed:--ship to ship, cannon to cannon, man
-To man were grappled in the embrace of war,
-Inextricable but by death or victory.
-The tempest of the raging fight convulsed
-To its crystalline depths that stainless sea,
-And shook Heaven's roof of golden morning clouds,
-Poised on an hundred azure mountain-isles.
-In the brief trances of the artillery
-One cry from the destroyed and the destroyer
-Rose, and a cloud of desolation wrapped
-The unforeseen event, till the north wind
-Sprung from the sea, lifting the heavy veil
-Of battle-smoke--then victory--victory!
-For, as we thought, three frigates from Algiers
-Bore down from Naxos to our aid, but soon
-The abhorred cross glimmered behind, before,
-Among, around us; and that fatal sign
-Dried with its beams the strength in Moslem hearts,
-As the sun drinks the dew.--What more? We fled!--
-Our noonday path over the sanguine foam
-Was beaconed,--and the glare struck the sun pale,--
-By our consuming transports: the fierce light
-Made all the shadows of our sails blood-red,
-And every countenance blank. Some ships lay feeding
-The ravening fire, even to the water's level;
-Some were blown up; some, settling heavily,
-Sunk; and the shrieks of our companions died
-Upon the wind, that bore us fast and far,
-Even after they were dead. Nine thousand perished!
-We met the vultures legioned in the air
-Stemming the torrent of the tainted wind;
-They, screaming from their cloudy mountain-peaks,
-Stooped through the sulphurous battle-smoke and perched
-Each on the weltering carcase that we loved,
-Like its ill angel or its damned soul,
-Riding upon the bosom of the sea.
-We saw the dog-fish hastening to their feast.
-Joy waked the voiceless people of the sea,
-And ravening Famine left his ocean cave
-To dwell with War, with us, and with Despair.
-We met night three hours to the west of Patmos,
-And with night, tempest--
-
-MAHMUD:
-Cease!
-
-[ENTER A MESSENGER.]
-
-MESSENGER:
-Your Sublime Highness,
-That Christian hound, the Muscovite Ambassador,
-Has left the city.--If the rebel fleet
-Had anchored in the port, had victory
-Crowned the Greek legions in the Hippodrome,
-Panic were tamer.--Obedience and Mutiny,
-Like giants in contention planet-struck,
-Stand gazing on each other.--There is peace
-In Stamboul.--
-
-MAHMUD:
-Is the grave not calmer still?
-Its ruins shall be mine.
-
-HASSAN:
-Fear not the Russian:
-The tiger leagues not with the stag at bay
-Against the hunter.--Cunning, base, and cruel,
-He crouches, watching till the spoil be won,
-And must be paid for his reserve in blood.
-After the war is fought, yield the sleek Russian
-That which thou canst not keep, his deserved portion
-Of blood, which shall not flow through streets and fields,
-Rivers and seas, like that which we may win,
-But stagnate in the veins of Christian slaves!
-
-[ENTER SECOND MESSENGER.]
-
-SECOND MESSENGER:
-Nauplia, Tripolizza, Mothon, Athens,
-Navarin, Artas, Monembasia,
-Corinth, and Thebes are carried by assault,
-And every Islamite who made his dogs
-Fat with the flesh of Galilean slaves
-Passed at the edge of the sword: the lust of blood,
-Which made our warriors drunk, is quenched in death;
-But like a fiery plague breaks out anew
-In deeds which make the Christian cause look pale
-In its own light. The garrison of Patras
-Has store but for ten days, nor is there hope
-But from the Briton: at once slave and tyrant,
-His wishes still are weaker than his fears,
-Or he would sell what faith may yet remain
-From the oaths broke in Genoa and in Norway;
-And if you buy him not, your treasury
-Is empty even of promises--his own coin.
-The freedman of a western poet-chief
-Holds Attica with seven thousand rebels,
-And has beat back the Pacha of Negropont:
-The aged Ali sits in Yanina
-A crownless metaphor of empire:
-His name, that shadow of his withered might,
-Holds our besieging army like a spell
-In prey to famine, pest, and mutiny;
-He, bastioned in his citadel, looks forth
-Joyless upon the sapphire lake that mirrors
-The ruins of the city where he reigned
-Childless and sceptreless. The Greek has reaped
-The costly harvest his own blood matured,
-Not the sower, Ali--who has bought a truce
-From Ypsilanti with ten camel-loads
-Of Indian gold.
-
-[ENTER A THIRD MESSENGER.]
-
-MAHMUD:
-What more?
-
-THIRD MESSENGER:
-The Christian tribes
-Of Lebanon and the Syrian wilderness
-Are in revolt;--Damascus, Hems, Aleppo
-Tremble;--the Arab menaces Medina,
-The Aethiop has intrenched himself in Sennaar,
-And keeps the Egyptian rebel well employed,
-Who denies homage, claims investiture
-As price of tardy aid. Persia demands
-The cities on the Tigris, and the Georgians
-Refuse their living tribute. Crete and Cyprus,
-Like mountain-twins that from each other's veins
-Catch the volcano-fire and earthquake-spasm,
-Shake in the general fever. Through the city,
-Like birds before a storm, the Santons shriek,
-And prophesyings horrible and new
-Are heard among the crowd: that sea of men
-Sleeps on the wrecks it made, breathless and still.
-A Dervise, learned in the Koran, preaches
-That it is written how the sins of Islam
-Must raise up a destroyer even now.
-The Greeks expect a Saviour from the West,
-Who shall not come, men say, in clouds and glory,
-But in the omnipresence of that Spirit
-In which all live and are. Ominous signs
-Are blazoned broadly on the noonday sky:
-One saw a red cross stamped upon the sun;
-It has rained blood; and monstrous births declare
-The secret wrath of Nature and her Lord.
-The army encamped upon the Cydaris
-Was roused last night by the alarm of battle,
-And saw two hosts conflicting in the air,
-The shadows doubtless of the unborn time
-Cast on the mirror of the night. While yet
-The fight hung balanced, there arose a storm
-Which swept the phantoms from among the stars.
-At the third watch the Spirit of the Plague
-Was heard abroad flapping among the tents;
-Those who relieved watch found the sentinels dead.
-The last news from the camp is, that a thousand
-Have sickened, and--
-
-[ENTER A FOURTH MESSENGER.]
-
-MAHMUD:
-And thou, pale ghost, dim shadow
-Of some untimely rumour, speak!
-
-FOURTH MESSENGER:
-One comes
-Fainting with toil, covered with foam and blood:
-He stood, he says, on Chelonites'
-Promontory, which o'erlooks the isles that groan
-Under the Briton's frown, and all their waters
-Then trembling in the splendour of the moon,
-When as the wandering clouds unveiled or hid
-Her boundless light, he saw two adverse fleets
-Stalk through the night in the horizon's glimmer,
-Mingling fierce thunders and sulphureous gleams,
-And smoke which strangled every infant wind
-That soothed the silver clouds through the deep air.
-At length the battle slept, but the Sirocco
-Awoke, and drove his flock of thunder-clouds
-Over the sea-horizon, blotting out
-All objects--save that in the faint moon-glimpse
-He saw, or dreamed he saw, the Turkish admiral
-And two the loftiest of our ships of war,
-With the bright image of that Queen of Heaven,
-Who hid, perhaps, her face for grief, reversed;
-And the abhorred cross--
-
-[ENTER AN ATTENDANT.]
-
-ATTENDANT:
-Your Sublime Highness,
-The Jew, who--
-
-MAHMUD:
-Could not come more seasonably:
-Bid him attend. I'll hear no more! too long
-We gaze on danger through the mist of fear,
-And multiply upon our shattered hopes
-The images of ruin. Come what will!
-To-morrow and to-morrow are as lamps
-Set in our path to light us to the edge
-Through rough and smooth, nor can we suffer aught
-Which He inflicts not in whose hand we are.
-
-[EXEUNT.]
-
-SEMICHORUS 1:
-Would I were the winged cloud
-Of a tempest swift and loud!
-I would scorn
-The smile of morn
-And the wave where the moonrise is born!
-I would leave
-The spirits of eve
-A shroud for the corpse of the day to weave
-From other threads than mine!
-Bask in the deep blue noon divine.
-Who would? Not I.
-
-SEMICHORUS 2:
-Whither to fly?
-
-SEMICHORUS 1:
-Where the rocks that gird th' Aegean
-Echo to the battle paean
-Of the free--
-I would flee
-A tempestuous herald of victory!
-My golden rain
-For the Grecian slain
-Should mingle in tears with the bloody main,
-And my solemn thunder-knell
-Should ring to the world the passing-bell
-Of Tyranny!
-
-SEMICHORUS 2:
-Ah king! wilt thou chain
-The rack and the rain?
-Wilt thou fetter the lightning and hurricane?
-The storms are free,
-But we--
-
-CHORUS:
-O Slavery! thou frost of the world's prime,
-Killing its flowers and leaving its thorns bare!
-Thy touch has stamped these limbs with crime,
-These brows thy branding garland bear,
-But the free heart, the impassive soul
-Scorn thy control!
-
-SEMICHORUS 1:
-Let there be light! said Liberty,
-And like sunrise from the sea,
-Athens arose!--Around her born,
-Shone like mountains in the morn
-Glorious states;--and are they now
-Ashes, wrecks, oblivion?
-
-SEMICHORUS 2:
-Go,
-Where Thermae and Asopus swallowed
-Persia, as the sand does foam:
-Deluge upon deluge followed,
-Discord, Macedon, and Rome:
-And lastly thou!
-
-SEMICHORUS 1:
-Temples and towers,
-Citadels and marts, and they
-Who live and die there, have been ours,
-And may be thine, and must decay;
-But Greece and her foundations are
-Built below the tide of war,
-Based on the crystalline sea
-Of thought and its eternity;
-Her citizens, imperial spirits,
-Rule the present from the past,
-On all this world of men inherits
-Their seal is set.
-
-SEMICHORUS 2:
-Hear ye the blast,
-Whose Orphic thunder thrilling calls
-From ruin her Titanian walls?
-Whose spirit shakes the sapless bones
-Of Slavery? Argos, Corinth, Crete
-Hear, and from their mountain thrones
-The daemons and the nymphs repeat
-The harmony.
-
-SEMICHORUS 1:
-I hear! I hear!
-
-SEMICHORUS 2:
-The world's eyeless charioteer,
-Destiny, is hurrying by!
-What faith is crushed, what empire bleeds
-Beneath her earthquake-footed steeds?
-What eagle-winged victory sits
-At her right hand? what shadow flits
-Before? what splendour rolls behind?
-Ruin and renovation cry
-'Who but We?'
-
-SEMICHORUS 1:
-I hear! I hear!
-The hiss as of a rushing wind,
-The roar as of an ocean foaming,
-The thunder as of earthquake coming.
-I hear! I hear!
-The crash as of an empire falling,
-The shrieks as of a people calling
-'Mercy! mercy!'--How they thrill!
-Then a shout of 'kill! kill! kill!'
-And then a small still voice, thus--
-
-SEMICHORUS 2:
-For
-Revenge and Wrong bring forth their kind,
-The foul cubs like their parents are,
-Their den is in the guilty mind,
-And Conscience feeds them with despair.
-
-SEMICHORUS 1:
-In sacred Athens, near the fane
-Of Wisdom, Pity's altar stood:
-Serve not the unknown God in vain.
-But pay that broken shrine again,
-Love for hate and tears for blood.
-
-[ENTER MAHMUD AND AHASUERUS.]
-
-MAHMUD:
-Thou art a man, thou sayest, even as we.
-
-AHASUERUS:
-No more!
-
-MAHMUD:
-But raised above thy fellow-men
-By thought, as I by power.
-
-AHASUERUS:
-Thou sayest so.
-
-MAHMUD:
-Thou art an adept in the difficult lore
-Of Greek and Frank philosophy; thou numberest
-The flowers, and thou measurest the stars;
-Thou severest element from element;
-Thy spirit is present in the Past, and sees
-The birth of this old world through all its cycles
-Of desolation and of loveliness,
-And when man was not, and how man became
-The monarch and the slave of this low sphere,
-And all its narrow circles--it is much--
-I honour thee, and would be what thou art
-Were I not what I am; but the unborn hour,
-Cradled in fear and hope, conflicting storms,
-Who shall unveil? Nor thou, nor I, nor any
-Mighty or wise. I apprehended not
-What thou hast taught me, but I now perceive
-That thou art no interpreter of dreams;
-Thou dost not own that art, device, or God,
-Can make the Future present--let it come!
-Moreover thou disdainest us and ours;
-Thou art as God, whom thou contemplatest.
-
-AHASUERUS:
-Disdain thee?--not the worm beneath thy feet!
-The Fathomless has care for meaner things
-Than thou canst dream, and has made pride for those
-Who would be what they may not, or would seem
-That which they are not. Sultan! talk no more
-Of thee and me, the Future and the Past;
-But look on that which cannot change--the One,
-The unborn and the undying. Earth and ocean,
-Space, and the isles of life or light that gem
-The sapphire floods of interstellar air,
-This firmament pavilioned upon chaos,
-With all its cressets of immortal fire,
-Whose outwall, bastioned impregnably
-Against the escape of boldest thoughts, repels them
-As Calpe the Atlantic clouds--this Whole
-Of suns, and worlds, and men, and beasts, and flowers,
-With all the silent or tempestuous workings
-By which they have been, are, or cease to be,
-Is but a vision;--all that it inherits
-Are motes of a sick eye, bubbles and dreams;
-Thought is its cradle and its grave, nor less
-The Future and the Past are idle shadows
-Of thought's eternal flight--they have no being:
-Nought is but that which feels itself to be.
-
-MAHMUD:
-What meanest thou? Thy words stream like a tempest
-Of dazzling mist within my brain--they shake
-The earth on which I stand, and hang like night
-On Heaven above me. What can they avail?
-They cast on all things surest, brightest, best,
-Doubt, insecurity, astonishment.
-
-AHASUERUS:
-Mistake me not! All is contained in each.
-Dodona's forest to an acorn's cup
-Is that which has been, or will be, to that
-Which is--the absent to the present. Thought
-Alone, and its quick elements, Will, Passion,
-Reason, Imagination, cannot die;
-They are, what that which they regard appears,
-The stuff whence mutability can weave
-All that it hath dominion o'er, worlds, worms,
-Empires, and superstitions. What has thought
-To do with time, or place, or circumstance?
-Wouldst thou behold the Future?--ask and have!
-Knock and it shall be opened--look, and lo!
-The coming age is shadowed on the Past
-As on a glass.
-
-MAHMUD:
-Wild, wilder thoughts convulse
-My spirit--Did not Mahomet the Second
-Win Stamboul?
-
-AHASUERUS:
-Thou wouldst ask that giant spirit
-The written fortunes of thy house and faith.
-Thou wouldst cite one out of the grave to tell
-How what was born in blood must die.
-
-MAHMUD:
-Thy words
-Have power on me! I see--
-
-AHASUERUS:
-What hearest thou?
-
-MAHMUD:
-A far whisper--
-Terrible silence.
-
-AHASUERUS:
-What succeeds?
-
-MAHMUD:
-The sound
-As of the assault of an imperial city,
-The hiss of inextinguishable fire,
-The roar of giant cannon; the earthquaking
-Fall of vast bastions and precipitous towers,
-The shock of crags shot from strange enginery,
-The clash of wheels, and clang of armed hoofs,
-And crash of brazen mail as of the wreck
-Of adamantine mountains--the mad blast
-Of trumpets, and the neigh of raging steeds,
-The shrieks of women whose thrill jars the blood,
-And one sweet laugh, most horrible to hear,
-As of a joyous infant waked and playing
-With its dead mother's breast, and now more loud
-The mingled battle-cry,--ha! hear I not
-'En touto nike!' 'Allah-illa-Allah!'?
-
-AHASUERUS:
-The sulphurous mist is raised--thou seest--
-
-MAHMUD:
-A chasm,
-As of two mountains in the wall of Stamboul;
-And in that ghastly breach the Islamites,
-Like giants on the ruins of a world,
-Stand in the light of sunrise. In the dust
-Glimmers a kingless diadem, and one
-Of regal port has cast himself beneath
-The stream of war. Another proudly clad
-In golden arms spurs a Tartarian barb
-Into the gap, and with his iron mace
-Directs the torrent of that tide of men,
-And seems--he is--Mahomet!
-
-AHASUERUS:
-What thou seest
-Is but the ghost of thy forgotten dream.
-A dream itself, yet less, perhaps, than that
-Thou call'st reality. Thou mayst behold
-How cities, on which Empire sleeps enthroned,
-Bow their towered crests to mutability.
-Poised by the flood, e'en on the height thou holdest,
-Thou mayst now learn how the full tide of power
-Ebbs to its depths.--Inheritor of glory,
-Conceived in darkness, born in blood, and nourished
-With tears and toil, thou seest the mortal throes
-Of that whose birth was but the same. The Past
-Now stands before thee like an Incarnation
-Of the To-come; yet wouldst thou commune with
-That portion of thyself which was ere thou
-Didst start for this brief race whose crown is death,
-Dissolve with that strong faith and fervent passion
-Which called it from the uncreated deep,
-Yon cloud of war, with its tempestuous phantoms
-Of raging death; and draw with mighty will
-The imperial shade hither.
-
-[EXIT AHASUERUS.]
-
-[THE PHANTOM OF MAHOMET THE SECOND APPEARS.]
-
-MAHMUD:
-Approach!
-
-PHANTOM:
-I come
-Thence whither thou must go! The grave is fitter
-To take the living than give up the dead;
-Yet has thy faith prevailed, and I am here.
-The heavy fragments of the power which fell
-When I arose, like shapeless crags and clouds,
-Hang round my throne on the abyss, and voices
-Of strange lament soothe my supreme repose,
-Wailing for glory never to return.--
-A later Empire nods in its decay:
-The autumn of a greener faith is come,
-And wolfish change, like winter, howls to strip
-The foliage in which Fame, the eagle, built
-Her aerie, while Dominion whelped below.
-The storm is in its branches, and the frost
-Is on its leaves, and the blank deep expects
-Oblivion on oblivion, spoil on spoil,
-Ruin on ruin:--Thou art slow, my son;
-The Anarchs of the world of darkness keep
-A throne for thee, round which thine empire lies
-Boundless and mute; and for thy subjects thou,
-Like us, shalt rule the ghosts of murdered life,
-The phantoms of the powers who rule thee now--
-Mutinous passions, and conflicting fears,
-And hopes that sate themselves on dust, and die!--
-Stripped of their mortal strength, as thou of thine.
-Islam must fall, but we will reign together
-Over its ruins in the world of death:--
-And if the trunk be dry, yet shall the seed
-Unfold itself even in the shape of that
-Which gathers birth in its decay. Woe! woe!
-To the weak people tangled in the grasp
-Of its last spasms.
-
-MAHMUD:
-Spirit, woe to all!
-Woe to the wronged and the avenger! Woe
-To the destroyer, woe to the destroyed!
-Woe to the dupe, and woe to the deceiver!
-Woe to the oppressed, and woe to the oppressor!
-Woe both to those that suffer and inflict;
-Those who are born and those who die! but say,
-Imperial shadow of the thing I am,
-When, how, by whom, Destruction must accomplish
-Her consummation!
-
-PHANTOM:
-Ask the cold pale Hour,
-Rich in reversion of impending death,
-When HE shall fall upon whose ripe gray hairs
-Sit Care, and Sorrow, and Infirmity--
-The weight which Crime, whose wings are plumed with years,
-Leaves in his flight from ravaged heart to heart
-Over the heads of men, under which burthen
-They bow themselves unto the grave: fond wretch!
-He leans upon his crutch, and talks of years
-To come, and how in hours of youth renewed
-He will renew lost joys, and--
-
-VOICE WITHOUT:
-Victory! Victory!
-
-[THE PHANTOM VANISHES.]
-
-MAHMUD:
-What sound of the importunate earth has broken
-My mighty trance?
-
-VOICE WITHOUT:
-Victory! Victory!
-
-MAHMUD:
-Weak lightning before darkness! poor faint smile
-Of dying Islam! Voice which art the response
-Of hollow weakness! Do I wake and live?
-Were there such things, or may the unquiet brain,
-Vexed by the wise mad talk of the old Jew,
-Have shaped itself these shadows of its fear?
-It matters not!--for nought we see or dream,
-Possess, or lose, or grasp at, can be worth
-More than it gives or teaches. Come what may,
-The Future must become the Past, and I
-As they were to whom once this present hour,
-This gloomy crag of time to which I cling,
-Seemed an Elysian isle of peace and joy
-Never to be attained.--I must rebuke
-This drunkenness of triumph ere it die,
-And dying, bring despair. Victory! poor slaves!
-
-[EXIT MAHMUD.]
-
-VOICE WITHOUT:
-Shout in the jubilee of death! The Greeks
-Are as a brood of lions in the net
-Round which the kingly hunters of the earth
-Stand smiling. Anarchs, ye whose daily food
-Are curses, groans, and gold, the fruit of death,
-From Thule to the girdle of the world,
-Come, feast! the board groans with the flesh of men;
-The cup is foaming with a nation's blood,
-Famine and Thirst await! eat, drink, and die!
-
-SEMICHORUS 1:
-Victorious Wrong, with vulture scream,
-Salutes the rising sun, pursues the flying day!
-I saw her, ghastly as a tyrant's dream,
-Perch on the trembling pyramid of night,
-Beneath which earth and all her realms pavilioned lay
-In visions of the dawning undelight.
-Who shall impede her flight?
-Who rob her of her prey?
-
-VOICE WITHOUT:
-Victory! Victory! Russia's famished eagles
-Dare not to prey beneath the crescent's light.
-Impale the remnant of the Greeks! despoil!
-Violate! make their flesh cheaper than dust!
-
-SEMICHORUS 2:
-Thou voice which art
-The herald of the ill in splendour hid!
-Thou echo of the hollow heart
-Of monarchy, bear me to thine abode
-When desolation flashes o'er a world destroyed:
-Oh, bear me to those isles of jagged cloud
-Which float like mountains on the earthquake, mid
-The momentary oceans of the lightning,
-Or to some toppling promontory proud
-Of solid tempest whose black pyramid,
-Riven, overhangs the founts intensely bright'ning
-Of those dawn-tinted deluges of fire
-Before their waves expire,
-When heaven and earth are light, and only light
-In the thunder-night!
-
-VOICE WITHOUT:
-Victory! Victory! Austria, Russia, England,
-And that tame serpent, that poor shadow, France,
-Cry peace, and that means death when monarchs speak.
-Ho, there! bring torches, sharpen those red stakes,
-These chains are light, fitter for slaves and poisoners
-Than Greeks. Kill! plunder! burn! let none remain.
-
-SEMICHORUS 1:
-Alas! for Liberty!
-If numbers, wealth, or unfulfilling years,
-Or fate, can quell the free!
-Alas! for Virtue, when
-Torments, or contumely, or the sneers
-Of erring judging men
-Can break the heart where it abides.
-Alas! if Love, whose smile makes this obscure world splendid,
-Can change with its false times and tides,
-Like hope and terror,--
-Alas for Love!
-And Truth, who wanderest lone and unbefriended,
-If thou canst veil thy lie-consuming mirror
-Before the dazzled eyes of Error,
-Alas for thee! Image of the Above.
-
-SEMICHORUS 2:
-Repulse, with plumes from conquest torn,
-Led the ten thousand from the limits of the morn
-Through many an hostile Anarchy!
-At length they wept aloud, and cried, 'The Sea! the Sea!'
-Through exile, persecution, and despair,
-Rome was, and young Atlantis shall become
-The wonder, or the terror, or the tomb
-Of all whose step wakes Power lulled in her savage lair:
-But Greece was as a hermit-child,
-Whose fairest thoughts and limbs were built
-To woman's growth, by dreams so mild,
-She knew not pain or guilt;
-And now, O Victory, blush! and Empire, tremble
-When ye desert the free--
-If Greece must be
-A wreck, yet shall its fragments reassemble,
-And build themselves again impregnably
-In a diviner clime,
-To Amphionic music on some Cape sublime,
-Which frowns above the idle foam of Time.
-
-SEMICHORUS 1:
-Let the tyrants rule the desert they have made;
-Let the free possess the Paradise they claim;
-Be the fortune of our fierce oppressors weighed
-With our ruin, our resistance, and our name!
-
-SEMICHORUS 2:
-Our dead shall be the seed of their decay,
-Our survivors be the shadow of their pride,
-Our adversity a dream to pass away--
-Their dishonour a remembrance to abide!
-
-VOICE WITHOUT:
-Victory! Victory! The bought Briton sends
-The keys of ocean to the Islamite.--
-Now shall the blazon of the cross be veiled,
-And British skill directing Othman might,
-Thunder-strike rebel victory. Oh, keep holy
-This jubilee of unrevenged blood!
-Kill! crush! despoil! Let not a Greek escape!
-
-SEMICHORUS 1:
-Darkness has dawned in the East
-On the noon of time:
-The death-birds descend to their feast
-From the hungry clime.
-Let Freedom and Peace flee far
-To a sunnier strand,
-And follow Love's folding-star
-To the Evening land!
-
-SEMICHORUS 2:
-The young moon has fed
-Her exhausted horn
-With the sunset's fire:
-The weak day is dead,
-But the night is not born;
-And, like loveliness panting with wild desire
-While it trembles with fear and delight,
-Hesperus flies from awakening night,
-And pants in its beauty and speed with light
-Fast-flashing, soft, and bright.
-Thou beacon of love! thou lamp of the free!
-Guide us far, far away,
-To climes where now veiled by the ardour of day
-Thou art hidden
-From waves on which weary Noon
-Faints in her summer swoon,
-Between kingless continents sinless as Eden,
-Around mountains and islands inviolably
-Pranked on the sapphire sea.
-
-SEMICHORUS 1:
-Through the sunset of hope,
-Like the shapes of a dream.
-What Paradise islands of glory gleam!
-Beneath Heaven's cope,
-Their shadows more clear float by--
-The sound of their oceans, the light of their sky,
-The music and fragrance their solitudes breathe
-Burst, like morning on dream, or like Heaven on death,
-Through the walls of our prison;
-And Greece, which was dead, is arisen!
-
-CHORUS:
-The world's great age begins anew,
-The golden years return,
-The earth doth like a snake renew
-Her winter weeds outworn:
-Heaven smiles, and faiths and empires gleam,
-Like wrecks of a dissolving dream.
-
-A brighter Hellas rears its mountains
-From waves serener far;
-A new Peneus rolls his fountains
-Against the morning star.
-Where fairer Tempes bloom, there sleep
-Young Cyclads on a sunnier deep.
-
-A loftier Argo cleaves the main,
-Fraught with a later prize;
-Another Orpheus sings again,
-And loves, and weeps, and dies.
-A new Ulysses leaves once more
-Calypso for his native shore.
-
-Oh, write no more the tale of Troy,
-If earth Death's scroll must be!
-Nor mix with Laian rage the joy
-Which dawns upon the free:
-Although a subtler Sphinx renew
-Riddles of death Thebes never knew.
-
-Another Athens shall arise,
-And to remoter time
-Bequeath, like sunset to the skies,
-The splendour of its prime;
-And leave, if nought so bright may live,
-All earth can take or Heaven can give.
-
-Saturn and Love their long repose
-Shall burst, more bright and good
-Than all who fell, than One who rose,
-Than many unsubdued:
-Not gold, not blood, their altar dowers,
-But votive tears and symbol flowers.
-
-Oh, cease! must hate and death return?
-Cease! must men kill and die?
-Cease! drain not to its dregs the urn
-Of bitter prophecy.
-The world is weary of the past,
-Oh, might it die or rest at last!
+"Paradise Lost: Book 05" by John Milton
+Now Morn, her rosy steps in the eastern clime
+Advancing, sowed the earth with orient pearl,
+When Adam waked, so customed; for his sleep
+Was aery-light, from pure digestion bred,
+And temperate vapours bland, which the only sound
+Of leaves and fuming rills, Aurora's fan,
+Lightly dispersed, and the shrill matin song
+Of birds on every bough; so much the more
+His wonder was to find unwakened Eve
+With tresses discomposed, and glowing cheek,
+As through unquiet rest:  He, on his side
+Leaning half raised, with looks of cordial love
+Hung over her enamoured, and beheld
+Beauty, which, whether waking or asleep,
+Shot forth peculiar graces; then with voice
+Mild, as when Zephyrus on Flora breathes,
+Her hand soft touching, whispered thus.  Awake,
+My fairest, my espoused, my latest found,
+Heaven's last best gift, my ever new delight!
+Awake:  The morning shines, and the fresh field
+Calls us; we lose the prime, to mark how spring
+Our tender plants, how blows the citron grove,
+What drops the myrrh, and what the balmy reed,
+How nature paints her colours, how the bee
+Sits on the bloom extracting liquid sweet.
+Such whispering waked her, but with startled eye
+On Adam, whom embracing, thus she spake.
+O sole in whom my thoughts find all repose,
+My glory, my perfection! glad I see
+Thy face, and morn returned; for I this night
+(Such night till this I never passed) have dreamed,
+If dreamed, not, as I oft am wont, of thee,
+Works of day past, or morrow's next design,
+But of offence and trouble, which my mind
+Knew never till this irksome night:  Methought,
+Close at mine ear one called me forth to walk
+With gentle voice;  I thought it thine: It said,
+'Why sleepest thou, Eve? now is the pleasant time,
+'The cool, the silent, save where silence yields
+'To the night-warbling bird, that now awake
+'Tunes sweetest his love-laboured song; now reigns
+'Full-orbed the moon, and with more pleasing light
+'Shadowy sets off the face of things; in vain,
+'If none regard; Heaven wakes with all his eyes,
+'Whom to behold but thee, Nature's desire?
+'In whose sight all things joy, with ravishment
+'Attracted by thy beauty still to gaze.'
+I rose as at thy call, but found thee not;
+To find thee I directed then my walk;
+And on, methought, alone I passed through ways
+That brought me on a sudden to the tree
+Of interdicted knowledge: fair it seemed,
+Much fairer to my fancy than by day:
+And, as I wondering looked, beside it stood
+One shaped and winged like one of those from Heaven
+By us oft seen; his dewy locks distilled
+Ambrosia; on that tree he also gazed;
+And 'O fair plant,' said he, 'with fruit surcharged,
+'Deigns none to ease thy load, and taste thy sweet,
+'Nor God, nor Man?  Is knowledge so despised?
+'Or envy, or what reserve forbids to taste?
+'Forbid who will, none shall from me withhold
+'Longer thy offered good; why else set here?
+This said, he paused not, but with venturous arm
+He plucked, he tasted; me damp horrour chilled
+At such bold words vouched with a deed so bold:
+But he thus, overjoyed; 'O fruit divine,
+'Sweet of thyself, but much more sweet thus cropt,
+'Forbidden here, it seems, as only fit
+'For Gods, yet able to make Gods of Men:
+'And why not Gods of Men; since good, the more
+'Communicated, more abundant grows,
+'The author not impaired, but honoured more?
+'Here, happy creature, fair angelick Eve!
+'Partake thou also; happy though thou art,
+'Happier thou mayest be, worthier canst not be:
+'Taste this, and be henceforth among the Gods
+'Thyself a Goddess, not to earth confined,
+'But sometimes in the air, as we, sometimes
+'Ascend to Heaven, by merit thine, and see
+'What life the Gods live there, and such live thou!'
+So saying, he drew nigh, and to me held,
+Even to my mouth of that same fruit held part
+Which he had plucked; the pleasant savoury smell
+So quickened appetite, that I, methought,
+Could not but taste.  Forthwith up to the clouds
+With him I flew, and underneath beheld
+The earth outstretched immense, a prospect wide
+And various:  Wondering at my flight and change
+To this high exaltation; suddenly
+My guide was gone, and I, methought, sunk down,
+And fell asleep; but O, how glad I waked
+To find this but a dream!  Thus Eve her night
+Related, and thus Adam answered sad.
+Best image of myself, and dearer half,
+The trouble of thy thoughts this night in sleep
+Affects me equally; nor can I like
+This uncouth dream, of evil sprung, I fear;
+Yet evil whence? in thee can harbour none,
+Created pure.  But know that in the soul
+Are many lesser faculties, that serve
+Reason as chief; among these Fancy next
+Her office holds; of all external things
+Which the five watchful senses represent,
+She forms imaginations, aery shapes,
+Which Reason, joining or disjoining, frames
+All what we affirm or what deny, and call
+Our knowledge or opinion; then retires
+Into her private cell, when nature rests.
+Oft in her absence mimick Fancy wakes
+To imitate her; but, misjoining shapes,
+Wild work produces oft, and most in dreams;
+Ill matching words and deeds long past or late.
+Some such resemblances, methinks, I find
+Of our last evening's talk, in this thy dream,
+But with addition strange; yet be not sad.
+Evil into the mind of God or Man
+May come and go, so unreproved, and leave
+No spot or blame behind:  Which gives me hope
+That what in sleep thou didst abhor to dream,
+Waking thou never will consent to do.
+Be not disheartened then, nor cloud those looks,
+That wont to be more cheerful and serene,
+Than when fair morning first smiles on the world;
+And let us to our fresh employments rise
+Among the groves, the fountains, and the flowers
+That open now their choisest bosomed smells,
+Reserved from night, and kept for thee in store.
+So cheered he his fair spouse, and she was cheered;
+But silently a gentle tear let fall
+From either eye, and wiped them with her hair;
+Two other precious drops that ready stood,
+Each in their crystal sluice, he ere they fell
+Kissed, as the gracious signs of sweet remorse
+And pious awe, that feared to have offended.
+So all was cleared, and to the field they haste.
+But first, from under shady arborous roof
+Soon as they forth were come to open sight
+Of day-spring, and the sun, who, scarce up-risen,
+With wheels yet hovering o'er the ocean-brim,
+Shot parallel to the earth his dewy ray,
+Discovering in wide landskip all the east
+Of Paradise and Eden's happy plains,
+Lowly they bowed adoring, and began
+Their orisons, each morning duly paid
+In various style; for neither various style
+Nor holy rapture wanted they to praise
+Their Maker, in fit strains pronounced, or sung
+Unmeditated; such prompt eloquence
+Flowed from their lips, in prose or numerous verse,
+More tuneable than needed lute or harp
+To add more sweetness; and they thus began.
+These are thy glorious works, Parent of good,
+Almighty!  Thine this universal frame,
+Thus wonderous fair;  Thyself how wonderous then!
+Unspeakable, who sitst above these heavens
+To us invisible, or dimly seen
+In these thy lowest works; yet these declare
+Thy goodness beyond thought, and power divine.
+Speak, ye who best can tell, ye sons of light,
+Angels; for ye behold him, and with songs
+And choral symphonies, day without night,
+Circle his throne rejoicing; ye in Heaven
+On Earth join all ye Creatures to extol
+Him first, him last, him midst, and without end.
+Fairest of stars, last in the train of night,
+If better thou belong not to the dawn,
+Sure pledge of day, that crownest the smiling morn
+With thy bright circlet, praise him in thy sphere,
+While day arises, that sweet hour of prime.
+Thou Sun, of this great world both eye and soul,
+Acknowledge him thy greater; sound his praise
+In thy eternal course, both when thou climbest,
+And when high noon hast gained, and when thou fallest.
+Moon, that now meetest the orient sun, now flyest,
+With the fixed Stars, fixed in their orb that flies;
+And ye five other wandering Fires, that move
+In mystick dance not without song, resound
+His praise, who out of darkness called up light.
+Air, and ye Elements, the eldest birth
+Of Nature's womb, that in quaternion run
+Perpetual circle, multiform; and mix
+And nourish all things; let your ceaseless change
+Vary to our great Maker still new praise.
+Ye Mists and Exhalations, that now rise
+From hill or steaming lake, dusky or gray,
+Till the sun paint your fleecy skirts with gold,
+In honour to the world's great Author rise;
+Whether to deck with clouds the uncoloured sky,
+Or wet the thirsty earth with falling showers,
+Rising or falling still advance his praise.
+His praise, ye Winds, that from four quarters blow,
+Breathe soft or loud; and, wave your tops, ye Pines,
+With every plant, in sign of worship wave.
+Fountains, and ye that warble, as ye flow,
+Melodious murmurs, warbling tune his praise.
+Join voices, all ye living Souls:  Ye Birds,
+That singing up to Heaven-gate ascend,
+Bear on your wings and in your notes his praise.
+Ye that in waters glide, and ye that walk
+The earth, and stately tread, or lowly creep;
+Witness if I be silent, morn or even,
+To hill, or valley, fountain, or fresh shade,
+Made vocal by my song, and taught his praise.
+Hail, universal Lord, be bounteous still
+To give us only good; and if the night
+Have gathered aught of evil, or concealed,
+Disperse it, as now light dispels the dark!
+So prayed they innocent, and to their thoughts
+Firm peace recovered soon, and wonted calm.
+On to their morning's rural work they haste,
+Among sweet dews and flowers; where any row
+Of fruit-trees over-woody reached too far
+Their pampered boughs, and needed hands to check
+Fruitless embraces: or they led the vine
+To wed her elm; she, spoused, about him twines
+Her marriageable arms, and with him brings
+Her dower, the adopted clusters, to adorn
+His barren leaves.  Them thus employed beheld
+With pity Heaven's high King, and to him called
+Raphael, the sociable Spirit, that deigned
+To travel with Tobias, and secured
+His marriage with the seventimes-wedded maid.
+Raphael, said he, thou hearest what stir on Earth
+Satan, from Hell 'scaped through the darksome gulf,
+Hath raised in Paradise; and how disturbed
+This night the human pair; how he designs
+In them at once to ruin all mankind.
+Go therefore, half this day as friend with friend
+Converse with Adam, in what bower or shade
+Thou findest him from the heat of noon retired,
+To respite his day-labour with repast,
+Or with repose; and such discourse bring on,
+As may advise him of his happy state,
+Happiness in his power left free to will,
+Left to his own free will, his will though free,
+Yet mutable; whence warn him to beware
+He swerve not, too secure:  Tell him withal
+His danger, and from whom; what enemy,
+Late fallen himself from Heaven, is plotting now
+The fall of others from like state of bliss;
+By violence? no, for that shall be withstood;
+But by deceit and lies:  This let him know,
+Lest, wilfully transgressing, he pretend
+Surprisal, unadmonished, unforewarned.
+So spake the Eternal Father, and fulfilled
+All justice:  Nor delayed the winged Saint
+After his charge received; but from among
+Thousand celestial Ardours, where he stood
+Veiled with his gorgeous wings, up springing light,
+Flew through the midst of Heaven; the angelick quires,
+On each hand parting, to his speed gave way
+Through all the empyreal road; till, at the gate
+Of Heaven arrived, the gate self-opened wide
+On golden hinges turning, as by work
+Divine the sovran Architect had framed.
+From hence no cloud, or, to obstruct his sight,
+Star interposed, however small he sees,
+Not unconformed to other shining globes,
+Earth, and the garden of God, with cedars crowned
+Above all hills.  As when by night the glass
+Of Galileo, less assured, observes
+Imagined lands and regions in the moon:
+Or pilot, from amidst the Cyclades
+Delos or Samos first appearing, kens
+A cloudy spot.  Down thither prone in flight
+He speeds, and through the vast ethereal sky
+Sails between worlds and worlds, with steady wing
+Now on the polar winds, then with quick fan
+Winnows the buxom air; till, within soar
+Of towering eagles, to all the fowls he seems
+A phoenix, gazed by all as that sole bird,
+When, to enshrine his reliques in the Sun's
+Bright temple, to Egyptian Thebes he flies.
+At once on the eastern cliff of Paradise
+He lights, and to his proper shape returns
+A Seraph winged:  Six wings he wore, to shade
+His lineaments divine; the pair that clad
+Each shoulder broad, came mantling o'er his breast
+With regal ornament; the middle pair
+Girt like a starry zone his waist, and round
+Skirted his loins and thighs with downy gold
+And colours dipt in Heaven; the third his feet
+Shadowed from either heel with feathered mail,
+Sky-tinctured grain.  Like Maia's son he stood,
+And shook his plumes, that heavenly fragrance filled
+The circuit wide.  Straight knew him all the bands
+Of Angels under watch; and to his state,
+And to his message high, in honour rise;
+For on some message high they guessed him bound.
+Their glittering tents he passed, and now is come
+Into the blissful field, through groves of myrrh,
+And flowering odours, cassia, nard, and balm;
+A wilderness of sweets; for Nature here
+Wantoned as in her prime, and played at will
+Her virgin fancies pouring forth more sweet,
+Wild above rule or art, enormous bliss.
+Him through the spicy forest onward come
+Adam discerned, as in the door he sat
+Of his cool bower, while now the mounted sun
+Shot down direct his fervid rays to warm
+Earth's inmost womb, more warmth than Adam needs:
+And Eve within, due at her hour prepared
+For dinner savoury fruits, of taste to please
+True appetite, and not disrelish thirst
+Of nectarous draughts between, from milky stream,
+Berry or grape:  To whom thus Adam called.
+Haste hither, Eve, and worth thy sight behold
+Eastward among those trees, what glorious shape
+Comes this way moving; seems another morn
+Risen on mid-noon; some great behest from Heaven
+To us perhaps he brings, and will vouchsafe
+This day to be our guest.  But go with speed,
+And, what thy stores contain, bring forth, and pour
+Abundance, fit to honour and receive
+Our heavenly stranger:  Well we may afford
+Our givers their own gifts, and large bestow
+From large bestowed, where Nature multiplies
+Her fertile growth, and by disburthening grows
+More fruitful, which instructs us not to spare.
+To whom thus Eve.  Adam, earth's hallowed mould,
+Of God inspired! small store will serve, where store,
+All seasons, ripe for use hangs on the stalk;
+Save what by frugal storing firmness gains
+To nourish, and superfluous moist consumes:
+But I will haste, and from each bough and brake,
+Each plant and juciest gourd, will pluck such choice
+To entertain our Angel-guest, as he
+Beholding shall confess, that here on Earth
+God hath dispensed his bounties as in Heaven.
+So saying, with dispatchful looks in haste
+She turns, on hospitable thoughts intent
+What choice to choose for delicacy best,
+What order, so contrived as not to mix
+Tastes, not well joined, inelegant, but bring
+Taste after taste upheld with kindliest change;
+Bestirs her then, and from each tender stalk
+Whatever Earth, all-bearing mother, yields
+In India East or West, or middle shore
+In Pontus or the Punick coast, or where
+Alcinous reigned, fruit of all kinds, in coat
+Rough, or smooth rind, or bearded husk, or shell,
+She gathers, tribute large, and on the board
+Heaps with unsparing hand; for drink the grape
+She crushes, inoffensive must, and meaths
+From many a berry, and from sweet kernels pressed
+She tempers dulcet creams; nor these to hold
+Wants her fit vessels pure; then strows the ground
+With rose and odours from the shrub unfumed.
+Mean while our primitive great sire, to meet
+His God-like guest, walks forth, without more train
+Accompanied than with his own complete
+Perfections; in himself was all his state,
+More solemn than the tedious pomp that waits
+On princes, when their rich retinue long
+Of horses led, and grooms besmeared with gold,
+Dazzles the croud, and sets them all agape.
+Nearer his presence Adam, though not awed,
+Yet with submiss approach and reverence meek,
+As to a superiour nature bowing low,
+Thus said.  Native of Heaven, for other place
+None can than Heaven such glorious shape contain;
+Since, by descending from the thrones above,
+Those happy places thou hast deigned a while
+To want, and honour these, vouchsafe with us
+Two only, who yet by sovran gift possess
+This spacious ground, in yonder shady bower
+To rest; and what the garden choicest bears
+To sit and taste, till this meridian heat
+Be over, and the sun more cool decline.
+Whom thus the angelick Virtue answered mild.
+Adam, I therefore came; nor art thou such
+Created, or such place hast here to dwell,
+As may not oft invite, though Spirits of Heaven,
+To visit thee; lead on then where thy bower
+O'ershades; for these mid-hours, till evening rise,
+I have at will.  So to the sylvan lodge
+They came, that like Pomona's arbour smiled,
+With flowerets decked, and fragrant smells; but Eve,
+Undecked save with herself, more lovely fair
+Than Wood-Nymph, or the fairest Goddess feigned
+Of three that in mount Ida naked strove,
+Stood to entertain her guest from Heaven; no veil
+She needed, virtue-proof; no thought infirm
+Altered her cheek.  On whom the Angel Hail
+Bestowed, the holy salutation used
+Long after to blest Mary, second Eve.
+Hail, Mother of Mankind, whose fruitful womb
+Shall fill the world more numerous with thy sons,
+Than with these various fruits the trees of God
+Have heaped this table!--Raised of grassy turf
+Their table was, and mossy seats had round,
+And on her ample square from side to side
+All autumn piled, though spring and autumn here
+Danced hand in hand.  A while discourse they hold;
+No fear lest dinner cool; when thus began
+Our author.  Heavenly stranger, please to taste
+These bounties, which our Nourisher, from whom
+All perfect good, unmeasured out, descends,
+To us for food and for delight hath caused
+The earth to yield; unsavoury food perhaps
+To spiritual natures; only this I know,
+That one celestial Father gives to all.
+To whom the Angel.  Therefore what he gives
+(Whose praise be ever sung) to Man in part
+Spiritual, may of purest Spirits be found
+No ingrateful food:  And food alike those pure
+Intelligential substances require,
+As doth your rational; and both contain
+Within them every lower faculty
+Of sense, whereby they hear, see, smell, touch, taste,
+Tasting concoct, digest, assimilate,
+And corporeal to incorporeal turn.
+For know, whatever was created, needs
+To be sustained and fed:  Of elements
+The grosser feeds the purer, earth the sea,
+Earth and the sea feed air, the air those fires
+Ethereal, and as lowest first the moon;
+Whence in her visage round those spots, unpurged
+Vapours not yet into her substance turned.
+Nor doth the moon no nourishment exhale
+From her moist continent to higher orbs.
+The sun that light imparts to all, receives
+From all his alimental recompence
+In humid exhalations, and at even
+Sups with the ocean.  Though in Heaven the trees
+Of life ambrosial fruitage bear, and vines
+Yield nectar; though from off the boughs each morn
+We brush mellifluous dews, and find the ground
+Covered with pearly grain:  Yet God hath here
+Varied his bounty so with new delights,
+As may compare with Heaven; and to taste
+Think not I shall be nice.  So down they sat,
+And to their viands fell; nor seemingly
+The Angel, nor in mist, the common gloss
+Of Theologians; but with keen dispatch
+Of real hunger, and concoctive heat
+To transubstantiate:  What redounds, transpires
+Through Spirits with ease; nor wonder;if by fire
+Of sooty coal the empirick alchemist
+Can turn, or holds it possible to turn,
+Metals of drossiest ore to perfect gold,
+As from the mine.  Mean while at table Eve
+Ministered naked, and their flowing cups
+With pleasant liquours crowned:  O innocence
+Deserving Paradise! if ever, then,
+Then had the sons of God excuse to have been
+Enamoured at that sight; but in those hearts
+Love unlibidinous reigned, nor jealousy
+Was understood, the injured lover's hell.
+Thus when with meats and drinks they had sufficed,
+Not burdened nature, sudden mind arose
+In Adam, not to let the occasion pass
+Given him by this great conference to know
+Of things above his world, and of their being
+Who dwell in Heaven, whose excellence he saw
+Transcend his own so far; whose radiant forms,
+Divine effulgence, whose high power, so far
+Exceeded human; and his wary speech
+Thus to the empyreal minister he framed.
+Inhabitant with God, now know I well
+Thy favour, in this honour done to Man;
+Under whose lowly roof thou hast vouchsafed
+To enter, and these earthly fruits to taste,
+Food not of Angels, yet accepted so,
+As that more willingly thou couldst not seem
+At Heaven's high feasts to have fed: yet what compare
+To whom the winged Hierarch replied.
+O Adam, One Almighty is, from whom
+All things proceed, and up to him return,
+If not depraved from good, created all
+Such to perfection, one first matter all,
+Endued with various forms, various degrees
+Of substance, and, in things that live, of life;
+But more refined, more spiritous, and pure,
+As nearer to him placed, or nearer tending
+Each in their several active spheres assigned,
+Till body up to spirit work, in bounds
+Proportioned to each kind.  So from the root
+Springs lighter the green stalk, from thence the leaves
+More aery, last the bright consummate flower
+Spirits odorous breathes: flowers and their fruit,
+Man's nourishment, by gradual scale sublimed,
+To vital spirits aspire, to animal,
+To intellectual; give both life and sense,
+Fancy and understanding; whence the soul
+Reason receives, and reason is her being,
+Discursive, or intuitive; discourse
+Is oftest yours, the latter most is ours,
+Differing but in degree, of kind the same.
+Wonder not then, what God for you saw good
+If I refuse not, but convert, as you
+To proper substance.  Time may come, when Men
+With Angels may participate, and find
+No inconvenient diet, nor too light fare;
+And from these corporal nutriments perhaps
+Your bodies may at last turn all to spirit,
+Improved by tract of time, and, winged, ascend
+Ethereal, as we; or may, at choice,
+Here or in heavenly Paradises dwell;
+If ye be found obedient, and retain
+Unalterably firm his love entire,
+Whose progeny you are.  Mean while enjoy
+Your fill what happiness this happy state
+Can comprehend, incapable of more.
+To whom the patriarch of mankind replied.
+O favourable Spirit, propitious guest,
+Well hast thou taught the way that might direct
+Our knowledge, and the scale of nature set
+From center to circumference; whereon,
+In contemplation of created things,
+By steps we may ascend to God.  But say,
+What meant that caution joined, If ye be found
+Obedient?  Can we want obedience then
+To him, or possibly his love desert,
+Who formed us from the dust and placed us here
+Full to the utmost measure of what bliss
+Human desires can seek or apprehend?
+To whom the Angel.  Son of Heaven and Earth,
+Attend!  That thou art happy, owe to God;
+That thou continuest such, owe to thyself,
+That is, to thy obedience; therein stand.
+This was that caution given thee; be advised.
+God made thee perfect, not immutable;
+And good he made thee, but to persevere
+He left it in thy power; ordained thy will
+By nature free, not over-ruled by fate
+Inextricable, or strict necessity:
+Our voluntary service he requires,
+Not our necessitated; such with him
+Finds no acceptance, nor can find; for how
+Can hearts, not free, be tried whether they serve
+Willing or no, who will but what they must
+By destiny, and can no other choose?
+Myself, and all the angelick host, that stand
+In sight of God, enthroned, our happy state
+Hold, as you yours, while our obedience holds;
+On other surety none:  Freely we serve,
+Because we freely love, as in our will
+To love or not; in this we stand or fall:
+And some are fallen, to disobedience fallen,
+And so from Heaven to deepest Hell; O fall
+From what high state of bliss, into what woe!
+To whom our great progenitor.  Thy words
+Attentive, and with more delighted ear,
+Divine instructer, I have heard, than when
+Cherubick songs by night from neighbouring hills
+Aereal musick send:  Nor knew I not
+To be both will and deed created free;
+Yet that we never shall forget to love
+Our Maker, and obey him whose command
+Single is yet so just, my constant thoughts
+Assured me, and still assure:  Though what thou tellest
+Hath passed in Heaven, some doubt within me move,
+But more desire to hear, if thou consent,
+The full relation, which must needs be strange,
+Worthy of sacred silence to be heard;
+And we have yet large day, for scarce the sun
+Hath finished half his journey, and scarce begins
+His other half in the great zone of Heaven.
+Thus Adam made request; and Raphael,
+After short pause assenting, thus began.
+High matter thou enjoinest me, O prime of men,
+Sad task and hard:  For how shall I relate
+To human sense the invisible exploits
+Of warring Spirits? how, without remorse,
+The ruin of so many glorious once
+And perfect while they stood? how last unfold
+The secrets of another world, perhaps
+Not lawful to reveal? yet for thy good
+This is dispensed; and what surmounts the reach
+Of human sense, I shall delineate so,
+By likening spiritual to corporal forms,
+As may express them best; though what if Earth
+Be but a shadow of Heaven, and things therein
+Each to other like, more than on earth is thought?
+As yet this world was not, and Chaos wild
+Reigned where these Heavens now roll, where Earth now rests
+Upon her center poised; when on a day
+(For time, though in eternity, applied
+To motion, measures all things durable
+By present, past, and future,) on such day
+As Heaven's great year brings forth, the empyreal host
+Of Angels by imperial summons called,
+Innumerable before the Almighty's throne
+Forthwith, from all the ends of Heaven, appeared
+Under their Hierarchs in orders bright:
+Ten thousand thousand ensigns high advanced,
+Standards and gonfalons 'twixt van and rear
+Stream in the air, and for distinction serve
+Of hierarchies, of orders, and degrees;
+Or in their glittering tissues bear imblazed
+Holy memorials, acts of zeal and love
+Recorded eminent.  Thus when in orbs
+Of circuit inexpressible they stood,
+Orb within orb, the Father Infinite,
+By whom in bliss imbosomed sat the Son,
+Amidst as from a flaming mount, whose top
+Brightness had made invisible, thus spake.
+Hear, all ye Angels, progeny of light,
+Thrones, Dominations, Princedoms, Virtues, Powers;
+Hear my decree, which unrevoked shall stand.
+This day I have begot whom I declare
+My only Son, and on this holy hill
+Him have anointed, whom ye now behold
+At my right hand; your head I him appoint;
+And by myself have sworn, to him shall bow
+All knees in Heaven, and shall confess him Lord:
+Under his great vice-gerent reign abide
+United, as one individual soul,
+For ever happy:  Him who disobeys,
+Me disobeys, breaks union, and that day,
+Cast out from God and blessed vision, falls
+Into utter darkness, deep ingulfed, his place
+Ordained without redemption, without end.
+So spake the Omnipotent, and with his words
+All seemed well pleased; all seemed, but were not all.
+That day, as other solemn days, they spent
+In song and dance about the sacred hill;
+Mystical dance, which yonder starry sphere
+Of planets, and of fixed, in all her wheels
+Resembles nearest, mazes intricate,
+Eccentrick, intervolved, yet regular
+Then most, when most irregular they seem;
+And in their motions harmony divine
+So smooths her charming tones, that God's own ear
+Listens delighted.  Evening now approached,
+(For we have also our evening and our morn,
+We ours for change delectable, not need;)
+Forthwith from dance to sweet repast they turn
+Desirous; all in circles as they stood,
+Tables are set, and on a sudden piled
+With Angels food, and rubied nectar flows
+In pearl, in diamond, and massy gold,
+Fruit of delicious vines, the growth of Heaven.
+On flowers reposed, and with fresh flowerets crowned,
+They eat, they drink, and in communion sweet
+Quaff immortality and joy, secure
+Of surfeit, where full measure only bounds
+Excess, before the all-bounteous King, who showered
+With copious hand, rejoicing in their joy.
+Now when ambrosial night with clouds exhaled
+From that high mount of God, whence light and shade
+Spring both, the face of brightest Heaven had changed
+To grateful twilight, (for night comes not there
+In darker veil,) and roseat dews disposed
+All but the unsleeping eyes of God to rest;
+Wide over all the plain, and wider far
+Than all this globous earth in plain outspread,
+(Such are the courts of God) the angelick throng,
+Dispersed in bands and files, their camp extend
+By living streams among the trees of life,
+Pavilions numberless, and sudden reared,
+Celestial tabernacles, where they slept
+Fanned with cool winds; save those, who, in their course,
+Melodious hymns about the sovran throne
+Alternate all night long: but not so waked
+Satan; so call him now, his former name
+Is heard no more in Heaven; he of the first,
+If not the first Arch-Angel, great in power,
+In favour and pre-eminence, yet fraught
+With envy against the Son of God, that day
+Honoured by his great Father, and proclaimed
+Messiah King anointed, could not bear
+Through pride that sight, and thought himself impaired.
+Deep malice thence conceiving and disdain,
+Soon as midnight brought on the dusky hour
+Friendliest to sleep and silence, he resolved
+With all his legions to dislodge, and leave
+Unworshipt, unobeyed, the throne supreme,
+Contemptuous; and his next subordinate
+Awakening, thus to him in secret spake.
+Sleepest thou, Companion dear?  What sleep can close
+Thy eye-lids? and rememberest what decree
+Of yesterday, so late hath passed the lips
+Of Heaven's Almighty.  Thou to me thy thoughts
+Wast wont, I mine to thee was wont to impart;
+Both waking we were one; how then can now
+Thy sleep dissent?  New laws thou seest imposed;
+New laws from him who reigns, new minds may raise
+In us who serve, new counsels to debate
+What doubtful may ensue:  More in this place
+To utter is not safe.  Assemble thou
+Of all those myriads which we lead the chief;
+Tell them, that by command, ere yet dim night
+Her shadowy cloud withdraws, I am to haste,
+And all who under me their banners wave,
+Homeward, with flying march, where we possess
+The quarters of the north; there to prepare
+Fit entertainment to receive our King,
+The great Messiah, and his new commands,
+Who speedily through all the hierarchies
+Intends to pass triumphant, and give laws.
+So spake the false Arch-Angel, and infused
+Bad influence into the unwary breast
+Of his associate:  He together calls,
+Or several one by one, the regent Powers,
+Under him Regent; tells, as he was taught,
+That the Most High commanding, now ere night,
+Now ere dim night had disincumbered Heaven,
+The great hierarchal standard was to move;
+Tells the suggested cause, and casts between
+Ambiguous words and jealousies, to sound
+Or taint integrity:  But all obeyed
+The wonted signal, and superiour voice
+Of their great Potentate; for great indeed
+His name, and high was his degree in Heaven;
+His countenance, as the morning-star that guides
+The starry flock, allured them, and with lies
+Drew after him the third part of Heaven's host.
+Mean while the Eternal eye, whose sight discerns
+Abstrusest thoughts, from forth his holy mount,
+And from within the golden lamps that burn
+Nightly before him, saw without their light
+Rebellion rising; saw in whom, how spread
+Among the sons of morn, what multitudes
+Were banded to oppose his high decree;
+And, smiling, to his only Son thus said.
+Son, thou in whom my glory I behold
+In full resplendence, Heir of all my might,
+Nearly it now concerns us to be sure
+Of our Omnipotence, and with what arms
+We mean to hold what anciently we claim
+Of deity or empire:  Such a foe
+Is rising, who intends to erect his throne
+Equal to ours, throughout the spacious north;
+Nor so content, hath in his thought to try
+In battle, what our power is, or our right.
+Let us advise, and to this hazard draw
+With speed what force is left, and all employ
+In our defence; lest unawares we lose
+This our high place, our sanctuary, our hill.
+To whom the Son with calm aspect and clear,
+Lightning divine, ineffable, serene,
+Made answer.  Mighty Father, thou thy foes
+Justly hast in derision, and, secure,
+Laughest at their vain designs and tumults vain,
+Matter to me of glory, whom their hate
+Illustrates, when they see all regal power
+Given me to quell their pride, and in event
+Know whether I be dextrous to subdue
+Thy rebels, or be found the worst in Heaven.
+So spake the Son; but Satan, with his Powers,
+Far was advanced on winged speed; an host
+Innumerable as the stars of night,
+Or stars of morning, dew-drops, which the sun
+Impearls on every leaf and every flower.
+Regions they passed, the mighty regencies
+Of Seraphim, and Potentates, and Thrones,
+In their triple degrees; regions to which
+All thy dominion, Adam, is no more
+Than what this garden is to all the earth,
+And all the sea, from one entire globose
+Stretched into longitude; which having passed,
+At length into the limits of the north
+They came; and Satan to his royal seat
+High on a hill, far blazing, as a mount
+Raised on a mount, with pyramids and towers
+From diamond quarries hewn, and rocks of gold;
+The palace of great Lucifer, (so call
+That structure in the dialect of men
+Interpreted,) which not long after, he
+Affecting all equality with God,
+In imitation of that mount whereon
+Messiah was declared in sight of Heaven,
+The Mountain of the Congregation called;
+For thither he assembled all his train,
+Pretending so commanded to consult
+About the great reception of their King,
+Thither to come, and with calumnious art
+Of counterfeited truth thus held their ears.
+Thrones, Dominations, Princedoms, Virtues, Powers;
+If these magnifick titles yet remain
+Not merely titular, since by decree
+Another now hath to himself engrossed
+All power, and us eclipsed under the name
+Of King anointed, for whom all this haste
+Of midnight-march, and hurried meeting here,
+This only to consult how we may best,
+With what may be devised of honours new,
+Receive him coming to receive from us
+Knee-tribute yet unpaid, prostration vile!
+Too much to one! but double how endured,
+To one, and to his image now proclaimed?
+But what if better counsels might erect
+Our minds, and teach us to cast off this yoke?
+Will ye submit your necks, and choose to bend
+The supple knee?  Ye will not, if I trust
+To know ye right, or if ye know yourselves
+Natives and sons of Heaven possessed before
+By none; and if not equal all, yet free,
+Equally free; for orders and degrees
+Jar not with liberty, but well consist.
+Who can in reason then, or right, assume
+Monarchy over such as live by right
+His equals, if in power and splendour less,
+In freedom equal? or can introduce
+Law and edict on us, who without law
+Err not? much less for this to be our Lord,
+And look for adoration, to the abuse
+Of those imperial titles, which assert
+Our being ordained to govern, not to serve.
+Thus far his bold discourse without controul
+Had audience; when among the Seraphim
+Abdiel, than whom none with more zeal adored
+The Deity, and divine commands obeyed,
+Stood up, and in a flame of zeal severe
+The current of his fury thus opposed.
+O argument blasphemous, false, and proud!
+Words which no ear ever to hear in Heaven
+Expected, least of all from thee,  Ingrate,
+In place thyself so high above thy peers.
+Canst thou with impious obloquy condemn
+The just decree of God, pronounced and sworn,
+That to his only Son, by right endued
+With regal scepter, every soul in Heaven
+Shall bend the knee, and in that honour due
+Confess him rightful King? unjust, thou sayest,
+Flatly unjust, to bind with laws the free,
+And equal over equals to let reign,
+One over all with unsucceeded power.
+Shalt thou give law to God? shalt thou dispute
+With him the points of liberty, who made
+Thee what thou art, and formed the Powers of Heaven
+Such as he pleased, and circumscribed their being?
+Yet, by experience taught, we know how good,
+And of our good and of our dignity
+How provident he is; how far from thought
+To make us less, bent rather to exalt
+Our happy state, under one head more near
+United.  But to grant it thee unjust,
+That equal over equals monarch reign:
+Thyself, though great and glorious, dost thou count,
+Or all angelick nature joined in one,
+Equal to him begotten Son? by whom,
+As by his Word, the Mighty Father made
+All things, even thee; and all the Spirits of Heaven
+By him created in their bright degrees,
+Crowned them with glory, and to their glory named
+Thrones, Dominations, Princedoms, Virtues, Powers,
+Essential Powers; nor by his reign obscured,
+But more illustrious made; since he the head
+One of our number thus reduced becomes;
+His laws our laws; all honour to him done
+Returns our own.  Cease then this impious rage,
+And tempt not these; but hasten to appease
+The incensed Father, and the incensed Son,
+While pardon may be found in time besought.
+So spake the fervent Angel; but his zeal
+None seconded, as out of season judged,
+Or singular and rash:  Whereat rejoiced
+The Apostate, and, more haughty, thus replied.
+That we were formed then sayest thou? and the work
+Of secondary hands, by task transferred
+From Father to his Son? strange point and new!
+Doctrine which we would know whence learned: who saw
+When this creation was? rememberest thou
+Thy making, while the Maker gave thee being?
+We know no time when we were not as now;
+Know none before us, self-begot, self-raised
+By our own quickening power, when fatal course
+Had circled his full orb, the birth mature
+Of this our native Heaven, ethereal sons.
+Our puissance is our own; our own right hand
+Shall teach us highest deeds, by proof to try
+Who is our equal:  Then thou shalt behold
+Whether by supplication we intend
+Address, and to begirt the almighty throne
+Beseeching or besieging.  This report,
+These tidings carry to the anointed King;
+And fly, ere evil intercept thy flight.
+He said; and, as the sound of waters deep,
+Hoarse murmur echoed to his words applause
+Through the infinite host; nor less for that
+The flaming Seraph fearless, though alone
+Encompassed round with foes, thus answered bold.
+O alienate from God, O Spirit accursed,
+Forsaken of all good!  I see thy fall
+Determined, and thy hapless crew involved
+In this perfidious fraud, contagion spread
+Both of thy crime and punishment:  Henceforth
+No more be troubled how to quit the yoke
+Of God's Messiah; those indulgent laws
+Will not be now vouchsafed; other decrees
+Against thee are gone forth without recall;
+That golden scepter, which thou didst reject,
+Is now an iron rod to bruise and break
+Thy disobedience.  Well thou didst advise;
+Yet not for thy advice or threats I fly
+These wicked tents devoted, lest the wrath
+Impendent, raging into sudden flame,
+Distinguish not:  For soon expect to feel
+His thunder on thy head, devouring fire.
+Then who created thee lamenting learn,
+When who can uncreate thee thou shalt know.
+So spake the Seraph Abdiel, faithful found
+Among the faithless, faithful only he;
+Among innumerable false, unmoved,
+Unshaken, unseduced, unterrified,
+His loyalty he kept, his love, his zeal;
+Nor number, nor example, with him wrought
+To swerve from truth, or change his constant mind,
+Though single.  From amidst them forth he passed,
+Long way through hostile scorn, which he sustained
+Superiour, nor of violence feared aught;
+And, with retorted scorn, his back he turned
+On those proud towers to swift destruction doomed.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, haze in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -1861,4 +1089,4 @@ Oh, might it die or rest at last!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 6, 2025 at 06:55 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 7, 2025 at 06:55 AM GMT+5<!-- TIMESTAMP:END -->_
