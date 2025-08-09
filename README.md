@@ -30,7 +30,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/7/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/8/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 41 (Updated: 8/5/2025)
 - 🔥 [fs-app-test](https://github.com/afzalimdad9/fs-app-test) - No description ⭐ 0 (Updated: 7/31/2025)
 <!-- HOT_REPOS:END -->
@@ -66,14 +66,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn how to play a new sport
+Contribute code or a monetary donation to an open-source software project
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -82,214 +80,142 @@ Learn how to play a new sport
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Glove" by Robert Browning
-"Heigho!" yawned one day King Francis,
-"Distance all value enhances.
-When a man's busy, why, leisure
-Strikes him as wonderful pleasure:
-Faith, and at leisure once is he?
-Straightway he wants to be busy.
-Here we've got peace; and aghast I'm
-Caught thinking war the true pastime.
-Is there a reason in metre?
-Give us your speech, master Peter!"
-I who, if mortal dare say so,
-Ne'er am at loss with my Naso
-"Sire," I replied, "joys prove cloudlets:
-"Men are the merest Ixions"--
-Here the King whistled aloud, "Let's
---Heigho--go look at our lions."
-Such are the sorrowful chances
-If you talk fine to King Francis.
+"The Raven" by Edgar Allan Poe
+Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore--
+While I nodded, nearly napping, suddenly there came a tapping,
+As of some one gently rapping--rapping at my chamber door.
+"'Tis some visitor," I muttered, "tapping at my chamber door--
+        Only this and nothing more."
 
-And so, to the courtyard proceeding,
-Our company, Francis was leading,
-Increased by new followers tenfold
-Before he arrived at the penfold;
-Lords, ladies, like clouds which bedizen
-At sunset the western horizon.
-And Sir De Lorge pressed 'mid the foremost
-With the dame he professed to adore most.
-Oh, what a face!  One by fits eyed
-Her, and the horrible pitside;
-For the penfold surrounded a hollow
-Which led where the eye scarce dared follow
-And shelved to the chamber secluded
-Where Bluebeard, the great lion, brooded.
+Ah, distinctly I remember, it was in the bleak December,
+And each separate dying ember wrought its ghost upon the floor.
+Eagerly I wished the morrow;--vainly I had sought to borrow
+From my books surcease of sorrow--sorrow for the lost Lenore--
+For the rare and radiant maiden whom the angels name Lenore--
+        Nameless here for evermore.
 
-The King hailed his keeper, an Arab
-As glossy and black as a scarab,
-And bade him make sport and at once stir
-Up and out of his den the old monster.
-They opened a hole in the wire-work
-Across it, and dropped there a firework,
-And fled: one's heart's beating redoubled;
-A pause, while the pit's mouth was troubled,
-The blackness and silence so utter,
-By the firework's slow sparkling and sputter;
-Then earth in a sudden contortion
-Gave out to our gaze her abortion.
-Such a brute! Were I friend Clement Marot
-(Whose experience of nature's but narrow
-And whose faculties move in no small mist
-When he versifies David the Psalmist)
-I should study that brute to describe you
-Illum Juda Leonem de Tribu.
-One's whole blood grew curdling and creepy
-To see the black mane, vast and heapy,
-The tail in the air stiff and straining
-The wide eyes, nor waxing nor waning,
-As over the barrier which bounded
-His platform, and us who surrounded
-The barrier, they reached and they rested
-On space that might stand him in best stead:
-For who knew, he thought, what the amazement,
-The eruption of clatter and blaze meant,
-And if, in this minute of wonder,
-No outlet, 'mid lightning and thunder,
-Lay broad, and, his shackles all shivered,
-The lion at last was delivered?
-Ay, that was the open sky o'erhead!
-And you saw by the flash on his forehead,
-By the hope in those eyes wide and steady,
-He was leagues in the desert already
-Driving the flocks up the mountain
-Or catlike couched hard by the fountain
-To waylay the date-gathering negress:
-So guarded he entrance or egress.
-"How he stands!" quoth the King: "we may well swear,
-(No novice, we've won our spurs elsewhere
-And so can afford the confession)
-We exercise wholesome discretion
-In keeping aloof from his threshold;
-Once hold you, those jaws want no fresh hold,
-Their first would too pleasantly purloin
-The visitor's brisket or surloin:
-But who's he would prove so fool-hardy?
-Not the best man of Marignan, pardie!"
+And the silken sad uncertain rustling of each purple curtain
+Thrilled me--filled me with fantastic terrors never felt before;
+So that now, to still the beating of my heart, I stood repeating
+"'Tis some visitor entreating entrance at my chamber door--
+Some late visitor entreating entrance at my chamber door;--
+    This it is and nothing more."
 
-The sentence no sooner was uttered,
-Than over the rails a glove fluttered,
-Fell close to the lion, and rested:
-The dame 'twas, who flung it and jested
-With life so, De Lorge had been wooing
-For months past; he sat there pursuing
-His suit, weighing out with nonchalance
-Fine speeches like gold from a balance.
+Presently my soul grew stronger; hesitating then no longer,
+"Sir," said I, "or Madam, truly your forgiveness I implore;
+But the fact is I was napping, and so gently you came rapping,
+And so faintly you came tapping--tapping at my chamber door,
+That I scarce was sure I heard you"--here I opened wide the door:--
+      Darkness there and nothing more.
 
-Sound the trumpet, no true knight's a tarrier!
-De Lorge made one leap at the barrier,
-Walked straight to the glove--while the lion
-Ne'er moved, kept his far-reaching eye on
-The palm-tree-edged desert-spring's sapphire,
-And the musky oiled skin of the Kaffir--
-Picked it up, and as calmly retreated,
-Leaped back where the lady was seated,
-And full in the face of its owner
-Flung the glove.
+Deep into that darkness peering, long I stood there wondering,
+  fearing,
+Doubting, dreaming dreams no mortal ever dared to dream before;
+But the silence was unbroken, and the darkness gave no token,
+And the only word there spoken was the whispered word, "Lenore!"
+This I whispered, and an echo murmured back the word, "Lenore!"
+      Merely this and nothing more.
 
-"Your heart's queen, you dethrone her?
-So should I!"--cried the King--"'twas mere vanity
-Not love set that task to humanity!"
-Lords and ladies alike turned with loathing
-From such a proved wolf in sheep's clothing.
+Back into the chamber turning, all my soul within me burning,
+Soon I heard again a tapping, somewhat louder than before.
+"Surely," said I, "surely that is something at my window lattice;
+Let me see, then, what thereat is, and this mystery explore--
+Let my heart be still a moment, and this mystery explore;--
+    'Tis the wind and nothing more."
 
-Not so, I; for I caught an expression
-In her brow's undisturbed self-possession
-Amid the Court's scoffing and merriment,
-As if from no pleasing experiment
-She rose, yet of pain not much heedful
-So long as the process was needful,--
-As if she had tried in a crucible,
-To what "speeches like gold" were reducible,
-And, finding the finest prove copper,
-Felt the smoke in her face was but proper;
-To know what she had not to trust to,
-Was worth all the ashes and dust too.
-She went out 'mid hooting and laughter;
-Clement Marot stayed; I followed after,
-And asked, as a grace, what it all meant?
-If she wished not the rash deed's recalment?
-For I"--so I spoke--"am a poet:
-Human nature,--behoves that I know it!"
+Open here I flung the shutter, when, with many a flirt and flutter,
+In there stepped a stately Raven of the saintly days of yore;
+Not the least obeisance made he: not an instant stopped or stayed he;
+But, with mien of lord or lady, perched above my chamber door--
+Perched upon a bust of Pallas just above my chamber door--
+    Perched, and sat, and nothing more.
 
-She told me, "Too long had I heard
-Of the deed proved alone by the word:
-For my love--what De Lorge would not dare!
-With my scorn--what De Lorge could compare!
-And the endless descriptions of death
-He would brave when my lip formed a breath,
-I must reckon as braved, or, of course,
-Doubt his word--and moreover, perforce,
-For such gifts as no lady could spurn,
-Must offer my love in return.
-When I looked on your lion, it brought
-All the dangers at once to my thought,
-Encountered by all sorts of men,
-Before he was lodged in his den--
-From the poor slave whose club or bare hands
-Dug the trap, set the snare on the sands,
-With no King and no Court to applaud,
-By no shame, should he shrink, overawed,
-Yet to capture the creature made shift,
-That his rude boys might laugh at the gift
---To the page who last leaped o'er the fence
-Of the pit, on no greater pretence
-Than to get back the bonnet he dropped,
-Lest his pay for a week should be stopped.
-So, wiser I judged it to make
-One trial what 'death for my sake'
-Really meant, while the power was yet mine,
+Then this ebony bird beguiling my sad fancy into smiling,
+By the grave and stern decorum of the countenance it wore,
+"Though thy crest be shorn and shaven, thou," I said, "art sure no
+  craven,
+Ghastly grim and ancient Raven wandering from the Nightly shore--
+Tell me what thy lordly name is on the Night's Plutonian shore!"
+      Quoth the Raven, "Nevermore."
 
-Than to wait until time should define
-Such a phrase not so simply as I,
-Who took it to mean just 'to die.'
-The blow a glove gives is but weak:
-Does the mark yet discolour my cheek?
-But when the heart suffers a blow,
-Will the pain pass so soon, do you know?"
+Much I marvelled this ungainly fowl to hear discourse so plainly,
+Though its answer little meaning--little relevancy bore;
+For we cannot help agreeing that no living human being
+Ever yet was blessed with seeing bird above his chamber door--
+Bird or beast upon the sculptured bust above his chamber door,
+      With such name as "Nevermore."
 
-I looked, as away she was sweeping.
-And saw a youth eagerly keeping
-As close as he dared to the doorway.
-No doubt that a noble should more weigh
-His life than befits a plebeian;
-And yet, had our brute been Nemean--
-(I judge by a certain calm fervour
-The youth stepped with, forward to serve her)
---He'd have scarce thought you did him the worst turn
-If you whispered "Friend, what you'd get, first earn!"
-And when, shortly after, she carried
-Her shame from the Court, and they married,
-To that marriage some happiness, maugre
-The voice of the Court, I dared augur.
+But the Raven, sitting lonely on that placid bust, spoke only
+That one word, as if his soul in that one word he did outpour.
+Nothing further then he uttered--not a feather then he fluttered--
+Till I scarcely more than muttered, "Other friends have flown before--
+On the morrow _he_ will leave me, as my hopes have flown before."
+      Then the bird said, "Nevermore."
 
-For De Lorge, he made women with men vie,
-Those in wonder and praise, these in envy;
-And in short stood so plain a head taller.
-That he wooed and won... how do you call her?
-The beauty, that rose in the sequel
-To the King's love, who loved her a week well.
-And 'twas noticed he never would honour
-De Lorge (who looked daggers upon her)
-With the easy commission of stretching
-His legs in the service, and fetching
-His wife, from her chamber, those straying
-Sad gloves she was always mislaying,
-While the King took the closet to chat in,--
-But of course this adventure came pat in.
-And never the King told the story,
-How bringing a glove brought such glory,
-But the wife smiled--"His nerves are grown firmer:
-Mine he brings now and utters no murmur."
+Startled at the stillness broken by reply so aptly spoken,
+"Doubtless," said I, "what it utters is its only stock and store,
+Caught from some unhappy master whom unmerciful Disaster
+Followed fast and followed faster till his songs one burden bore--
+Till the dirges of his Hope the melancholy burden bore
+    Of 'Never--nevermore.'"
 
-Venienti occurrite morbo!
-With which moral I drop my theorbo.
+But the Raven still beguiling all my sad soul into smiling,
+Straight I wheeled a cushioned seat in front of bird and bust and
+  door;
+Then, upon the velvet sinking, I betook myself to linking
+Fancy unto fancy, thinking what this ominous bird of yore--
+What this grim, ungainly, ghastly, gaunt, and ominous bird of yore
+    Meant in croaking "Nevermore."
+
+This I sat engaged in guessing, but no syllable expressing
+To the fowl whose fiery eyes now burned into my bosom's core;
+This and more I sat divining, with my head at ease reclining
+On the cushion's velvet lining that the lamp-light gloated o'er,
+But whose velvet violet lining with the lamp-light gloating o'er,
+      _She_ shall press, ah, nevermore!
+
+Then, methought, the air grew denser, perfumed from an unseen censer
+Swung by Seraphim whose foot-falls tinkled on the tufted floor.
+"Wretch," I cried, "thy God hath lent thee--by these angels he hath
+  sent thee
+Respite--respite aad nepenthé from thy memories of Lenore!
+Quaff, oh quaff this kind nepenthé, and forget this lost Lenore!"
+      Quoth the Raven, "Nevermore."
+
+"Prophet!" said I, "thing of evil!--prophet still, if bird or devil!--
+Whether Tempter sent, or whether tempest tossed thee here ashore,
+Desolate yet all undaunted, on this desert land enchanted--
+On this home by Horror haunted--tell me truly, I implore--
+Is there--_is_ there balm in Gilead?--tell me--tell me, I implore!"
+    Quoth the Raven, "Nevermore."
+
+"Prophet!" said I, "thing of evil!--prophet still, if bird or devil!
+By that Heaven that bends above us--by that God we both adore--
+Tell this soul with sorrow laden if, within the distant Aidenn,
+It shall clasp a sainted maiden whom the angels name Lenore--
+Clasp a rare and radiant maiden whom the angels name Lenore."
+      Quoth the Raven, "Nevermore."
+
+"Be that word our sign of parting, bird or fiend!" I shrieked,
+  upstarting--
+"Get thee back into the tempest and the Night's Plutonian shore!
+Leave no black plume as a token of that lie thy soul hath spoken!
+Leave my loneliness unbroken!--quit the bust above my door!
+Take thy beak from out my heart, and take thy form from off my door!"
+    Quoth the Raven, "Nevermore."
+
+And the Raven, never flitting, still is sitting, still is sitting
+On the pallid bust of Pallas just above my chamber door;
+And his eyes have all the seeming of a demon's that is dreaming,
+And the lamp-light o'er him streaming throws his shadow on the floor;
+And my soul from out that shadow that lies floating on the floor
+    Shall be lifted--nevermore!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, scattered clouds in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -386,4 +312,4 @@ With which moral I drop my theorbo.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 8, 2025 at 06:55 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 9, 2025 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
