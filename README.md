@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -30,9 +30,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/10/2025)
+- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 6 (Updated: 8/11/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/11/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 41 (Updated: 8/5/2025)
-- 🔥 [fs-app-test](https://github.com/afzalimdad9/fs-app-test) - No description ⭐ 0 (Updated: 7/31/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -66,15 +66,15 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Create a meal plan for the coming week
+Have a picnic with some friends
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -83,1507 +83,2950 @@ Create a meal plan for the coming week
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Island" by George Gordon, Lord Byron
-CANTO THE FIRST.
+"Cain: A Mystery" by George Gordon, Lord Byron
+ACT I.
 
-The morning watch was come; the vessel lay
-Her course, and gently made her liquid way;
-The cloven billow flashed from off her prow
-In furrows formed by that majestic plough;
-The waters with their world were all before;
-Behind, the South Sea's many an islet shore.
-The quiet night, now dappling, 'gan to wane,
-Dividing darkness from the dawning main;
-The dolphins, not unconscious of the day,
-Swam high, as eager of the coming ray;
-The stars from broader beams began to creep,
-And lift their shining eyelids from the deep;
-The sail resumed its lately shadowed white,
-And the wind fluttered with a freshening flight;
-The purpling Ocean owns the coming Sun,
-But ere he break--a deed is to be done.
+SCENE I.--_The Land without Paradise.--Time, Sunrise_.
 
-The gallant Chief within his cabin slept,
-Secure in those by whom the watch was kept:
-His dreams were of Old England's welcome shore,
-Of toils rewarded, and of dangers o'er;
-His name was added to the glorious roll
-Of those who search the storm-surrounded Pole.
-The worst was over, and the rest seemed sure,
-And why should not his slumber be secure?
-Alas! his deck was trod by unwilling feet,
-And wilder hands would hold the vessel's sheet;
-Young hearts, which languished for some sunny isle,
-Where summer years and summer women smile;
-Men without country, who, too long estranged,
-Had found no native home, or found it changed,
-And, half uncivilised, preferred the cave
-Of some soft savage to the uncertain wave--
-The gushing fruits that nature gave unfilled;
-The wood without a path--but where they willed;
-The field o'er which promiscuous Plenty poured
-Her horn; the equal land without a lord;
-The wish--which ages have not yet subdued
-In man--to have no master save his mood;
-The earth, whose mine was on its face, unsold,
-The glowing sun and produce all its gold;
-The Freedom which can call each grot a home;
-The general garden, where all steps may roam,
-Where Nature owns a nation as her child,
-Exulting in the enjoyment of the wild;
-Their shells, their fruits, the only wealth they know,
-Their unexploring navy, the canoe;
-Their sport, the dashing breakers and the chase;
-Their strangest sight, an European face:--
-Such was the country which these strangers yearned
-To see again--a sight they dearly earned.
+   ADAM, EVE, CAIN, ABEL, ADAH, ZILLAH, _offering a Sacrifice_.
 
-Awake, bold Bligh! the foe is at the gate!
-Awake! awake!----Alas! it is too late!
-Fiercely beside thy cot the mutineer
-Stands, and proclaims the reign of rage and fear.
-Thy limbs are bound, the bayonet at thy breast;
-The hands, which trembled at thy voice, arrest;
-Dragged o'er the deck, no more at thy command
-The obedient helm shall veer, the sail expand;
-That savage Spirit, which would lull by wrath
-Its desperate escape from Duty's path,
-Glares round thee, in the scarce believing eyes
-Of those who fear the Chief they sacrifice:
-For ne'er can Man his conscience all assuage,
-Unless he drain the wine of Passion--Rage.
+_Adam_. God, the Eternal! Infinite! All-wise!--
+Who out of darkness on the deep didst make
+Light on the waters with a word--All Hail!
+Jehovah! with returning light--All Hail!
 
-In vain, not silenced by the eye of Death,
-Thou call'st the loyal with thy menaced breath:--
-They come not; they are few, and, overawed,
-Must acquiesce, while sterner hearts applaud.
-In vain thou dost demand the cause: a curse
-Is all the answer, with the threat of worse.
-Full in thine eyes is waved the glittering blade,
-Close to thy throat the pointed bayonet laid.
-The levelled muskets circle round thy breast
-In hands as steeled to do the deadly rest.
-Thou dar'st them to their worst, exclaiming--"Fire!"
-But they who pitied not could yet admire;
-Some lurking remnant of their former awe
-Restrained them longer than their broken law;
-They would not dip their souls at once in blood,
-But left thee to the mercies of the flood.
+_Eve_. God! who didst name the day, and separate
+Morning from night, till then divided never--
+Who didst divide the wave from wave, and call
+Part of thy work the firmament--All Hail!
 
-"Hoist out the boat!" was now the leader's cry;
-And who dare answer "No!" to Mutiny,
-In the first dawning of the drunken hour,
-The Saturnalia of unhoped-for power?
-The boat is lowered with all the haste of hate,
-With its slight plank between thee and thy fate;
-Her only cargo such a scant supply
-As promises the death their hands deny;
-And just enough of water and of bread
-To keep, some days, the dying from the dead:
-Some cordage, canvass, sails, and lines, and twine,
-But treasures all to hermits of the brine,
-Were added after, to the earnest prayer
-Of those who saw no hope, save sea and air;
-And last, that trembling vassal of the Pole--
-The feeling compass--Navigation's soul.
+_Abel_. God! who didst call the elements into
+Earth, ocean, air and fire--and with the day
+And night, and worlds which these illuminate,
+Or shadow, madest beings to enjoy them,
+And love both them and thee--All Hail! All Hail!
 
-And now the self-elected Chief finds time
-To stun the first sensation of his crime,
-And raise it in his followers--"Ho! the bowl!"
-Lest passion should return to reason's shoal.
-"Brandy for heroes!" Burke could once exclaim--
-No doubt a liquid path to Epic fame;
-And such the new-born heroes found it here,
-And drained the draught with an applauding cheer.
-"Huzza! for Otaheite!" was the cry.
-How strange such shouts from sons of Mutiny!
-The gentle island, and the genial soil,
-The friendly hearts, the feasts without a toil,
-The courteous manners but from nature caught,
-The wealth unhoarded, and the love unbought;
-Could these have charms for rudest sea-boys, driven
-Before the mast by every wind of heaven?
-And now, even now prepared with others' woes
-To earn mild Virtue's vain desire, repose?
-Alas! such is our nature! all but aim
-At the same end by pathways not the same;
-Our means--our birth--our nation, and our name,
-Our fortune--temper--even our outward frame,
-Are far more potent o'er our yielding clay
-Than aught we know beyond our little day.
-Yet still there whispers the small voice within,
-Heard through Gain's silence, and o'er Glory's din:
-Whatever creed be taught, or land be trod,
-Man's conscience is the Oracle of God.
+_Adah_. God! the Eternal parent of all things!
+Who didst create these best and beauteous beings,
+To be belovéd, more than all, save thee--
+Let me love thee and them:--All Hail! All Hail!
 
-The launch is crowded with the faithful few
-Who wait their Chief, a melancholy crew:
-But some remained reluctant on the deck
-Of that proud vessel--now a moral wreck--
-And viewed their Captain's fate with piteous eyes;
-While others scoffed his augured miseries,
-Sneered at the prospect of his pigmy sail,
-And the slight bark so laden and so frail.
-The tender nautilus, who steers his prow,
-The sea-born sailor of his shell canoe,
-The ocean Mab, the fairy of the sea,
-Seems far less fragile, and, alas! more free.
-He, when the lightning-winged Tornados sweep
-The surge, is safe--his port is in the deep--
-And triumphs o'er the armadas of Mankind,
-Which shake the World, yet crumble in the wind.
+_Zillah_. Oh, God! who loving, making, blessing all,
+Yet didst permit the Serpent to creep in,
+And drive my father forth from Paradise,
+Keep us from further evil:--Hail! All Hail!
 
-When all was now prepared, the vessel clear
-Which hailed her master in the mutineer,
-A seaman, less obdurate than his mates,
-Showed the vain pity which but irritates;
-Watched his late Chieftain with exploring eye,
-And told, in signs, repentant sympathy;
-Held the moist shaddock to his parched mouth,
-Which felt Exhaustion's deep and bitter drouth.
-But soon observed, this guardian was withdrawn,
-Nor further Mercy clouds Rebellion's dawn.
-Then forward stepped the bold and froward boy
-His Chief had cherished only to destroy,
-And, pointing to the helpless prow beneath,
-Exclaimed, "Depart at once! delay is death!"
-Yet then, even then, his feelings ceased not all:
-In that last moment could a word recall
-Remorse for the black deed as yet half done,
-And what he hid from many showed to one:
-When Bligh in stern reproach demanded where
-Was now his grateful sense of former care?
-Where all his hopes to see his name aspire,
-And blazon Britain's thousand glories higher?
-His feverish lips thus broke their gloomy spell,
-"Tis that! 'tis that! I am in hell! in hell!"
-No more he said; but urging to the bark
-His Chief, commits him to his fragile ark;
-These the sole accents from his tongue that fell,
-But volumes lurked below his fierce farewell.
+_Adam_. Son Cain! my first-born--wherefore art thou silent?
 
-The arctic Sun rose broad above the wave;
-The breeze now sank, now whispered from his cave;
-As on the Æolian harp, his fitful wings
-Now swelled, now fluttered o'er his Ocean strings.
-With slow, despairing oar, the abandoned skiff
-Ploughs its drear progress to the scarce seen cliff,
-Which lifts its peak a cloud above the main:
-_That_ boat and ship shall never meet again!
+_Cain_. Why should I speak?
 
-But 'tis not mine to tell their tale of grief,
-Their constant peril, and their scant relief;
-Their days of danger, and their nights of pain;
-Their manly courage even when deemed in vain;
-The sapping famine, rendering scarce a son
-Known to his mother in the skeleton;
-The ills that lessened still their little store,
-And starved even Hunger till he wrung no more;
-The varying frowns and favours of the deep,
-That now almost ingulfs, then leaves to creep
-With crazy oar and shattered strength along
-The tide that yields reluctant to the strong;
-The incessant fever of that arid thirst
-Which welcomes, as a well, the clouds that burst
-Above their naked bones, and feels delight
-In the cold drenching of the stormy night,
-And from the outspread canvass gladly wrings
-A drop to moisten Life's all-gasping springs;
-The savage foe escaped, to seek again
-More hospitable shelter from the main;
-The ghastly Spectres which were doomed at last
-To tell as true a tale of dangers past,
-As ever the dark annals of the deep
-Disclosed for man to dread or woman weep.
+_Adam_.                     To pray.
 
-We leave them to their fate, but not unknown
-Nor unredressed. Revenge may have her own:
-Roused Discipline aloud proclaims their cause,
-And injured Navies urge their broken laws.
-Pursue we on his track the mutineer,
-Whom distant vengeance had not taught to fear.
-Wide o'er the wave--away! away! away!
-Once more his eyes shall hail the welcome bay;
-Once more the happy shores without a law
-Receive the outlaws whom they lately saw;
-Nature, and Nature's goddess--Woman--woos
-To lands where, save their conscience, none accuse;
-Where all partake the earth without dispute,
-And bread itself is gathered as a fruit;
-Where none contest the fields, the woods, the streams:--
-The goldless Age, where Gold disturbs no dreams,
-Inhabits or inhabited the shore,
-Till Europe taught them better than before;
-Bestowed her customs, and amended theirs,
-But left her vices also to their heirs.
-Away with this! behold them as they were,
-Do good with Nature, or with Nature err.
-"Huzza! for Otaheite!" was the cry,
-As stately swept the gallant vessel by.
-The breeze springs up; the lately flapping sail
-Extends its arch before the growing gale;
-In swifter ripples stream aside the seas,
-Which her bold bow flings off with dashing ease.
-Thus Argo ploughed the Euxine's virgin foam,
-But those she wafted still looked back to home;
-These spurn their country with their rebel bark,
-And fly her as the raven fled the Ark;
-And yet they seek to nestle with the dove,
-And tame their fiery spirits down to Love.
+_Cain_.                             Have ye not prayed?
 
-CANTO THE SECOND.
+_Adam_. We have, most fervently.
 
-How pleasant were the songs of Toobonai,
-When Summer's Sun went down the coral bay!
-Come, let us to the islet's softest shade,
-And hear the warbling birds! the damsels said:
-The wood-dove from the forest depth shall coo,
-Like voices of the Gods from Bolotoo;
-We'll cull the flowers that grow above the dead,
-For these most bloom where rests the warrior's head;
-And we will sit in Twilight's face, and see
-The sweet Moon glancing through the Tooa tree,
-The lofty accents of whose sighing bough
-Shall sadly please us as we lean below;
-Or climb the steep, and view the surf in vain
-Wrestle with rocky giants o'er the main,
-Which spurn in columns back the baffled spray.
-How beautiful are these! how happy they,
-Who, from the toil and tumult of their lives,
-Steal to look down where nought but Ocean strives!
-Even He too loves at times the blue lagoon,
-And smooths his ruffled mane beneath the Moon.
+_Cain_.                           And loudly: I
+Have heard you.
 
-Yes--from the sepulchre we'll gather flowers,
-Then feast like spirits in their promised bowers,
-Then plunge and revel in the rolling surf,
-Then lay our limbs along the tender turf,
-And, wet and shining from the sportive toil,
-Anoint our bodies with the fragrant oil,
-And plait our garlands gathered from the grave,
-And wear the wreaths that sprung from out the brave.
-But lo! night comes, the Mooa woos us back,
-The sound of mats are heard along our track;
-Anon the torchlight dance shall fling its sheen
-In flashing mazes o'er the Marly's green;
-And we too will be there; we too recall
-The memory bright with many a festival,
-Ere Fiji blew the shell of war, when foes
-For the first time were wafted in canoes.
-Alas! for them the flower of manhood bleeds;
-Alas! for them our fields are rank with weeds:
-Forgotten is the rapture, or unknown,
-Of wandering with the Moon and Love alone.
-But be it so:--_they_ taught us how to wield
-The club, and rain our arrows o'er the field:
-Now let them reap the harvest of their art!
-But feast to-night! to-morrow we depart.
-Strike up the dance! the Cava bowl fill high!
-Drain every drop!--to-morrow we may die.
-In summer garments be our limbs arrayed;
-Around our waists the Tappa's white displayed;
-Thick wreaths shall form our coronal, like Spring's,
-And round our necks shall glance the Hooni strings;
-So shall their brighter hues contrast the glow
-Of the dusk bosoms that beat high below.
+_Adam_.         So will God, I trust.
 
-But now the dance is o'er--yet stay awhile;
-Ah, pause! nor yet put out the social smile.
-To-morrow for the Mooa we depart,
-But not to-night--to-night is for the heart.
-Again bestow the wreaths we gently woo,
-Ye young Enchantresses of gay Licoo!
-How lovely are your forms! how every sense
-Bows to your beauties, softened, but intense,
-Like to the flowers on Mataloco's steep,
-Which fling their fragrance far athwart the deep!--
-We too will see Licoo; but--oh! my heart!--
-What do I say?--to-morrow we depart!
+_Abel_.                              Amen!
 
-Thus rose a song--the harmony of times
-Before the winds blew Europe o'er these climes.
-True, they had vices--such are Nature's growth--
-But only the barbarian's--we have both;
-The sordor of civilisation, mixed
-With all the savage which Man's fall hath fixed.
-Who hath not seen Dissimulation's reign,
-The prayers of Abel linked to deeds of Cain?
-Who such would see may from his lattice view
-The Old World more degraded than the New,--
-Now _new_ no more, save where Columbia rears
-Twin giants, born by Freedom to her spheres,
-Where Chimborazo, over air,--earth,--wave,--
-Glares with his Titan eye, and sees no slave.
+_Adam_. But thou my eldest born? art silent still?
 
-Such was this ditty of Tradition's days,
-Which to the dead a lingering fame conveys
-In song, where Fame as yet hath left no sign
-Beyond the sound whose charm is half divine;
-Which leaves no record to the sceptic eye,
-But yields young History all to Harmony;
-A boy Achilles, with the Centaur's lyre
-In hand, to teach him to surpass his sire.
-For one long-cherished ballad's simple stave,
-Rung from the rock, or mingled with the wave,
-Or from the bubbling streamlet's grassy side,
-Or gathering mountain echoes as they glide,
-Hath greater power o'er each true heart and ear,
-Than all the columns Conquest's minions rear;
-Invites, when Hieroglyphics are a theme
-For sages' labours, or the student's dream;
-Attracts, when History's volumes are a toil,--
-The first, the freshest bud of Feeling's soil.
-Such was this rude rhyme--rhyme is of the rude--
-But such inspired the Norseman's solitude,
-Who came and conquered; such, wherever rise
-Lands which no foes destroy or civilise,
-Exist: and what can our accomplished art
-Of verse do more than reach the awakened heart?
+_Cain_. 'Tis better I should be so.
 
-And sweetly now those untaught melodies
-Broke the luxurious silence of the skies,
-The sweet siesta of a summer day,
-The tropic afternoon of Toobonai,
-When every flower was bloom, and air was balm,
-And the first breath began to stir the palm,
-The first yet voiceless wind to urge the wave
-All gently to refresh the thirsty cave,
-Where sat the Songstress with the stranger boy,
-Who taught her Passion's desolating joy,
-Too powerful over every heart, but most
-O'er those who know not how it may be lost;
-O'er those who, burning in the new-born fire,
-Like martyrs revel in their funeral pyre,
-With such devotion to their ecstacy,
-That Life knows no such rapture as to die:
-And die they do; for earthly life has nought
-Matched with that burst of Nature, even in thought;
-And all our dreams of better life above
-But close in one eternal gush of Love.
+_Adam_.                              Wherefore so?
 
-There sat the gentle savage of the wild,
-In growth a woman, though in years a child,
-As childhood dates within our colder clime,
-Where nought is ripened rapidly save crime;
-The infant of an infant world, as pure
-From Nature--lovely, warm, and premature;
-Dusky like night, but night with all her stars;
-Or cavern sparkling with its native spars;
-With eyes that were a language and a spell,
-A form like Aphrodite's in her shell,
-With all her loves around her on the deep,
-Voluptuous as the first approach of sleep;
-Yet full of life--for through her tropic cheek
-The blush would make its way, and all but speak;
-The sun-born blood suffused her neck, and threw
-O'er her clear nut-brown skin a lucid hue,
-Like coral reddening through the darkened wave,
-Which draws the diver to the crimson cave.
-Such was this daughter of the southern seas,
-Herself a billow in her energies,
-To bear the bark of others' happiness,
-Nor feel a sorrow till their joy grew less:
-Her wild and warm yet faithful bosom knew
-No joy like what it gave; her hopes ne'er drew
-Aught from Experience, that chill touchstone, whose
-Sad proof reduces all things from their hues:
-She feared no ill, because she knew it not,
-Or what she knew was soon--too soon--forgot:
-Her smiles and tears had passed, as light winds pass
-O'er lakes to ruffle, not destroy, their glass,
-Whose depths unsearched, and fountains from the hill,
-Restore their surface, in itself so still,
-Until the Earthquake tear the Naiad's cave,
-Root up the spring, and trample on the wave,
-And crush the living waters to a mass,
-The amphibious desert of the dank morass!
-And must their fate be hers? The eternal change
-But grasps Humanity with quicker range;
-And they who fall but fall as worlds will fall,
-To rise, if just, a Spirit o'er them all.
+_Cain_. I have nought to ask.
 
-And who is he? the blue-eyed northern child
-Of isles more known to man, but scarce less wild;
-The fair-haired offspring of the Hebrides,
-Where roars the Pentland with its whirling seas;
-Rocked in his cradle by the roaring wind,
-The tempest-born in body and in mind,
-His young eyes opening on the ocean-foam,
-Had from that moment deemed the deep his home,
-The giant comrade of his pensive moods,
-The sharer of his craggy solitudes,
-The only Mentor of his youth, where'er
-His bark was borne; the sport of wave and air;
-A careless thing, who placed his choice in chance,
-Nursed by the legends of his land's romance;
-Eager to hope, but not less firm to bear,
-Acquainted with all feelings save despair.
-Placed in the Arab's clime he would have been
-As bold a rover as the sands have seen,
-And braved their thirst with as enduring lip
-As Ishmael, wafted on his Desert-Ship;
-Fixed upon Chili's shore, a proud cacique:
-On Hellas' mountains, a rebellious Greek;
-Born in a tent, perhaps a Tamerlane;
-Bred to a throne, perhaps unfit to reign.
-For the same soul that rends its path to sway,
-If reared to such, can find no further prey
-Beyond itself, and must retrace its way,
-Plunging for pleasure into pain: the same
-Spirit which made a Nero, Rome's worst shame,
-A humbler state and discipline of heart,
-Had formed his glorious namesake's counterpart;
-But grant his vices, grant them all his own,
-How small their theatre without a throne!
+_Adam_.                        Nor aught to thank for?
 
-Thou smilest:--these comparisons seem high
-To those who scan all things with dazzled eye;
-Linked with the unknown name of one whose doom
-Has nought to do with glory or with Rome,
-With Chili, Hellas, or with Araby;--
-Thou smilest?--Smile; 'tis better thus than sigh;
-Yet such he might have been; he was a man,
-A soaring spirit, ever in the van,
-A patriot hero or despotic chief,
-To form a nation's glory or its grief,
-Born under auspices which make us more
-Or less than we delight to ponder o'er.
-But these are visions; say, what was he here?
-A blooming boy, a truant mutineer.
-The fair-haired Torquil, free as Ocean's spray,
-The husband of the bride of Toobonai.
+_Cain_.                                               No.
 
-By Neuha's side he sate, and watched the waters,--
-Neuha, the sun-flower of the island daughters,
-Highborn, (a birth at which the herald smiles,
-Without a scutcheon for these secret isles,)
-Of a long race, the valiant and the free,
-The naked knights of savage chivalry,
-Whose grassy cairns ascend along the shore;
-And thine--I've seen--Achilles! do no more.
-She, when the thunder-bearing strangers came,
-In vast canoes, begirt with bolts of flame,
-Topped with tall trees, which, loftier than the palm,
-Seemed rooted in the deep amidst its calm:
-But when the winds awakened, shot forth wings
-Broad as the cloud along the horizon flings,
-And swayed the waves, like cities of the sea,
-Making the very billows look less free;--
-She, with her paddling oar and dancing prow,
-Shot through the surf, like reindeer through the snow,
-Swift-gliding o'er the breaker's whitening edge,
-Light as a Nereid in her ocean sledge,
-And gazed and wondered at the giant hulk,
-Which heaved from wave to wave its trampling bulk.
-The anchor dropped; it lay along the deep,
-Like a huge lion in the sun asleep,
-While round it swarmed the Proas' flitting chain,
-Like summer bees that hum around his mane.
+_Adam_. Dost thou not _live_?
 
-The white man landed!--need the rest be told?
-The New World stretched its dusk hand to the Old;
-Each was to each a marvel, and the tie
-Of wonder warmed to better sympathy.
-Kind was the welcome of the sun-born sires,
-And kinder still their daughters' gentler fires.
-Their union grew: the children of the storm
-Found beauty linked with many a dusky form;
-While these in turn admired the paler glow,
-Which seemed so white in climes that knew no snow.
-The chace, the race, the liberty to roam,
-The soil where every cottage showed a home;
-The sea-spread net, the lightly launched canoe,
-Which stemmed the studded archipelago,
-O'er whose blue bosom rose the starry isles;
-The healthy slumber, earned by sportive toils;
-The palm, the loftiest Dryad of the woods,
-Within whose bosom infant Bacchus broods,
-While eagles scarce build higher than the crest
-Which shadows o'er the vineyard in her breast;
-The Cava feast, the Yam, the Cocoa's root,
-Which bears at once the cup, and milk, and fruit;
-The Bread-tree, which, without the ploughshare, yields
-The unreaped harvest of unfurrowed fields,
-And bakes its unadulterated loaves
-Without a furnace in unpurchased groves,
-And flings off famine from its fertile breast,
-A priceless market for the gathering guest;--
-These, with the luxuries of seas and woods,
-The airy joys of social solitudes,
-Tamed each rude wanderer to the sympathies
-Of those who were more happy, if less wise,
-Did more than Europe's discipline had done,
-And civilised Civilisation's son!
+_Cain_.                       Must I not die?
 
-Of these, and there was many a willing pair,
-Neuha and Torquil were not the least fair:
-Both children of the isles, though distant far;
-Both born beneath a sea-presiding star;
-Both nourished amidst Nature's native scenes,
-Loved to the last, whatever intervenes
-Between us and our Childhood's sympathy,
-Which still reverts to what first caught the eye.
-He who first met the Highlands' swelling blue
-Will love each peak that shows a kindred hue,
-Hail in each crag a friend's familiar face,
-And clasp the mountain in his Mind's embrace.
-Long have I roamed through lands which are not mine,
-Adored the Alp, and loved the Apennine,
-Revered Parnassus, and beheld the steep
-Jove's Ida and Olympus crown the deep:
-But 'twas not all long ages' lore, nor all
-_Their_ nature held me in their thrilling thrall;
-The infant rapture still survived the boy,
-And Loch-na-gar with Ida looked o'er Troy,
-Mixed Celtic memories with the Phrygian mount,
-And Highland linns with Castalie's clear fount.
-Forgive me, Homer's universal shade!
-Forgive me, Phœbus! that my fancy strayed;
-The North and Nature taught me to adore
-Your scenes sublime, from those beloved before.
+_Eve_.                                          Alas!
+The fruit of our forbidden tree begins
+To fall.
 
-The love which maketh all things fond and fair,
-The youth which makes one rainbow of the air,
-The dangers past, that make even Man enjoy
-The pause in which he ceases to destroy,
-The mutual beauty, which the sternest feel
-Strike to their hearts like lightning to the steel,
-United the half savage and the whole,
-The maid and boy, in one absorbing soul.
-No more the thundering memory of the fight
-Wrapped his weaned bosom in its dark delight;
-No more the irksome restlessness of Rest
-Disturbed him like the eagle in her nest,
-Whose whetted beak and far-pervading eye
-Darts for a victim over all the sky:
-His heart was tamed to that voluptuous state,
-At once Elysian and effeminate,
-Which leaves no laurels o'er the Hero's urn;--
-These wither when for aught save blood they burn;
-Yet when their ashes in their nook are laid,
-Doth not the myrtle leave as sweet a shade?
-Had Cæsar known but Cleopatra's kiss,
-Rome had been free, the world had not been his.
-And what have Cæsar's deeds and Cæsar's fame
-Done for the earth? We feel them in our shame.
-The gory sanction of his Glory stains
-The rust which tyrants cherish on our chains.
-Though Glory--Nature--Reason--Freedom, bid
-Roused millions do what single Brutus did--
-Sweep these mere mock-birds of the Despot's song
-From the tall bough where they have perched so long,--
-Still are we hawked at by such mousing owls,
-And take for falcons those ignoble fowls,
-When but a word of freedom would dispel
-These bugbears, as their terrors show too well.
+_Adam_. And we must gather it again.
+Oh God! why didst thou plant the tree of knowledge?
 
-Rapt in the fond forgetfulness of life,
-Neuha, the South Sea girl, was all a wife,
-With no distracting world to call her off
-From Love; with no Society to scoff
-At the new transient flame; no babbling crowd
-Of coxcombry in admiration loud,
-Or with adulterous whisper to alloy
-Her duty, and her glory, and her joy:
-With faith and feelings naked as her form,
-She stood as stands a rainbow in a storm,
-Changing its hues with bright variety,
-But still expanding lovelier o'er the sky,
-Howe'er its arch may swell, its colours move,
-The cloud-compelling harbinger of Love.
+_Cain_. And wherefore plucked ye not the tree of life?
+Ye might have then defied him.
 
-Here, in this grotto of the wave-worn shore,
-They passed the Tropic's red meridian o'er;
-Nor long the hours--they never paused o'er time,
-Unbroken by the clock's funereal chime,
-Which deals the daily pittance of our span,
-And points and mocks with iron laugh at man.
-What deemed they of the future or the past?
-The present, like a tyrant, held them fast:
-Their hour-glass was the sea-sand, and the tide,
-Like her smooth billow, saw their moments glide
-Their clock the Sun, in his unbounded tower
-They reckoned not, whose day was but an hour;
-The nightingale, their only vesper-bell,
-Sung sweetly to the rose the day's farewell;
-The broad Sun set, but not with lingering sweep,
-As in the North he mellows o'er the deep;
-But fiery, full, and fierce, as if he left
-The World for ever, earth of light bereft,
-Plunged with red forehead down along the wave,
-As dives a hero headlong to his grave.
-Then rose they, looking first along the skies,
-And then for light into each other's eyes,
-Wondering that Summer showed so brief a sun,
-And asking if indeed the day were done.
+_Adam_.                        Oh! my son,
+Blaspheme not: these are Serpent's words.
 
-And let not this seem strange: the devotee
-Lives not in earth, but in his ecstasy;
-Around him days and worlds are heedless driven,
-His Soul is gone before his dust to Heaven.
-Is Love less potent? No--his path is trod,
-Alike uplifted gloriously to God;
-Or linked to all we know of Heaven below,
-The other better self, whose joy or woe
-Is more than ours; the all-absorbing flame
-Which, kindled by another, grows the same,
-Wrapt in one blaze; the pure, yet funeral pile,
-Where gentle hearts, like Bramins, sit and smile.
-How often we forget all time, when lone,
-Admiring Nature's universal throne,
-Her woods--her wilds--her waters--the intense
-Reply of _hers_ to our intelligence!
-Live not the Stars and Mountains? Are the Waves
-Without a spirit? Are the dropping caves
-Without a feeling in their silent tears?
-No, no;--they woo and clasp us to their spheres,
-Dissolve this clog and clod of clay before
-Its hour, and merge our soul in the great shore.
-Strip off this fond and false identity!--
-Who thinks of self when gazing on the sky?
-And who, though gazing lower, ever thought,
-In the young moments ere the heart is taught
-Time's lesson, of Man's baseness or his own?
-All Nature is his realm, and Love his throne.
+_Cain_.                                   Why not?
+The snake spoke _truth_; it _was_ the Tree of Knowledge;
+It _was_ the Tree of Life: knowledge is good,
+And Life is good; and how can both be evil?
 
-Neuha arose, and Torquil: Twilight's hour
-Came sad and softly to their rocky bower,
-Which, kindling by degrees its dewy spars,
-Echoed their dim light to the mustering stars.
-Slowly the pair, partaking Nature's calm,
-Sought out their cottage, built beneath the palm;
-Now smiling and now silent, as the scene;
-Lovely as Love--the Spirit!--when serene.
-The Ocean scarce spoke louder with his swell,
-Than breathes his mimic murmurer in the shell,
-As, far divided from his parent deep,
-The sea-born infant cries, and will not sleep,
-Raising his little plaint in vain, to rave
-For the broad bosom of his nursing wave:
-The woods drooped darkly, as inclined to rest,
-The tropic bird wheeled rockward to his nest,
-And the blue sky spread round them like a lake
-Of peace, where Piety her thirst might slake.
+_Eve_. My boy! thou speakest as I spoke in sin,
+Before thy birth: let me not see renewed
+My misery in thine. I have repented.
+Let me not see my offspring fall into
+The snares beyond the walls of Paradise,
+Which even in Paradise destroyed his parents.
+Content thee with what _is_. Had we been so,
+Thou now hadst been contented.--Oh, my son!
 
-But through the palm and plantain, hark, a Voice!
-Not such as would have been a lover's choice,
-In such an hour, to break the air so still;
-No dying night-breeze, harping o'er the hill,
-Striking the strings of nature, rock and tree,
-Those best and earliest lyres of Harmony,
-With Echo for their chorus; nor the alarm
-Of the loud war-whoop to dispel the charm;
-Nor the soliloquy of the hermit owl,
-Exhaling all his solitary soul,
-The dim though large-eyed wingéd anchorite,
-Who peals his dreary Pæan o'er the night;
-But a loud, long, and naval whistle, shrill
-As ever started through a sea-bird's bill;
-And then a pause, and then a hoarse "Hillo!
-Torquil, my boy! what cheer? Ho! brother, ho!"
-"Who hails?" cried Torquil, following with his eye
-The sound. "Here's one," was all the brief reply.
+_Adam_. Our orisons completed, let us hence,
+Each to his task of toil--not heavy, though
+Needful: the earth is young, and yields us kindly
+Her fruits with little labour.
 
-But here the herald of the self-same mouth
-Came breathing o'er the aromatic south,
-Not like a "bed of violets" on the gale,
-But such as wafts its cloud o'er grog or ale,
-Borne from a short frail pipe, which yet had blown
-Its gentle odours over either zone,
-And, puffed where'er winds rise or waters roll,
-Had wafted smoke from Portsmouth to the Pole,
-Opposed its vapour as the lightning flashed,
-And reeked, 'midst mountain-billows, unabashed,
-To Æolus a constant sacrifice,
-Through every change of all the varying skies.
-And what was he who bore it?--I may err,
-But deem him sailor or philosopher.
-Sublime Tobacco! which from East to West
-Cheers the tar's labour or the Turkman's rest;
-Which on the Moslem's ottoman divides
-His hours, and rivals opium and his brides;
-Magnificent in Stamboul, but less grand,
-Though not less loved, in Wapping or the Strand;
-Divine in hookas, glorious in a pipe,
-When tipped with amber, mellow, rich, and ripe:
-Like other charmers, wooing the caress,
-More dazzlingly when daring in full dress;
-Yet thy true lovers more admire by far
-Thy naked beauties--Give me a cigar!
+_Eve_.                         Cain--my son--
+Behold thy father cheerful and resigned--
+And do as he doth.                           [_Exeunt_ ADAM _and_ EVE.
 
-Through the approaching darkness of the wood
-A human figure broke the solitude,
-Fantastically, it may be, arrayed,
-A seaman in a savage masquerade;
-Such as appears to rise out from the deep,
-When o'er the line the merry vessels sweep,
-And the rough Saturnalia of the tar
-Flock o'er the deck, in Neptune's borrowed car;
-And, pleased, the God of Ocean sees his name
-Revive once more, though but in mimic game
-Of his true sons, who riot in the breeze
-Undreamt of in his native Cyclades.
-Still the old God delights, from out the main,
-To snatch some glimpses of his ancient reign.
-Our sailor's jacket, though in ragged trim,
-His constant pipe, which never yet burned dim,
-His foremast air, and somewhat rolling gait,
-Like his dear vessel, spoke his former state;
-But then a sort of kerchief round his head,
-Not over tightly bound, nor nicely spread;
-And, 'stead of trowsers (ah! too early torn!
-For even the mildest woods will have their thorn)
-A curious sort of somewhat scanty mat
-Now served for inexpressibles and hat;
-His naked feet and neck, and sunburnt face,
-Perchance might suit alike with either race.
-His arms were all his own, our Europe's growth,
-Which two worlds bless for civilising both;
-The musket swung behind his shoulders broad,
-And somewhat stooped by his marine abode,
-But brawny as the boar's; and hung beneath,
-His cutlass drooped, unconscious of a sheath,
-Or lost or worn away; his pistols were
-Linked to his belt, a matrimonial pair--
-(Let not this metaphor appear a scoff,
-Though one missed fire, the other would go off);
-These, with a bayonet, not so free from rust
-As when the arm-chest held its brighter trust,
-Completed his accoutrements, as Night
-Surveyed him in his garb heteroclite.
+_Zillah_.          Wilt thou not, my brother?
 
-"What cheer, Ben Bunting?" cried (when in full view
-Our new acquaintance) Torquil. "Aught of new?"
-"Ey, ey!" quoth Ben, "not new, but news enow;
-A strange sail in the offing."--"Sail! and how?
-What! could you make her out? It cannot be;
-I've seen no rag of canvass on the sea."
-"Belike," said Ben, "you might not from the bay,
-But from the bluff-head, where I watched to-day,
-I saw her in the doldrums; for the wind
-Was light and baffling."--"When the Sun declined
-Where lay she? had she anchored?"--"No, but still
-She bore down on us, till the wind grew still."
-"Her flag?"--"I had no glass: but fore and aft,
-Egad! she seemed a wicked-looking craft."
-"Armed?"--"I expect so;--sent on the look-out:
-'Tis time, belike, to put our helm about."
-"About?--Whate'er may have us now in chase,
-We'll make no running fight, for that were base;
-We will die at our quarters, like true men."
-"Ey, ey! for that 'tis all the same to Ben."
-"Does Christian know this?"--"Aye; he has piped all hands
-To quarters. They are furbishing the stands
-Of arms; and we have got some guns to bear,
-And scaled them. You are wanted."--"That's but fair;
-And if it were not, mine is not the soul
-To leave my comrades helpless on the shoal.
-My Neuha! ah! and must my fate pursue
-Not me alone, but one so sweet and true?
-But whatsoe'er betide, ah, Neuha! now
-Unman me not: the hour will not allow
-A tear; I am thine whatever intervenes!"
-"Right," quoth Ben; "that will do for the marines."
+_Abel_. Why wilt thou wear this gloom upon thy brow,
+Which can avail thee nothing, save to rouse
+The Eternal anger?
 
-CANTO THE THIRD.
+_Adah_.             My belovéd Cain
+Wilt thou frown even on me?
 
-The fight was o'er; the flashing through the gloom,
-Which robes the cannon as he wings a tomb,
-Had ceased; and sulphury vapours upward driven
-Had left the Earth, and but polluted Heaven:
-The rattling roar which rung in every volley
-Had left the echoes to their melancholy;
-No more they shrieked their horror, boom for boom;
-The strife was done, the vanquished had their doom;
-The mutineers were crushed, dispersed, or ta'en,
-Or lived to deem the happiest were the slain.
-Few, few escaped, and these were hunted o'er
-The isle they loved beyond their native shore.
-No further home was theirs, it seemed, on earth,
-Once renegades to that which gave them birth;
-Tracked like wild beasts, like them they sought the wild,
-As to a Mother's bosom flies the child;
-But vainly wolves and lions seek their den,
-And still more vainly men escape from men.
+_Cain_.                      No, Adah! no;
+I fain would be alone a little while.
+Abel, I'm sick at heart; but it will pass;
+Precede me, brother--I will follow shortly.
+And you, too, sisters, tarry not behind;
+Your gentleness must not be harshly met:
+I'll follow you anon.
 
-Beneath a rock whose jutting base protrudes
-Far over Ocean in its fiercest moods,
-When scaling his enormous crag the wave
-Is hurled down headlong, like the foremost brave,
-And falls back on the foaming crowd behind,
-Which fight beneath the banners of the wind,
-But now at rest, a little remnant drew
-Together, bleeding, thirsty, faint, and few;
-But still their weapons in their hands, and still
-With something of the pride of former will,
-As men not all unused to meditate,
-And strive much more than wonder at their fate.
-Their present lot was what they had foreseen,
-And dared as what was likely to have been;
-Yet still the lingering hope, which deemed their lot
-Not pardoned, but unsought for or forgot,
-Or trusted that, if sought, their distant caves
-Might still be missed amidst the world of waves,
-Had weaned their thoughts in part from what they saw
-And felt, the vengeance of their country's law.
-Their sea-green isle, their guilt-won Paradise,
-No more could shield their Virtue or their Vice:
-Their better feelings, if such were, were thrown
-Back on themselves,--their sins remained alone.
-Proscribed even in their second country, they
-Were lost; in vain the World before them lay;
-All outlets seemed secured. Their new allies
-Had fought and bled in mutual sacrifice;
-But what availed the club and spear, and arm
-Of Hercules, against the sulphury charm,
-The magic of the thunder, which destroyed
-The warrior ere his strength could be employed?
-Dug, like a spreading pestilence, the grave
-No less of human bravery than the brave!
-Their own scant numbers acted all the few
-Against the many oft will dare and do;
-But though the choice seems native to die free,
-Even Greece can boast but one Thermopylæ,
-Till _now_, when she has forged her broken chain
-Back to a sword, and dies and lives again!
+_Adah_.               If not, I will
+Return to seek you here.
 
-Beside the jutting rock the few appeared,
-Like the last remnant of the red-deer's herd;
-Their eyes were feverish, and their aspect worn,
-But still the hunter's blood was on their horn.
-A little stream came tumbling from the height,
-And straggling into ocean as it might,
-Its bounding crystal frolicked in the ray,
-And gushed from cliff to crag with saltless spray;
-Close on the wild, wide ocean, yet as pure
-And fresh as Innocence, and more secure,
-Its silver torrent glittered o'er the deep,
-As the shy chamois' eye o'erlooks the steep,
-While far below the vast and sullen swell
-Of Ocean's alpine azure rose and fell.
-To this young spring they rushed,--all feelings first
-Absorbed in Passion's and in Nature's thirst,--
-Drank as they do who drink their last, and threw
-Their arms aside to revel in its dew;
-Cooled their scorched throats, and washed the gory stains
-From wounds whose only bandage might be chains;
-Then, when their drought was quenched, looked sadly round,
-As wondering how so many still were found
-Alive and fetterless:--but silent all,
-Each sought his fellow's eyes, as if to call
-On him for language which his lips denied,
-As though their voices with their cause had died.
+_Abel_.                   The peace of God
+Be on your spirit, brother!
+                                   [_Exeunt_ ABEL, ZILLAH, _and_ ADAH.
 
-Stern, and aloof a little from the rest,
-Stood Christian, with his arms across his chest.
-The ruddy, reckless, dauntless hue once spread
-Along his cheek was livid now as lead;
-His light-brown locks, so graceful in their flow,
-Now rose like startled vipers o'er his brow.
-Still as a statue, with his lips comprest
-To stifle even the breath within his breast,
-Fast by the rock, all menacing, but mute,
-He stood; and, save a slight beat of his foot,
-Which deepened now and then the sandy dint
-Beneath his heel, his form seemed turned to flint.
-Some paces further Torquil leaned his head
-Against a bank, and spoke not, but he bled,--
-Not mortally:--his worst wound was within;
-His brow was pale, his blue eyes sunken in,
-And blood-drops, sprinkled o'er his yellow hair,
-Showed that his faintness came not from despair,
-But Nature's ebb. Beside him was another,
-Rough as a bear, but willing as a brother,--
-Ben Bunting, who essayed to wash, and wipe,
-And bind his wound--then calmly lit his pipe,
-A trophy which survived a hundred fights,
-A beacon which had cheered ten thousand nights.
-The fourth and last of this deserted group
-Walked up and down--at times would stand, then stoop
-To pick a pebble up--then let it drop--
-Then hurry as in haste--then quickly stop--
-Then cast his eyes on his companions--then
-Half whistle half a tune, and pause again--
-And then his former movements would redouble,
-With something between carelessness and trouble.
-This is a long description, but applies
-To scarce five minutes passed before the eyes;
-But yet _what_ minutes! Moments like to these
-Rend men's lives into immortalities.
+_Cain_ (_solus_).           And this is
+Life?--Toil! and wherefore should I toil?--because
+My father could not keep his place in Eden?
+What had _I_ done in this?--I was unborn:
+I sought not to be born; nor love the state
+To which that birth has brought me. Why did he
+Yield to the Serpent and the woman? or
+Yielding--why suffer? What was there in this?
+The tree was planted, and why not for him?
+If not, why place him near it, where it grew
+The fairest in the centre? They have but
+One answer to all questions, "'Twas _his_ will,
+And _he_ is good." How know I that? Because
+He is all-powerful, must all-good, too, follow?
+I judge but by the fruits--and they are bitter--
+Which I must feed on for a fault not mine.
+Whom have we here?--A shape like to the angels
+Yet of a sterner and a sadder aspect
+Of spiritual essence: why do I quake?
+Why should I fear him more than other spirits,
+Whom I see daily wave their fiery swords
+Before the gates round which I linger oft,
+In Twilight's hour, to catch a glimpse of those
+Gardens which are my just inheritance,
+Ere the night closes o'er the inhibited walls
+And the immortal trees which overtop
+The Cherubim-defended battlements?
+If I shrink not from these, the fire-armed angels,
+Why should I quail from him who now approaches?
+Yet--he seems mightier far than them, nor less
+Beauteous, and yet not all as beautiful
+As he hath been, and might be: sorrow seems
+Half of his immortality. And is it
+So? and can aught grieve save Humanity?
+He cometh.
 
-At length Jack Skyscrape, a mercurial man,
-Who fluttered over all things like a fan,
-More brave than firm, and more disposed to dare
-And die at once than wrestle with despair,
-Exclaimed, "G--d damn!"--those syllables intense,--
-Nucleus of England's native eloquence,
-As the Turk's "Allah!" or the Roman's more
-Pagan "Proh Jupiter!" was wont of yore
-To give their first impressions such a vent,
-By way of echo to embarrassment.
-Jack was embarrassed,--never hero more,
-And as he knew not what to say, he swore:
-Nor swore in vain; the long congenial sound
-Revived Ben Bunting from his pipe profound;
-He drew it from his mouth, and looked full wise,
-But merely added to the oath his _eyes_;
-Thus rendering the imperfect phrase complete,
-A peroration I need not repeat.
+                         _Enter_ LUCIFER.
 
-But Christian, of a higher order, stood
-Like an extinct volcano in his mood;
-Silent, and sad, and savage,--with the trace
-Of passion reeking from his clouded face;
-Till lifting up again his sombre eye,
-It glanced on Torquil, who leaned faintly by.
-"And is it thus?" he cried, "unhappy boy!
-And thee, too, _thee_--my madness must destroy!"
-He said, and strode to where young Torquil stood,
-Yet dabbled with his lately flowing blood;
-Seized his hand wistfully, but did not press,
-And shrunk as fearful of his own caress;
-Enquired into his state: and when he heard
-The wound was slighter than he deemed or feared,
-A moment's brightness passed along his brow,
-As much as such a moment would allow.
-"Yes," he exclaimed, "we are taken in the toil,
-But not a coward or a common spoil;
-Dearly they have bought us--dearly still may buy,--
-And I must fall; but have _you_ strength to fly?
-'Twould be some comfort still, could you survive;
-Our dwindled band is now too few to strive.
-Oh! for a sole canoe! though but a shell,
-To bear you hence to where a hope may dwell!
-For me, my lot is what I sought; to be,
-In life or death, the fearless and the free."
+_Lucifer_. Mortal!
 
-Even as he spoke, around the promontory,
-Which nodded o'er the billows high and hoary,
-A dark speck dotted Ocean: on it flew
-Like to the shadow of a roused sea-mew;
-Onward it came--and, lo! a second followed--
-Now seen--now hid--where Ocean's vale was hollowed;
-And near, and nearer, till the dusky crew
-Presented well-known aspects to the view,
-Till on the surf their skimming paddles play,
-Buoyant as wings, and flitting through the spray;--
-Now perching on the wave's high curl, and now
-Dashed downward in the thundering foam below,
-Which flings it broad and boiling sheet on sheet,
-And slings its high flakes, shivered into sleet:
-But floating still through surf and swell, drew nigh
-The barks, like small birds through a lowering sky.
-Their art seemed nature--such the skill to sweep
-The wave of these born playmates of the deep.
+_Cain_.             Spirit, who art thou?
 
-And who the first that, springing on the strand,
-Leaped like a Nereid from her shell to land,
-With dark but brilliant skin, and dewy eye
-Shining with love, and hope, and constancy?
-Neuha--the fond, the faithful, the adored--
-Her heart on Torquil's like a torrent poured;
-And smiled, and wept, and near, and nearer clasped,
-As if to be assured 'twas _him_ she grasped;
-Shuddered to see his yet warm wound, and then,
-To find it trivial, smiled and wept again.
-She was a warrior's daughter, and could bear
-Such sights, and feel, and mourn, but not despair.
-Her lover lived,--nor foes nor fears could blight
-That full-blown moment in its all delight:
-Joy trickled in her tears, joy filled the sob
-That rocked her heart till almost heard to throb;
-And Paradise was breathing in the sigh
-Of Nature's child in Nature's ecstasy.
+_Lucifer_. Master of spirits.
 
-The sterner spirits who beheld that meeting
-Were not unmoved; who are, when hearts are greeting?
-Even Christian gazed upon the maid and boy
-With tearless eye, but yet a gloomy joy
-Mixed with those bitter thoughts the soul arrays
-In hopeless visions of our better days,
-When all's gone--to the rainbow's latest ray.
-"And but for me!" he said, and turned away;
-Then gazed upon the pair, as in his den
-A lion looks upon his cubs again;
-And then relapsed into his sullen guise,
-As heedless of his further destinies.
+_Cain_.                        And being so, canst thou
+Leave them, and walk with dust?
 
-But brief their time for good or evil thought;
-The billows round the promontory brought
-The plash of hostile oars.--Alas! who made
-That sound a dread? All around them seemed arrayed
-Against them, save the bride of Toobonai:
-She, as she caught the first glimpse o'er the bay
-Of the armed boats, which hurried to complete
-The remnant's ruin with their flying feet,
-Beckoned the natives round her to their prows,
-Embarked their guests and launched their light canoes;
-In one placed Christian and his comrades twain--
-But she and Torquil must not part again.
-She fixed him in her own.--Away! away!
-They cleared the breakers, dart along the bay,
-And towards a group of islets, such as bear
-The sea-bird's nest and seal's surf-hollowed lair,
-They skim the blue tops of the billows; fast
-They flew, and fast their fierce pursuers chased.
-They gain upon them--now they lose again,--
-Again make way and menace o'er the main;
-And now the two canoes in chase divide,
-And follow different courses o'er the tide,
-To baffle the pursuit.--Away! away!
-As Life is on each paddle's flight to-day,
-And more than Life or lives to Neuha: Love
-Freights the frail bark and urges to the cove;
-And now the refuge and the foe are nigh--
-Yet, yet a moment! Fly, thou light ark, fly!
+_Lucifer_.                     I know the thoughts
+Of dust, and feel for it, and with you.
 
-CANTO THE FOURTH.
+_Cain_.                                How!
+You know my thoughts?
 
-White as a white sail on a dusky sea,
-When half the horizon's clouded and half free,
-Fluttering between the dun wave and the sky,
-Is Hope's last gleam in Man's extremity.
-Her anchor parts; but still her snowy sail
-Attracts our eye amidst the rudest gale:
-Though every wave she climbs divides us more,
-The heart still follows from the loneliest shore.
+_Lucifer_.            They are the thoughts of all
+Worthy of thought;--'tis your immortal part
+Which speaks within you.
 
-Not distant from the isle of Toobonai,
-A black rock rears its bosom o'er the spray,
-The haunt of birds, a desert to mankind,
-Where the rough seal reposes from the wind,
-And sleeps unwieldy in his cavern dun,
-Or gambols with huge frolic in the sun:
-There shrilly to the passing oar is heard
-The startled echo of the Ocean bird,
-Who rears on its bare breast her callow brood,
-The feathered fishers of the solitude.
-A narrow segment of the yellow sand
-On one side forms the outline of a strand;
-Here the young turtle, crawling from his shell,
-Steals to the deep wherein his parents dwell;
-Chipped by the beam, a nursling of the day,
-But hatched for ocean by the fostering ray;
-The rest was one bleak precipice, as e'er
-Gave mariners a shelter and despair;
-A spot to make the saved regret the deck
-Which late went down, and envy the lost wreck.
-Such was the stern asylum Neuha chose
-To shield her lover from his following foes;
-But all its secret was not told; she knew
-In this a treasure hidden from the view.
+_Cain_.                   What immortal part?
+This has not been revealed: the Tree of Life
+Was withheld from us by my father's folly,
+While that of Knowledge, by my mother's haste,
+Was plucked too soon; and all the fruit is Death!
 
-Ere the canoes divided, near the spot,
-The men that manned what held her Torquil's lot,
-By her command removed, to strengthen more
-The skiff which wafted Christian from the shore.
-This he would have opposed; but with a smile
-She pointed calmly to the craggy isle,
-And bade him "speed and prosper." _She_ would take
-The rest upon herself for Torquil's sake.
-They parted with this added aid; afar,
-The Proa darted like a shooting star,
-And gained on the pursuers, who now steered
-Right on the rock which she and Torquil neared.
-They pulled; her arm, though delicate, was free
-And firm as ever grappled with the sea,
-And yielded scarce to Torquil's manlier strength.
-The prow now almost lay within its length
-Of the crag's steep inexorable face,
-With nought but soundless waters for its base;
-Within a hundred boats' length was the foe,
-And now what refuge but their frail canoe?
-This Torquil asked with half upbraiding eye,
-Which said--"Has Neuha brought me here to die?
-Is this a place of safety, or a grave,
-And yon huge rock the tombstone of the wave?"
+_Lucifer_. They have deceived thee; thou shalt live.
 
-They rested on their paddles, and uprose
-Neuha, and pointing to the approaching foes,
-Cried, "Torquil, follow me, and fearless follow!"
-Then plunged at once into the Ocean's hollow.
-There was no time to pause--the foes were near--
-Chains in his eye, and menace in his ear;
-With vigour they pulled on, and as they came,
-Hailed him to yield, and by his forfeit name.
-Headlong he leapt--to him the swimmer's skill
-Was native, and now all his hope from ill:
-But how, or where? He dived, and rose no more;
-The boat's crew looked amazed o'er sea and shore.
-There was no landing on that precipice,
-Steep, harsh, and slippery as a berg of ice.
-They watched awhile to see him float again,
-But not a trace rebubbled from the main:
-The wave rolled on, no ripple on its face,
-Since their first plunge recalled a single trace;
-The little whirl which eddied, and slight foam,
-That whitened o'er what seemed their latest home,
-White as a sepulchre above the pair
-Who left no marble (mournful as an heir)
-The quiet Proa wavering o'er the tide
-Was all that told of Torquil and his bride;
-And but for this alone the whole might seem
-The vanished phantom of a seaman's dream.
-They paused and searched in vain, then pulled away;
-Even Superstition now forbade their stay.
-Some said he had not plunged into the wave,
-But vanished like a corpse-light from a grave;
-Others, that something supernatural
-Glared in his figure, more than mortal tall;
-While all agreed that in his cheek and eye
-There was a dead hue of Eternity.
-Still as their oars receded from the crag,
-Round every weed a moment would they lag,
-Expectant of some token of their prey;
-But no--he had melted from them like the spray.
+_Cain_.                                               I live,
+But live to die; and, living, see no thing
+To make death hateful, save an innate clinging,
+A loathsome, and yet all invincible
+Instinct of life, which I abhor, as I
+Despise myself, yet cannot overcome--
+And so I live. Would I had never lived!
 
-And where was he the Pilgrim of the Deep,
-Following the Nereid? Had they ceased to weep
-For ever? or, received in coral caves,
-Wrung life and pity from the softening waves?
-Did they with Ocean's hidden sovereigns dwell,
-And sound with Mermen the fantastic shell?
-Did Neuha with the mermaids comb her hair
-Flowing o'er ocean as it streamed in air?
-Or had they perished, and in silence slept
-Beneath the gulf wherein they boldly leapt?
+_Lucifer_. Thou livest--and must live for ever. Think not
+The Earth, which is thine outward cov'ring, is
+Existence--it will cease--and thou wilt be--
+No less than thou art now.
 
-Young Neuha plunged into the deep, and he
-Followed: her track beneath her native sea
-Was as a native's of the element,
-So smoothly--bravely--brilliantly she went,
-Leaving a streak of light behind her heel,
-Which struck and flashed like an amphibious steel,
-Closely, and scarcely less expert to trace
-The depths where divers hold the pearl in chase,
-Torquil, the nursling of the northern seas,
-Pursued her liquid steps with heart and ease.
-Deep--deeper for an instant Neuha led
-The way--then upward soared--and as she spread
-Her arms, and flung the foam from off her locks,
-Laughed, and the sound was answered by the rocks.
-They had gained a central realm of earth again,
-But looked for tree, and field, and sky, in vain.
-Around she pointed to a spacious cave,
-Whose only portal was the keyless wave,
-(A hollow archway by the sun unseen,
-Save through the billows' glassy veil of green,
-In some transparent ocean holiday,
-When all the finny people are at play,)
-Wiped with her hair the brine from Torquil's eyes,
-And clapped her hands with joy at his surprise;
-Led him to where the rock appeared to jut,
-And form a something like a Triton's hut;
-For all was darkness for a space, till day,
-Through clefts above let in a sobered ray;
-As in some old cathedral's glimmering aisle
-The dusty monuments from light recoil,
-Thus sadly in their refuge submarine
-The vault drew half her shadow from the scene.
+_Cain_.                    No _less_! and why
+No more?
 
-Forth from her bosom the young savage drew
-A pine torch, strongly girded with gnatoo;
-A plantain-leaf o'er all, the more to keep
-Its latent sparkle from the sapping deep.
-This mantle kept it dry; then from a nook
-Of the same plantain-leaf a flint she took,
-A few shrunk withered twigs, and from the blade
-Of Torquil's knife struck fire, and thus arrayed
-The grot with torchlight. Wide it was and high,
-And showed a self-born Gothic canopy;
-The arch upreared by Nature's architect,
-The architrave some Earthquake might erect;
-The buttress from some mountain's bosom hurled,
-When the Poles crashed, and water was the world;
-Or hardened from some earth-absorbing fire,
-While yet the globe reeked from its funeral pyre;
-The fretted pinnacle, the aisle, the nave,
-Were there, all scooped by Darkness from her cave.
-There, with a little tinge of phantasy,
-Fantastic faces moped and mowed on high,
-And then a mitre or a shrine would fix
-The eye upon its seeming crucifix.
-Thus Nature played with the stalactites,
-And built herself a Chapel of the Seas.
+_Lucifer_.    It may be thou shalt be as we.
 
-And Neuha took her Torquil by the hand,
-And waved along the vault her kindled brand,
-And led him into each recess, and showed
-The secret places of their new abode.
-Nor these alone, for all had been prepared
-Before, to soothe the lover's lot she shared:
-The mat for rest; for dress the fresh gnatoo,
-And sandal oil to fence against the dew;
-For food the cocoa-nut, the yam, the bread
-Born of the fruit; for board the plantain spread
-With its broad leaf, or turtle-shell which bore
-A banquet in the flesh it covered o'er;
-The gourd with water recent from the rill,
-The ripe banana from the mellow hill;
-A pine-torch pile to keep undying light,
-And she herself, as beautiful as night,
-To fling her shadowy spirit o'er the scene,
-And make their subterranean world serene.
-She had foreseen, since first the stranger's sail
-Drew to their isle, that force or flight might fail,
-And formed a refuge of the rocky den
-For Torquil's safety from his countrymen.
-Each dawn had wafted there her light canoe,
-Laden with all the golden fruits that grew;
-Each eve had seen her gliding through the hour
-With all could cheer or deck their sparry bower;
-And now she spread her little store with smiles,
-The happiest daughter of the loving isles.
+_Cain_. And ye?
 
-She, as he gazed with grateful wonder, pressed
-Her sheltered love to her impassioned breast;
-And suited to her soft caresses, told
-An olden tale of Love,--for Love is old,
-Old as eternity, but not outworn
-With each new being born or to be born:
-How a young Chief, a thousand moons ago,
-Diving for turtle in the depths below,
-Had risen, in tracking fast his ocean prey,
-Into the cave which round and o'er them lay;
-How, in some desperate feud of after-time,
-He sheltered there a daughter of the clime,
-A foe beloved, and offspring of a foe,
-Saved by his tribe but for a captive's woe;
-How, when the storm of war was stilled, he led
-His island clan to where the waters spread
-Their deep-green shadow o'er the rocky door,
-Then dived--it seemed as if to rise no more:
-His wondering mates, amazed within their bark,
-Or deemed him mad, or prey to the blue shark;
-Rowed round in sorrow the sea-girded rock,
-Then paused upon their paddles from the shock;
-When, fresh and springing from the deep, they saw
-A Goddess rise--so deemed they in their awe;
-And their companion, glorious by her side,
-Proud and exulting in his Mermaid bride;
-And how, when undeceived, the pair they bore
-With sounding conchs and joyous shouts to shore;
-How they had gladly lived and calmly died,--
-And why not also Torquil and his bride?
-Not mine to tell the rapturous caress
-Which followed wildly in that wild recess
-This tale; enough that all within that cave
-Was love, though buried strong as in the grave,
-Where Abelard, through twenty years of death,
-When Eloïsa's form was lowered beneath
-Their nuptial vault, his arms outstretched, and pressed
-The kindling ashes to his kindled breast.
-The waves without sang round their couch, their roar
-As much unheeded as if life were o'er;
-Within, their hearts made all their harmony,
-Love's broken murmur and more broken sigh.
+_Lucifer_.      Are everlasting.
 
-And they, the cause and sharers of the shock
-Which left them exiles of the hollow rock,
-Where were they? O'er the sea for life they plied,
-To seek from Heaven the shelter men denied.
-Another course had been their choice--but where?
-The wave which bore them still their foes would bear,
-Who, disappointed of their former chase,
-In search of Christian now renewed their race.
-Eager with anger, their strong arms made way,
-Like vultures baffled of their previous prey.
-They gained upon them, all whose safety lay
-In some bleak crag or deeply-hidden bay:
-No further chance or choice remained; and right
-For the first further rock which met their sight
-They steered, to take their latest view of land,
-And yield as victims, or die sword in hand;
-Dismissed the natives and their shallop, who
-Would still have battled for that scanty crew;
-But Christian bade them seek their shore again,
-Nor add a sacrifice which were in vain;
-For what were simple bow and savage spear
-Against the arms which must be wielded here?
+_Cain_.                         Are ye happy?
 
-They landed on a wild but narrow scene,
-Where few but Nature's footsteps yet had been;
-Prepared their arms, and with that gloomy eye,
-Stern and sustained, of man's extremity,
-When Hope is gone, nor Glory's self remains
-To cheer resistance against death or chains.--
-They stood, the three, as the three hundred stood
-Who dyed Thermopylæ with holy blood.
-But, ah! how different! 'tis the _cause_ makes all,
-Degrades or hallows courage in its fall.
-O'er them no fame, eternal and intense,
-Blazed through the clouds of Death and beckoned hence;
-No grateful country, smiling through her tears,
-Begun the praises of a thousand years;
-No nation's eyes would on their tomb be bent,
-No heroes envy them their monument;
-However boldly their warm blood was spilt,
-Their Life was shame, their Epitaph was guilt.
-And this they knew and felt, at least the one,
-The leader of the band he had undone;
-Who, born perchance for better things, had set
-His life upon a cast which lingered yet:
-But now the die was to be thrown, and all
-The chances were in favour of his fall:
-And such a fall! But still he faced the shock,
-Obdurate as a portion of the rock
-Whereon he stood, and fixed his levelled gun,
-Dark as a sullen cloud before the sun.
+_Lucifer_. We are mighty.
 
-The boat drew nigh, well armed, and firm the crew
-To act whatever Duty bade them do;
-Careless of danger, as the onward wind
-Is of the leaves it strews, nor looks behind.
-And, yet, perhaps, they rather wished to go
-Against a nation's than a native foe,
-And felt that this poor victim of self-will,
-Briton no more, had once been Britain's still.
-They hailed him to surrender--no reply;
-Their arms were poised, and glittered in the sky.
-They hailed again--no answer; yet once more
-They offered quarter louder than before.
-The echoes only, from the rock's rebound,
-Took their last farewell of the dying sound.
-Then flashed the flint, and blazed the volleying flame,
-And the smoke rose between them and their aim,
-While the rock rattled with the bullets' knell,
-Which pealed in vain, and flattened as they fell;
-Then flew the only answer to be given
-By those who had lost all hope in earth or heaven.
-After the first fierce peal as they pulled nigher,
-They heard the voice of Christian shout, "Now, fire!"
-And ere the word upon the echo died,
-Two fell; the rest assailed the rock's rough side,
-And, furious at the madness of their foes,
-Disdained all further efforts, save to close.
-But steep the crag, and all without a path,
-Each step opposed a bastion to their wrath,
-While, placed 'midst clefts the least accessible,
-Which Christian's eye was trained to mark full well,
-The three maintained a strife which must not yield,
-In spots where eagles might have chosen to build.
-Their every shot told; while the assailant fell,
-Dashed on the shingles like the limpet shell;
-But still enough survived, and mounted still,
-Scattering their numbers here and there, until
-Surrounded and commanded, though not nigh
-Enough for seizure, near enough to die,
-The desperate trio held aloof their fate
-But by a thread, like sharks who have gorged the bait;
-Yet to the very last they battled well,
-And not a groan informed their foes _who_ fell.
-Christian died last--twice wounded; and once more
-Mercy was offered when they saw his gore;
-Too late for life, but not too late to die,
-With, though a hostile hand, to close his eye.
-A limb was broken, and he drooped along
-The crag, as doth a falcon reft of young.
-The sound revived him, or appeared to wake
-Some passion which a weakly gesture spake:
-He beckoned to the foremost, who drew nigh,
-But, as they neared, he reared his weapon high--
-His last ball had been aimed, but from his breast
-He tore the topmost button from his vest,
-Down the tube dashed it--levelled--fired, and smiled
-As his foe fell; then, like a serpent, coiled
-His wounded, weary form, to where the steep
-Looked desperate as himself along the deep;
-Cast one glance back, and clenched his hand, and shook
-His last rage 'gainst the earth which he forsook;
-Then plunged: the rock below received like glass
-His body crushed into one gory mass,
-With scarce a shred to tell of human form,
-Or fragment for the sea-bird or the worm;
-A fair-haired scalp, besmeared with blood and weeds,
-Yet reeked, the remnant of himself and deeds;
-Some splinters of his weapons (to the last,
-As long as hand could hold, he held them fast)
-Yet glittered, but at distance--hurled away
-To rust beneath the dew and dashing spray.
-The rest was nothing--save a life mis-spent,
-And soul--but who shall answer where it went?
-'Tis ours to bear, not judge the dead; and they
-Who doom to Hell, themselves are on the way,
-Unless these bullies of eternal pains
-Are pardoned their bad hearts for their worse brains.
+_Cain_.                    Are ye happy?
 
-The deed was over! All were gone or ta'en,
-The fugitive, the captive, or the slain.
-Chained on the deck, where once, a gallant crew,
-They stood with honour, were the wretched few
-Survivors of the skirmish on the isle;
-But the last rock left no surviving spoil.
-Cold lay they where they fell, and weltering,
-While o'er them flapped the sea-birds' dewy wing,
-Now wheeling nearer from the neighbouring surge,
-And screaming high their harsh and hungry dirge:
-But calm and careless heaved the wave below,
-Eternal with unsympathetic flow;
-Far o'er its face the Dolphins sported on,
-And sprung the flying fish against the sun,
-Till its dried wing relapsed from its brief height,
-To gather moisture for another flight.
+_Lucifer_.                               No: art thou?
 
-'Twas morn; and Neuha, who by dawn of day
-Swam smoothly forth to catch the rising ray,
-And watch if aught approached the amphibious lair
-Where lay her lover, saw a sail in air:
-It flapped, it filled, and to the growing gale
-Bent its broad arch: her breath began to fail
-With fluttering fear, her heart beat thick and high,
-While yet a doubt sprung where its course might lie.
-But no! it came not; fast and far away
-The shadow lessened as it cleared the bay.
-She gazed, and flung the sea-foam from her eyes,
-To watch as for a rainbow in the skies.
-On the horizon verged the distant deck,
-Diminished, dwindled to a very speck--
-Then vanished. All was Ocean, all was Joy!
-Down plunged she through the cave to rouse her boy;
-Told all she had seen, and all she hoped, and all
-That happy love could augur or recall;
-Sprung forth again, with Torquil following free
-His bounding Nereid over the broad sea;
-Swam round the rock, to where a shallow cleft
-Hid the canoe that Neuha there had left
-Drifting along the tide, without an oar,
-That eve the strangers chased them from the shore;
-But when these vanished, she pursued her prow,
-Regained, and urged to where they found it now:
-Nor ever did more love and joy embark,
-Than now were wafted in that slender ark.
+_Cain_. How should I be so? Look on me!
 
-Again their own shore rises on the view,
-No more polluted with a hostile hue;
-No sullen ship lay bristling o'er the foam,
-A floating dungeon:--all was Hope and Home!
-A thousand Proas darted o'er the bay,
-With sounding shells, and heralded their way;
-The chiefs came down, around the people poured,
-And welcomed Torquil as a son restored;
-The women thronged, embracing and embraced
-By Neuha, asking where they had been chased,
-And how escaped? The tale was told; and then
-One acclamation rent the sky again;
-And from that hour a new tradition gave
-Their sanctuary the name of "Neuha's Cave."
-A hundred fires, far flickering from the height,
-Blazed o'er the general revel of the night,
-The feast in honour of the guest, returned
-To Peace and Pleasure, perilously earned;
-A night succeeded by such happy days
-As only the yet infant world displays.
+_Lucifer_.                               Poor clay!
+And thou pretendest to be wretched! Thou!
+
+_Cain_. I am:--and thou, with all thy might, what art thou?
+
+_Lucifer_. One who aspired to be what made thee, and
+Would not have made thee what thou art.
+
+_Cain_.                                 Ah!
+Thou look'st almost a god; and----
+
+_Lucifer_.                        I am none:
+And having failed to be one, would be nought
+Save what I am. He conquered; let him reign!
+
+_Cain_. Who?
+
+_Lucifer_.   Thy Sire's maker--and the Earth's.
+
+_Cain_.                                        And Heaven's,
+And all that in them is. So I have heard
+His Seraphs sing; and so my father saith.
+
+_Lucifer_. They say--what they must sing and say, on pain
+Of being that which I am,--and thou art--
+Of spirits and of men.
+
+_Cain_.                And what is that?
+
+_Lucifer_. Souls who dare use their immortality--
+Souls who dare look the Omnipotent tyrant in
+His everlasting face, and tell him that
+His evil is not good! If he has made,
+As he saith--which I know not, nor believe--
+But, if he made us--he cannot unmake:
+We are immortal!--nay, he'd _have_ us so,
+That he may torture:--let him! He is great--
+But, in his greatness, is no happier than
+We in our conflict! Goodness would not make
+Evil; and what else hath he made? But let him
+Sit on his vast and solitary throne--
+Creating worlds, to make eternity
+Less burthensome to his immense existence
+And unparticipated solitude;
+Let him crowd orb on orb: he is alone
+Indefinite, Indissoluble Tyrant;
+Could he but crush himself, 'twere the best boon
+He ever granted: but let him reign on!
+And multiply himself in misery!
+Spirits and Men, at least we sympathise--
+And, suffering in concert, make our pangs
+Innumerable, more endurable,
+By the unbounded sympathy of all
+With all! But _He_! so wretched in his height,
+So restless in his wretchedness, must still
+Create, and re-create--perhaps he'll make
+One day a Son unto himself--as he
+Gave you a father--and if he so doth,
+Mark me! that Son will be a sacrifice!
+
+_Cain_. Thou speak'st to me of things which long have swum
+In visions through my thought: I never could
+Reconcile what I saw with what I heard.
+My father and my mother talk to me
+Of serpents, and of fruits and trees: I see
+The gates of what they call their Paradise
+Guarded by fiery-sworded Cherubim,
+Which shut them out--and me: I feel the weight
+Of daily toil, and constant thought: I look
+Around a world where I seem nothing, with
+Thoughts which arise within me, as if they
+Could master all things--but I thought alone
+This misery was _mine_. My father is
+Tamed down; my mother has forgot the mind
+Which made her thirst for knowledge at the risk
+Of an eternal curse; my brother is
+A watching shepherd boy, who offers up
+The firstlings of the flock to him who bids
+The earth yield nothing to us without sweat;
+My sister Zillah sings an earlier hymn
+Than the birds' matins; and my Adah--my
+Own and belovéd--she, too, understands not
+The mind which overwhelms me: never till
+Now met I aught to sympathise with me.
+'Tis well--I rather would consort with spirits.
+
+_Lucifer_. And hadst thou not been fit by thine own soul
+For such companionship, I would not now
+Have stood before thee as I am: a serpent
+Had been enough to charm ye, as before.
+
+_Cain_. Ah! didst _thou_ tempt my mother?
+
+_Lucifer_.                                I tempt none,
+Save with the truth: was not the Tree, the Tree
+Of Knowledge? and was not the Tree of Life
+Still fruitful? Did _I_ bid her pluck them not?
+Did I plant things prohibited within
+The reach of beings innocent, and curious
+By their own innocence? I would have made ye
+Gods; and even He who thrust ye forth, so thrust ye
+Because "ye should not eat the fruits of life,
+And become gods as we." Were those his words?
+
+_Cain_.   They were, as I have heard from those who heard them,
+In thunder.
+
+_Lucifer_.    Then who was the Demon? He
+Who would not let ye live, or he who would
+Have made ye live for ever, in the joy
+And power of Knowledge?
+
+_Cain_.                Would they had snatched both
+The fruits, or neither!
+
+_Lucifer_.              One is yours already,
+The other may be still.
+
+_Cain_.                  How so?
+
+_Lucifer_.                      By being
+Yourselves, in your resistance. Nothing can
+Quench the mind, if the mind will be itself
+And centre of surrounding things--'tis made
+To sway.
+
+_Cain_.   But didst thou tempt my parents?
+
+_Lucifer_.                                  I?
+Poor clay--what should I tempt them for, or how?
+
+_Cain_. They say the Serpent was a spirit.
+
+_Lucifer_.                                   Who
+Saith that? It is not written so on high:
+The proud One will not so far falsify,
+Though man's vast fears and little vanity
+Would make him cast upon the spiritual nature
+His own low failing. The snake _was_ the snake--
+No more; and yet not less than those he tempted,
+In nature being earth also--_more_ in _wisdom_,
+Since he could overcome them, and foreknew
+The knowledge fatal to their narrow joys.
+Think'st thou I'd take the shape of things that die?
+
+_Cain_. But the thing had a demon?
+
+_Lucifer_.                         He but woke one
+In those he spake to with his forky tongue.
+I tell thee that the Serpent was no more
+Than a mere serpent: ask the Cherubim
+Who guard the tempting tree. When thousand ages
+Have rolled o'er your dead ashes, and your seed's,
+The seed of the then world may thus array
+Their earliest fault in fable, and attribute
+To me a shape I scorn, as I scorn all
+That bows to him, who made things but to bend
+Before his sullen, sole eternity;
+But we, who see the truth, must speak it. Thy
+Fond parents listened to a creeping thing,
+And fell. For what should spirits tempt them? What
+Was there to envy in the narrow bounds
+Of Paradise, that spirits who pervade
+Space----but I speak to thee of what thou know'st not,
+With all thy Tree of Knowledge.
+
+_Cain_.                         But thou canst not
+Speak aught of Knowledge which I would not know,
+And do not thirst to know, and bear a mind
+To know.
+
+_Lucifer_.   And heart to look on?
+
+_Cain_.                           Be it proved.
+
+_Lucifer_. Darest thou look on Death?
+
+_Cain_.                                He has not yet
+Been seen.
+
+_Lucifer_. But must be undergone.
+
+_Cain_.                            My father
+Says he is something dreadful, and my mother
+Weeps when he's named; and Abel lifts his eyes
+To Heaven, and Zillah casts hers to the earth,
+And sighs a prayer; and Adah looks on me,
+And speaks not.
+
+_Lucifer_.     And thou?
+
+_Cain_.                 Thoughts unspeakable
+Crowd in my breast to burning, when I hear
+Of this almighty Death, who is, it seems,
+Inevitable. Could I wrestle with him?
+I wrestled with the lion, when a boy,
+In play, till he ran roaring from my gripe.
+
+_Lucifer_. It has no shape; but will absorb all things
+That bear the form of earth-born being.
+
+_Cain_.                                 Ah!
+I thought it was a being: who could do
+Such evil things to beings save a being?
+
+_Lucifer_. Ask the Destroyer.
+
+_Cain_.                       Who?
+
+_Lucifer_.                        The Maker--Call him
+Which name thou wilt: he makes but to destroy.
+
+_Cain_. I knew not that, yet thought it, since I heard
+Of Death: although I know not what it is--
+Yet it seems horrible. I have looked out
+In the vast desolate night in search of him;
+And when I saw gigantic shadows in
+The umbrage of the walls of Eden, chequered
+By the far-flashing of the Cherubs' swords,
+I watched for what I thought his coming; for
+With fear rose longing in my heart to know
+What 'twas which shook us all--but nothing came.
+And then I turned my weary eyes from off
+Our native and forbidden Paradise,
+Up to the lights above us, in the azure,
+Which are so beautiful: shall they, too, die?
+
+_Lucifer_. Perhaps--but long outlive both thine and thee.
+
+_Cain_. I'm glad of that: I would not have them die--
+They are so lovely. What is Death? I fear,
+I feel, it is a dreadful thing; but what,
+I cannot compass: 'tis denounced against us,
+Both them who sinned and sinned not, as an ill--
+What ill?
+
+_Lucifer_. To be resolved into the earth.
+
+_Cain_. But shall I know it?
+
+_Lucifer_.                   As I know not death,
+I cannot answer.
+
+_Cain_.              Were I quiet earth,
+That were no evil: would I ne'er had been
+Aught else but dust!
+
+_Lucifer_.           That is a _grovelling_ wish,
+Less than thy father's--for he wished to know!
+
+_Cain_. But not to live--or wherefore plucked he not
+The Life-tree?
+
+_Lucifer_.    He was hindered.
+
+_Cain_.                       Deadly error!
+Not to snatch first that fruit:--but ere he plucked
+The knowledge, he was ignorant of Death.
+Alas! I scarcely now know what it is,
+And yet I fear it--fear I know not what!
+
+_Lucifer_. And I, who know all things, fear nothing; see
+What is true knowledge.
+
+_Cain_.                 Wilt thou teach me all?
+
+_Lucifer_. Aye, upon one condition.
+
+_Cain_.                              Name it.
+
+_Lucifer_.                                    That
+Thou dost fall down and worship me--thy Lord.
+
+_Cain_. Thou art not the Lord my father worships.
+
+_Lucifer_.                                         No.
+
+_Cain_. His equal?
+
+_Lucifer_.        No;--I have nought in common with him!
+Nor would: I would be aught above--beneath--
+Aught save a sharer or a servant of
+His power. I dwell apart; but I am great:--
+Many there are who worship me, and more
+Who shall--be thou amongst the first.
+
+_Cain_.                              I never
+As yet have bowed unto my father's God.
+Although my brother Abel oft implores
+That I would join with him in sacrifice:--
+Why should I bow to thee?
+
+_Lucifer_.                 Hast thou ne'er bowed
+To him?
+
+_Cain_. Have I not said it?--need I say it?
+Could not thy mighty knowledge teach thee that?
+
+_Lucifer_. He who bows not to him has bowed to me.
+
+_Cain_. But I will bend to neither.
+
+_Lucifer_.                          Ne'er the less,
+Thou art my worshipper; not worshipping
+Him makes thee mine the same.
+
+_Cain_.                       And what is that?
+
+_Lucifer_. Thou'lt know here--and hereafter.
+
+_Cain_.                                      Let me but
+Be taught the mystery of my being.
+
+_Lucifer_.                        Follow
+Where I will lead thee.
+
+_Cain_.                 But I must retire
+To till the earth--for I had promised----
+
+_Lucifer_.                                What?
+
+_Cain_. To cull some first-fruits.
+
+_Lucifer_.                        Why?
+
+_Cain_.                               To offer up
+With Abel on an altar.
+
+_Lucifer_.            Said'st thou not
+Thou ne'er hadst bent to him who made thee?
+
+_Cain_.                                     Yes--
+But Abel's earnest prayer has wrought upon me;
+The offering is more his than mine--and Adah----
+
+_Lucifer_. Why dost thou hesitate?
+
+_Cain_.                           She is my sister,
+Born on the same day, of the same womb; and
+She wrung from me, with tears, this promise; and
+Rather than see her weep, I would, methinks,
+Bear all--and worship aught.
+
+_Lucifer_.                   Then follow me!
+
+_Cain_. I will.
+
+                          _Enter_ ADAH.
+
+_Adah_.         My brother, I have come for thee;
+It is our hour of rest and joy--and we
+Have less without thee. Thou hast laboured not
+This morn; but I have done thy task: the fruits
+Are ripe, and glowing as the light which ripens:
+Come away.
+
+_Cain_.    Seest thou not?
+
+_Adah_.                    I see an angel;
+We have seen many: will he share our hour
+Of rest?--he is welcome.
+
+_Cain_.                  But he is not like
+The angels we have seen.
+
+_Adah_.                  Are there, then, others?
+But he is welcome, as they were: they deigned
+To be our guests--will he?
+
+_Cain_ (_to Lucifer_).    Wilt thou?
+
+_Lucifer_.                          I ask
+Thee to be mine.
+
+_Cain_.          I must away with him.
+
+_Adah_. And leave us?
+
+_Cain_.                Aye.
+
+_Adah_.                     And _me_?
+
+_Cain_.                              Belovéd Adah!
+
+_Adah_. Let me go with thee.
+
+_Lucifer_.                   No, she must not.
+
+_Adah_.                                       Who
+Art thou that steppest between heart and heart?
+
+_Cain_. He is a God.
+
+_Adah_.              How know'st thou?
+
+_Cain_.                               He speaks like
+A God.
+
+_Adah_. So did the Serpent, and it lied.
+
+_Lucifer_. Thou errest, Adah!--was not the Tree that
+Of Knowledge?
+
+_Adah_.      Aye--to our eternal sorrow.
+
+_Lucifer_. And yet that grief is knowledge--so he lied not:
+And if he did betray you, 'twas with Truth;
+And Truth in its own essence cannot be
+But good.
+
+_Adah_.    But all we know of it has gathered
+Evil on ill; expulsion from our home,
+And dread, and toil, and sweat, and heaviness;
+Remorse of that which was--and hope of that
+Which cometh not. Cain! walk not with this Spirit.
+Bear with what we have borne, and love me--I
+Love thee.
+
+_Lucifer_. More than thy mother, and thy sire?
+
+_Adah_. I do. Is that a sin, too?
+
+_Lucifer_.                         No, not yet;
+It one day will be in your children.
+
+_Adah_.                             What!
+Must not my daughter love her brother Enoch?
+
+_Lucifer_. Not as thou lovest Cain.
+
+_Adah_.                             Oh, my God!
+Shall they not love and bring forth things that love
+Out of their love? have they not drawn their milk
+Out of this bosom? was not he, their father,
+Born of the same sole womb, in the same hour
+With me? did we not love each other? and
+In multiplying our being multiply
+Things which will love each other as we love
+Them?--And as I love thee, my Cain! go not
+Forth with this spirit; he is not of ours.
+
+_Lucifer_. The sin I speak of is not of my making,
+And cannot be a sin in you--whate'er
+It seem in those who will replace ye in
+Mortality.
+
+_Adah_. What is the sin which is not
+Sin in itself? Can circumstance make sin
+Or virtue?--if it doth, we are the slaves
+Of----
+
+_Lucifer_. Higher things than ye are slaves: and higher
+Than them or ye would be so, did they not
+Prefer an independency of torture
+To the smooth agonies of adulation,
+In hymns and harpings, and self-seeking prayers,
+To that which is omnipotent, because
+It is omnipotent, and not from love,
+But terror and self-hope.
+
+_Adah_.                   Omnipotence
+Must be all goodness.
+
+_Lucifer_.            Was it so in Eden?
+
+_Adah_. Fiend! tempt me not with beauty; thou art fairer
+Than was the Serpent, and as false.
+
+_Lucifer_.                          As true.
+Ask Eve, your mother: bears she not the knowledge
+Of good and evil?
+
+_Adah_.          Oh, my mother! thou
+Hast plucked a fruit more fatal to thine offspring
+Than to thyself; thou at the least hast passed
+Thy youth in Paradise, in innocent
+And happy intercourse with happy spirits:
+But we, thy children, ignorant of Eden,
+Are girt about by demons, who assume
+The words of God, and tempt us with our own
+Dissatisfied and curious thoughts--as thou
+Wert worked on by the snake, in thy most flushed
+And heedless, harmless wantonness of bliss.
+I cannot answer this immortal thing
+Which stands before me; I cannot abhor him;
+I look upon him with a pleasing fear,
+And yet I fly not from him: in his eye
+There is a fastening attraction which
+Fixes my fluttering eyes on his; my heart
+Beats quick; he awes me, and yet draws me near,
+Nearer and nearer:--Cain--Cain--save me from him!
+
+_Cain_. What dreads my Adah? This is no ill spirit.
+
+_Adah_. He is not God--nor God's: I have beheld
+The Cherubs and the Seraphs; he looks not
+Like them.
+
+_Cain_.   But there are spirits loftier still--
+The archangels.
+
+_Lucifer_.     And still loftier than the archangels.
+
+_Adah_. Aye--but not blesséd.
+
+_Lucifer_.                    If the blessedness
+Consists in slavery--no.
+
+_Adah_.                 I have heard it said,
+The Seraphs _love most_--Cherubim _know most_--
+And this should be a Cherub--since he loves not.
+
+_Lucifer_. And if the higher knowledge quenches love,
+What must _he be_ you cannot love when known?
+Since the all-knowing Cherubim love least,
+The Seraphs' love can be but ignorance:
+That they are not compatible, the doom
+Of thy fond parents, for their daring, proves.
+Choose betwixt Love and Knowledge--since there is
+No other choice: your sire hath chosen already:
+His worship is but fear.
+
+_Adah_.                 Oh, Cain! choose Love.
+
+_Cain_. For thee, my Adah, I choose not--It was
+Born with me--but I love nought else.
+
+_Adah_.                              Our parents?
+
+_Cain_. Did they love us when they snatched from the Tree
+That which hath driven us all from Paradise?
+
+_Adah_. We were not born then--and if we had been,
+Should we not love them--and our children, Cain?
+
+_Cain_. My little Enoch! and his lisping sister!
+Could I but deem them happy, I would half
+Forget----but it can never be forgotten
+Through thrice a thousand generations! never
+Shall men love the remembrance of the man
+Who sowed the seed of evil and mankind
+In the same hour! They plucked the tree of science
+And sin--and, not content with their own sorrow,
+Begot _me_--_thee_--and all the few that are,
+And all the unnumbered and innumerable
+Multitudes, millions, myriads, which may be,
+To inherit agonies accumulated
+By ages!--and _I_ must be sire of such things!
+Thy beauty and thy love--my love and joy,
+The rapturous moment and the placid hour,
+All we love in our children and each other,
+But lead them and ourselves through many years
+Of sin and pain--or few, but still of sorrow,
+Interchecked with an instant of brief pleasure,
+To Death--the unknown! Methinks the Tree of Knowledge
+Hath not fulfilled its promise:--if they sinned,
+At least they ought to have known all things that are
+Of knowledge--and the mystery of Death.
+What do they know?--that they are miserable.
+What need of snakes and fruits to teach us that?
+
+_Adah_. I am not wretched, Cain, and if thou
+Wert happy----
+
+_Cain_.       Be thou happy, then, alone--
+I will have nought to do with happiness,
+Which humbles me and mine.
+
+_Adah_.                    Alone I could not,
+Nor _would_ be happy; but with those around us
+I think I could be so, despite of Death,
+Which, as I know it not, I dread not, though
+It seems an awful shadow--if I may
+Judge from what I have heard.
+
+_Lucifer_.                    And thou couldst not
+_Alone_, thou say'st, be happy?
+
+_Adah_.                         Alone! Oh, my God!
+Who could be happy and alone, or good?
+To me my solitude seems sin; unless
+When I think how soon I shall see my brother,
+His brother, and our children, and our parents.
+
+_Lucifer_. Yet thy God is alone; and is he happy?
+Lonely, and good?
+
+_Adah_.           He is not so; he hath
+The angels and the mortals to make happy,
+And thus becomes so in diffusing joy.
+What else can joy be, but the spreading joy?
+
+_Lucifer_. Ask of your sire, the exile fresh from Eden;
+Or of his first-born son: ask your own heart;
+It is not tranquil.
+
+_Adah_.            Alas! no! and you--
+Are you of Heaven?
+
+_Lucifer_.         If I am not, enquire
+The cause of this all-spreading happiness
+(Which you proclaim) of the all-great and good
+Maker of life and living things; it is
+His secret, and he keeps it. _We_ must bear,
+And some of us resist--and both in vain,
+His Seraphs say: but it is worth the trial,
+Since better may not be without: there is
+A wisdom in the spirit, which directs
+To right, as in the dim blue air the eye
+Of you, young mortals, lights at once upon
+The star which watches, welcoming the morn.
+
+_Adah_. It is a beautiful star; I love it for
+Its beauty.
+
+_Lucifer_.    And why not adore?
+
+_Adah_.                         Our father
+Adores the Invisible only.
+
+_Lucifer_.                But the symbols
+Of the Invisible are the loveliest
+Of what is visible; and yon bright star
+Is leader of the host of Heaven.
+
+_Adah_.                         Our father
+Saith that he has beheld the God himself
+Who made him and our mother.
+
+_Lucifer_.                  Hast _thou_ seen him?
+
+_Adah_. Yes--in his works.
+
+_Lucifer_.                 But in his being?
+
+_Adah_.                                     No--
+Save in my father, who is God's own image;
+Or in his angels, who are like to thee--
+And brighter, yet less beautiful and powerful
+In seeming: as the silent sunny noon,
+All light, they look upon us; but thou seem'st
+Like an ethereal night, where long white clouds
+Streak the deep purple, and unnumbered stars
+Spangle the wonderful mysterious vault
+With things that look as if they would be suns;
+So beautiful, unnumbered, and endearing,
+Not dazzling, and yet drawing us to them,
+They fill my eyes with tears, and so dost thou.
+Thou seem'st unhappy: do not make us so,
+And I will weep for thee.
+
+_Lucifer_.                Alas! those tears!
+Couldst thou but know what oceans will be shed----
+
+_Adah_. By me?
+
+_Lucifer_.     By all.
+
+_Adah_.               What all?
+
+_Lucifer_.                     The million millions--
+The myriad myriads--the all-peopled earth--
+The unpeopled earth--and the o'er-peopled Hell,
+Of which thy bosom is the germ.
+
+_Adah_.                        O Cain!
+This spirit curseth us.
+
+_Cain_.                Let him say on;
+Him will I follow.
+
+_Adah_.            Whither?
+
+_Lucifer_.                 To a place
+_Whence_ he shall come back to thee in an hour;
+But in that hour see things of many days.
+
+_Adah_. How can that be?
+
+_Lucifer_.               Did not your Maker make
+Out of old worlds this new one in few days?
+And cannot I, who aided in this work,
+Show in an hour what he hath made in many,
+Or hath destroyed in few?
+
+_Cain_.                  Lead on.
+
+_Adah_.                          Will he,
+In sooth, return within an hour?
+
+_Lucifer_.                       He shall.
+With us acts are exempt from time, and we
+Can crowd eternity into an hour,
+Or stretch an hour into eternity:
+We breathe not by a mortal measurement--
+But that's a mystery. Cain, come on with me.
+
+_Adah_. Will he return?
+
+_Lucifer_.              Aye, woman! he alone
+Of mortals from that place (the first and last
+Who shall return, save ONE), shall come back to thee,
+To make that silent and expectant world
+As populous as this: at present there
+Are few inhabitants.
+
+_Adah_.             Where dwellest thou?
+
+_Lucifer_. Throughout all space. Where should I dwell? Where are
+Thy God or Gods--there am I: all things are
+Divided with me: Life and Death--and Time--
+Eternity--and heaven and earth--and that
+Which is not heaven nor earth, but peopled with
+Those who once peopled or shall people both--
+These are my realms! so that I do divide
+_His_, and possess a kingdom which is not
+_His_. If I were not that which I have said,
+Could I stand here? His angels are within
+Your vision.
+
+_Adah_.      So they were when the fair Serpent
+Spoke with our mother first.
+
+_Lucifer_.                  Cain! thou hast heard.
+If thou dost long for knowledge, I can satiate
+That thirst; nor ask thee to partake of fruits
+Which shall deprive thee of a single good
+The Conqueror has left thee. Follow me.
+
+_Cain_. Spirit, I have said it.
+                                         [_Exeunt_ LUCIFER _and_ CAIN.
+
+_Adah_ (_follows exclaiming_).  Cain! my brother! Cain!
+
+ACT II.
+
+SCENE I.--_The Abyss of Space_.
+
+_Cain_. I tread on air, and sink not--yet I fear
+To sink.
+
+_Lucifer_. Have faith in me, and thou shalt be
+Borne on the air, of which I am the Prince.
+
+_Cain_. Can I do so without impiety?
+
+_Lucifer_. Believe--and sink not! doubt--and perish! thus
+Would run the edict of the other God,
+Who names me Demon to his angels; they
+Echo the sound to miserable things,
+Which, knowing nought beyond their shallow senses,
+Worship the _word_ which strikes their ear, and deem
+Evil or good what is proclaimed to them
+In their abasement. I will have none such:
+Worship or worship not, thou shalt behold
+The worlds beyond thy little world, nor be
+Amerced for doubts beyond thy little life,
+With torture of _my_ dooming. There will come
+An hour, when, tossed upon some water-drops,
+A man shall say to a man, "Believe in me,
+And walk the waters;" and the man shall walk
+The billows and be safe. _I_ will not say,
+Believe in _me_, as a conditional creed
+To save thee; but fly with me o'er the gulf
+Of space an equal flight, and I will show
+What thou dar'st not deny,--the history
+Of past--and present, and of future worlds.
+
+_Cain_. Oh God! or Demon! or whate'er thou art,
+Is yon our earth?
+
+_Lucifer_.        Dost thou not recognise
+The dust which formed your father?
+
+_Cain_.                            Can it be?
+Yon small blue circle, swinging in far ether,
+With an inferior circlet purpler it still,
+Which looks like that which lit our earthly night?
+Is this our Paradise? Where are its walls,
+And they who guard them?
+
+_Lucifer_.               Point me out the site
+Of Paradise.
+
+_Cain_.      How should I? As we move
+Like sunbeams onward, it grows small and smaller,
+And as it waxes little, and then less,
+Gathers a halo round it, like the light
+Which shone the roundest of the stars, when I
+Beheld them from the skirts of Paradise:
+Methinks they both, as we recede from them,
+Appear to join the innumerable stars
+Which are around us; and, as we move on,
+Increase their myriads.
+
+_Lucifer_.              And if there should be
+Worlds greater than thine own--inhabited
+By greater things--and they themselves far more
+In number than the dust of thy dull earth,
+Though multiplied to animated atoms,
+All living--and all doomed to death--and wretched,
+What wouldst thou think?
+
+_Cain_.                  I should be proud of thought
+Which knew such things.
+
+_Lucifer_.              But if that high thought were
+Linked to a servile mass of matter--and,
+Knowing such things, aspiring to such things,
+And science still beyond them, were chained down
+To the most gross and petty paltry wants,
+All foul and fulsome--and the very best
+Of thine enjoyments a sweet degradation,
+A most enervating and filthy cheat
+To lure thee on to the renewal of
+Fresh souls and bodies, all foredoomed to be
+As frail, and few so happy----
+
+_Cain_.                        Spirit! I
+Know nought of Death, save as a dreadful thing
+Of which I have heard my parents speak, as of
+A hideous heritage I owe to them
+No less than life--a heritage not happy,
+If I may judge, till now. But, Spirit! if
+It be as thou hast said (and I within
+Feel the prophetic torture of its truth),
+Here let me die: for to give birth to those
+Who can but suffer many years, and die--
+Methinks is merely propagating Death,
+And multiplying murder.
+
+_Lucifer_.              Thou canst not
+_All_ die--there is what must survive.
+
+_Cain_.                                The Other
+Spake not of this unto my father, when
+He shut him forth from Paradise, with death
+Written upon his forehead. But at least
+Let what is mortal of me perish, that
+I may be in the rest as angels are.
+
+_Lucifer_. _I_ am angelic: wouldst thou be as I am?
+
+_Cain_. I know not what thou art: I see thy power,
+And see thou show'st me things beyond _my_ power,
+Beyond all power of my born faculties,
+Although inferior still to my desires
+And my conceptions.
+
+_Lucifer_.          What are they which dwell
+So humbly in their pride, as to sojourn
+With worms in clay?
+
+_Cain_.            And what art thou who dwellest
+So haughtily in spirit, and canst range
+Nature and immortality--and yet
+Seem'st sorrowful?
+
+_Lucifer_.         I seem that which I am;
+And therefore do I ask of thee, if thou
+Wouldst be immortal?
+
+_Cain_.             Thou hast said, I must be
+Immortal in despite of me. I knew not
+This until lately--but since it must be,
+Let me, or happy or unhappy, learn
+To anticipate my immortality.
+
+_Lucifer_. Thou didst before I came upon thee.
+
+_Cain_.                                        How?
+
+_Lucifer_. By suffering.
+
+_Cain_.                  And must torture be immortal?
+
+_Lucifer_. We and thy sons will try. But now, behold!
+Is it not glorious?
+
+_Cain_.             Oh thou beautiful
+And unimaginable ether! and
+Ye multiplying masses of increased
+And still-increasing lights! what are ye? what
+Is this blue wilderness of interminable
+Air, where ye roll along, as I have seen
+The leaves along the limpid streams of Eden?
+Is your course measured for ye? Or do ye
+Sweep on in your unbounded revelry
+Through an aërial universe of endless
+Expansion--at which my soul aches to think--
+Intoxicated with eternity?
+Oh God! Oh Gods! or whatsoe'er ye are!
+How beautiful ye are! how beautiful
+Your works, or accidents, or whatsoe'er
+They may be! Let me die, as atoms die,
+(If that they die), or know ye in your might
+And knowledge! My thoughts are not in this hour
+Unworthy what I see, though my dust is;
+Spirit! let me expire, or see them nearer.
+
+_Lucifer_. Art thou not nearer? look back to thine earth!
+
+_Cain_. Where is it? I see nothing save a mass
+Of most innumerable lights.
+
+_Lucifer_.                  Look there!
+
+_Cain_. I cannot see it.
+
+_Lucifer_.               Yet it sparkles still.
+
+_Cain_. That!--yonder!
+
+_Lucifer_.            Yea.
+
+_Cain_.                   And wilt thou tell me so?
+Why, I have seen the fire-flies and fire-worms
+Sprinkle the dusky groves and the green banks
+In the dim twilight, brighter than yon world
+Which bears them.
+
+_Lucifer_.        Thou hast seen both worms and worlds,
+Each bright and sparkling--what dost think of them?
+
+_Cain_. That they are beautiful in their own sphere,
+And that the night, which makes both beautiful,
+The little shining fire-fly in its flight,
+And the immortal star in its great course,
+Must both be guided.
+
+_Lucifer_.           But by whom or what?
+
+_Cain_. Show me.
+
+_Lucifer_.       Dar'st thou behold?
+
+_Cain_.                            How know I what
+I _dare_ behold? As yet, thou hast shown nought
+I dare not gaze on further.
+
+_Lucifer_.                  On, then, with me.
+Wouldst thou behold things mortal or immortal?
+
+_Cain_. Why, what are things?
+
+_Lucifer_.                  _Both_ partly: but what doth
+Sit next thy heart?
+
+_Cain_.            The things I see.
+
+_Lucifer_.                          But what
+_Sate_ nearest it?
+
+_Cain_.           The things I have not seen,
+Nor ever shall--the mysteries of Death.
+
+_Lucifer_. What, if I show to thee things which have died,
+As I have shown thee much which cannot die?
+
+_Cain_. Do so.
+
+_Lucifer_.     Away, then! on our mighty wings!
+
+_Cain_. Oh! how we cleave the blue! The stars fade from us!
+The earth! where is my earth? Let me look on it,
+For I was made of it.
+
+_Lucifer_.           'Tis now beyond thee,
+Less, in the universe, than thou in it;
+Yet deem not that thou canst escape it; thou
+Shalt soon return to earth, and all its dust:
+'Tis part of thy eternity, and mine.
+
+_Cain_. Where dost thou lead me?
+
+_Lucifer_.                      To what was before thee!
+The phantasm of the world; of which thy world
+Is but the wreck.
+
+_Cain_.           What! is it not then new?
+
+_Lucifer_. No more than life is; and that was ere thou
+Or _I_ were, or the things which seem to us
+Greater than either: many things will have
+No end; and some, which would pretend to have
+Had no beginning, have had one as mean
+As thou; and mightier things have been extinct
+To make way for much meaner than we can
+Surmise; for _moments_ only and the _space_
+Have been and must be all _unchangeable_.
+But changes make not death, except to clay;
+But thou art clay--and canst but comprehend
+That which was clay, and such thou shall behold.
+
+_Cain_. Clay--Spirit--what thou wilt--I can survey.
+
+_Lucifer_. Away, then!
+
+_Cain_.                But the lights fade from me fast,
+And some till now grew larger as we approached,
+And wore the look of worlds.
+
+_Lucifer_.                   And such they are.
+
+_Cain_. And Edens in them?
+
+_Lucifer_.                 It may be.
+
+_Cain_.                              And men?
+
+_Lucifer_. Yea, or things higher.
+
+_Cain_.                           Aye! and serpents too?
+
+_Lucifer_. Wouldst thou have men without them? must no reptiles
+Breathe, save the erect ones?
+
+_Cain_.                       How the lights recede!
+Where fly we?
+
+_Lucifer_.    To the world of phantoms, which
+Are beings past, and shadows still to come.
+
+_Cain_. But it grows dark, and dark--the stars are gone!
+
+_Lucifer_. And yet thou seest.
+
+_Cain_.                       'Tis a fearful light!
+No sun--no moon--no lights innumerable--
+The very blue of the empurpled night
+Fades to a dreary twilight--yet I see
+Huge dusky masses; but unlike the worlds
+We were approaching, which, begirt with light,
+Seemed full of life even when their atmosphere
+Of light gave way, and showed them taking shapes
+Unequal, of deep valleys and vast mountains;
+And some emitting sparks, and some displaying
+Enormous liquid plains, and some begirt
+With luminous belts, and floating moons, which took,
+Like them, the features of fair earth:--instead,
+All here seems dark and dreadful.
+
+_Lucifer_.                         But distinct.
+Thou seekest to behold Death, and dead things?
+
+_Cain_. I seek it not; but as I know there are
+Such, and that my sire's sin makes him and me,
+And all that we inherit, liable
+To such, I would behold, at once, what I
+Must one day see perforce.
+
+_Lucifer_.                  Behold!
+
+_Cain_.                            'Tis darkness!
+
+_Lucifer_. And so it shall be ever--but we will
+Unfold its gates!
+
+_Cain_.           Enormous vapours roll
+Apart--what's this?
+
+_Lucifer_.          Enter!
+
+_Cain_.                   Can I return?
+
+_Lucifer_. Return! be sure: how else should Death be peopled?
+Its present realm is thin to what it will be,
+Through thee and thine.
+
+_Cain_.                 The clouds still open wide
+And wider, and make widening circles round us!
+
+_Lucifer_. Advance!
+
+_Cain_.             And thou!
+
+_Lucifer_.                   Fear not--without me thou
+Couldst not have gone beyond thy world. On! on!
+                                 [_They disappear through the clouds_.
+
+SCENE II.--_Hades_.
+
+                   _Enter_ LUCIFER _and_ CAIN.
+
+_Cain_. How silent and how vast are these dim worlds!
+For they seem more than one, and yet more peopled
+Than the huge brilliant luminous orbs which swung
+So thickly in the upper air, that I
+Had deemed them rather the bright populace
+Of some all unimaginable Heaven,
+Than things to be inhabited themselves,
+But that on drawing near them I beheld
+Their swelling into palpable immensity
+Of matter, which seemed made for life to dwell on,
+Rather than life itself. But here, all is
+So shadowy, and so full of twilight, that
+It speaks of a day past.
+
+_Lucifer_.              It is the realm
+Of Death.--Wouldst have it present?
+
+_Cain_.                             Till I know
+That which it really is, I cannot answer.
+But if it be as I have heard my father
+Deal out in his long homilies, 'tis a thing--
+Oh God! I dare not think on't! Curséd be
+He who invented Life that leads to Death!
+Or the dull mass of life, that, being life,
+Could not retain, but needs must forfeit it--
+Even for the innocent!
+
+_Lucifer_.             Dost thou curse thy father?
+
+_Cain_. Cursed he not me in giving me my birth?
+Cursed he not me before my birth, in daring
+To pluck the fruit forbidden?
+
+_Lucifer_.                    Thou say'st well:
+The curse is mutual 'twixt thy sire and thee--
+But for thy sons and brother?
+
+_Cain_.                       Let them share it
+With me, their sire and brother! What else is
+Bequeathed to me? I leave them my inheritance!
+Oh, ye interminable gloomy realms
+Of swimming shadows and enormous shapes,
+Some fully shown, some indistinct, and all
+Mighty and melancholy--what are ye?
+Live ye, or have ye lived?
+
+_Lucifer_.                 Somewhat of both.
+
+_Cain_. Then what is Death?
+
+_Lucifer_.                  What? Hath not he who made ye
+Said 'tis another life?
+
+_Cain_.                 Till now he hath
+Said nothing, save that all shall die.
+
+_Lucifer_.                             Perhaps
+He one day will unfold that further secret.
+
+_Cain_. Happy the day!
+
+_Lucifer_.             Yes; happy! when unfolded,
+Through agonies unspeakable, and clogged
+With agonies eternal, to innumerable
+Yet unborn myriads of unconscious atoms,
+All to be animated for this only!
+
+_Cain_. What are these mighty phantoms which I see
+Floating around me?--They wear not the form
+Of the Intelligences I have seen
+Round our regretted and unentered Eden;
+Nor wear the form of man as I have viewed it
+In Adam's and in Abel's, and in mine,
+Nor in my sister-bride's, nor in my children's:
+And yet they have an aspect, which, though not
+Of men nor angels, looks like something, which,
+If not the last, rose higher than the first,
+Haughty, and high, and beautiful, and full
+Of seeming strength, but of inexplicable
+Shape; for I never saw such. They bear not
+The wing of Seraph, nor the face of man,
+Nor form of mightiest brute, nor aught that is
+Now breathing; mighty yet and beautiful
+As the most beautiful and mighty which
+Live, and yet so unlike them, that I scarce
+Can call them living.
+
+_Lucifer_.               Yet they lived.
+
+_Cain_.                                  Where?
+
+_Lucifer_.                                      Where
+Thou livest.
+
+_Cain_.     When?
+
+_Lucifer_.       On what thou callest earth
+They did inhabit.
+
+_Cain_.           Adam is the first.
+
+_Lucifer_. Of thine, I grant thee--but too mean to be
+The last of these.
+
+_Cain_.            And what are they?
+
+_Lucifer_.                           That which
+Thou shalt be.
+
+_Cain_.        But what _were_ they?
+
+_Lucifer_.                          Living, high,
+Intelligent, good, great, and glorious things,
+As much superior unto all thy sire
+Adam could e'er have been in Eden, as
+The sixty-thousandth generation shall be,
+In its dull damp degeneracy, to
+Thee and thy son;--and how weak they are, judge
+By thy own flesh.
+
+_Cain_.           Ah me! and did _they_ perish?
+
+_Lucifer_. Yes, from their earth, as thou wilt fade from thine.
+
+_Cain_. But was _mine_ theirs?
+
+_Lucifer_.                      It was.
+
+_Cain_.                                But not as now.
+It is too little and too lowly to
+Sustain such creatures.
+
+_Lucifer_.              True, it was more glorious.
+
+_Cain_. And wherefore did it fall?
+
+_Lucifer_.                         Ask him who fells.
+
+_Cain_. But how?
+
+_Lucifer_.        By a most crushing and inexorable
+Destruction and disorder of the elements,
+Which struck a world to chaos, as a chaos
+Subsiding has struck out a world: such things,
+Though rare in time, are frequent in eternity.--
+Pass on, and gaze upon the past.
+
+_Cain_.                          'Tis awful!
+
+_Lucifer_. And true. Behold these phantoms! they were once
+Material as thou art.
+
+_Cain_.               And must I be
+Like them?
+
+_Lucifer_. Let He who made thee answer that.
+I show thee what thy predecessors are,
+And what they _were_ thou feelest, in degree
+Inferior as thy petty feelings and
+Thy pettier portion of the immortal part
+Of high intelligence and earthly strength.
+What ye in common have with what they had
+Is Life, and what ye _shall_ have--Death: the rest
+Of your poor attributes is such as suits
+Reptiles engendered out of the subsiding
+Slime of a mighty universe, crushed into
+A scarcely-yet shaped planet, peopled with
+Things whose enjoyment was to be in blindness--
+A Paradise of Ignorance, from which
+Knowledge was barred as poison. But behold
+What these superior beings are or were;
+Or, if it irk thee, turn thee back and till
+The earth, thy task--I'll waft thee there in safety.
+
+_Cain_. No: I'll stay here.
+
+_Lucifer_.                   How long?
+
+_Cain_.                               For ever! Since
+I must one day return here from the earth,
+I rather would remain; I am sick of all
+That dust has shown me--let me dwell in shadows.
+
+_Lucifer_. It cannot be: thou now beholdest as
+A vision that which is reality.
+To make thyself fit for this dwelling, thou
+Must pass through what the things thou seest have passed--
+The gates of Death.
+
+_Cain_.             By what gate have we entered
+Even now?
+
+_Lucifer_. By mine! But, plighted to return,
+My spirit buoys thee up to breathe in regions
+Where all is breathless save thyself. Gaze on;
+But do not think to dwell here till thine hour
+Is come!
+
+_Cain_. And these, too--can they ne'er repass
+To earth again?
+
+_Lucifer_.      _Their_ earth is gone for ever--
+So changed by its convulsion, they would not
+Be conscious to a single present spot
+Of its new scarcely hardened surface--'twas--
+Oh, what a beautiful world it _was_!
+
+_Cain_.                               And is!
+It is not with the earth, though I must till it,
+I feel at war--but that I may not profit
+By what it bears of beautiful, untoiling,
+Nor gratify my thousand swelling thoughts
+With knowledge, nor allay my thousand fears
+Of Death and Life.
+
+_Lucifer_.       What thy world is, thou see'st,
+But canst not comprehend the shadow of
+That which it was.
+
+_Cain_.            And those enormous creatures,
+Phantoms inferior in intelligence
+(At least so seeming) to the things we have passed,
+Resembling somewhat the wild habitants
+Of the deep woods of earth, the hugest which
+Roar nightly in the forest, but ten-fold
+In magnitude and terror; taller than
+The cherub-guarded walls of Eden--with
+Eyes flashing like the fiery swords which fence them--
+And tusks projecting like the trees stripped of
+Their bark and branches--what were they?
+
+_Lucifer_.                               That which
+The Mammoth is in thy world;--but these lie
+By myriads underneath its surface.
+
+_Cain_.                            But
+None on it?
+
+_Lucifer_.   No: for thy frail race to war
+With them would render the curse on it useless--
+'Twould be destroyed so early.
+
+_Cain_.                        But why _war_?
+
+_Lucifer_. You have forgotten the denunciation
+Which drove your race from Eden--war with all things,
+And death to all things, and disease to most things,
+And pangs, and bitterness; these were the fruits
+Of the forbidden tree.
+
+_Cain_.                But animals--
+Did they, too, eat of it, that they must die?
+
+_Lucifer_. Your Maker told ye, _they_ were made for you,
+As you for him.--You would not have their doom
+Superior to your own? Had Adam not
+Fallen, all had stood.
+
+_Cain_.                 Alas! the hopeless wretches!
+They too must share my sire's fate, like his sons;
+Like them, too, without having shared the apple;
+Like them, too, without the so dear-bought _knowledge_!
+It was a lying tree--for we _know_ nothing.
+At least it _promised knowledge_ at the _price_
+Of death--but _knowledge_ still: but what _knows_ man?
+
+_Lucifer_. It may be death leads to the _highest_ knowledge;
+And being of all things the sole thing certain,
+At least leads to the _surest_ science: therefore
+The Tree was true, though deadly.
+
+_Cain_.                          These dim realms!
+I see them, but I know them not.
+
+_Lucifer_.                    Because
+Thy hour is yet afar, and matter cannot
+Comprehend spirit wholly--but 'tis something
+To know there are such realms.
+
+_Cain_.                        We knew already
+That there was Death.
+
+_Lucifer_.            But not what was beyond it.
+
+_Cain_. Nor know I now.
+
+_Lucifer_.             Thou knowest that there is
+A state, and many states beyond thine own--
+And this thou knewest not this morn.
+
+_Cain_.                              But all
+Seems dim and shadowy.
+
+_Lucifer_.             Be content; it will
+Seem clearer to thine immortality.
+
+_Cain_. And yon immeasurable liquid space
+Of glorious azure which floats on beyond us,
+Which looks like water, and which I should deem
+The river which flows out of Paradise
+Past my own dwelling, but that it is bankless
+And boundless, and of an ethereal hue--
+What is it?
+
+_Lucifer_.   There is still some such on earth,
+Although inferior, and thy children shall
+Dwell near it--'tis the phantasm of an Ocean.
+
+_Cain_. 'Tis like another world; a liquid sun--
+And those inordinate creatures sporting o'er
+Its shining surface?
+
+_Lucifer_.           Are its inhabitants,
+The past Leviathans.
+
+_Cain_.               And yon immense
+Serpent, which rears his dripping mane and vasty
+Head, ten times higher than the haughtiest cedar,
+Forth from the abyss, looking as he could coil
+Himself around the orbs we lately looked on--
+Is he not of the kind which basked beneath
+The Tree in Eden?
+
+_Lucifer_.         Eve, thy mother, best
+Can tell what shape of serpent tempted her.
+
+_Cain_. This seems too terrible. No doubt the other
+Had more of beauty.
+
+_Lucifer_.           Hast thou ne'er beheld him?
+
+_Cain_. Many of the same kind (at least so called)
+But never that precisely, which persuaded
+The fatal fruit, nor even of the same aspect.
+
+_Lucifer_. Your father saw him not?
+
+_Cain_.                             No: 'twas my mother
+Who tempted him--she tempted by the serpent.
+
+_Lucifer_. Good man! whene'er thy wife, or thy sons' wives,
+Tempt thee or them to aught that's new or strange,
+Be sure thou seest first who hath tempted _them_!
+
+_Cain_. Thy precept comes too late: there is no more
+For serpents to tempt woman to.
+
+_Lucifer_.                      But there
+Are some things still which woman may tempt man to,
+And man tempt woman:--let thy sons look to it!
+My counsel is a kind one; for 'tis even
+Given chiefly at my own expense; 'tis true,
+'Twill not be followed, so there's little lost.
+
+_Cain_. I understand not this.
+
+_Lucifer_.                     The happier thou!--
+Thy world and thou are still too young! Thou thinkest
+Thyself most wicked and unhappy--is it
+Not so?
+
+_Cain_. For crime, I know not; but for pain,
+I have felt much.
+
+_Lucifer_.        First-born of the first man!
+Thy present state of sin--and thou art evil,
+Of sorrow--and thou sufferest, are both Eden
+In all its innocence compared to what
+_Thou_ shortly may'st be; and that state again,
+In its redoubled wretchedness, a Paradise
+To what thy sons' sons' sons, accumulating
+In generations like to dust (which they
+In fact but add to), shall endure and do.--
+Now let us back to earth!
+
+_Cain_.                   And wherefore didst thou
+Lead me here only to inform me this?
+
+_Lucifer_. Was not thy quest for knowledge?
+
+_Cain_.                                     Yes--as being
+The road to happiness!
+
+_Lucifer_.             If truth be so,
+Thou hast it.
+
+_Cain_.       Then my father's God did well
+When he prohibited the fatal Tree.
+
+_Lucifer_. But had done better in not planting it.
+But ignorance of evil doth not save
+From evil; it must still roll on the same,
+A part of all things.
+
+_Cain_.               Not of all things. No--
+I'll not believe it--for I thirst for good.
+
+_Lucifer_. And who and what doth not? _Who_ covets evil
+For its own bitter sake?--_None_--nothing! 'tis
+The leaven of all life, and lifelessness.
+
+_Cain_. Within those glorious orbs which we behold,
+Distant, and dazzling, and innumerable,
+Ere we came down into this phantom realm,
+Ill cannot come: they are too beautiful.
+
+_Lucifer_. Thou hast seen them from afar.
+
+_Cain_.                                   And what of that?
+Distance can but diminish glory--they,
+When nearer, must be more ineffable.
+
+_Lucifer_. Approach the things of earth most beautiful,
+And judge their beauty near.
+
+_Cain_.                      I have done this--
+The loveliest thing I know is loveliest nearest.
+
+_Lucifer_. Then there must be delusion.--What is that
+Which being nearest to thine eyes is still
+More beautiful than beauteous things remote?
+
+_Cain_. My sister Adah.--All the stars of heaven,
+The deep blue noon of night, lit by an orb
+Which looks a spirit, or a spirit's world--
+The hues of twilight--the Sun's gorgeous coming--
+His setting indescribable, which fills
+My eyes with pleasant tears as I behold
+Him sink, and feel my heart float softly with him
+Along that western paradise of clouds--
+The forest shade, the green bough, the bird's voice--
+The vesper bird's, which seems to sing of love,
+And mingles with the song of Cherubim,
+As the day closes over Eden's walls;--
+All these are nothing, to my eyes and heart,
+Like Adah's face: I turn from earth and heaven
+To gaze on it.
+
+_Lucifer_.      'Tis fair as frail mortality,
+In the first dawn and bloom of young creation,
+And earliest embraces of earth's parents,
+Can make its offspring; still it is delusion.
+
+_Cain_. You think so, being not her brother.
+
+_Lucifer_.                                    Mortal!
+My brotherhood's with those who have no children.
+
+_Cain_. Then thou canst have no fellowship with us.
+
+_Lucifer_. It may be that thine own shall be for me.
+But if thou dost possess a beautiful
+Being beyond all beauty in thine eyes,
+Why art thou wretched?
+
+_Cain_.                Why do I exist?
+Why art _thou_ wretched? why are all things so?
+Ev'n he who made us must be, as the maker
+Of things unhappy! To produce destruction
+Can surely never be the task of joy,
+And yet my sire says he's omnipotent:
+Then why is Evil--he being Good? I asked
+This question of my father; and he said,
+Because this Evil only was the path
+To Good. Strange Good, that must arise from out
+Its deadly opposite. I lately saw
+A lamb stung by a reptile: the poor suckling
+Lay foaming on the earth, beneath the vain
+And piteous bleating of its restless dam;
+My father plucked some herbs, and laid them to
+The wound; and by degrees the helpless wretch
+Resumed its careless life, and rose to drain
+The mother's milk, who o'er it tremulous
+Stood licking its reviving limbs with joy.
+Behold, my son! said Adam, how from Evil
+Springs Good!
+
+_Lucifer_.     What didst thou answer?
+
+_Cain_.                                Nothing; for
+He is my father: but I thought, that 'twere
+A better portion for the animal
+Never to have been _stung at all_, than to
+Purchase renewal of its little life
+With agonies unutterable, though
+Dispelled by antidotes.
+
+_Lucifer_.             But as thou saidst
+Of all belovéd things thou lovest her
+Who shared thy mother's milk, and giveth hers
+Unto thy children----
+
+_Cain_.               Most assuredly:
+What should I be without her?
+
+_Lucifer_.                    What am I?
+
+_Cain_. Dost thou love nothing?
+
+_Lucifer_.                      What does thy God love?
+
+_Cain_. All things, my father says; but I confess
+I see it not in their allotment here.
+
+_Lucifer_. And, therefore, thou canst not see if _I_ love
+Or no--except some vast and general purpose,
+To which particular things must melt like snows.
+
+_Cain_. Snows! what are they?
+
+_Lucifer_.                    Be happier in not knowing
+What thy remoter offspring must encounter;
+But bask beneath the clime which knows no winter.
+
+_Cain_. But dost thou not love something like thyself?
+
+_Lucifer_. And dost thou love _thyself_?
+
+_Cain_.                                 Yes, but love more
+What makes my feelings more endurable,
+And is more than myself, because I love it!
+
+_Lucifer_. Thou lovest it, because 'tis beautiful,
+As was the apple in thy mother's eye;
+And when it ceases to be so, thy love
+Will cease, like any other appetite.
+
+_Cain_. Cease to be beautiful! how can that be?
+
+_Lucifer_. With time.
+
+_Cain_.               But time has passed, and hitherto
+Even Adam and my mother both are fair:
+Not fair like Adah and the Seraphim--
+But very fair.
+
+_Lucifer_.     All that must pass away
+In them and her.
+
+_Cain_.          I'm sorry for it; but
+Cannot conceive my love for her the less:
+And when her beauty disappears, methinks
+He who creates all beauty will lose more
+Than me in seeing perish such a work.
+
+_Lucifer_. I pity thee who lovest what must perish.
+
+_Cain_. And I thee who lov'st nothing.
+
+_Lucifer_.                             And thy brother--
+Sits he not near thy heart?
+
+_Cain_.                    Why should he not?
+
+_Lucifer_. Thy father loves him well--so does thy God.
+
+_Cain_. And so do I.
+
+_Lucifer_.           'Tis well and meekly done.
+
+_Cain_. Meekly!
+
+_Lucifer_.      He is the second born of flesh,
+And is his mother's favourite.
+
+_Cain_.                        Let him keep
+Her favour, since the Serpent was the first
+To win it.
+
+_Lucifer_. And his father's?
+
+_Cain_.                      What is that
+To me? should I not love that which all love?
+
+_Lucifer_. And the Jehovah--the indulgent Lord,
+And bounteous planter of barred Paradise--
+He, too, looks smilingly on Abel.
+
+_Cain_.                           I
+Ne'er saw him, and I know not if he smiles.
+
+_Lucifer_. But you have seen his angels.
+
+_Cain_.                                    Rarely.
+
+_Lucifer_.                                        But
+Sufficiently to see they love your brother:
+_His_ sacrifices are acceptable.
+
+_Cain_. So be they! wherefore speak to me of this?
+
+_Lucifer_. Because thou hast thought of this ere now.
+
+_Cain_.                                               And if
+I _have_ thought, why recall a thought that----
+  (_he pauses as agitated_)--Spirit!
+_Here_ we are in _thy_ world; speak not of _mine_.
+Thou hast shown me wonders: thou hast shown me those
+Mighty Pre-Adamites who walked the earth
+Of which ours is the wreck: thou hast pointed out
+Myriads of starry worlds, of which our own
+Is the dim and remote companion, in
+Infinity of life: thou hast shown me shadows
+Of that existence with the dreaded name
+Which my sire brought us--Death; thou hast shown me much
+But not all: show me where Jehovah dwells,
+In his especial Paradise--or _thine_:
+Where is it?
+
+_Lucifer_.     _Here_, and o'er all space.
+
+_Cain_.                                    But ye
+Have some allotted dwelling--as all things;
+Clay has its earth, and other worlds their tenants;
+All temporary breathing creatures their
+Peculiar element; and things which have
+Long ceased to breathe _our_ breath, have theirs, thou say'st;
+And the Jehovah and thyself have thine--
+Ye do not dwell together?
+
+_Lucifer_.                No, we reign
+Together; but our dwellings are asunder.
+
+_Cain_. Would there were only one of ye! perchance
+An unity of purpose might make union
+In elements which seem now jarred in storms.
+How came ye, being Spirits wise and infinite,
+To separate? Are ye not as brethren in
+Your essence--and your nature, and your glory?
+
+_Lucifer_. Art not thou Abel's brother?
+
+_Cain_.                                 We are brethren,
+And so we shall remain; but were it not so,
+Is spirit like to flesh? can it fall out--
+Infinity with Immortality?
+Jarring and turning space to misery--
+For what?
+
+_Lucifer_. To reign.
+
+_Cain_.              Did ye not tell me that
+Ye are both eternal?
+
+_Lucifer_.           Yea!
+
+_Cain_.                  And what I have seen--
+Yon blue immensity, is boundless?
+
+_Lucifer_.                        Aye.
+_Cain_. And cannot ye both _reign_, then?--is there not
+Enough?--why should ye differ?
+
+_Lucifer_.                     We _both_ reign.
+
+_Cain_. But one of you makes evil.
+
+_Lucifer_.                         Which?
+
+_Cain_.                                  Thou! for
+If thou canst do man good, why dost thou not?
+
+_Lucifer_. And why not he who made? _I_ made ye not;
+Ye are _his_ creatures, and not mine.
+
+_Cain_.                              Then leave us
+_His_ creatures, as thou say'st we are, or show me
+Thy dwelling, or _his_ dwelling.
+
+_Lucifer_.                      I could show thee
+Both; but the time will come thou shalt see one
+Of them for evermore.
+
+_Cain_.                And why not now?
+
+_Lucifer_. Thy human mind hath scarcely grasp to gather
+The little I have shown thee into calm
+And clear thought: and _thou_ wouldst go on aspiring
+To the great double Mysteries! the _two Principles_!
+And gaze upon them on their secret thrones!
+Dust! limit thy ambition; for to see
+Either of these would be for thee to perish!
+
+_Cain_. And let me perish, so I see them!
+
+_Lucifer_.                                There
+The son of her who snatched the apple spake!
+But thou wouldst only perish, and not see them;
+That sight is for the other state.
+
+_Cain_.                            Of Death?
+
+_Lucifer_. That is the prelude.
+
+_Cain_.                         Then I dread it less,
+Now that I know it leads to something definite.
+
+_Lucifer_. And now I will convey thee to thy world,
+Where thou shall multiply the race of Adam,
+Eat, drink, toil, tremble, laugh, weep, sleep--and die!
+
+_Cain_. And to what end have I beheld these things
+Which thou hast shown me?
+
+_Lucifer_.                Didst thou not require
+Knowledge? And have I not, in what I showed,
+Taught thee to know thyself?
+
+_Cain_.                      Alas! I seem
+Nothing.
+
+_Lucifer_. And this should be the human sum
+Of knowledge, to know mortal nature's nothingness;
+Bequeath that science to thy children, and
+'Twill spare them many tortures.
+
+_Cain_.                          Haughty spirit!
+Thou speak'st it proudly; but thyself, though proud,
+Hast a superior.
+
+_Lucifer_.       No! By heaven, which he
+Holds, and the abyss, and the immensity
+Of worlds and life, which I hold with him--No!
+I have a Victor--true; but no superior.
+Homage he has from all--but none from me:
+I battle it against him, as I battled
+In highest Heaven--through all Eternity,
+And the unfathomable gulfs of Hades,
+And the interminable realms of space,
+And the infinity of endless ages,
+All, all, will I dispute! And world by world,
+And star by star, and universe by universe,
+Shall tremble in the balance, till the great
+Conflict shall cease, if ever it shall cease,
+Which it ne'er shall, till he or I be quenched!
+And what can quench our immortality,
+Or mutual and irrevocable hate?
+He as a conqueror will call the conquered
+_Evil_; but what will be the _Good_ he gives?
+Were I the victor, _his_ works would be deemed
+The only evil ones. And you, ye new
+And scarce-born mortals, what have been his gifts
+To you already, in your little world?
+
+_Cain_. But few; and some of those but bitter.
+
+_Lucifer_.                                     Back
+With me, then, to thine earth, and try the rest
+Of his celestial boons to you and yours.
+Evil and Good are things in their own essence,
+And not made good or evil by the Giver;
+But if he gives you good--so call him; if
+Evil springs from _him_, do not name it _mine_,
+Till ye know better its true fount; and judge
+Not by words, though of Spirits, but the fruits
+Of your existence, such as it must be.
+_One good_ gift has the fatal apple given,--
+Your _reason_:--let it not be overswayed
+By tyrannous threats to force you into faith
+'Gainst all external sense and inward feeling:
+Think and endure,--and form an inner world
+In your own bosom--where the outward fails;
+So shall you nearer be the spiritual
+Nature, and war triumphant with your own.
+                                                    [_They disappear_.
+
+ACT III.
+
+SCENE I.--_The Earth, near Eden, as in Act I_.
+
+                     _Enter_ CAIN _and_ ADAH.
+
+_Adah_. Hush! tread softly, Cain!
+
+_Cain_.                           I will--but wherefore?
+
+_Adah_. Our little Enoch sleeps upon yon bed
+Of leaves, beneath the cypress.
+
+_Cain_.                         Cypress! 'tis
+A gloomy tree, which looks as if it mourned
+O'er what it shadows; wherefore didst thou choose it
+For our child's canopy?
+
+_Adah_.                 Because its branches
+Shut out the sun like night, and therefore seemed
+Fitting to shadow slumber.
+
+_Cain_.                    Aye, the last--
+And longest; but no matter--lead me to him.
+                                           [_They go up to the child_.
+How lovely he appears! his little cheeks,
+In their pure incarnation, vying with
+The rose leaves strewn beneath them.
+
+_Adah_.                              And his lips, too,
+How beautifully parted! No; you shall not
+Kiss him, at least not now: he will awake soon--
+His hour of mid-day rest is nearly over;
+But it were pity to disturb him till
+'Tis closed.
+
+_Cain_.     You have said well; I will contain
+My heart till then. He smiles, and sleeps!--sleep on,
+And smile, thou little, young inheritor
+Of a world scarce less young: sleep on, and smile!
+Thine are the hours and days when both are cheering
+And innocent! _thou_ hast not plucked the fruit--
+Thou know'st not thou art naked! Must the time
+Come thou shalt be amerced for sins unknown,
+Which were not thine nor mine? But now sleep on!
+His cheeks are reddening into deeper smiles,
+And shining lids are trembling o'er his long
+Lashes, dark as the cypress which waves o'er them;
+Half open, from beneath them the clear blue
+Laughs out, although in slumber. He must dream--
+Of what? Of Paradise!--Aye! dream of it,
+My disinherited boy! 'Tis but a dream;
+For never more thyself, thy sons, nor fathers,
+Shall walk in that forbidden place of joy!
+
+_Adah_. Dear Cain! Nay, do not whisper o'er our son
+Such melancholy yearnings o'er the past:
+Why wilt thou always mourn for Paradise?
+Can we not make another?
+
+_Cain_.                  Where?
+
+_Adah_.                        Here, or
+Where'er thou wilt: where'er thou art, I feel not
+The want of this so much regretted Eden.
+Have I not thee--our boy--our sire, and brother,
+And Zillah--our sweet sister, and our Eve,
+To whom we owe so much besides our birth?
+
+_Cain_. Yes--Death, too, is amongst the debts we owe her.
+
+_Adah_. Cain! that proud Spirit, who withdrew thee hence,
+Hath saddened thine still deeper. I had hoped
+The promised wonders which thou hast beheld,
+Visions, thou say'st, of past and present worlds,
+Would have composed thy mind into the calm
+Of a contented knowledge; but I see
+Thy guide hath done thee evil: still I thank him,
+And can forgive him all, that he so soon
+Hath given thee back to us.
+
+_Cain_.                     So soon?
+
+_Adah_.                            'Tis scarcely
+Two hours since ye departed: two _long_ hours
+To _me_, but only _hours_ upon the sun.
+
+_Cain_. And yet I have approached that sun, and seen
+Worlds which he once shone on, and never more
+Shall light; and worlds he never lit: methought
+Years had rolled o'er my absence.
+
+_Adah_.                           Hardly hours.
+
+_Cain_. The mind then hath capacity of time,
+And measures it by that which it beholds,
+Pleasing or painful; little or almighty.
+I had beheld the immemorial works
+Of endless beings; skirred extinguished worlds;
+And, gazing on eternity, methought
+I had borrowed more by a few drops of ages
+From its immensity: but now I feel
+My littleness again. Well said the Spirit,
+That I was nothing!
+
+_Adah_.             Wherefore said he so?
+Jehovah said not that.
+
+_Cain_.                No: _he_ contents him
+With making us the _nothing_ which we are;
+And after flattering dust with glimpses of
+Eden and Immortality, resolves
+It back to dust again--for what?
+
+_Adah_.                          Thou know'st--
+Even for our parents' error.
+
+_Cain_.                      What is that
+To us? they sinned, then _let them_ die!
+
+_Adah_. Thou hast not spoken well, nor is that thought
+Thy own, but of the Spirit who was with thee.
+Would _I_ could die for them, so _they_ might live!
+
+_Cain_. Why, so say I--provided that one victim
+Might satiate the Insatiable of life,
+And that our little rosy sleeper there
+Might never taste of death nor human sorrow,
+Nor hand it down to those who spring from him.
+
+_Adah_. How know we that some such atonement one day
+May not redeem our race?
+
+_Cain_.                   By sacrificing
+The harmless for the guilty? what atonement
+Were there? why, _we_ are innocent: what have we
+Done, that we must be victims for a deed
+Before our birth, or need have victims to
+Atone for this mysterious, nameless sin--
+If it be such a sin to seek for knowledge?
+
+_Adah_. Alas! thou sinnest now, my Cain: thy words
+Sound impious in mine ears.
+
+_Cain_.                     Then leave me!
+
+_Adah_.                                   Never,
+Though thy God left thee.
+
+_Cain_.                   Say, what have we here?
+
+_Adah_. Two altars, which our brother Abel made
+During thine absence, whereupon to offer
+A sacrifice to God on thy return.
+
+_Cain_. And how knew _he_, that _I_ would be so ready
+With the burnt offerings, which he daily brings
+With a meek brow, whose base humility
+Shows more of fear than worship--as a bribe
+To the Creator?
+
+_Adah_.         Surely, 'tis well done.
+
+_Cain_. One altar may suffice; _I_ have no offering.
+
+_Adah_. The fruits of the earth, the early, beautiful,
+Blossom and bud--and bloom of flowers and fruits--
+These are a goodly offering to the Lord,
+Given with a gentle and a contrite spirit.
+
+_Cain_. I have toiled, and tilled, and sweaten in the sun,
+According to the curse:--must I do more?
+For what should I be gentle? for a war
+With all the elements ere they will yield
+The bread we eat? For what must I be grateful?
+For being dust, and grovelling in the dust,
+Till I return to dust? If I am nothing--
+For nothing shall I be an hypocrite,
+And seem well-pleased with pain? For what should I
+Be contrite? for my father's sin, already
+Expiate with what we all have undergone,
+And to be more than expiated by
+The ages prophesied, upon our seed.
+Little deems our young blooming sleeper, there,
+The germs of an eternal misery
+To myriads is within him! better 'twere
+I snatched him in his sleep, and dashed him 'gainst
+The rocks, than let him live to----
+
+_Adah_.                            Oh, my God!
+Touch not the child--my child! _thy_ child! Oh, Cain!
+
+_Cain_. Fear not! for all the stars, and all the power
+Which sways them, I would not accost yon infant
+With ruder greeting than a father's kiss.
+
+_Adah_. Then, why so awful in thy speech?
+
+_Cain_.                                  I said,
+'Twere better that he ceased to live, than give
+Life to so much of sorrow as he must
+Endure, and, harder still, bequeath; but since
+That saying jars you, let us only say--
+'Twere better that he never had been born.
+
+_Adah_. Oh, do not say so! Where were then the joys,
+The mother's joys of watching, nourishing,
+And loving him? Soft! he awakes. Sweet Enoch!
+                                             [_She goes to the child_.
+Oh, Cain! look on him; see how full of life,
+Of strength, of bloom, of beauty, and of joy--
+How like to me--how like to thee, when gentle--
+For _then_ we are _all_ alike; is't not so, Cain?
+Mother, and sire, and son, our features are
+Reflected in each other; as they are
+In the clear waters, when _they_ are _gentle_, and
+When _thou_ art _gentle_. Love us, then, my Cain!
+And love thyself for our sakes, for we love thee.
+Look! how he laughs and stretches out his arms,
+And opens wide his blue eyes upon thine,
+To hail his father; while his little form
+Flutters as winged with joy. Talk not of pain!
+The childless cherubs well might envy thee
+The pleasures of a parent! Bless him, Cain!
+As yet he hath no words to thank thee, but
+His heart will, and thine own too.
+
+_Cain_.                            Bless thee, boy!
+If that a mortal blessing may avail thee,
+To save thee from the Serpent's curse!
+
+_Adah_.                              It shall.
+Surely a father's blessing may avert
+A reptile's subtlety.
+
+_Cain_.             Of that I doubt;
+But bless him ne'er the less.
+
+_Adah_.                       Our brother comes.
+
+_Cain_. Thy brother Abel.
+
+                          _Enter_ ABEL.
+
+_Abel_.                   Welcome, Cain! My brother,
+The peace of God be on thee!
+
+_Cain_.                      Abel, hail!
+
+_Abel_. Our sister tells me that thou hast been wandering,
+In high communion with a Spirit, far
+Beyond our wonted range. Was he of those
+We have seen and spoken with, like to our father?
+
+_Cain_. No.
+
+_Abel_.     Why then commune with him? he may be
+A foe to the Most High.
+
+_Cain_.                 And friend to man.
+Has the Most High been so--if so you term him?
+
+_Abel_. _Term him!_ your words are strange to-day, my brother.
+My sister Adah, leave us for awhile--
+We mean to sacrifice.
+
+_Adah_.                  Farewell, my Cain;
+But first embrace thy son. May his soft spirit,
+And Abel's pious ministry, recall thee
+To peace and holiness!                 [_Exit_ ADAH, _with her child_.
+
+_Abel_.                Where hast thou been?
+
+_Cain_. I know not.
+
+_Abel_.             Nor what thou hast seen?
+
+_Cain_.                                     The dead--
+The Immortal--the Unbounded--the Omnipotent--
+The overpowering mysteries of space--
+The innumerable worlds that were and are--
+A whirlwind of such overwhelming things,
+Suns, moons, and earths, upon their loud-voiced spheres
+Singing in thunder round me, as have made me
+Unfit for mortal converse: leave me, Abel.
+
+_Abel_. Thine eyes are flashing with unnatural light--
+Thy cheek is flushed with an unnatural hue--
+Thy words are fraught with an unnatural sound--
+What may this mean?
+
+_Cain_.            It means--I pray thee, leave me.
+
+_Abel_. Not till we have prayed and sacrificed together.
+
+_Cain_. Abel, I pray thee, sacrifice alone--
+Jehovah loves thee well.
+
+_Abel_.                  _Both_ well, I hope.
+
+_Cain_. But thee the better: I care not for that;
+Thou art fitter for his worship than I am;
+Revere him, then--but let it be alone--
+At least, without me.
+
+_Abel_.               Brother, I should ill
+Deserve the name of our great father's son,
+If, as my elder, I revered thee not,
+And in the worship of our God, called not
+On thee to join me, and precede me in
+Our priesthood--'tis thy place.
+
+_Cain_.                         But I have ne'er
+Asserted it.
+
+_Abel_.      The more my grief; I pray thee
+To do so now: thy soul seems labouring in
+Some strong delusion; it will calm thee.
+
+_Cain_.                                  No;
+Nothing can calm me more. _Calm!_ say I? Never
+Knew I what calm was in the soul, although
+I have seen the elements stilled. My Abel, leave me!
+Or let me leave thee to thy pious purpose.
+
+_Abel_. Neither; we must perform our task together.
+Spurn me not.
+
+_Cain_.       If it must be so----well, then,
+What shall I do?
+
+_Abel_.          Choose one of those two altars.
+
+_Cain_. Choose for me: they to me are so much turf
+And stone.
+
+_Abel_.    Choose thou!
+
+_Cain_.                I have chosen.
+
+_Abel_.                              'Tis the highest,
+And suits thee, as the elder. Now prepare
+Thine offerings.
+
+_Cain_.         Where are thine?
+
+_Abel_.                         Behold them here--
+The firstlings of the flock, and fat thereof--
+A shepherd's humble offering.
+
+_Cain_.                      I have no flocks;
+I am a tiller of the ground, and must
+Yield what it yieldeth to my toil--its fruit:
+                                                 [_He gathers fruits_.
+Behold them in their various bloom and ripeness.
+         [_They dress their altars, and kindle aflame upon them_.
+
+_Abel_. My brother, as the elder, offer first
+Thy prayer and thanksgiving with sacrifice.
+
+_Cain_. No--I am new to this; lead thou the way,
+And I will follow--as I may.
+
+_Abel_ (_kneeling_).       Oh, God!
+Who made us, and who breathed the breath of life
+Within our nostrils, who hath blessed us,
+And spared, despite our father's sin, to make
+His children all lost, as they might have been,
+Had not thy justice been so tempered with
+The mercy which is thy delight, as to
+Accord a pardon like a Paradise,
+Compared with our great crimes:--Sole Lord of light!
+Of good, and glory, and eternity!
+Without whom all were evil, and with whom
+Nothing can err, except to some good end
+Of thine omnipotent benevolence!
+Inscrutable, but still to be fulfilled!
+Accept from out thy humble first of shepherds'
+First of the first-born flocks--an offering,
+In itself nothing--as what offering can be
+Aught unto thee?--but yet accept it for
+The thanksgiving of him who spreads it in
+The face of thy high heaven--bowing his own
+Even to the dust, of which he is--in honour
+Of thee, and of thy name, for evermore!
+
+_Cain_ (_standing erect during this speech_).
+Spirit whate'er or whosoe'er thou art,
+Omnipotent, it may be--and, if good,
+Shown in the exemption of thy deeds from evil;
+Jehovah upon earth! and God in heaven!
+And it may be with other names, because
+Thine attributes seem many, as thy works:--
+If thou must be propitiated with prayers,
+Take them! If thou must be induced with altars,
+And softened with a sacrifice, receive them;
+Two beings here erect them unto thee.
+If thou lov'st blood, the shepherd's shrine, which smokes
+On my right hand, hath shed it for thy service
+In the first of his flock, whose limbs now reek
+In sanguinary incense to thy skies;
+Or, if the sweet and blooming fruits of earth,
+And milder seasons, which the unstained turf
+I spread them on now offers in the face
+Of the broad sun which ripened them, may seem
+Good to thee--inasmuch as they have not
+Suffered in limb or life--and rather form
+A sample of thy works, than supplication
+To look on ours! If a shrine without victim,
+And altar without gore, may win thy favour,
+Look on it! and for him who dresseth it,
+He is--such as thou mad'st him; and seeks nothing
+Which must be won by kneeling: if he's evil,
+Strike him! thou art omnipotent, and may'st--
+For what can he oppose? If he be good,
+Strike him, or spare him, as thou wilt! since all
+Rests upon thee; and Good and Evil seem
+To have no power themselves, save in thy will--
+And whether that be good or ill I know not,
+Not being omnipotent, nor fit to judge
+Omnipotence--but merely to endure
+Its mandate; which thus far I have endured.
+
+             [_The fire upon the altar of_ ABEL _kindles into a column
+                        of the brightest flame, and ascends to heaven;
+                           while a whirlwind throws down the altar of_
+                                 CAIN, _and scatters the fruits abroad
+                                                 upon the earths_
+
+_Abel_ (_kneeling_).
+Oh, brother, pray! Jehovah's wroth with thee.
+
+_Cain_. Why so?
+
+_Abel_.         Thy fruits are scattered on the earth.
+
+_Cain_. From earth they came, to earth let them return;
+Their seed will bear fresh fruit there ere the summer:
+Thy burnt flesh-offering prospers better; see
+How Heaven licks up the flames, when thick with blood!
+
+_Abel_. Think not upon my offering's acceptance,
+But make another of thine own--before
+It is too late.
+
+_Cain_.        I will build no more altars,
+Nor suffer any----
+
+_Abel_ (_rising_). Cain! what meanest thou?
+
+_Cain_. To cast down yon vile flatterer of the clouds,
+The smoky harbinger of thy dull prayers--
+Thine altar, with its blood of lambs and kids,
+Which fed on milk, to be destroyed in blood.
+
+_Abel_ (_opposing him_).
+Thou shalt not:--add not impious works to impious
+Words! let that altar stand--'tis hallowed now
+By the immortal pleasure of Jehovah,
+In his acceptance of the victims.
+
+_Cain_.                         _His_!
+_His pleasure!_ what was his high pleasure in
+The fumes of scorching flesh and smoking blood,
+To the pain of the bleating mothers, which
+Still yearn for their dead offspring? or the pangs
+Of the sad ignorant victims underneath
+Thy pious knife? Give way! this bloody record
+Shall not stand in the sun, to shame creation!
+
+_Abel_. Brother, give back! thou shalt not touch my altar
+With violence: if that thou wilt adopt it,
+To try another sacrifice, 'tis thine.
+
+_Cain_. Another sacrifice! Give way, or else
+That sacrifice may be----
+
+_Abel_.                   What mean'st thou?
+
+_Cain_.                                     Give--
+Give way!--thy God loves blood!--then look to it:--
+Give way, ere he hath _more_!
+
+_Abel_.                      In _his_ great name,
+I stand between thee and the shrine which hath
+Had his acceptance.
+
+_Cain_.            If thou lov'st thyself,
+Stand back till I have strewed this turf along
+Its native soil:--else----
+
+_Abel_ (_opposing him_).   I love God far more
+Than life.
+
+_Cain_ (_striking him with a brand, on the temples, which
+he snatches from the altar_). Then take thy life unto thy God,
+Since he loves lives.
+
+_Abel_ (_falls_). What hast thou done--my brother?
+
+_Cain_. Brother!
+
+_Abel_.          Oh, God! receive thy servant! and
+Forgive his slayer, for he knew not what
+He did--Cain, give me--give me thy hand; and tell
+Poor Zillah--
+
+_Cain_ (_after a moment's stupefaction_).
+            _My_ hand! 'tis all red, and with----
+What?                          [_A long pause.--Looking slowly round_.
+      Where am I? alone! Where's Abel? where
+Cain? Can it be that I am he? My brother,
+Awake!--why liest thou so long on the green earth?
+'Tis not the hour of slumber:--why so pale?
+What hast thou!--thou wert full of life this morn!
+Abel! I pray thee, mock me not! I smote
+Too fiercely, but not fatally. Ah, why
+Wouldst thou oppose me? This is mockery;
+And only done to daunt me:--'twas a blow--
+And but a blow. Stir--stir--nay, only stir!
+Why, so--that's well!--thou breathest! breathe upon me!
+Oh God! Oh God!
+
+_Abel_ (_very faintly_). What's he who speaks of God?
+
+_Cain_. Thy murderer.
+
+_Abel_.               Then may God forgive him! Cain,
+Comfort poor Zillah:--she has but one brother
+Now.                                                     [ABEL _dies_.
+
+_Cain_. And I none!--Who makes me brotherless?
+His eyes are open! then he is not dead!
+Death is like sleep; and sleep shuts down our lids.
+His lips, too, are apart; why then he breathes;
+And yet I feel it not.--His heart!--his heart!--
+Let me see, doth it beat? methinks----No!--no!
+This is a vision, else I am become
+The native of another and worse world.
+The earth swims round me:--what is this?--'tis wet;
+                   [_Puts his hand to his brow, and then looks at it_.
+And yet there are no dews! 'Tis blood--my blood--
+My brother's and my own! and shed by me!
+Then what have I further to do with life,
+Since I have taken life from my own flesh?
+But he can not be dead!--Is silence death?
+No; he will wake; then let me watch by him.
+Life cannot be so slight, as to be quenched
+Thus quickly!--he hath spoken to me since--
+What shall I say to him?--My brother!--No:
+He will not answer to that name; for brethren
+Smite not each other. Yet--yet--speak to me.
+Oh! for a word more of that gentle voice,
+That I may bear to hear my own again!
+
+                         _Enter_ ZILLAH.
+
+_Zillah_. I heard a heavy sound; what can it be?
+'Tis Cain; and watching by my husband. What
+Dost thou there, brother? Doth he sleep? Oh, Heaven!
+What means this paleness, and yon stream?--No, no!
+It is not blood; for who would shed his blood?
+Abel! what's this?--who hath done this? He moves not;
+He breathes not: and his hands drop down from mine
+With stony lifelessness! Ah! cruel Cain!
+Why camest thou not in time to save him from
+This violence? Whatever hath assailed him,
+Thou wert the stronger, and shouldst have stepped in
+Between him and aggression! Father!--Eve!--
+Adah!--come hither! Death is in the world!
+                        [_Exit_ ZILLAH, _calling on her Parents, etc._
+
+_Cain_ (_solus_). And who hath brought him there?--I--who abhor
+The name of Death so deeply, that the thought
+Empoisoned all my life, before I knew
+His aspect--I have led him here, and given
+My brother to his cold and still embrace,
+As if he would not have asserted his
+Inexorable claim without my aid.
+I am awake at last--a dreary dream
+Had maddened me;--but _he_ shall ne'er awake!
+
+              _Enter_ ADAM, EVE, ADAH, _and_ ZILLAH.
+
+_Adam_. A voice of woe from Zillah brings me here--
+What do I see?--'Tis true!--My son!--my son!
+Woman, behold the Serpent's work, and thine!                [_To_ EVE.
+
+_Eve_. Oh! speak not of it now: the Serpent's fangs
+Are in my heart! My best beloved, Abel!
+Jehovah! this is punishment beyond
+A mother's sin, to take _him_ from me!
+
+_Adam_.                                     Who,
+Or what hath done this deed?--speak, Cain, since thou
+Wert present; was it some more hostile angel,
+Who walks not with Jehovah? or some wild
+Brute of the forest?
+
+_Eve_.               Ah! a livid light
+Breaks through, as from a thunder-cloud! yon brand
+Massy and bloody! snatched from off the altar,
+And black with smoke, and red with----
+
+_Adam_.                               Speak, my son!
+Speak, and assure us, wretched as we are,
+That we are not more miserable still.
+
+_Adah_. Speak, Cain! and say it was not _thou_!
+
+_Eve_.                                          It was!
+I see it now--he hangs his guilty head,
+And covers his ferocious eye with hands
+Incarnadine!
+
+_Adah_.      Mother, thou dost him wrong--
+Cain! clear thee from this horrible accusal,
+Which grief wrings from our parent.
+
+_Eve_.                              Hear, Jehovah!
+May the eternal Serpent's curse be on him!
+For he was fitter for his seed than ours.
+May all his days be desolate! May----
+
+_Adah_.                              Hold!
+Curse him not, mother, for he is thy son--
+Curse him not, mother, for he is my brother,
+And my betrothed.
+
+_Eve_.           He hath left thee no brother--
+Zillah no husband--me _no son!_ for thus
+I curse him from my sight for evermore!
+All bonds I break between us, as he broke
+That of his nature, _in yon_----Oh Death! Death!
+Why didst thou not take _me_, who first incurred thee?
+Why dost thou not so now?
+
+_Adam_.                   Eve! let not this,
+Thy natural grief, lead to impiety!
+A heavy doom was long forespoken to us;
+And now that it begins, let it be borne
+In such sort as may show our God, that we
+Are faithful servants to his holy will.
+
+_Eve_ (_pointing to Cain_).
+_His will!_ the will of yon Incarnate Spirit
+Of Death, whom I have brought upon the earth
+To strew it with the dead. May all the curses
+Of life be on him! and his agonies
+Drive him forth o'er the wilderness, like us
+From Eden, till his children do by him
+As he did by his brother! May the swords
+And wings of fiery Cherubim pursue him
+By day and night--snakes spring up in his path--
+Earth's fruits be ashes in his mouth--the leaves
+On which he lays his head to sleep be strewed
+With scorpions! May his dreams be of his victim!
+His waking a continual dread of Death!
+May the clear rivers turn to blood as he
+Stoops down to stain them with his raging lip!
+May every element shun or change to him!
+May he live in the pangs which others die with!
+And Death itself wax something worse than Death
+To him who first acquainted him with man!
+Hence, fratricide! henceforth that word is _Cain_,
+Through all the coming myriads of mankind,
+Who shall abhor thee, though thou wert their sire!
+May the grass wither from thy feet! the woods
+Deny thee shelter! earth a home! the dust
+A grave! the sun his light! and heaven her God!
+                                                          [_Exit_ EVE.
+
+_Adam_. Cain! get thee forth: we dwell no more together.
+Depart! and leave the dead to me--I am
+Henceforth alone--we never must meet more.
+
+_Adah_. Oh, part not with him thus, my father: do not
+Add thy deep curse to Eve's upon his head!
+
+_Adam_. I curse him not: his spirit be his curse.
+Come, Zillah!
+
+_Zillah_.       I must watch my husband's corse.
+
+_Adam_. We will return again, when he is gone
+Who hath provided for us this dread office.
+Come, Zillah!
+
+_Zillah_.    Yet one kiss on yon pale clay,
+And those lips once so warm--my heart! my heart!
+                                [_Exeunt_ ADAM _and_ ZILLAH _weeping_.
+
+_Adah_. Cain! thou hast heard, we must go forth. I am ready,
+So shall our children be. I will bear Enoch,
+And you his sister. Ere the sun declines
+Let us depart, nor walk the wilderness
+Under the cloud of night.--Nay, speak to me.
+To _me--thine own_.
+
+_Cain_.             Leave me!
+
+_Adah_.                      Why, all have left thee.
+
+_Cain_. And wherefore lingerest thou? Dost thou not fear
+To dwell with one who hath done this?
+
+_Adah_.                               I fear
+Nothing except to leave thee, much as I
+Shrink from the deed which leaves thee brotherless.
+I must not speak of this--it is between thee
+And the great God.
+
+_A Voice from within exclaims_. Cain! Cain!
+
+_Adah_.                    Hear'st thou that voice?
+
+_The Voice within_. Cain! Cain!
+
+_Adah_.                        It soundeth like an angel's tone.
+
+              _Enter the_ ANGEL _of the Lord_.
+
+_Angel_. Where is thy brother Abel?
+
+_Cain_.                              Am I then
+My brother's keeper?
+
+_Angel_.            Cain! what hast thou done?
+The voice of thy slain brother's blood cries out,
+Even from the ground, unto the Lord!--Now art thou
+Cursed from the earth, which opened late her mouth
+To drink thy brother's blood from thy rash hand.
+Henceforth, when thou shalt till the ground, it shall not
+Yield thee her strength; a fugitive shalt thou
+Be from this day, and vagabond on earth!
+
+_Adah_. This punishment is more than he can bear.
+Behold thou drivest him from the face of earth,
+And from the face of God shall he be hid.
+A fugitive and vagabond on earth,
+'Twill come to pass, that whoso findeth him
+Shall slay him.
+
+_Cain_.         Would they could! but who are they
+Shall slay me? Where are these on the lone earth
+As yet unpeopled?
+
+_Angel_.         Thou hast slain thy brother,
+And who shall warrant thee against thy son?
+
+_Adah_. Angel of Light! be merciful, nor say
+That this poor aching breast now nourishes
+A murderer in my boy, and of his father.
+
+_Angel_. Then he would but be what his father is.
+Did not the milk of Eve give nutriment
+To him thou now seest so besmeared with blood?
+The fratricide might well engender parricides.--
+But it shall not be so--the Lord thy God
+And mine commandeth me to set his seal
+On Cain, so that he may go forth in safety.
+Who slayeth Cain, a sevenfold vengeance shall
+Be taken on his head. Come hither!
+
+_Cain_.                            What
+Wouldst thou with me?
+
+_Angel_.              To mark upon thy brow
+Exemption from such deeds as thou hast done.
+
+_Cain_. No, let me die!
+
+_Angel_.                It must not be.
+                        [_The_ ANGEL _sets the mark on_ CAIN'S _brow_.
+
+_Cain_.                                It burns
+My brow, but nought to that which is within it!
+Is there more? let me meet it as I may.
+
+_Angel_. Stern hast thou been and stubborn from the womb,
+As the ground thou must henceforth till; but he
+Thou slew'st was gentle as the flocks he tended.
+
+_Cain_. After the fall too soon was I begotten;
+Ere yet my mother's mind subsided from
+The Serpent, and my sire still mourned for Eden.
+That which I am, I am; I did not seek
+For life, nor did I make myself; but could I
+With my own death redeem him from the dust--
+And why not so? let him return to day,
+And I lie ghastly! so shall be restored
+By God the life to him he loved; and taken
+From me a being I ne'er loved to bear.
+
+_Angel_. Who shall heal murder? what is done, is done;
+Go forth! fulfil thy days! and be thy deeds
+Unlike the last!                            [_The_ ANGEL _disappears_.
+
+_Adah_.          He's gone, let us go forth;
+I hear our little Enoch cry within
+Our bower.
+
+_Cain_.     Ah! little knows he what he weeps for!
+And I who have shed blood cannot shed tears!
+But the four rivers would not cleanse my soul.
+Think'st thou my boy will bear to look on me?
+
+_Adah_. If I thought that he would not, I would----
+
+_Cain_ (_interrupting her_).                        No,
+No more of threats: we have had too many of them:
+Go to our children--I will follow thee.
+
+_Adah_. I will not leave thee lonely with the dead--
+Let us depart together.
+
+_Cain_.                Oh! thou dead
+And everlasting witness! whose unsinking
+Blood darkens earth and heaven! what thou _now_ art
+I know not! but if _thou_ seest what _I_ am,
+I think thou wilt forgive him, whom his God
+Can ne'er forgive, nor his own soul.--Farewell!
+I must not, dare not touch what I have made thee.
+I, who sprung from the same womb with thee, drained
+The same breast, clasped thee often to my own,
+In fondness brotherly and boyish, I
+Can never meet thee more, nor even dare
+To do that for thee, which thou shouldst have done
+For me--compose thy limbs into their grave--
+The first grave yet dug for mortality.
+But who hath dug that grave? Oh, earth! Oh, earth!
+For all the fruits thou hast rendered to me, I
+Give thee back this.--Now for the wilderness!
+                      [ADAH _stoops down and kisses the body of_ ABEL.
+
+_Adah_. A dreary, and an early doom, my brother,
+Has been thy lot! Of all who mourn for thee,
+I alone must not weep. My office is
+Henceforth to dry up tears, and not to shed them;
+But yet of all who mourn, none mourn like me,
+Not only for thyself, but him who slew thee.
+Now, Cain! I will divide thy burden with thee.
+
+_Cain_. Eastward from Eden will we take our way;
+'Tis the most desolate, and suits my steps.
+
+_Adah_. Lead! thou shalt be my guide, and may our God
+Be thine! Now let us carry forth our children.
+
+_Cain_. And _he_ who lieth there was childless! I
+Have dried the fountain of a gentle race,
+Which might have graced his recent marriage couch,
+And might have tempered this stern blood of mine,
+Uniting with our children Abel's offspring!
+O Abel!
+
+_Adah_. Peace be with him!
+
+_Cain_.                    But with _me!_----
+                                                            [_Exeunt_.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, haze in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **41** total stars earned
-- 🍴 **4** total forks
+- 🏆 **47** total stars earned
+- 🍴 **7** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -1674,4 +3117,4 @@ As only the yet infant world displays.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 11, 2025 at 06:55 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 12, 2025 at 06:44 AM GMT+5<!-- TIMESTAMP:END -->_
