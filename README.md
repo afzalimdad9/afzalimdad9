@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -30,8 +30,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/13/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 7 (Updated: 8/12/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/12/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 41 (Updated: 8/5/2025)
 <!-- HOT_REPOS:END -->
 
@@ -66,12 +66,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Read a formal research paper on an interesting subject
+Learn how to make an Alexa skill
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -80,195 +80,66 @@ Read a formal research paper on an interesting subject
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Juvenilia, An Ode to Natural Beauty" by Alan Seeger
-There is a power whose inspiration fills
-Nature's fair fabric, sun- and star-inwrought,
-Like airy dew ere any drop distils,
-Like perfume in the laden flower, like aught
-Unseen which interfused throughout the whole
-Becomes its quickening pulse and principle and soul.
-Now when, the drift of old desire renewing,
-Warm tides flow northward over valley and field,
-When half-forgotten sound and scent are wooing
-From their deep-chambered recesses long sealed
-Such memories as breathe once more
-Of childhood and the happy hues it wore,
-Now, with a fervor that has never been
-In years gone by, it stirs me to respond, --
-Not as a force whose fountains are within
-The faculties of the percipient mind,
-Subject with them to darkness and decay,
-But something absolute, something beyond,
-Oft met like tender orbs that seem to peer
-From pale horizons, luminous behind
-Some fringe of tinted cloud at close of day;
-And in this flood of the reviving year,
-When to the loiterer by sylvan streams,
-Deep in those cares that make Youth loveliest,
-Nature in every common aspect seems
-To comment on the burden in his breast --
-The joys he covets and the dreams he dreams --
-One then with all beneath the radiant skies
-That laughs with him or sighs,
-It courses through the lilac-scented air,
-A blessing on the fields, a wonder everywhere.
+"79. Adam Armour’s Prayer" by Robert Burns
+GUDE pity me, because I’m little!
+For though I am an elf o’ mettle,
+An’ can, like ony wabster’s shuttle,
+                Jink there or here,
+Yet, scarce as lang’s a gude kail-whittle,
+                I’m unco queer.
 
 
-Spirit of Beauty, whose sweet impulses,
-Flung like the rose of dawn across the sea,
-Alone can flush the exalted consciousness
-With shafts of sensible divinity --
-Light of the World, essential loveliness:
-Him whom the Muse hath made thy votary
-Not from her paths and gentle precepture
-Shall vulgar ends engage, nor break the spell
-That taught him first to feel thy secret charms
-And o'er the earth, obedient to their lure,
-Their sweet surprise and endless miracle,
-To follow ever with insatiate arms.
-On summer afternoons,
-When from the blue horizon to the shore,
-Casting faint silver pathways like the moon's
-Across the Ocean's glassy, mottled floor,
-Far clouds uprear their gleaming battlements
-Drawn to the crest of some bleak eminence,
-When autumn twilight fades on the sere hill
-And autumn winds are still;
-To watch the East for some emerging sign,
-Wintry Capella or the Pleiades
-Or that great huntsman with the golden gear;
-Ravished in hours like these
-Before thy universal shrine
-To feel the invoked presence hovering near,
-He stands enthusiastic. Star-lit hours
-Spent on the roads of wandering solitude
-Have set their sober impress on his brow,
-And he, with harmonies of wind and wood
-And torrent and the tread of mountain showers,
-Has mingled many a dedicative vow
-That holds him, till thy last delight be known,
-Bound in thy service and in thine alone.
+An’ now Thou kens our waefu’ case;
+For Geordie’s jurr we’re in disgrace,
+Because we stang’d her through the place,
+                An’ hurt her spleuchan;
+For whilk we daurna show our face
+                Within the clachan.
 
 
-I, too, among the visionary throng
-Who choose to follow where thy pathway leads,
-Have sold my patrimony for a song,
-And donned the simple, lowly pilgrim's weeds.
-From that first image of beloved walls,
-Deep-bowered in umbrage of ancestral trees,
-Where earliest thy sweet enchantment falls,
-Tingeing a child's fantastic reveries
-With radiance so fair it seems to be
-Of heavens just lost the lingering evidence
-From that first dawn of roseate infancy,
-So long beneath thy tender influence
-My breast has thrilled. As oft for one brief second
-The veil through which those infinite offers beckoned
-Has seemed to tremble, letting through
-Some swift intolerable view
-Of vistas past the sense of mortal seeing,
-So oft, as one whose stricken eyes might see
-In ferny dells the rustic deity,
-I stood, like him, possessed, and all my being,
-Flooded an instant with unwonted light,
-Quivered with cosmic passion; whether then
-On woody pass or glistening mountain-height
-I walked in fellowship with winds and clouds,
-Whether in cities and the throngs of men,
-A curious saunterer through friendly crowds,
-Enamored of the glance in passing eyes,
-Unuttered salutations, mute replies, --
-In every character where light of thine
-Has shed on earthly things the hue of things divine
-I sought eternal Loveliness, and seeking,
-If ever transport crossed my brow bespeaking
-Such fire as a prophetic heart might feel
-Where simple worship blends in fervent zeal,
-It was the faith that only love of thee
-Needed in human hearts for Earth to see
-Surpassed the vision poets have held dear
-Of joy diffused in most communion here;
-That whomsoe'er thy visitations warmed,
-Lover of thee in all thy rays informed,
-Needed no difficulter discipline
-To seek his right to happiness within
-Than, sensible of Nature's loveliness,
-To yield him to the generous impulses
-By such a sentiment evoked. The thought,
-Bright Spirit, whose illuminings I sought,
-That thou unto thy worshipper might be
-An all-sufficient law, abode with me,
-Importing something more than unsubstantial dreams
-To vigils by lone shores and walks by murmuring streams.
+An’ now we’re dern’d in dens and hollows,
+And hunted, as was William Wallace,
+Wi’ constables-thae blackguard fallows,
+                An’ sodgers baith;
+But Gude preserve us frae the gallows,
+                That shamefu’ death!
 
 
-Youth's flowers like childhood's fade and are forgot.
-Fame twines a tardy crown of yellowing leaves.
-How swift were disillusion, were it not
-That thou art steadfast where all else deceives!
-Solace and Inspiration, Power divine
-That by some mystic sympathy of thine,
-When least it waits and most hath need of thee,
-Can startle the dull spirit suddenly
-With grandeur welled from unsuspected springs, --
-Long as the light of fulgent evenings,
-When from warm showers the pearly shades disband
-And sunset opens o'er the humid land,
-Shows thy veiled immanence in orient skies, --
-Long as pale mist and opalescent dyes
-Hung on far isle or vanishing mountain-crest,
-Fields of remote enchantment can suggest
-So sweet to wander in it matters nought,
-They hold no place but in impassioned thought,
-Long as one draught from a clear sky may be
-A scented luxury;
-Be thou my worship, thou my sole desire,
-Thy paths my pilgrimage, my sense a lyre
-Aeolian for thine every breath to stir;
-Oft when her full-blown periods recur,
-To see the birth of day's transparent moon
-Far from cramped walls may fading afternoon
-Find me expectant on some rising lawn;
-Often depressed in dewy grass at dawn,
-Me, from sweet slumber underneath green boughs,
-Ere the stars flee may forest matins rouse,
-Afoot when the great sun in amber floods
-Pours horizontal through the steaming woods
-And windless fumes from early chimneys start
-And many a cock-crow cheers the traveller's heart
-Eager for aught the coming day afford
-In hills untopped and valleys unexplored.
-Give me the white road into the world's ends,
-Lover of roadside hazard, roadside friends,
-Loiterer oft by upland farms to gaze
-On ample prospects, lost in glimmering haze
-At noon, or where down odorous dales twilit,
-Filled with low thundering of the mountain stream,
-Over the plain where blue seas border it
-The torrid coast-towns gleam.
+Auld grim black-bearded Geordie’s sel’—
+O shake him owre the mouth o’ hell!
+There let him hing, an’ roar, an’ yell
+                Wi’ hideous din,
+And if he offers to rebel,
+                Then heave him in.
 
 
-I have fared too far to turn back now; my breast
-Burns with the lust for splendors unrevealed,
-Stars of midsummer, clouds out of the west,
-Pallid horizons, winds that valley and field
-Laden with joy, be ye my refuge still!
-What though distress and poverty assail!
-Though other voices chide, yours never will.
-The grace of a blue sky can never fail.
-Powers that my childhood with a spell so sweet,
-My youth with visions of such glory nursed,
-Ye have beheld, nor ever seen my feet
-On any venture set, but 'twas the thirst
-For Beauty willed them, yea, whatever be
-The faults I wanted wings to rise above;
-I am cheered yet to think how steadfastly
-I have been loyal to the love of Love!
+When Death comes in wi’ glimmerin blink,
+An’ tips auld drucken Nanse the wink,
+May Sautan gie her doup a clink
+                Within his yett,
+An’ fill her up wi’ brimstone drink,
+                Red-reekin het.
+
+
+Though Jock an’ hav’rel Jean are merry—
+Some devil seize them in a hurry,
+An’ waft them in th’ infernal wherry
+                Straught through the lake,
+An’ gie their hides a noble curry
+                Wi’ oil of aik!
+
+
+As for the jurr-puir worthless body!
+She’s got mischief enough already;
+Wi’ stanged hips, and buttocks bluidy
+                She’s suffer’d sair;
+But, may she wintle in a woody,
+                If she wh-e mair!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 27°C, haze in Karachi 🇵🇰
+🌡️ 27°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -365,4 +236,4 @@ I have been loyal to the love of Love!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 13, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 14, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
