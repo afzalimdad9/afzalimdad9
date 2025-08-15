@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -30,9 +30,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/13/2025)
+- 🔥 [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥 ⭐ 4 (Updated: 8/14/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/14/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 7 (Updated: 8/12/2025)
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 41 (Updated: 8/5/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -66,12 +66,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn how to make an Alexa skill
+Go to the library and find an interesting book
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -80,71 +80,37 @@ Learn how to make an Alexa skill
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"79. Adam Armour’s Prayer" by Robert Burns
-GUDE pity me, because I’m little!
-For though I am an elf o’ mettle,
-An’ can, like ony wabster’s shuttle,
-                Jink there or here,
-Yet, scarce as lang’s a gude kail-whittle,
-                I’m unco queer.
+"Memory" by William Browne
+SO shuts the marigold her leaves
+At the departure of the sun;
+So from the honeysuckle sheaves
+The bee goes when the day is done;
+So sits the turtle when she is but one,
+And so all woe, as I since she is gone.
 
+To some few birds kind Nature hath
+Made all the summer as one day:
+Which once enjoy'd, cold winter's wrath
+As night they sleeping pass away.
+Those happy creatures are, that know not yet
+The pain to be deprived or to forget.
 
-An’ now Thou kens our waefu’ case;
-For Geordie’s jurr we’re in disgrace,
-Because we stang’d her through the place,
-                An’ hurt her spleuchan;
-For whilk we daurna show our face
-                Within the clachan.
-
-
-An’ now we’re dern’d in dens and hollows,
-And hunted, as was William Wallace,
-Wi’ constables-thae blackguard fallows,
-                An’ sodgers baith;
-But Gude preserve us frae the gallows,
-                That shamefu’ death!
-
-
-Auld grim black-bearded Geordie’s sel’—
-O shake him owre the mouth o’ hell!
-There let him hing, an’ roar, an’ yell
-                Wi’ hideous din,
-And if he offers to rebel,
-                Then heave him in.
-
-
-When Death comes in wi’ glimmerin blink,
-An’ tips auld drucken Nanse the wink,
-May Sautan gie her doup a clink
-                Within his yett,
-An’ fill her up wi’ brimstone drink,
-                Red-reekin het.
-
-
-Though Jock an’ hav’rel Jean are merry—
-Some devil seize them in a hurry,
-An’ waft them in th’ infernal wherry
-                Straught through the lake,
-An’ gie their hides a noble curry
-                Wi’ oil of aik!
-
-
-As for the jurr-puir worthless body!
-She’s got mischief enough already;
-Wi’ stanged hips, and buttocks bluidy
-                She’s suffer’d sair;
-But, may she wintle in a woody,
-                If she wh-e mair!
+I oft have heard men say there be
+Some that with confidence profess
+The helpful Art of Memory:
+But could they teach Forgetfulness,
+I'd learn; and try what further art could do
+To make me love her and forget her too.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 27°C, smoke in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **48** total stars earned
+- 🏆 **52** total stars earned
 - 🍴 **7** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -236,4 +202,4 @@ But, may she wintle in a woody,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 14, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 15, 2025 at 06:47 AM GMT+5<!-- TIMESTAMP:END -->_
