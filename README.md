@@ -29,7 +29,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/23/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/24/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 9 (Updated: 8/20/2025)
 - 🔥 [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥 ⭐ 4 (Updated: 8/14/2025)
 <!-- HOT_REPOS:END -->
@@ -65,16 +65,18 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Make a couch fort
+Meditate for five minutes
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -83,264 +85,992 @@ Make a couch fort
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"I Sing the Body Electric." by Walt Whitman
-1
-I SING the Body electric;
-The armies of those I love engirth me, and I engirth them;
-They will not let me off till I go with them, respond to them,
-And discorrupt them, and charge them full with the charge of the Soul.
+"The Canterbury Tales. The Monk's Tale." by Geoffrey Chaucer
+THE PROLOGUE
 
-Was it doubted that those who corrupt their own bodies conceal themselves;
-And if those who defile the living are as bad as they who defile the dead?
-And if the body does not do as much as the Soul?
-And if the body were not the Soul, what is the Soul?
+WHEN ended was my tale of Melibee,
+And of Prudence and her benignity,
+Our Hoste said, "As I am faithful man,
+And by the precious corpus Madrian,
+I had lever than a barrel of ale,
+That goode lefe my wife had heard this tale;
+For she is no thing of such patience
+As was this Meliboeus' wife Prudence.
+By Godde's bones! when I beat my knaves
+She bringeth me the greate clubbed staves,
+And crieth, 'Slay the dogges every one,
+And break of them both back and ev'ry bone.'
+And if that any neighebour of mine
+Will not in church unto my wife incline,
+Or be so hardy to her to trespace,
+When she comes home she rampeth in my face,
+And crieth, 'False coward, wreak thy wife
+By corpus Domini, I will have thy knife,
+And thou shalt have my distaff, and go spin.'
+From day till night right thus she will begin.
+ 'Alas!' she saith, 'that ever I was shape
+To wed a milksop, or a coward ape,
+That will be overlad with every wight!
+Thou darest not stand by thy wife's right.'
 
-2
-The love of the Body of man or woman balks account—the body itself balks account;
-That of the male is perfect, and that of the female is perfect.
+"This is my life, but if that I will fight;
+And out at door anon I must me dight,
+Or elles I am lost, but if that I
+Be, like a wilde lion, fool-hardy.
+I wot well she will do me slay some day
+Some neighebour and thenne go my way;
+For I am perilous with knife in hand,
+Albeit that I dare not her withstand;
+For she is big in armes, by my faith!
+That shall he find, that her misdoth or saith.
+But let us pass away from this mattere.
+My lord the Monk," quoth he, "be merry of cheer,
+For ye shall tell a tale truely.
+Lo, Rochester stands here faste by.
+Ride forth, mine owen lord, break not our game.
+But by my troth I cannot tell your name;
+Whether shall I call you my lord Dan John,
+Or Dan Thomas, or elles Dan Albon?
+Of what house be ye, by your father's kin?
+I vow to God, thou hast a full fair skin;
+It is a gentle pasture where thou go'st;
+Thou art not like a penant or a ghost.
+Upon my faith thou art some officer,
+Some worthy sexton, or some cellarer.
+For by my father's soul, as to my dome,
+Thou art a master when thou art at home;
+No poore cloisterer, nor no novice,
+But a governor, both wily and wise,
+And therewithal, of brawnes and of bones,
+A right well-faring person for the nonce.
+I pray to God give him confusion
+That first thee brought into religion.
+Thou would'st have been a treade-fowl aright;
+Hadst thou as greate leave, as thou hast might,
+To perform all thy lust in engendrure,
+Thou hadst begotten many a creature.
+Alas! why wearest thou so wide a cope?
+God give me sorrow, but, an I were pope,
+Not only thou, but every mighty man,
+Though he were shorn full high upon his pan,
+Should have a wife; for all this world is lorn;
+Religion hath ta'en up all the corn
+Of treading, and we borel men be shrimps:
+Of feeble trees there come wretched imps.
+This maketh that our heires be so slender
+And feeble, that they may not well engender.
+This maketh that our wives will assay
+Religious folk, for they may better pay
+Of Venus' payementes than may we:
+God wot, no lusheburghes  paye ye.
+But be not wroth, my lord, though that I play;
+Full oft in game a sooth have I heard say."
 
-The expression of the face balks account;
-But the expression of a well-made man appears not only in his face;
-It is in his limbs and joints also, it is curiously in the joints of his hips and wrists;
+This worthy Monk took all in patience,
+And said, "I will do all my diligence,
+As far as souneth unto honesty,
+To telle you a tale, or two or three.
+And if you list to hearken hitherward,
+I will you say the life of Saint Edward;
+Or elles first tragedies I will tell,
+Of which I have an hundred in my cell.
+Tragedy is to say a certain story,
+As olde bookes maken us memory,
+Of him that stood in great prosperity,
+And is y-fallen out of high degree
+In misery, and endeth wretchedly.
+And they be versified commonly
+Of six feet, which men call hexametron;
+In prose eke be indited many a one,
+And eke in metre, in many a sundry wise.
+Lo, this declaring ought enough suffice.
+Now hearken, if ye like for to hear.
+But first I you beseech in this mattere,
+Though I by order telle not these things,
+Be it of popes, emperors, or kings,
+After their ages, as men written find,
+But tell them some before and some behind,
+As it now cometh to my remembrance,
+Have me excused of mine ignorance."
 
-It is in his walk, the carriage of his neck, the flex of his waist and knees—dress does
-  not hide him;
-The strong, sweet, supple quality he has, strikes through the cotton and flannel;
-To see him pass conveys as much as the best poem, perhaps more;
-You linger to see his back, and the back of his neck and shoulder-side.
+THE TALE.
 
-The sprawl and fulness of babes, the bosoms and heads of women, the folds of their dress,
-  their style as we pass in the street, the contour of their shape downwards,
-The swimmer naked in the swimming-bath, seen as he swims through the transparent
-  green-shine, or lies with his face up, and rolls silently to and fro in the heave of the
-  water,
-The bending forward and backward of rowers in row-boats—the horseman in his saddle,
-Girls, mothers, house-keepers, in all their performances,
-The group of laborers seated at noon-time with their open dinner-kettles, and their wives
-  waiting,
-The female soothing a child—the farmer’s daughter in the garden or cow-yard,
-The young fellow hoeing corn—the sleigh-driver guiding his six horses through the crowd,
+I will bewail, in manner of tragedy,
+The harm of them that stood in high degree,
+And felle so, that there was no remedy
+To bring them out of their adversity.
+For, certain, when that Fortune list to flee,
+There may no man the course of her wheel hold:
+Let no man trust in blind prosperity;
+Beware by these examples true and old.
 
-The wrestle of wrestlers, two apprentice-boys, quite grown, lusty, good-natured,
-  native-born, out on the vacant lot at sundown, after work,
-The coats and caps thrown down, the embrace of love and resistance,
-The upper-hold and the under-hold, the hair rumpled over and blinding the eyes;
-The march of firemen in their own costumes, the play of masculine muscle through
-  clean-setting trowsers and waist-straps,
-The slow return from the fire, the pause when the bell strikes suddenly again, and the
-  listening on the alert,
-The natural, perfect, varied attitudes—the bent head, the curv’d neck, and the
-  counting;
-Such-like I love—I loosen myself, pass freely, am at the mother’s breast with the
-  little child,
-Swim with the swimmers, wrestle with wrestlers, march in line with the firemen, and pause,
-  listen, and count.
+At LUCIFER, though he an angel were,
+And not a man, at him I will begin.
+For though Fortune may no angel dere,
+From high degree yet fell he for his sin
+Down into hell, where as he yet is in.
+O Lucifer! brightest of angels all,
+Now art thou Satanas, that may'st not twin
+Out of the misery in which thou art fall.
 
-3
-I know a man, a common farmer—the father of five sons;
-And in them were the fathers of sons—and in them were the fathers of sons.
+Lo ADAM, in the field of Damascene
+With Godde's owen finger wrought was he,
+And not begotten of man's sperm unclean;
+And welt all Paradise saving one tree:
+Had never worldly man so high degree
+As Adam, till he for misgovernance
+Was driven out of his prosperity
+To labour, and to hell, and to mischance.
 
-This man was of wonderful vigor, calmness, beauty of person;
-The shape of his head, the pale yellow and white of his hair and beard, and the
-  immeasurable meaning of his black eyes—the richness and breadth of his manners,
-These I used to go and visit him to see—he was wise also;
-He was six feet tall, he was over eighty years old—his sons were massive, clean,
-  bearded, tan-faced, handsome;
-They and his daughters loved him—all who saw him loved him;
-They did not love him by allowance—they loved him with personal love;
-He drank water only—the blood show’d like scarlet through the clear-brown skin of his
-  face;
-He was a frequent gunner and fisher—he sail’d his boat himself—he had a fine one
-  presented to him by a ship-joiner—he had fowling-pieces, presented to him by men that
-  loved him;
-When he went with his five sons and many grand-sons to hunt or fish, you would pick him
-  out as the most beautiful and vigorous of the gang.
+Lo SAMPSON, which that was annunciate
+By the angel, long ere his nativity;
+And was to God Almighty consecrate,
+And stood in nobless while that he might see;
+Was never such another as was he,
+To speak of strength, and thereto hardiness;
+But to his wives told he his secre,
+Through which he slew himself for wretchedness.
 
-You would wish long and long to be with him—you would wish to sit by him in the boat,
-  that you and he might touch each other.
+Sampson, this noble and mighty champion,
+Withoute weapon, save his handes tway,
+He slew and all to-rente the lion,
+Toward his wedding walking by the way.
+His false wife could him so please, and pray,
+Till she his counsel knew; and she, untrue,
+Unto his foes his counsel gan bewray,
+And him forsook, and took another new.
 
-4
-I have perceiv’d that to be with those I like is enough,
-To stop in company with the rest at evening is enough,
-To be surrounded by beautiful, curious, breathing, laughing flesh is enough,
-To pass among them, or touch any one, or rest my arm ever so lightly round his or her neck
-  for a moment—what is this, then?
-I do not ask any more delight—I swim in it, as in a sea.
+Three hundred foxes Sampson took for ire,
+And all their tailes he together band,
+And set the foxes' tailes all on fire,
+For he in every tail had knit a brand,
+And they burnt all the combs of that lend,
+And all their oliveres and vines eke.
+A thousand men he slew eke with his hand,
+And had no weapon but an ass's cheek.
 
-There is something in staying close to men and women, and looking on them, and in the
-  contact and odor of them, that pleases the soul well;
-All things please the soul—but these please the soul well.
+When they were slain, so thirsted him, that he
+Was well-nigh lorn, for which he gan to pray
+That God would on his pain have some pity,
+And send him drink, or elles must he die;
+And of this ass's check, that was so dry,
+Out of a wang-tooth sprang anon a well,
+Of which, he drank enough, shortly to say.
+Thus help'd him God, as Judicum   can tell.
 
-5
-This is the female form;
-A divine nimbus exhales from it from head to foot;
-It attracts with fierce undeniable attraction!
-I am drawn by its breath as if I were no more than a helpless vapor—all falls aside but
-  myself and it;
-Books, art, religion, time, the visible and solid earth, the atmosphere and the clouds,
-  and what was expected of heaven or fear’d of hell, are now consumed;
-Mad filaments, ungovernable shoots play out of it—the response likewise ungovernable;
-Hair, bosom, hips, bend of legs, negligent falling hands, all diffused—mine too
-  diffused;
-Ebb stung by the flow, and flow stung by the ebb—love-flesh swelling and deliciously
-  aching;
-Limitless limpid jets of love hot and enormous, quivering jelly of love, white-blow and
-  delirious juice;
-Bridegroom night of love, working surely and softly into the prostrate dawn;
-Undulating into the willing and yielding day,
-Lost in the cleave of the clasping and sweet-flesh’d day.
+By very force, at Gaza, on a night,
+Maugre the Philistines of that city,
+The gates of the town he hath up plight,
+And on his back y-carried them hath he
+High on an hill, where as men might them see.
+O noble mighty Sampson, lefe and dear,
+Hadst thou not told to women thy secre,
+In all this world there had not been thy peer.
 
-This is the nucleus—after the child is born of woman, the man is born of woman;
-This is the bath of birth—this is the merge of small and large, and the outlet again.
+This Sampson never cider drank nor wine,
+Nor on his head came razor none nor shear,
+By precept of the messenger divine;
+For all his strengthes in his haires were;
+And fully twenty winters, year by year,
+He had of Israel the governance;
+But soone shall he weepe many a tear,
+For women shall him bringe to mischance.
 
-Be not ashamed, women—your privilege encloses the rest, and is the exit of the rest;
-You are the gates of the body, and you are the gates of the soul.
+Unto his leman Dalila he told,
+That in his haires all his strengthe lay;
+And falsely to his foemen she him sold,
+And sleeping in her barme upon a day
+She made to clip or shear his hair away,
+And made his foemen all his craft espien.
+And when they founde him in this array,
+They bound him fast, and put out both his eyen.
 
-The female contains all qualities, and tempers them—she is in her place, and moves with
-  perfect balance;
-She is all things duly veil’d—she is both passive and active;
-She is to conceive daughters as well as sons, and sons as well as daughters.
+But, ere his hair was clipped or y-shave,
+There was no bond with which men might him bind;
+But now is he in prison in a cave,
+Where as they made him at the querne grind.
+O noble Sampson, strongest of mankind!
+O whilom judge in glory and richess!
+Now may'st thou weepe with thine eyen blind,
+Since thou from weal art fall'n to wretchedness.
 
-As I see my soul reflected in nature;
-As I see through a mist, one with inexpressible completeness and beauty,
-See the bent head, and arms folded over the breast—the female I see.
+Th'end of this caitiff was as I shall say;
+His foemen made a feast upon a day,
+And made him as their fool before them play;
+And this was in a temple of great array.
+But at the last he made a foul affray,
+For he two pillars shook, and made them fall,
+And down fell temple and all, and there it lay,
+And slew himself and eke his foemen all;
 
-6
-The male is not less the soul, nor more—he too is in his place;
-He too is all qualities—he is action and power;
-The flush of the known universe is in him;
-Scorn becomes him well, and appetite and defiance become him well;
-The wildest largest passions, bliss that is utmost, sorrow that is utmost, become him
-  well—pride is for him;
-The full-spread pride of man is calming and excellent to the soul;
-Knowledge becomes him—he likes it always—he brings everything to the test of himself;
-Whatever the survey, whatever the sea and the sail, he strikes soundings at last only
-  here;
-(Where else does he strike soundings, except here?)
+This is to say, the princes every one;
+And eke three thousand bodies were there slain
+With falling of the great temple of stone.
+Of Sampson now will I no more sayn;
+Beware by this example old and plain,
+That no man tell his counsel to his wife
+Of such thing as he would have secret fain,
+If that it touch his limbes or his life.
 
-The man’s body is sacred, and the woman’s body is sacred;
-No matter who it is, it is sacred;
-Is it a slave? Is it one of the dull-faced immigrants just landed on the wharf?
-Each belongs here or anywhere, just as much as the well-off—just as much as you;
-Each has his or her place in the procession.
+Of HERCULES the sov'reign conquerour
+Singe his workes' land and high renown;
+For in his time of strength he bare the flow'r.
+He slew and reft the skin of the lion
+He of the Centaurs laid the boast adown;
+He Harpies  slew, the cruel birdes fell;
+He golden apples reft from the dragon
+He drew out Cerberus the hound of hell.
 
-(All is a procession;
-The universe is a procession, with measured and beautiful motion.)
+He slew the cruel tyrant Busirus.
+And made his horse to fret him flesh and bone;
+He slew the fiery serpent venomous;
+Of Achelous' two hornes brake he one.
+And he slew Cacus in a cave of stone;
+He slew the giant Antaeus the strong;
+He slew the grisly boar, and that anon;
+And bare the heav'n upon his necke long.
 
-Do you know so much yourself, that you call the slave or the dull-face ignorant?
-Do you suppose you have a right to a good sight, and he or she has no right to a sight?
-Do you think matter has cohered together from its diffuse float—and the soil is on the
-  surface, and water runs, and vegetation sprouts,
-For you only, and not for him and her?
+Was never wight, since that the world began,
+That slew so many monsters as did he;
+Throughout the wide world his name ran,
+What for his strength, and for his high bounte;
+And every realme went he for to see;
+He was so strong that no man might him let;
+At both the worlde's ends, as saith Trophee,
+Instead of boundes he a pillar set.
 
-7
-A man’s Body at auction;
-I help the auctioneer—the sloven does not half know his business.
+A leman had this noble champion,
+That highte Dejanira, fresh as May;
+And, as these clerkes make mention,
+She hath him sent a shirte fresh and gay;
+Alas! this shirt, alas and well-away!
+Envenomed was subtilly withal,
+That ere that he had worn it half a day,
+It made his flesh all from his bones fall.
 
-Gentlemen, look on this wonder!
-Whatever the bids of the bidders, they cannot be high enough for it;
-For it the globe lay preparing quintillions of years, without one animal or plant;
-For it the revolving cycles truly and steadily roll’d.
+But natheless some clerkes her excuse
+By one, that highte Nessus, that it maked;
+Be as he may, I will not her accuse;
+But on his back this shirt he wore all naked,
+Till that his flesh was for the venom blaked.
+And when he saw none other remedy,
+In hote coals he hath himselfe raked,
+For with no venom deigned he to die.
 
-In this head the all-baffling brain;
-In it and below it, the makings of heroes.
+Thus sterf this worthy mighty Hercules.
+Lo, who may trust on Fortune any throw?
+For him that followeth all this world of pres,
+Ere he be ware, is often laid full low;
+Full wise is he that can himselfe know.
+Beware, for when that Fortune list to glose
+Then waiteth she her man to overthrow,
+By such a way as he would least suppose.
 
-Examine these limbs, red, black, or white—they are so cunning in tendon and nerve;
-They shall be stript, that you may see them.
+The mighty throne, the precious treasor,
+The glorious sceptre, and royal majesty,
+That had the king NABUCHODONOSOR
+With tongue unnethes may described be.
+He twice won Jerusalem the city,
+The vessels of the temple he with him lad;
+At Babylone was his sov'reign see,
+In which his glory and delight he had.
 
-Exquisite senses, life-lit eyes, pluck, volition,
-Flakes of breast-muscle, pliant back-bone and neck, flesh not flabby, good-sized arms and
-  legs,
-And wonders within there yet.
+The fairest children of the blood royal
+Of Israel he did do geld anon,
+And maked each of them to be his thrall.
+Amonges others Daniel was one,
+That was the wisest child of every one;
+For he the dreames of the king expounded,
+Where in Chaldaea clerkes was there none
+That wiste to what fine his dreames sounded.
 
-Within there runs blood,
-The same old blood!
-The same red-running blood!
-There swells and jets a heart—there all passions, desires, reachings, aspirations;
-Do you think they are not there because they are not express’d in parlors and
-  lecture-rooms?
+This proude king let make a statue of gold
+Sixty cubites long, and seven in bread',
+To which image hathe young and old
+Commanded he to lout, and have in dread,
+Or in a furnace, full of flames red,
+He should be burnt that woulde not obey:
+But never would assente to that deed
+Daniel, nor his younge fellows tway.
 
-This is not only one man—this is the father of those who shall be fathers in their
-  turns;
-In him the start of populous states and rich republics;
-Of him countless immortal lives, with countless embodiments and enjoyments.
+This king of kinges proud was and elate;
+He ween'd that God, that sits in majesty,
+Mighte him not bereave of his estate;
+But suddenly he lost his dignity,
+And like a beast he seemed for to be,
+And ate hay as an ox, and lay thereout
+In rain, with wilde beastes walked he,
+Till certain time was y-come about.
 
-How do you know who shall come from the offspring of his offspring through the centuries?
-Who might you find you have come from yourself, if you could trace back through the
-  centuries?
+And like an eagle's feathers wax'd his hairs,
+His nailes like a birde's clawes were,
+Till God released him at certain years,
+And gave him wit; and then with many a tear
+He thanked God, and ever his life in fear
+Was he to do amiss, or more trespace:
+And till that time he laid was on his bier,
+He knew that God was full of might and grace.
 
-8
-A woman’s Body at auction!
-She too is not only herself—she is the teeming mother of mothers;
-She is the bearer of them that shall grow and be mates to the mothers.
+His sone, which that highte BALTHASAR,
+That held the regne after his father's day,
+He by his father coulde not beware,
+For proud he was of heart and of array;
+And eke an idolaster was he aye.
+His high estate assured him in pride;
+But Fortune cast him down, and there he lay,
+And suddenly his regne gan divide.
 
-Have you ever loved the Body of a woman?
-Have you ever loved the Body of a man?
-Your father—where is your father?
-Your mother—is she living? have you been much with her? and has she been much with you?
+A feast he made unto his lordes all
+Upon a time, and made them blithe be,
+And then his officeres gan he call;
+"Go, bringe forth the vessels," saide he,
+"Which that my father in his prosperity
+Out of the temple of Jerusalem reft,
+And to our highe goddes thanks we
+Of honour, that our elders with us left."
 
-—Do you not see that these are exactly the same to all, in all nations and times, all
-  over the earth?
+His wife, his lordes, and his concubines
+Aye dranke, while their appetites did last,
+Out of these noble vessels sundry wines.
+And on a wall this king his eyen cast,
+And saw an hand, armless, that wrote full fast;
+For fear of which he quaked, and sighed sore.
+This hand, that Balthasar so sore aghast,
+Wrote Mane, tekel, phares, and no more.
 
-If any thing is sacred, the human body is sacred,
-And the glory and sweet of a man, is the token of manhood untainted;
-And in man or woman, a clean, strong, firm-fibred body, is beautiful as the most beautiful
-  face.
+In all that land magician was there none
+That could expounde what this letter meant.
+But Daniel expounded it anon,
+And said, "O King, God to thy father lent
+Glory and honour, regne, treasure, rent;
+And he was proud, and nothing God he drad;
+And therefore God great wreche upon him sent,
+And him bereft the regne that he had.
 
-Have you seen the fool that corrupted his own live body? or the fool that corrupted her
-  own live body?
-For they do not conceal themselves, and cannot conceal themselves.
+"He was cast out of manne's company;
+With asses was his habitation
+And ate hay, as a beast, in wet and dry,
+Till that he knew by grace and by reason
+That God of heaven hath domination
+O'er every regne, and every creature;
+And then had God of him compassion,
+And him restor'd his regne and his figure.
 
-9
-O my Body! I dare not desert the likes of you in other men and women, nor the likes of the
-  parts of you;
-I believe the likes of you are to stand or fall with the likes of the Soul, (and that they
-  are the Soul;)
-I believe the likes of you shall stand or fall with my poems—and that they are poems,
-Man’s, woman’s, child’s, youth’s, wife’s, husband’s, mother’s, father’s,
-  young man’s, young woman’s poems;
-Head, neck, hair, ears, drop and tympan of the ears,
-Eyes, eye-fringes, iris of the eye, eye-brows, and the waking or sleeping of the lids,
-Mouth, tongue, lips, teeth, roof of the mouth, jaws, and the jaw-hinges,
-Nose, nostrils of the nose, and the partition,
-Cheeks, temples, forehead, chin, throat, back of the neck, neck-slue,
-Strong shoulders, manly beard, scapula, hind-shoulders, and the ample side-round of the
-  chest.
+"Eke thou, that art his son, art proud also,
+And knowest all these thinges verily;
+And art rebel to God, and art his foe.
+Thou drankest of his vessels boldely;
+Thy wife eke, and thy wenches, sinfully
+Drank of the same vessels sundry wines,
+And heried false goddes cursedly;
+Therefore to thee y-shapen full great pine is.
 
-Upper-arm, arm-pit, elbow-socket, lower-arm, arm-sinews, arm-bones,
-Wrist and wrist-joints, hand, palm, knuckles, thumb, fore-finger, finger-balls,
-  finger-joints, finger-nails,
-Broad breast-front, curling hair of the breast, breast-bone, breast-side,
-Ribs, belly, back-bone, joints of the back-bone,
-Hips, hip-sockets, hip-strength, inward and outward round, man-balls, man-root,
-Strong set of thighs, well carrying the trunk above,
-Leg-fibres, knee, knee-pan, upper-leg, under leg,
-Ankles, instep, foot-ball, toes, toe-joints, the heel;
-All attitudes, all the shapeliness, all the belongings of my or your body, or of any
-  one’s body, male or female,
-The lung-sponges, the stomach-sac, the bowels sweet and clean,
-The brain in its folds inside the skull-frame,
-Sympathies, heart-valves, palate-valves, sexuality, maternity,
-Womanhood, and all that is a woman—and the man that comes from woman,
-The womb, the teats, nipples, breast-milk, tears, laughter, weeping, love-looks,
-  love-perturbations and risings,
-The voice, articulation, language, whispering, shouting aloud,
-Food, drink, pulse, digestion, sweat, sleep, walking, swimming,
-Poise on the hips, leaping, reclining, embracing, arm-curving and tightening,
-The continual changes of the flex of the mouth, and around the eyes,
-The skin, the sun-burnt shade, freckles, hair,
-The curious sympathy one feels, when feeling with the hand the naked meat of the body,
-The circling rivers, the breath, and breathing it in and out,
-The beauty of the waist, and thence of the hips, and thence downward toward the knees,
-The thin red jellies within you, or within me—the bones, and the marrow in the bones,
-The exquisite realization of health;
-O I say, these are not the parts and poems of the Body only, but of the Soul,
-O I say now these are the Soul!
+"This hand was sent from God, that on the wall
+Wrote Mane, tekel, phares, truste me;
+Thy reign is done; thou weighest naught at all;
+Divided is thy regne, and it shall be
+To Medes and to Persians giv'n," quoth he.
+And thilke same night this king was slaw
+And Darius occupied his degree,
+Though he thereto had neither right nor law.
+
+Lordings, example hereby may ye take,
+How that in lordship is no sickerness;
+For when that Fortune will a man forsake,
+She bears away his regne and his richess,
+And eke his friendes bothe more and less,
+For what man that hath friendes through fortune,
+Mishap will make them enemies, I guess;
+This proverb is full sooth, and full commune.
+
+ZENOBIA, of Palmyrie the queen,
+As write Persians of her nobless,
+So worthy was in armes, and so keen,
+That no wight passed her in hardiness,
+Nor in lineage, nor other gentleness.
+Of the king's blood of Perse is she descended;
+I say not that she hadde most fairness,
+But of her shape she might not he amended.
+
+From her childhood I finde that she fled
+Office of woman, and to woods she went,
+And many a wilde harte's blood she shed
+With arrows broad that she against them sent;
+She was so swift, that she anon them hent.
+And when that she was older, she would kill
+Lions, leopards, and beares all to-rent,
+And in her armes wield them at her will.
+
+She durst the wilde beastes' dennes seek,
+And runnen in the mountains all the night,
+And sleep under a bush; and she could eke
+Wrestle by very force and very might
+With any young man, were he ne'er so wight;
+There mighte nothing in her armes stond.
+She kept her maidenhood from every wight,
+To no man deigned she for to be bond.
+
+But at the last her friendes have her married
+To Odenate,  a prince of that country;
+All were it so, that she them longe tarried.
+And ye shall understande how that he
+Hadde such fantasies as hadde she;
+But natheless, when they were knit in fere,
+They liv'd in joy, and in felicity,
+For each of them had other lefe and dear.
+
+Save one thing, that she never would assent,
+By no way, that he shoulde by her lie
+But ones, for it was her plain intent
+To have a child, the world to multiply;
+And all so soon as that she might espy
+That she was not with childe by that deed,
+Then would she suffer him do his fantasy
+Eftsoon, and not but ones, out of dread.
+
+And if she were with child at thilke cast,
+No more should he playe thilke game
+Till fully forty dayes were past;
+Then would she once suffer him do the same.
+All were this Odenatus wild or tame,
+He got no more of her; for thus she said,
+It was to wives lechery and shame
+In other case if that men with them play'd.
+
+Two sones, by this Odenate had she,
+The which she kept in virtue and lettrure.
+But now unto our tale turne we;
+I say, so worshipful a creature,
+And wise therewith, and large with measure,
+So penible in the war, and courteous eke,
+Nor more labour might in war endure,
+Was none, though all this worlde men should seek.
+
+Her rich array it mighte not be told,
+As well in vessel as in her clothing:
+She was all clad in pierrie and in gold,
+And eke she lefte not, for no hunting,
+To have of sundry tongues full knowing,
+When that she leisure had, and for t'intend
+To learne bookes was all her liking,
+How she in virtue might her life dispend.
+
+And, shortly of this story for to treat,
+So doughty was her husband and eke she,
+That they conquered many regnes great
+In th'Orient, with many a fair city
+Appertinent unto the majesty
+Of Rome, and with strong hande held them fast,
+Nor ever might their foemen do them flee,
+Aye while that Odenatus' dayes last'.
+
+Her battles, whoso list them for to read,
+Against Sapor the king,  and other mo',
+And how that all this process fell in deed,
+Why she conquer'd, and what title thereto,
+And after of her mischief and her woe,
+How that she was besieged and y-take,
+Let him unto my master Petrarch go,
+That writes enough of this, I undertake.
+
+When Odenate was dead, she mightily
+The regne held, and with her proper hand
+Against her foes she fought so cruelly,
+That there n'as king nor prince in all that land,
+That was not glad, if be that grace fand
+That she would not upon his land warray;
+With her they maden alliance by bond,
+To be in peace, and let her ride and play.
+
+The emperor of Rome, Claudius,
+Nor, him before, the Roman Gallien,
+Durste never be so courageous,
+Nor no Armenian, nor Egyptien,
+Nor Syrian, nor no Arabien,
+Within the fielde durste with her fight,
+Lest that she would them with her handes slen,
+Or with her meinie putte them to flight.
+
+In kinges' habit went her sones two,
+As heires of their father's regnes all;
+And Heremanno and Timolao
+Their names were, as Persians them call
+But aye Fortune hath in her honey gall;
+This mighty queene may no while endure;
+Fortune out of her regne made her fall
+To wretchedness and to misadventure.
+
+Aurelian, when that the governance
+Of Rome came into his handes tway,
+He shope upon this queen to do vengeance;
+And with his legions he took his way
+Toward Zenobie, and, shortly for to say,
+He made her flee, and at the last her hent,
+And fetter'd her, and eke her children tway,
+And won the land, and home to Rome he went.
+
+Amonges other thinges that he wan,
+Her car, that was with gold wrought and pierrie,
+This greate Roman, this Aurelian
+Hath with him led, for that men should it see.
+Before in his triumphe walked she
+With gilte chains upon her neck hanging;
+Crowned she was, as after her degree,
+And full of pierrie her clothing.
+
+Alas, Fortune! she that whilom was
+Dreadful to kinges and to emperours,
+Now galeth all the people on her, alas!
+And she that helmed was in starke stowres,
+And won by force townes strong and tow'rs,
+Shall on her head now wear a vitremite;
+And she that bare the sceptre full of flow'rs
+Shall bear a distaff, her cost for to quite.
+
+Although that NERO were so vicious
+As any fiend that lies full low adown,
+Yet he, as telleth us Suetonius,
+This wide world had in subjectioun,
+Both East and West, South and Septentrioun.
+Of rubies, sapphires, and of pearles white
+Were all his clothes embroider'd up and down,
+For he in gemmes greatly gan delight.
+
+More delicate, more pompous of array,
+More proud, was never emperor than he;
+That ilke cloth that he had worn one day,
+After that time he would it never see;
+Nettes of gold thread had he great plenty,
+To fish in Tiber, when him list to play;
+His lustes were as law, in his degree,
+For Fortune as his friend would him obey.
+
+He Rome burnt for his delicacy;
+The senators he slew upon a day,
+To heare how that men would weep and cry;
+And slew his brother, and by his sister lay.
+His mother made he in piteous array;
+For he her wombe slitte, to behold
+Where he conceived was; so well-away!
+That he so little of his mother told.
+
+No tear out of his eyen for that sight
+Came; but he said, a fair woman was she.
+Great wonder is, how that he could or might
+Be doomesman of her deade beauty:
+The wine to bringe him commanded he,
+And drank anon; none other woe he made,
+When might is joined unto cruelty,
+Alas! too deepe will the venom wade.
+
+In youth a master had this emperour,
+To teache him lettrure and courtesy;
+For of morality he was the flow'r,
+As in his time, but if bookes lie.
+And while this master had of him mast'ry,
+He made him so conning and so souple,
+That longe time it was ere tyranny,
+Or any vice, durst in him uncouple.
+
+This Seneca, of which that I devise,
+Because Nero had of him suche dread,
+For he from vices would him aye chastise
+Discreetly, as by word, and not by deed;
+"Sir," he would say, "an emperor must need
+Be virtuous, and hate tyranny."
+For which he made him in a bath to bleed
+On both his armes, till he muste die.
+
+This Nero had eke of a custumance
+In youth against his master for to rise;
+Which afterward he thought a great grievance;
+Therefore he made him dien in this wise.
+But natheless this Seneca the wise
+Chose in a bath to die in this mannere,
+Rather than have another tormentise;
+And thus hath Nero slain his master dear.
+
+Now fell it so, that Fortune list no longer
+The highe pride of Nero to cherice;
+For though he were strong, yet was she stronger.
+She thoughte thus; "By God, I am too nice
+To set a man, that is full fill'd of vice,
+In high degree, and emperor him call!
+By God, out of his seat I will him trice!
+When he least weeneth, soonest shall he fall."
+
+The people rose upon him on a night,
+For  his default; and when he it espied,
+Out of his doors anon he hath him dight
+Alone, and where he ween'd t'have been allied,
+He knocked fast, and aye the more he cried
+The faster shutte they their doores all;
+Then wist he well he had himself misgied,
+And went his way, no longer durst he call.
+
+The people cried and rumbled up and down,
+That with his eares heard he how they said;
+"Where is this false tyrant, this Neroun?"
+For fear almost out of his wit he braid,
+And to his goddes piteously he pray'd
+For succour, but it mighte not betide
+For dread of this he thoughte that died,
+And ran into a garden him to hide.
+
+And in this garden found he churles tway,
+That satte by a fire great and red;
+And to these churles two he gan to pray
+To slay him, and to girdon off his head,
+That to his body, when that he were dead,
+Were no despite done for his defame.
+Himself he slew, he coud no better rede;
+Of which Fortune laugh'd and hadde game.
+
+Was never capitain under a king,
+That regnes more put in subjectioun,
+Nor stronger was in field of alle thing
+As in his time, nor greater of renown,
+Nor more pompous in high presumptioun,
+Than HOLOFERNES, whom Fortune aye kiss'd
+So lik'rously, and led him up and down,
+Till that his head was off ere that he wist.
+
+Not only that this world had of him awe,
+For losing of richess and liberty;
+But he made every man reny his law.
+Nabuchodonosor was God, said he;
+None other Godde should honoured be.
+Against his hest there dare no wight trespace,
+Save in Bethulia, a strong city,
+Where Eliachim priest was of that place.
+
+But take keep of the death of Holofern;
+Amid his host he drunken lay at night
+Within his tente, large as is a bern;
+And yet, for all his pomp and all his might,
+Judith, a woman, as he lay upright
+Sleeping, his head off smote, and from his tent
+Full privily she stole from every wight,
+And with his head unto her town she went.
+
+What needeth it of king ANTIOCHUS
+To tell his high and royal majesty,
+His great pride, and his workes venomous?
+For such another was there none as he;
+Reade what that he was in Maccabee.
+And read the proude wordes that he said,
+And why he fell from his prosperity,
+And in an hill how wretchedly he died.
+
+Fortune him had enhanced so in pride,
+That verily he ween'd he might attain
+Unto the starres upon every side,
+And in a balance weighen each mountain,
+And all the floodes of the sea restrain.
+And Godde's people had he most in hate
+Them would he slay in torment and in pain,
+Weening that God might not his pride abate.
+
+And for that Nicanor and Timothee
+With Jewes were vanquish'd mightily,
+Unto the Jewes such an hate had he,
+That he bade graith his car full hastily,
+And swore and saide full dispiteously,
+Unto Jerusalem he would eftsoon,
+To wreak his ire on it full cruelly
+But of his purpose was he let full soon.
+
+God for his menace him so sore smote,
+With invisible wound incurable,
+That in his guttes carf it so and bote,
+Till that his paines were importable;
+And certainly the wreche was reasonable,
+For many a manne's guttes did he pain;
+But from his purpose, curs'd and damnable,
+For all his smart he would him not restrain;
+But bade anon apparaile his host.
+
+And suddenly, ere he was of it ware,
+God daunted all his pride, and all his boast
+For he so sore fell out of his chare,
+That it his limbes and his skin to-tare,
+So that he neither mighte go nor ride
+But in a chaire men about him bare,
+Alle forbruised bothe back and side.
+
+The wreche of God him smote so cruelly,
+That through his body wicked wormes crept,
+And therewithal he stank so horribly
+That none of all his meinie that him kept,
+Whether so that he woke or elles slept,
+Ne mighte not of him the stink endure.
+In this mischief he wailed and eke wept,
+And knew God Lord of every creature.
+
+To all his host, and to himself also,
+Full wlatsem was the stink of his carrain;
+No manne might him beare to and fro.
+And in this stink, and this horrible pain,
+He starf full wretchedly in a mountain.
+Thus hath this robber, and this homicide,
+That many a manne made to weep and plain,
+Such guerdon as belongeth unto pride.
+
+The story of ALEXANDER is so commune,
+That ev'ry wight that hath discretion
+Hath heard somewhat or all of his fortune.
+This wide world, as in conclusion,
+He won by strength; or, for his high renown,
+They were glad for peace to him to send.
+The pride and boast of man he laid adown,
+Whereso he came, unto the worlde's end.
+
+Comparison yet never might be maked
+Between him and another conqueror;
+For all this world for dread of him had quaked
+He was of knighthood and of freedom flow'r:
+Fortune him made the heir of her honour.
+Save wine and women, nothing might assuage
+His high intent in arms and labour,
+So was he full of leonine courage.
+
+What praise were it to him, though I you told
+Of Darius, and a hundred thousand mo',
+Of kinges, princes, dukes, and earles bold,
+Which he conquer'd, and brought them into woe?
+I say, as far as man may ride or go,
+The world was his, why should I more devise?
+For, though I wrote or told you evermo',
+Of his knighthood it mighte not suffice.
+
+Twelve years he reigned, as saith Maccabee
+Philippe's son of Macedon he was,
+That first was king in Greece the country.
+O worthy gentle Alexander, alas
+That ever should thee falle such a case!
+Empoison'd of thine owen folk thou were;
+Thy six  fortune hath turn'd into an ace,
+And yet for thee she wepte never a tear.
+
+Who shall me give teares to complain
+The death of gentiless, and of franchise,
+That all this worlde had in his demaine,
+And yet he thought it mighte not suffice,
+So full was his corage of high emprise?
+Alas! who shall me helpe to indite
+False Fortune, and poison to despise?
+The whiche two of all this woe I wite.
+
+By wisdom, manhood, and by great labour,
+From humbleness to royal majesty
+Up rose he, JULIUS the Conquerour,
+That won all th' Occident, by land and sea,
+By strength of hand or elles by treaty,
+And unto Rome made them tributary;
+And since of Rome the emperor was he,
+Till that Fortune wax'd his adversary.
+
+O mighty Caesar, that in Thessaly
+Against POMPEIUS, father thine in law,
+That of th' Orient had all the chivalry,
+As far as that the day begins to daw,
+That through thy knighthood hast them take and slaw,
+Save fewe folk that with Pompeius fled;
+Through which thou put all th' Orient in awe;
+Thanke Fortune that so well thee sped.
+
+But now a little while I will bewail
+This Pompeius, this noble governor
+Of Rome, which that fled at this battaile
+I say, one of his men, a false traitor,
+His head off smote, to winne him favor
+Of Julius, and him the head he brought;
+Alas! Pompey, of th' Orient conqueror,
+That Fortune unto such a fine thee brought!
+
+To Rome again repaired Julius,
+With his triumphe laureate full high;
+But on a time Brutus and Cassius,
+That ever had of his estate envy,
+Full privily have made conspiracy
+Against this Julius in subtle wise
+And cast the place in which he shoulde die,
+With bodekins, as I shall you devise.
+
+This Julius to the Capitole went
+Upon a day, as he was wont to gon;
+And in the Capitol anon him hent
+This false Brutus, and his other fone,
+And sticked him with bodekins anon
+With many a wound, and thus they let him lie.
+But never groan'd he at no stroke but one,
+Or else at two, but if the story lie.
+
+So manly was this Julius of heart,
+And so well loved estately honesty
+That, though his deadly woundes sore smart,
+His mantle o'er his hippes caste he,
+That ne man shoulde see his privity
+And as he lay a-dying in a trance,
+And wiste verily that dead was he,
+Of honesty yet had he remembrance.
+
+Lucan, to thee this story I recommend,
+And to Sueton', and Valerie also,
+That of this story write word and end
+How that to these great conquerores two
+Fortune was first a friend, and since a foe.
+No manne trust upon her favour long,
+But have her in await for evermo';
+Witness on all these conquerores strong.
+
+The riche CROESUS,  whilom king of Lyde, --
+Of which Croesus Cyrus him sore drad, --
+Yet was he caught amiddes all his pride,
+And to be burnt men to the fire him lad;
+But such a rain down from the welkin shad,
+That slew the fire, and made him to escape:
+But to beware no grace yet he had,
+Till fortune on the gallows made him gape.
+
+When he escaped was, he could not stint
+For to begin a newe war again;
+He weened well, for that Fortune him sent
+Such hap, that he escaped through the rain,
+That of his foes he mighte not be slain.
+And eke a sweven on a night he mette,
+Of which he was so proud, and eke so fain,
+That he in vengeance all his hearte set.
+
+Upon a tree he was set, as he thought,
+Where Jupiter him wash'd, both back and side,
+And Phoebus eke a fair towel him brought
+To dry him with; and therefore wax'd his pride.
+And to his daughter that stood him beside,
+Which he knew in high science to abound,
+He bade her tell him what it signified;
+And she his dream began right thus expound.
+
+"The tree," quoth she, "the gallows is to mean,
+And Jupiter betokens snow and rain,
+And Phoebus, with his towel clear and clean,
+These be the sunne's streames sooth to sayn;
+Thou shalt y-hangeth be, father, certain;
+Rain shall thee wash, and sunne shall thee dry."
+Thus warned him full plat and eke full plain
+His daughter, which that called was Phanie.
+
+And hanged was Croesus the proude king;
+His royal throne might him not avail.
+Tragedy is none other manner thing,
+Nor can in singing crien nor bewail,
+But for that Fortune all day will assail
+With unware stroke the regnes that be proud:
+For when men truste her, then will she fail,
+And cover her bright face with a cloud.
+
+O noble, O worthy PEDRO,  glory OF SPAIN,
+Whem Fortune held so high in majesty,
+Well oughte men thy piteous death complain.
+Out of thy land thy brother made thee flee,
+And after, at a siege, by subtlety,
+Thou wert betray'd, and led unto his tent,
+Where as he with his owen hand slew thee,
+Succeeding in thy regne and in thy rent.
+
+The field of snow, with th' eagle of black therein,
+Caught with the lion, red-colour'd as the glede,
+He brew'd this cursedness, and all this sin;
+The wicked nest was worker of this deed;
+Not Charles' Oliver,  that took aye heed
+Of truth and honour, but of Armorike
+Ganilien Oliver, corrupt for meed,
+Broughte this worthy king in such a brike.
+
+O worthy PETRO, King of CYPRE  also,
+That Alexandre won by high mast'ry,
+Full many a heathnen wroughtest thou full woe,
+Of which thine owen lieges had envy;
+And, for no thing but for thy chivalry,
+They in thy bed have slain thee by the morrow;
+Thus can Fortune her wheel govern and gie,
+And out of joy bringe men into sorrow.
+
+Of Milan greate BARNABO VISCOUNT,
+God of delight, and scourge of Lombardy,
+Why should I not thine clomben wert so high?
+Thy brother's son, that was thy double ally,
+For he thy nephew was and son-in-law,
+Within his prison made thee to die,
+But why, nor how, n'ot I that thou were slaw.
+
+Of th' Earl HUGOLIN OF PISE the languour
+There may no tongue telle for pity.
+But little out of Pisa stands a tow'r,
+In whiche tow'r in prison put was he,
+Aud with him be his little children three;
+The eldest scarcely five years was of age;
+Alas! Fortune, it was great cruelty
+Such birdes for to put in such a cage.
+
+Damned was he to die in that prison;
+For Roger, which that bishop was of Pise,
+Had on him made a false suggestion,
+Through which the people gan upon him rise,
+And put him in prison, in such a wise
+As ye have heard; and meat and drink he had
+So small, that well unneth it might suffice,
+And therewithal it was full poor and bad.
+
+And on a day befell, that in that hour
+When that his meate wont was to be brought,
+The jailor shut the doores of the tow'r;
+He heard it right well, but he spake nought.
+And in his heart anon there fell a thought,
+That they for hunger woulde do him dien;
+"Alas!" quoth he, "alas that I was wrought!"
+Therewith the teares fell from his eyen.
+
+His youngest son, that three years was of age,
+Unto him said, "Father, why do ye weep?
+When will the jailor bringen our pottage?
+Is there no morsel bread that ye do keep?
+I am so hungry, that I may not sleep.
+Now woulde God that I might sleepen ever!
+Then should not hunger in my wombe creep;
+There is no thing, save bread, that one were lever."
+
+Thus day by day this child begun to cry,
+Till in his father's barme adown he lay,
+And saide, "Farewell, father, I must die;"
+And kiss'd his father, and died the same day.
+And when the woeful father did it sey,
+For woe his armes two he gan to bite,
+And said, "Alas! Fortune, and well-away!
+To thy false wheel my woe all may I wite."
+
+His children ween'd that it for hunger was
+That he his armes gnaw'd, and not for woe,
+And saide, "Father, do not so, alas!
+But rather eat the flesh upon us two.
+Our flesh thou gave us, our flesh take us fro',
+And eat enough;" right thus they to him said.
+And after that, within a day or two,
+They laid them in his lap adown, and died.
+
+Himself, despaired, eke for hunger starf.
+Thus ended is this Earl of Pise;
+From high estate Fortune away him carf.
+Of this tragedy it ought enough suffice
+Whoso will hear it in a longer wise,
+Reade the greate poet of ltale,
+That Dante hight, for he can it devise
+From point to point, not one word will he fail.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, mist in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -437,4 +1167,4 @@ O I say now these are the Soul!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 24, 2025 at 06:48 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 25, 2025 at 06:43 AM GMT+5<!-- TIMESTAMP:END -->_
