@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -29,8 +29,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/26/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 10 (Updated: 8/25/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/25/2025)
 - 🔥 [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥 ⭐ 4 (Updated: 8/14/2025)
 <!-- HOT_REPOS:END -->
 
@@ -65,12 +65,13 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn how to use an Arduino
+Have a picnic with some friends
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -79,657 +80,770 @@ Learn how to use an Arduino
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Epipsychidion" by Percy Bysshe Shelley
-VERSES ADDRESSED TO THE NOBLE AND UNFORTUNATE LADY, EMILIA V--,
+"The Canterbury Tales. The Miller's Tale." by Geoffrey Chaucer
+THE PROLOGUE.
 
-NOW IMPRISONED IN THE CONVENT OF --.
+When that the Knight had thus his tale told
+In all the rout was neither young nor old,
+That he not said it was a noble story,
+And worthy to be drawen to memory;
+And namely the gentles every one.
+Our Host then laugh'd and swore, "So may I gon,
+This goes aright; unbuckled is the mail;
+Let see now who shall tell another tale:
+For truely this game is well begun.
+Now telleth ye, Sir Monk, if that ye conne,
+Somewhat, to quiten with the Knighte's tale."
+The Miller that fordrunken was all pale,
+So that unnethes upon his horse he sat,
+He would avalen neither hood nor hat,
+Nor abide no man for his courtesy,
+But in Pilate's voice he gan to cry,
+And swore by armes, and by blood, and bones,
+"I can a noble tale for the nones
+With which I will now quite the Knighte's tale."
+Our Host saw well how drunk he was of ale,
+And said; "Robin, abide, my leve brother,
+Some better man shall tell us first another:
+Abide, and let us worke thriftily."
+By Godde's soul," quoth he, "that will not I,
+For I will speak, or elles go my way!"
+Our Host answer'd; "Tell on a devil way;
+Thou art a fool; thy wit is overcome."
+"Now hearken," quoth the Miller, "all and some:
+But first I make a protestatioun.
+That I am drunk, I know it by my soun':
+And therefore if that I misspeak or say,
+Wite it the ale of Southwark, I you pray:
+For I will tell a legend and a life
+Both of a carpenter and of his wife,
+How that a clerk hath set the wrighte's cap."
+The Reeve answer'd and saide, "Stint thy clap,
+Let be thy lewed drunken harlotry.
+It is a sin, and eke a great folly
+To apeiren any man, or him defame,
+And eke to bringe wives in evil name.
+Thou may'st enough of other thinges sayn."
+This drunken Miller spake full soon again,
+And saide, "Leve brother Osewold,
+Who hath no wife, he is no cuckold.
+But I say not therefore that thou art one;
+There be full goode wives many one.
+Why art thou angry with my tale now?
+I have a wife, pardie, as well as thou,
+Yet n'old I, for the oxen in my plough,
+Taken upon me more than enough,
+To deemen of myself that I am one;
+I will believe well that I am none.
+An husband should not be inquisitive
+Of Godde's privity, nor of his wife.
+So he may finde Godde's foison there,
+Of the remnant needeth not to enquere."
 
-L'anima amante si slancia fuori del creato, e si crea nell' infinito un
-Mondo tutto per essa, diverso assai da questo oscuro e pauroso baratro.
-HER OWN WORDS.
+What should I more say, but that this Millere
+He would his wordes for no man forbear,
+But told his churlish tale in his mannere;
+Me thinketh, that I shall rehearse it here.
+And therefore every gentle wight I pray,
+For Godde's love to deem not that I say
+Of evil intent, but that I must rehearse
+Their tales all, be they better or worse,
+Or elles falsen some of my mattere.
+And therefore whoso list it not to hear,
+Turn o'er the leaf, and choose another tale;
+For he shall find enough, both great and smale,
+Of storial thing that toucheth gentiless,
+And eke morality and holiness.
+Blame not me, if that ye choose amiss.
+The Miller is a churl, ye know well this,
+So was the Reeve, with many other mo',
+And harlotry they tolde bothe two.
+Avise you now, and put me out of blame;
+And eke men should not make earnest of game.
 
-INTRODUCTION
+THE TALE.
 
-My Song, I fear that thou wilt find but few
-Who fitly shalt conceive thy reasoning,
-Of such hard matter dost thou entertain;
-Whence, if by misadventure, chance should bring
-Thee to base company (as chance may do),
-Quite unaware of what thou dost contain,
-I prithee, comfort thy sweet self again,
-My last delight! tell them that they are dull,
-And bid them own that thou art beautiful.
+Whilom there was dwelling in Oxenford
+A riche gnof, that guestes held to board,
+And of his craft he was a carpenter.
+With him there was dwelling a poor scholer,
+Had learned art, but all his fantasy
+Was turned for to learn astrology.
+He coude a certain of conclusions
+To deeme by interrogations,
+If that men asked him in certain hours,
+When that men should have drought or elles show'rs:
+Or if men asked him what shoulde fall
+Of everything, I may not reckon all.
 
-EPIPSYCHIDION.
+This clerk was called Hendy Nicholas;
+Of derne love he knew and of solace;
+And therewith he was sly and full privy,
+And like a maiden meek for to see.
+A chamber had he in that hostelry
+Alone, withouten any company,
+Full fetisly y-dight with herbes swoot,
+And he himself was sweet as is the root
+Of liquorice, or any setewall.
+His Almagest, and bookes great and small,
+His astrolabe,  belonging to his art,
+His augrim stones, layed fair apart
+On shelves couched at his bedde's head,
+His press y-cover'd with a falding red.
+And all above there lay a gay psalt'ry
+On which he made at nightes melody,
+So sweetely, that all the chamber rang:
+And Angelus ad virginem he sang.
+And after that he sung the kinge's note;
+Full often blessed was his merry throat.
+And thus this sweete clerk his time spent
+After his friendes finding and his rent.
 
-Sweet Spirit! Sister of that orphan one,
-Whose empire is the name thou weepest on,
-In my heart's temple I suspend to thee
-These votive wreaths of withered memory.
+This carpenter had wedded new a wife,
+Which that he loved more than his life:
+Of eighteen year, I guess, she was of age.
+Jealous he was, and held her narr'w in cage,
+For she was wild and young, and he was old,
+And deemed himself belike a cuckold.
+He knew not Cato, for his wit was rude,
+That bade a man wed his similitude.
+Men shoulde wedden after their estate,
+For youth and eld are often at debate.
+But since that he was fallen in the snare,
+He must endure (as other folk) his care.
+Fair was this younge wife, and therewithal
+As any weasel her body gent and small.
+A seint she weared, barred all of silk,
+A barm-cloth eke as white as morning milk
+Upon her lendes, full of many a gore.
+White was her smock, and broider'd all before,
+And eke behind, on her collar about
+Of coal-black silk, within and eke without.
+The tapes of her white volupere
+Were of the same suit of her collere;
+Her fillet broad of silk, and set full high:
+And sickerly she had a likerous eye.
+Full small y-pulled were her browes two,
+And they were bent, and black as any sloe.
+She was well more blissful on to see
+Than is the newe perjenete tree;
+And softer than the wool is of a wether.
+And by her girdle hung a purse of leather,
+Tassel'd with silk, and pearled with latoun.
+In all this world to seeken up and down
+There is no man so wise, that coude thenche
+So gay a popelot, or such a wench.
+Full brighter was the shining of her hue,
+Than in the Tower the noble forged new.
+But of her song, it was as loud and yern,
+As any swallow chittering on a bern.
+Thereto she coulde skip, and make a game
+As any kid or calf following his dame.
+Her mouth was sweet as braket, or as methe
+Or hoard of apples, laid in hay or heath.
+Wincing she was as is a jolly colt,
+Long as a mast, and upright as a bolt.
+A brooch she bare upon her low collere,
+As broad as is the boss of a bucklere.
+Her shoon were laced on her legges high;
+She was a primerole, a piggesnie ,
+For any lord t' have ligging in his bed,
+Or yet for any good yeoman to wed.
 
-Poor captive bird! who, from thy narrow cage,
-Pourest such music, that it might assuage
-The rugged hearts of those who prisoned thee,
-Were they not deaf to all sweet melody;
-This song shall be thy rose: its petals pale
-Are dead, indeed, my adored Nightingale!
-But soft and fragrant is the faded blossom,
-And it has no thorn left to wound thy bosom.
+Now, sir, and eft sir, so befell the case,
+That on a day this Hendy Nicholas
+Fell with this younge wife to rage and play,
+While that her husband was at Oseney,
+As clerkes be full subtle and full quaint.
+And privily he caught her by the queint,
+And said; "Y-wis, but if I have my will,
+For derne love of thee, leman, I spill."
+And helde her fast by the haunche bones,
+And saide "Leman, love me well at once,
+Or I will dien, all so God me save."
+And she sprang as a colt doth in the trave:
+And with her head she writhed fast away,
+And said; "I will not kiss thee, by my fay.
+Why let be," quoth she, "let be, Nicholas,
+Or I will cry out harow and alas!
+Do away your handes, for your courtesy."
+This Nicholas gan mercy for to cry,
+And spake so fair, and proffer'd him so fast,
+That she her love him granted at the last,
+And swore her oath by Saint Thomas of Kent,
+That she would be at his commandement,
+When that she may her leisure well espy.
+"My husband is so full of jealousy,
+That but ye waite well, and be privy,
+I wot right well I am but dead," quoth she.
+"Ye muste be full derne as in this case."
+"Nay, thereof care thee nought," quoth Nicholas:
+"A clerk had litherly beset his while,
+But if he could a carpenter beguile."
+And thus they were accorded and y-sworn
+To wait a time, as I have said beforn.
+When Nicholas had done thus every deal,
+And thwacked her about the lendes well,
+He kiss'd her sweet, and taketh his psalt'ry
+And playeth fast, and maketh melody.
+Then fell it thus, that to the parish church,
+Of Christe's owen workes for to wirch,
+This good wife went upon a holy day;
+Her forehead shone as bright as any day,
+So was it washen, when she left her werk.
 
-High, spirit-winged Heart! who dost for ever
-Beat thine unfeeling bars with vain endeavour,
-Till those bright plumes of thought, in which arrayed
-It over-soared this low and worldly shade,
-Lie shattered; and thy panting, wounded breast
-Stains with dear blood its unmaternal nest!
-I weep vain tears: blood would less bitter be,
-Yet poured forth gladlier, could it profit thee.
+Now was there of that church a parish clerk,
+The which that was y-cleped Absolon.
+Curl'd was his hair, and as the gold it shone,
+And strutted as a fanne large and broad;
+Full straight and even lay his jolly shode.
+His rode was red, his eyen grey as goose,
+With Paule's windows carven on his shoes
+In hosen red he went full fetisly.
+Y-clad he was full small and properly,
+All in a kirtle of a light waget;
+Full fair and thicke be the pointes set,
+And thereupon he had a gay surplice,
+As white as is the blossom on the rise.
+A merry child he was, so God me save;
+Well could he letten blood, and clip, and shave,
+And make a charter of land, and a quittance.
+In twenty manners could he trip and dance,
+After the school of Oxenforde tho,
+And with his legges caste to and fro;
+And playen songes on a small ribible;
+Thereto he sung sometimes a loud quinible
+And as well could he play on a gitern.
+In all the town was brewhouse nor tavern,
+That he not visited with his solas,
+There as that any garnard tapstere was.
+But sooth to say he was somedeal squaimous
+Of farting, and of speeche dangerous.
+This Absolon, that jolly was and gay,
+Went with a censer on the holy day,
+Censing the wives of the parish fast;
+And many a lovely look he on them cast,
+And namely on this carpenter's wife:
+To look on her him thought a merry life.
+She was so proper, and sweet, and likerous.
+I dare well say, if she had been a mouse,
+And he a cat, he would her hent anon.
+This parish clerk, this jolly Absolon,
+Hath in his hearte such a love-longing!
+That of no wife took he none offering;
+For courtesy he said he woulde none.
+The moon at night full clear and brighte shone,
+And Absolon his gitern hath y-taken,
+For paramours he thoughte for to waken,
+And forth he went, jolif and amorous,
+Till he came to the carpentere's house,
+A little after the cock had y-crow,
+And dressed him under a shot window ,
+That was upon the carpentere's wall.
+He singeth in his voice gentle and small;
+"Now, dear lady, if thy will be,
+I pray that ye will rue on me;"
+Full well accordant to his giterning.
+This carpenter awoke, and heard him sing,
+And spake unto his wife, and said anon,
+What Alison, hear'st thou not Absolon,
+That chanteth thus under our bower wall?"
+And she answer'd her husband therewithal;
+"Yes, God wot, John, I hear him every deal."
+This passeth forth; what will ye bet than well?
 
-Seraph of Heaven! too gentle to be human,
-Veiling beneath that radiant form of Woman
-All that is insupportable in thee
-Of light, and love, and immortality!
-Sweet Benediction in the eternal Curse!
-Veiled Glory of this lampless Universe!
-Thou Moon beyond the clouds! Thou living Form
-Among the Dead! Thou Star above the Storm!
-Thou Wonder, and thou Beauty, and thou Terror!
-Thou Harmony of Nature's art! Thou Mirror
-In whom, as in the splendour of the Sun,
-All shapes look glorious which thou gazest on!
-Ay, even the dim words which obscure thee now
-Flash, lightning-like, with unaccustomed glow;
-I pray thee that thou blot from this sad song
-All of its much mortality and wrong,
-With those clear drops, which start like sacred dew
-From the twin lights thy sweet soul darkens through,
-Weeping, till sorrow becomes ecstasy:
-Then smile on it, so that it may not die.
+From day to day this jolly Absolon
+So wooeth her, that him is woebegone.
+He waketh all the night, and all the day,
+To comb his lockes broad, and make him gay.
+He wooeth her by means and by brocage,
+And swore he woulde be her owen page.
+He singeth brokking as a nightingale.
+He sent her piment , mead, and spiced ale,
+And wafers piping hot out of the glede:
+And, for she was of town, he proffer'd meed.
+For some folk will be wonnen for richess,
+And some for strokes, and some with gentiless.
+Sometimes, to show his lightness and mast'ry,
+He playeth Herod  on a scaffold high.
+But what availeth him as in this case?
+So loveth she the Hendy Nicholas,
+That Absolon may blow the bucke's horn:
+He had for all his labour but a scorn.
+And thus she maketh Absolon her ape,
+And all his earnest turneth to a jape.
+Full sooth is this proverb, it is no lie;
+Men say right thus alway; the nighe sly
+Maketh oft time the far lief to be loth.
+For though that Absolon be wood or wroth
+Because that he far was from her sight,
+This nigh Nicholas stood still in his light.
+Now bear thee well, thou Hendy Nicholas,
+For Absolon may wail and sing "Alas!"
 
-I never thought before my death to see
-Youth's vision thus made perfect. Emily,
-I love thee; though the world by no thin name
-Will hide that love from its unvalued shame.
-Would we two had been twins of the same mother!
-Or, that the name my heart lent to another
-Could be a sister's bond for her and thee,
-Blending two beams of one eternity!
-Yet were one lawful and the other true,
-These names, though dear, could paint not, as is due.
-How beyond refuge I am thine. Ah me!
-I am not thine: I am a part of THEE.
+And so befell, that on a Saturday
+This carpenter was gone to Oseney,
+And Hendy Nicholas and Alison
+Accorded were to this conclusion,
+That Nicholas shall shape him a wile
+The silly jealous husband to beguile;
+And if so were the game went aright,
+She shoulde sleepen in his arms all night;
+For this was her desire and his also.
+And right anon, withoute wordes mo',
+This Nicholas no longer would he tarry,
+But doth full soft unto his chamber carry
+Both meat and drinke for a day or tway.
+And to her husband bade her for to say,
+If that he asked after Nicholas,
+She shoulde say, "She wist not where he was;
+Of all the day she saw him not with eye;
+She trowed he was in some malady,
+For no cry that her maiden could him call
+He would answer, for nought that might befall."
+Thus passed forth all thilke Saturday,
+That Nicholas still in his chamber lay,
+And ate, and slept, and didde what him list
+Till Sunday, that the sunne went to rest.
+This silly carpenter had great marvaill
+Of Nicholas, or what thing might him ail,
+And said; "I am adrad, by Saint Thomas!
+It standeth not aright with Nicholas:
+God shielde that he died suddenly.
+This world is now full fickle sickerly.
+I saw to-day a corpse y-borne to chirch,
+That now on Monday last I saw him wirch.
+"Go up," quod he unto his knave, "anon;
+Clepe at his door, or knocke with a stone:
+Look how it is, and tell me boldely."
+This knave went him up full sturdily,
+And, at the chamber door while that he stood,
+He cried and knocked as that he were wood:
+"What how? what do ye, Master Nicholay?
+How may ye sleepen all the longe day?"
+But all for nought, he hearde not a word.
+An hole he found full low upon the board,
+Where as the cat was wont in for to creep,
+And at that hole he looked in full deep,
+And at the last he had of him a sight.
+This Nicholas sat ever gaping upright,
+As he had kyked on the newe moon.
+Adown he went, and told his master soon,
+In what array he saw this ilke man.
 
-Sweet Lamp! my moth-like Muse has burned its wings
-Or, like a dying swan who soars and sings,
-Young Love should teach Time, in his own gray style,
-All that thou art. Art thou not void of guile,
-A lovely soul formed to be blessed and bless?
-A well of sealed and secret happiness,
-Whose waters like blithe light and music are,
-Vanquishing dissonance and gloom? A Star
-Which moves not in the moving heavens, alone?
-A Smile amid dark frowns? a gentle tone
-Amid rude voices? a beloved light?
-A Solitude, a Refuge, a Delight?
-A Lute, which those whom Love has taught to play
-Make music on, to soothe the roughest day
-And lull fond Grief asleep? a buried treasure?
-A cradle of young thoughts of wingless pleasure?
-A violet-shrouded grave of Woe?--I measure
-The world of fancies, seeking one like thee,
-And find--alas! mine own infirmity.
+This carpenter to blissen him began,
+And said: "Now help us, Sainte Frideswide.
+A man wot little what shall him betide.
+This man is fall'n with his astronomy
+Into some woodness or some agony.
+I thought aye well how that it shoulde be.
+Men should know nought of Godde's privity.
+Yea, blessed be alway a lewed man,
+That nought but only his believe can.
+So far'd another clerk with astronomy:
+He walked in the fieldes for to pry
+Upon the starres, what there should befall,
+Till he was in a marle pit y-fall.
+He saw not that. But yet, by Saint Thomas!
+Me rueth sore of Hendy Nicholas:
+He shall be rated of his studying,
+If that I may, by Jesus, heaven's king!
+Get me a staff, that I may underspore
+While that thou, Robin, heavest off the door:
+He shall out of his studying, as I guess."
+And to the chamber door he gan him dress
+His knave was a strong carl for the nonce,
+And by the hasp he heav'd it off at once;
+Into the floor the door fell down anon.
+This Nicholas sat aye as still as stone,
+And ever he gap'd upward into the air.
+The carpenter ween'd he were in despair,
+And hent him by the shoulders mightily,
+And shook him hard, and cried spitously;
+"What, Nicholas? what how, man? look adown:
+Awake, and think on Christe's passioun.
+I crouche thee from elves, and from wights.
+Therewith the night-spell said he anon rights,
+On the four halves of the house about,
+And on the threshold of the door without.
+"Lord Jesus Christ, and Sainte Benedight,
+Blesse this house from every wicked wight,
+From the night mare, the white Pater-noster;
+Where wonnest thou now, Sainte Peter's sister?"
+And at the last this Hendy Nicholas
+Gan for to sigh full sore, and said; "Alas!
+Shall all time world be lost eftsoones now?"
+This carpenter answer'd; "What sayest thou?
+What? think on God, as we do, men that swink."
+This Nicholas answer'd; "Fetch me a drink;
+And after will I speak in privity
+Of certain thing that toucheth thee and me:
+I will tell it no other man certain."
 
-She met me, Stranger, upon life's rough way,
-And lured me towards sweet Death; as Night by Day,
-Winter by Spring, or Sorrow by swift Hope,
-Led into light, life, peace. An antelope,
-In the suspended impulse of its lightness,
-Were less aethereally light: the brightness
-Of her divinest presence trembles through
-Her limbs, as underneath a cloud of dew
-Embodied in the windless heaven of June
-Amid the splendour-winged stars, the Moon
-Burns, inextinguishably beautiful:
-And from her lips, as from a hyacinth full
-Of honey-dew, a liquid murmur drops,
-Killing the sense with passion; sweet as stops
-Of planetary music heard in trance.
-In her mild lights the starry spirits dance,
-The sunbeams of those wells which ever leap
-Under the lightnings of the soul--too deep
-For the brief fathom-line of thought or sense.
-The glory of her being, issuing thence,
-Stains the dead, blank, cold air with a warm shade
-Of unentangled intermixture, made
-By Love, of light and motion: one intense
-Diffusion, one serene Omnipresence,
-Whose flowing outlines mingle in their flowing,
-Around her cheeks and utmost fingers glowing
-With the unintermitted blood, which there
-Quivers, (as in a fleece of snow-like air
-The crimson pulse of living morning quiver,)
-Continuously prolonged, and ending never,
-Till they are lost, and in that Beauty furled
-Which penetrates and clasps and fills the world;
-Scarce visible from extreme loveliness.
-Warm fragrance seems to fall from her light dress
-And her loose hair; and where some heavy tress
-The air of her own speed has disentwined,
-The sweetness seems to satiate the faint wind;
-And in the soul a wild odour is felt
-Beyond the sense, like fiery dews that melt
-Into the bosom of a frozen bud.--
-See where she stands! a mortal shape indued
-With love and life and light and deity,
-And motion which may change but cannot die;
-An image of some bright Eternity;
-A shadow of some golden dream; a Splendour
-Leaving the third sphere pilotless; a tender
-Reflection of the eternal Moon of Love
-Under whose motions life's dull billows move;
-A Metaphor of Spring and Youth and Morning;
-A Vision like incarnate April, warning,
-With smiles and tears, Frost the Anatomy
-Into his summer grave.
-Ah, woe is me!
-What have I dared? where am I lifted? how
-Shall I descend, and perish not? I know
-That Love makes all things equal: I have heard
-By mine own heart this joyous truth averred:
-The spirit of the worm beneath the sod
-In love and worship, blends itself with God.
+This carpenter went down, and came again,
+And brought of mighty ale a large quart;
+And when that each of them had drunk his part,
+This Nicholas his chamber door fast shet,
+And down the carpenter by him he set,
+And saide; "John, mine host full lief and dear,
+Thou shalt upon thy truthe swear me here,
+That to no wight thou shalt my counsel wray:
+For it is Christes counsel that I say,
+And if thou tell it man, thou art forlore:
+For this vengeance thou shalt have therefor,
+That if thou wraye me, thou shalt be wood."
+"Nay, Christ forbid it for his holy blood!"
+Quoth then this silly man; "I am no blab,
+Nor, though I say it, am I lief to gab.
+Say what thou wilt, I shall it never tell
+To child or wife, by him that harried Hell."
 
-Spouse! Sister! Angel! Pilot of the Fate
-Whose course has been so starless! O too late
-Beloved! O too soon adored, by me!
-For in the fields of Immortality
-My spirit should at first have worshipped thine,
-A divine presence in a place divine;
-Or should have moved beside it on this earth,
-A shadow of that substance, from its birth;
-But not as now:--I love thee; yes, I feel
-That on the fountain of my heart a seal
-Is set, to keep its waters pure and bright
-For thee, since in those TEARS thou hast delight.
-We--are we not formed, as notes of music are,
-For one another, though dissimilar;
-Such difference without discord, as can make
-Those sweetest sounds, in which all spirits shake
-As trembling leaves in a continuous air?
+"Now, John," quoth Nicholas, "I will not lie,
+I have y-found in my astrology,
+As I have looked in the moone bright,
+That now on Monday next, at quarter night,
+Shall fall a rain, and that so wild and wood,
+That never half so great was Noe's flood.
+This world," he said, "in less than half an hour
+Shall all be dreint, so hideous is the shower:
+Thus shall mankinde drench, and lose their life."
+This carpenter answer'd; "Alas, my wife!
+And shall she drench? alas, mine Alisoun!"
+For sorrow of this he fell almost adown,
+And said; "Is there no remedy in this case?"
+"Why, yes, for God," quoth Hendy Nicholas;
+"If thou wilt worken after lore and rede;
+Thou may'st not worken after thine own head.
+For thus saith Solomon, that was full true:
+Work all by counsel, and thou shalt not rue.
+And if thou worke wilt by good counseil,
+I undertake, withoute mast or sail,
+Yet shall I save her, and thee, and me.
+Hast thou not heard how saved was Noe,
+When that our Lord had warned him beforn,
+That all the world with water should be lorn?"
+"Yes," quoth this carpenter," full yore ago."
+"Hast thou not heard," quoth Nicholas, "also
+The sorrow of Noe, with his fellowship,
+That he had ere he got his wife to ship?
+Him had been lever, I dare well undertake,
+At thilke time, than all his wethers black,
+That she had had a ship herself alone.
+And therefore know'st thou what is best to be done?
+This asketh haste, and of an hasty thing
+Men may not preach or make tarrying.
+Anon go get us fast into this inn
+A kneading trough, or else a kemelin,
+For each of us; but look that they be large,
+In whiche we may swim as in a barge:
+And have therein vitaille suffisant
+But for one day; fie on the remenant;
+The water shall aslake and go away
+Aboute prime upon the nexte day.
+But Robin may not know of this, thy knave,
+Nor eke thy maiden Gill I may not save:
+Ask me not why: for though thou aske me
+I will not telle Godde's privity.
+Sufficeth thee, but if thy wit be mad,
+To have as great a grace as Noe had;
+Thy wife shall I well saven out of doubt.
+Go now thy way, and speed thee hereabout.
+But when thou hast for her, and thee, and me,
+Y-gotten us these kneading tubbes three,
+Then shalt thou hang them in the roof full high,
+So that no man our purveyance espy:
+And when thou hast done thus as I have said,
+And hast our vitaille fair in them y-laid,
+And eke an axe to smite the cord in two
+When that the water comes, that we may go,
+And break an hole on high upon the gable
+Into the garden-ward, over the stable,
+That we may freely passe forth our way,
+When that the greate shower is gone away.
+Then shalt thou swim as merry, I undertake,
+As doth the white duck after her drake:
+Then will I clepe, 'How, Alison? How, John?
+Be merry: for the flood will pass anon.'
+And thou wilt say, 'Hail, Master Nicholay,
+Good-morrow, I see thee well, for it is day.'
+And then shall we be lordes all our life
+Of all the world, as Noe and his wife.
+But of one thing I warne thee full right,
+Be well advised, on that ilke night,
+When we be enter'd into shippe's board,
+That none of us not speak a single word,
+Nor clepe nor cry, but be in his prayere,
+For that is Godde's owen heste dear.
+Thy wife and thou must hangen far atween,
+For that betwixte you shall be no sin,
+No more in looking than there shall in deed.
+This ordinance is said: go, God thee speed
+To-morrow night, when men be all asleep,
+Into our kneading tubbes will we creep,
+And sitte there, abiding Godde's grace.
+Go now thy way, I have no longer space
+To make of this no longer sermoning:
+Men say thus: Send the wise, and say nothing:
+Thou art so wise, it needeth thee nought teach.
+Go, save our lives, and that I thee beseech."
 
-Thy wisdom speaks in me, and bids me dare
-Beacon the rocks on which high hearts are wrecked.
-I never was attached to that great sect,
-Whose doctrine is, that each one should select
-Out of the crowd a mistress or a friend,
-And all the rest, though fair and wise, commend
-To cold oblivion, though it is in the code
-Of modern morals, and the beaten road
-Which those poor slaves with weary footsteps tread,
-Who travel to their home among the dead
-By the broad highway of the world, and so
-With one chained friend, perhaps a jealous foe,
-The dreariest and the longest journey go.
+This silly carpenter went forth his way,
+Full oft he said, "Alas! and Well-a-day!,'
+And to his wife he told his privity,
+And she was ware, and better knew than he
+What all this quainte cast was for to say.
+But natheless she fear'd as she would dey,
+And said: "Alas! go forth thy way anon.
+Help us to scape, or we be dead each one.
+I am thy true and very wedded wife;
+Go, deare spouse, and help to save our life."
+Lo, what a great thing is affection!
+Men may die of imagination,
+So deeply may impression be take.
+This silly carpenter begins to quake:
+He thinketh verily that he may see
+This newe flood come weltering as the sea
+To drenchen Alison, his honey dear.
+He weepeth, waileth, maketh sorry cheer;
+He sigheth, with full many a sorry sough.
+He go'th, and getteth him a kneading trough,
+And after that a tub, and a kemelin,
+And privily he sent them to his inn:
+And hung them in the roof full privily.
+With his own hand then made he ladders three,
+To climbe by the ranges and the stalks
+Unto the tubbes hanging in the balks;
+And victualed them, kemelin, trough, and tub,
+With bread and cheese, and good ale in a jub,
+Sufficing right enough as for a day.
+But ere that he had made all this array,
+He sent his knave, and eke his wench also,
+Upon his need to London for to go.
+And on the Monday, when it drew to night,
+He shut his door withoute candle light,
+And dressed every thing as it should be.
+And shortly up they climbed all the three.
+They satte stille well a furlong way.
+"Now, Pater noster, clum," said Nicholay,
+And "clum," quoth John; and "clum," said Alison:
+This carpenter said his devotion,
+And still he sat and bidded his prayere,
+Awaking on the rain, if he it hear.
+The deade sleep, for weary business,
+Fell on this carpenter, right as I guess,
+About the curfew-time, or little more,
+For travail of his ghost he groaned sore,
+And eft he routed, for his head mislay.
+Adown the ladder stalked Nicholay;
+And Alison full soft adown she sped.
+Withoute wordes more they went to bed,
+There as the carpenter was wont to lie:
+There was the revel, and the melody.
+And thus lay Alison and Nicholas,
+In business of mirth and in solace,
+Until the bell of laudes gan to ring,
+And friars in the chancel went to sing.
 
-True Love in this differs from gold and clay,
-That to divide is not to take away.
-Love is like understanding, that grows bright,
-Gazing on many truths; 'tis like thy light,
-Imagination! which from earth and sky,
-And from the depths of human fantasy,
-As from a thousand prisms and mirrors, fills
-The Universe with glorious beams, and kills
-Error, the worm, with many a sun-like arrow
-Of its reverberated lightning. Narrow
-The heart that loves, the brain that contemplates,
-The life that wears, the spirit that creates
-One object, and one form, and builds thereby
-A sepulchre for its eternity.
+This parish clerk, this amorous Absolon,
+That is for love alway so woebegone,
+Upon the Monday was at Oseney
+With company, him to disport and play;
+And asked upon cas a cloisterer
+Full privily after John the carpenter;
+And he drew him apart out of the church,
+And said, "I n'ot; I saw him not here wirch
+Since Saturday; I trow that he be went
+For timber, where our abbot hath him sent.
+And dwellen at the Grange a day or two:
+For he is wont for timber for to go,
+Or else he is at his own house certain.
+Where that he be, I cannot soothly sayn."
+This Absolon full jolly was and light,
+And thought, "Now is the time to wake all night,
+For sickerly I saw him not stirring
+About his door, since day began to spring.
+So may I thrive, but I shall at cock crow
+Full privily go knock at his window,
+That stands full low upon his bower wall:
+To Alison then will I tellen all
+My love-longing; for I shall not miss
+That at the leaste way I shall her kiss.
+Some manner comfort shall I have, parfay,
+My mouth hath itched all this livelong day:
+That is a sign of kissing at the least.
+All night I mette eke I was at a feast.
+Therefore I will go sleep an hour or tway,
+And all the night then will I wake and play."
+When that the first cock crowed had, anon
+Up rose this jolly lover Absolon,
+And him arrayed gay, at point devise.
+But first he chewed grains and liquorice,
+To smelle sweet, ere he had combed his hair.
+Under his tongue a true love   he bare,
+For thereby thought he to be gracious.
 
-Mind from its object differs most in this:
-Evil from good; misery from happiness;
-The baser from the nobler; the impure
-And frail, from what is clear and must endure.
-If you divide suffering and dross, you may
-Diminish till it is consumed away;
-If you divide pleasure and love and thought,
-Each part exceeds the whole; and we know not
-How much, while any yet remains unshared,
-Of pleasure may be gained, of sorrow spared:
-This truth is that deep well, whence sages draw
-The unenvied light of hope; the eternal law
-By which those live, to whom this world of life
-Is as a garden ravaged, and whose strife
-Tills for the promise of a later birth
-The wilderness of this Elysian earth.
+Then came he to the carpentere's house,
+And still he stood under the shot window;
+Unto his breast it raught, it was so low;
+And soft he coughed with a semisoun'.
+"What do ye, honeycomb, sweet Alisoun?
+My faire bird, my sweet cinamome,
+Awaken, leman mine, and speak to me.
+Full little thinke ye upon my woe,
+That for your love I sweat there as I go.
+No wonder is that I do swelt and sweat.
+I mourn as doth a lamb after the teat
+Y-wis, leman, I have such love-longing,
+That like a turtle true is my mourning.
+I may not eat, no more than a maid."
+"Go from the window, thou jack fool," she said:
+"As help me God, it will not be, 'come ba me.'
+I love another, else I were to blame",
+Well better than thee, by Jesus, Absolon.
+Go forth thy way, or I will cast a stone;
+And let me sleep; a twenty devil way.
+"Alas!" quoth Absolon, "and well away!
+That true love ever was so ill beset:
+Then kiss me, since that it may be no bet,
+For Jesus' love, and for the love of me."
+"Wilt thou then go thy way therewith?" , quoth she.
+"Yea, certes, leman," quoth this Absolon.
+"Then make thee ready," quoth she, "I come anon."
+[And unto Nicholas she said full still:
+"Now peace, and thou shalt laugh anon thy fill."]
+This Absolon down set him on his knees,
+And said; "I am a lord at all degrees:
+For after this I hope there cometh more;
+Leman, thy grace, and, sweete bird, thine ore."
+The window she undid, and that in haste.
+"Have done," quoth she, "come off, and speed thee fast,
+Lest that our neighebours should thee espy."
+Then Absolon gan wipe his mouth full dry.
+Dark was the night as pitch or as the coal,
+And at the window she put out her hole,
+And Absolon him fell ne bet ne werse,
+But with his mouth he kiss'd her naked erse
+Full savourly. When he was ware of this,
+Aback he start, and thought it was amiss;
+For well he wist a woman hath no beard.
+He felt a thing all rough, and long y-hair'd,
+And saide; "Fy, alas! what have I do?"
+"Te he!" quoth she, and clapt the window to;
+And Absolon went forth at sorry pace.
+"A beard, a beard," said Hendy Nicholas;
+"By God's corpus, this game went fair and well."
+This silly Absolon heard every deal,
+And on his lip he gan for anger bite;
+And to himself he said, "I shall thee quite.
+Who rubbeth now, who frotteth now his lips
+With dust, with sand, with straw, with cloth, with chips,
+But Absolon? that saith full oft, "Alas!
+My soul betake I unto Sathanas,
+But me were lever than all this town," quoth he
+I this despite awroken for to be.
+Alas! alas! that I have been y-blent."
+His hote love is cold, and all y-quent.
+For from that time that he had kiss'd her erse,
+Of paramours he sette not a kers,
+For he was healed of his malady;
+Full often paramours he gan defy,
+And weep as doth a child that hath been beat.
+A softe pace he went over the street
+Unto a smith, men callen Dan Gerveis,
+That in his forge smithed plough-harness;
+He sharped share and culter busily.
+This Absolon knocked all easily,
+And said; "Undo, Gerveis, and that anon."
+"What, who art thou?" "It is I, Absolon."
+"What? Absolon, what? Christe's sweete tree,
+Why rise so rath? hey! Benedicite,
+What aileth you? some gay girl, God it wote,
+Hath brought you thus upon the viretote:
+By Saint Neot, ye wot well what I mean."
+This Absolon he raughte not a bean
+Of all his play; no word again he gaf,
+For he had more tow on his distaff
+Than Gerveis knew, and saide; "Friend so dear,
+That hote culter in the chimney here
+Lend it to me, I have therewith to don:
+I will it bring again to thee full soon."
+Gerveis answered; "Certes, were it gold,
+Or in a poke nobles all untold,
+Thou shouldst it have, as I am a true smith.
+Hey! Christe's foot, what will ye do therewith?"
+"Thereof," quoth Absolon, "be as be may;
+I shall well tell it thee another day:"
+And caught the culter by the colde stele.
+Full soft out at the door he gan to steal,
+And went unto the carpentere's wall
+He coughed first, and knocked therewithal
+Upon the window, light as he did ere.
+This Alison answered; "Who is there
+That knocketh so? I warrant him a thief."
+"Nay, nay," quoth he, "God wot, my sweete lefe,
+I am thine Absolon, my own darling.
+Of gold," quoth he, "I have thee brought a ring,
+My mother gave it me, so God me save!
+Full fine it is, and thereto well y-grave:
+This will I give to thee, if thou me kiss."
+Now Nicholas was risen up to piss,
+And thought he would amenden all the jape;
+He shoulde kiss his erse ere that he scape:
+And up the window did he hastily,
+And out his erse he put full privily
+Over the buttock, to the haunche bone.
+And therewith spake this clerk, this Absolon,
+"Speak, sweete bird, I know not where thou art."
+This Nicholas anon let fly a fart,
+As great as it had been a thunder dent;
+That with the stroke he was well nigh y-blent;
+But he was ready with his iron hot,
+And Nicholas amid the erse he smote.
+Off went the skin an handbreadth all about.
+The hote culter burned so his tout,
+That for the smart he weened he would die;
+As he were wood, for woe he gan to cry,
+"Help! water, water, help for Godde's heart!"
 
-There was a Being whom my spirit oft
-Met on its visioned wanderings, far aloft,
-In the clear golden prime of my youth's dawn,
-Upon the fairy isles of sunny lawn,
-Amid the enchanted mountains, and the caves
-Of divine sleep, and on the air-like waves
-Of wonder-level dream, whose tremulous floor
-Paved her light steps;--on an imagined shore,
-Under the gray beak of some promontory
-She met me, robed in such exceeding glory,
-That I beheld her not. In solitudes
-Her voice came to me through the whispering woods,
-And from the fountains, and the odours deep
-Of flowers, which, like lips murmuring in their sleep
-Of the sweet kisses which had lulled them there,
-Breathed but of HER to the enamoured air;
-And from the breezes whether low or loud,
-And from the rain of every passing cloud,
-And from the singing of the summer-birds,
-And from all sounds, all silence. In the words
-Of antique verse and high romance,--in form,
-Sound, colour--in whatever checks that Storm
-Which with the shattered present chokes the past;
-And in that best philosophy, whose taste
-Makes this cold common hell, our life, a doom
-As glorious as a fiery martyrdom;
-Her Spirit was the harmony of truth.--
-
-Then, from the caverns of my dreamy youth
-I sprang, as one sandalled with plumes of fire,
-And towards the lodestar of my one desire,
-I flitted, like a dizzy moth, whose flight
-Is as a dead leaf's in the owlet light,
-When it would seek in Hesper's setting sphere
-A radiant death, a fiery sepulchre,
-As if it were a lamp of earthly flame.--
-But She, whom prayers or tears then could not tame,
-Passed, like a God throned on a winged planet,
-Whose burning plumes to tenfold swiftness fan it,
-Into the dreary cone of our life's shade;
-And as a man with mighty loss dismayed,
-I would have followed, though the grave between
-Yawned like a gulf whose spectres are unseen:
-When a voice said:--'O thou of hearts the weakest,
-The phantom is beside thee whom thou seekest.'
-Then I--'Where?'--the world's echo answered 'where?'
-And in that silence, and in my despair,
-I questioned every tongueless wind that flew
-Over my tower of mourning, if it knew
-Whither 'twas fled, this soul out of my soul;
-And murmured names and spells which have control
-Over the sightless tyrants of our fate;
-But neither prayer nor verse could dissipate
-The night which closed on her; nor uncreate
-That world within this Chaos, mine and me,
-Of which she was the veiled Divinity,
-The world I say of thoughts that worshipped her:
-And therefore I went forth, with hope and fear
-And every gentle passion sick to death,
-Feeding my course with expectation's breath,
-Into the wintry forest of our life;
-And struggling through its error with vain strife,
-And stumbling in my weakness and my haste,
-And half bewildered by new forms, I passed,
-Seeking among those untaught foresters
-If I could find one form resembling hers,
-In which she might have masked herself from me.
-There,--One, whose voice was venomed melody
-Sate by a well, under blue nightshade bowers:
-The breath of her false mouth was like faint flowers,
-Her touch was as electric poison,--flame
-Out of her looks into my vitals came,
-And from her living cheeks and bosom flew
-A killing air, which pierced like honey-dew
-Into the core of my green heart, and lay
-Upon its leaves; until, as hair grown gray
-O'er a young brow, they hid its unblown prime
-With ruins of unseasonable time.
-
-In many mortal forms I rashly sought
-The shadow of that idol of my thought.
-And some were fair--but beauty dies away:
-Others were wise--but honeyed words betray:
-And One was true--oh! why not true to me?
-Then, as a hunted deer that could not flee,
-I turned upon my thoughts, and stood at bay,
-Wounded and weak and panting; the cold day
-Trembled, for pity of my strife and pain.
-When, like a noonday dawn, there shone again
-Deliverance. One stood on my path who seemed
-As like the glorious shape which I had d reamed
-As is the Moon, whose changes ever run
-Into themselves, to the eternal Sun;
-The cold chaste Moon, the Queen of Heaven's bright isles,
-Who makes all beautiful on which she smiles,
-That wandering shrine of soft yet icy flame
-Which ever is transformed, yet still the same,
-And warms not but illumines. Young and fair
-As the descended Spirit of that sphere,
-She hid me, as the Moon may hide the night
-From its own darkness, until all was bright
-Between the Heaven and Earth of my calm mind,
-And, as a cloud charioted by the wind,
-She led me to a cave in that wild place,
-And sate beside me, with her downward face
-Illumining my slumbers, like the Moon
-Waxing and waning o'er Endymion.
-And I was laid asleep, spirit and limb,
-And all my being became bright or dim
-As the Moon's image in a summer sea,
-According as she smiled or frowned on me;
-And there I lay, within a chaste cold bed:
-Alas, I then was nor alive nor dead:--
-For at her silver voice came Death and Life,
-Unmindful each of their accustomed strife,
-Masked like twin babes, a sister and a brother,
-The wandering hopes of one abandoned mother,
-And through the cavern without wings they flew,
-And cried 'Away, he is not of our crew.'
-I wept, and though it be a dream, I weep.
-
-What storms then shook the ocean of my sleep,
-Blotting that Moon, whose pale and waning lips
-Then shrank as in the sickness of eclipse;--
-And how my soul was as a lampless sea,
-And who was then its Tempest; and when She,
-The Planet of that hour, was quenched, what frost
-Crept o'er those waters, till from coast to coast
-The moving billows of my being fell
-Into a death of ice, immovable;--
-And then--what earthquakes made it gape and split,
-The white Moon smiling all the while on it,
-These words conceal:--If not, each word would be
-The key of staunchless tears. Weep not for me!
-
-At length, into the obscure Forest came
-The Vision I had sought through grief and shame.
-Athwart that wintry wilderness of thorns
-Flashed from her motion splendour like the Morn's,
-And from her presence life was radiated
-Through the gray earth and branches bare and dead;
-So that her way was paved, and roofed above
-With flowers as soft as thoughts of budding love;
-And music from her respiration spread
-Like light,--all other sounds were penetrated
-By the small, still, sweet spirit of that sound,
-So that the savage winds hung mute around;
-And odours warm and fresh fell from her hair
-Dissolving the dull cold in the frore air:
-Soft as an Incarnation of the Sun,
-When light is changed to love, this glorious One
-Floated into the cavern where I lay,
-And called my Spirit, and the dreaming clay
-Was lifted by the thing that dreamed below
-As smoke by fire, and in her beauty's glow
-I stood, and felt the dawn of my long night
-Was penetrating me with living light:
-I knew it was the Vision veiled from me
-So many years--that it was Emily.
-
-Twin Spheres of light who rule this passive Earth,
-This world of loves, this ME; and into birth
-Awaken all its fruits and flowers, and dart
-Magnetic might into its central heart;
-And lift its billows and its mists, and guide
-By everlasting laws, each wind and tide
-To its fit cloud, and its appointed cave;
-And lull its storms, each in the craggy grave
-Which was its cradle, luring to faint bowers
-The armies of the rainbow-winged showers;
-And, as those married lights, which from the towers
-Of Heaven look forth and fold the wandering globe
-In liquid sleep and splendour, as a robe;
-And all their many-mingled influence blend,
-If equal, yet unlike, to one sweet end;--
-So ye, bright regents, with alternate sway
-Govern my sphere of being, night and day!
-Thou, not disdaining even a borrowed might;
-Thou, not eclipsing a remoter light;
-And, through the shadow of the seasons three,
-From Spring to Autumn's sere maturity,
-Light it into the Winter of the tomb,
-Where it may ripen to a brighter bloom.
-Thou too, O Comet beautiful and fierce,
-Who drew the heart of this frail Universe
-Towards thine own; till, wrecked in that convulsion,
-Alternating attraction and repulsion,
-Thine went astray and that was rent in twain;
-Oh, float into our azure heaven again!
-Be there Love's folding-star at thy return;
-The living Sun will feed thee from its urn
-Of golden fire; the Moon will veil her horn
-In thy last smiles; adoring Even and Morn
-Will worship thee with incense of calm breath
-And lights and shadows; as the star of Death
-And Birth is worshipped by those sisters wild
-Called Hope and Fear--upon the heart are piled
-Their offerings,--of this sacrifice divine
-A World shall be the altar.
-Lady mine,
-Scorn not these flowers of thought, the fading birth
-Which from its heart of hearts that plant puts forth
-Whose fruit, made perfect by thy sunny eyes,
-Will be as of the trees of Paradise.
-
-The day is come, and thou wilt fly with me.
-To whatsoe'er of dull mortality
-Is mine, remain a vestal sister still;
-To the intense, the deep, the imperishable,
-Not mine but me, henceforth be thou united
-Even as a bride, delighting and delighted.
-The hour is come:--the destined Star has risen
-Which shall descend upon a vacant prison.
-The walls are high, the gates are strong, thick set
-The sentinels--but true Love never yet
-Was thus constrained: it overleaps all fence:
-Like lightning, with invisible violence
-Piercing its continents; like Heaven's free breath,
-Which he who grasps can hold not; liker Death,
-Who rides upon a thought, and makes his way
-Through temple, tower, and palace, and the array
-Of arms: more strength has Love than he or they;
-For it can burst his charnel, and make free
-The limbs in chains, the heart in agony,
-The soul in dust and chaos.
-Emily,
-A ship is floating in the harbour now,
-A wind is hovering o'er the mountain's brow;
-There is a path on the sea's azure floor,
-No keel has ever ploughed that path before;
-The halcyons brood around the foamless isles;
-The treacherous Ocean has forsworn its wiles;
-The merry mariners are bold and free:
-Say, my heart's sister, wilt thou sail with me?
-Our bark is as an albatross, whose nest
-Is a far Eden of the purple East;
-And we between her wings will sit, while Night,
-And Day, and Storm, and Calm, pursue their flight,
-Our ministers, along the boundless Sea,
-Treading each other's heels, unheededly.
-It is an isle under Ionian skies,
-Beautiful as a wreck of Paradise,
-And, for the harbours are not safe and good,
-This land would have remained a solitude
-But for some pastoral people native there,
-Who from the Elysian, clear, and golden air
-Draw the last spirit of the age of gold,
-Simple and spirited; innocent and bold.
-The blue Aegean girds this chosen home,
-With ever-changing sound and light and foam,
-Kissing the sifted sands, and caverns hoar;
-And all the winds wandering along the shore
-Undulate with the undulating tide:
-There are thick woods where sylvan forms abide;
-And many a fountain, rivulet, and pond,
-As clear as elemental diamond,
-Or serene morning air; and far beyond,
-The mossy tracks made by the goats and deer
-(Which the rough shepherd treads but once a year)
-Pierce into glades, caverns, and bowers, and halls
-Built round with ivy, which the waterfalls
-Illumining, with sound that never fails
-Accompany the noonday nightingales;
-And all the place is peopled with sweet airs;
-The light clear element which the isle wears
-Is heavy with the scent of lemon-flowers,
-Which floats like mist laden with unseen showers.
-And falls upon the eyelids like faint sleep;
-And from the moss violets and jonquils peep,
-And dart their arrowy odour through the brain
-Till you might faint with that delicious pain.
-And every motion, odour, beam and tone,
-With that deep music is in unison:
-Which is a soul within the soul--they seem
-Like echoes of an antenatal dream.--
-It is an isle 'twixt Heaven, Air, Earth, and Sea,
-Cradled, and hung in clear tranquillity;
-Bright as that wandering Eden Lucifer,
-Washed by the soft blue Oceans of young air.
-It is a favoured place. Famine or Blight,
-Pestilence, War and Earthquake, never light
-Upon its mountain-peaks; blind vultures, they
-Sail onward far upon their fatal way:
-The winged storms, chanting their thunder-psalm
-To other lands, leave azure chasms of calm
-Over this isle, or weep themselves in dew,
-From which its fields and woods ever renew
-Their green and golden immortality.
-And from the sea there rise, and from the sky
-There fall, clear exhalations, soft and bright.
-Veil after veil, each hiding some delight,
-Which Sun or Moon or zephyr draw aside,
-Till the isle's beauty, like a naked bride
-Glowing at once with love and loveliness,
-Blushes and trembles at its own excess:
-Yet, like a buried lamp, a Soul no less
-Burns in the heart of this delicious isle,
-An atom of th' Eternal, whose own smile
-Unfolds itself, and may be felt, not seen
-O'er the gray rocks, blue waves, and forests green,
-Filling their bare and void interstices.--
-But the chief marvel of the wilderness
-Is a lone dwelling, built by whom or how
-None of the rustic island-people know:
-'Tis not a tower of strength, though with its height
-It overtops the woods; but, for delight,
-Some wise and tender Ocean-King, ere crime
-Had been invented, in the world's young prime,
-Reared it, a wonder of that simple time,
-An envy of the isles, a pleasure-house
-Made sacred to his sister and his spouse.
-It scarce seems now a wreck of human art,
-But, as it were Titanic; in the heart
-Of Earth having assumed its form, then grown
-Out of the mountains, from the living stone,
-Lifting itself in caverns light and high:
-For all the antique and learned imagery
-Has been erased, and in the place of it
-The ivy and the wild-vine interknit
-The volumes of their many-twining stems;
-Parasite flowers illume with dewy gems
-The lampless halls, and when they fade, the sky
-Peeps through their winter-woof of tracery
-With moonlight patches, or star atoms keen,
-Or fragments of the day's intense serene;--
-Working mosaic on their Parian floors.
-And, day and night, aloof, from the high towers
-And terraces, the Earth and Ocean seem
-To sleep in one another's arms, and dream
-Of waves, flowers, clouds, woods, rocks, and all that we
-Read in their smiles, and call reality.
-
-This isle and house are mine, and I have vowed
-Thee to be lady of the solitude.--
-And I have fitted up some chambers there
-Looking towards the golden Eastern air,
-And level with the living winds, which flow
-Like waves above the living waves below.--
-I have sent books and music there, and all
-Those instruments with which high Spirits call
-The future from its cradle, and the past
-Out of its grave, and make the present last
-In thoughts and joys which sleep, but cannot die,
-Folded within their own eternity.
-Our simple life wants little, and true taste
-Hires not the pale drudge Luxury, to waste
-The scene it would adorn, and therefore still,
-Nature with all her children haunts the hill.
-The ring-dove, in the embowering ivy, yet
-Keeps up her love-lament, and the owls flit
-Round the evening tower, and the young stars glance
-Between the quick bats in their twilight dance;
-The spotted deer bask in the fresh moonlight
-Before our gate, and the slow, silent night
-Is measured by the pants of their calm sleep.
-Be this our home in life, and when years heap
-Their withered hours, like leaves, on our decay,
-Let us become the overhanging day,
-The living soul of this Elysian isle,
-Conscious, inseparable, one. Meanwhile
-We two will rise, and sit, and walk together,
-Under the roof of blue Ionian weather,
-And wander in the meadows, or ascend
-The mossy mountains, where the blue heavens bend
-With lightest winds, to touch their paramour;
-Or linger, where the pebble-paven shore,
-Under the quick, faint kisses of the sea
-Trembles and sparkles as with ecstasy,--
-Possessing and possessed by all that is
-Within that calm circumference of bliss,
-And by each other, till to love and live
-Be one:--or, at the noontide hour, arrive
-Where some old cavern hoar seems yet to keep
-The moonlight of the expired night asleep,
-Through which the awakened day can never peep;
-A veil for our seclusion, close as night's,
-Where secure sleep may kill thine innocent lights:
-Sleep, the fresh dew of languid love, the rain
-Whose drops quench kisses till they burn again.
-And we will talk, until thought's melody
-Become too sweet for utterance, and it die
-In words, to live again in looks, which dart
-With thrilling tone into the voiceless heart,
-Harmonizing silence without a sound.
-Our breath shall intermix, our bosoms bound,
-And our veins beat together; and our lips
-With other eloquence than words, eclipse
-The soul that burns between them, and the wells
-Which boil under our being's inmost cells,
-The fountains of our deepest life, shall be
-Confused in Passion's golden purity,
-As mountain-springs under the morning sun.
-We shall become the same, we shall be one
-Spirit within two frames, oh! wherefore two?
-One passion in twin-hearts, which grows and grew,
-Till like two meteors of expanding flame,
-Those spheres instinct with it become the same,
-Touch, mingle, are transfigured; ever still
-Burning, yet ever inconsumable:
-In one another's substance finding food,
-Like flames too pure and light and unimbued
-To nourish their bright lives with baser prey,
-Which point to Heaven and cannot pass away:
-One hope within two wills, one will beneath
-Two overshadowing minds, one life, one death,
-One Heaven, one Hell, one immortality,
-And one annihilation. Woe is me!
-The winged words on which my soul would pierce
-Into the height of Love's rare Universe,
-Are chains of lead around its flight of fire--
-I pant, I sink, I tremble, I expire!
-
-...
-
-Weak Verses, go, kneel at your Sovereign's feet,
-And say:--'We are the masters of thy slave;
-What wouldest thou with us and ours and thine?'
-Then call your sisters from Oblivion's cave,
-All singing loud: 'Love's very pain is sweet,
-But its reward is in the world divine
-Which, if not here, it builds beyond the grave.'
-So shall ye live when I am there. Then haste
-Over the hearts of men, until ye meet
-Marina, Vanna, Primus, and the rest,
-And bid them love each other and be blessed:
-And leave the troop which errs, and which reproves,
-And come and be my guest,--for I am Love's.
+This carpenter out of his slumber start,
+And heard one cry "Water," as he were wood,
+And thought, "Alas! now cometh Noe's flood."
+He sat him up withoute wordes mo'
+And with his axe he smote the cord in two;
+And down went all; he found neither to sell
+Nor bread nor ale, till he came to the sell,
+Upon the floor, and there in swoon he lay.
+Up started Alison and Nicholay,
+And cried out an "harow!"   in the street.
+The neighbours alle, bothe small and great
+In ranne, for to gauren on this man,
+That yet in swoone lay, both pale and wan:
+For with the fall he broken had his arm.
+But stand he must unto his owen harm,
+For when he spake, he was anon borne down
+With Hendy Nicholas and Alisoun.
+They told to every man that he was wood;
+He was aghaste so of Noe's flood,
+Through phantasy, that of his vanity
+He had y-bought him kneading-tubbes three,
+And had them hanged in the roof above;
+And that he prayed them for Godde's love
+To sitten in the roof for company.
+The folk gan laughen at his phantasy.
+Into the roof they kyken and they gape,
+And turned all his harm into a jape.
+For whatsoe'er this carpenter answer'd,
+It was for nought, no man his reason heard.
+With oathes great he was so sworn adown,
+That he was holden wood in all the town.
+For every clerk anon right held with other;
+They said, "The man was wood, my leve brother;"
+And every wight gan laughen at his strife.
+Thus swived was the carpentere's wife,
+For all his keeping and his jealousy;
+And Absolon hath kiss'd her nether eye;
+And Nicholas is scalded in the tout.
+This tale is done, and God save all the rout.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -831,4 +945,4 @@ And come and be my guest,--for I am Love's.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 26, 2025 at 06:40 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->August 27, 2025 at 06:37 AM GMT+5<!-- TIMESTAMP:END -->_
