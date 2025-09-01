@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/30/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/31/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 11 (Updated: 8/29/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 42 (Updated: 8/28/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,14 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Take your dog on a walk
+Configure two-factor authentication on your accounts
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,166 +80,26 @@ Take your dog on a walk
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Psalm LXXIII: Now I'm Convinced the Lord Is Kind" by Isaac Watts
-Now I 'm convinced the Lord is kind
-To men of heart sincere;
-Yet once my foolish thoughts repined,
-And bordered on despair.
-
-I grieved to see the wicked thrive,
-And spoke with angry breath,
-"How pleasant and profane they live !
-How peaceful is their death !
-
-"With well-fed flesh and haughty eyes,
-They lay their fears to sleep;
-Against the heav'ns their slanders rise,
-While saints in silence weep.
-
-"In vain I lift my hands to pray,
-And cleanse my heart in vain;
-For I am chastened all the day,
-The night renews my pain."
-
-Yet while my tongue indulged complaints,
-I felt my heart reprove,
-"Sure I shall thus offend thy saints,
-And grieve the men I love."
-
-But still I found my doubts too hard,
-The conflict too severe,
-Till I retired to search thy word,
-And learn thy secrets there.
-
-There, as in some prophetic glass,
-I saw the sinner's feet
-High mounted on a slipp'ry place,
-Beside a fiery pit.
-
-I heard the wretch profanely boast,
-Till at thy frown he fell;
-His honors in a dream were lost,
-And he awakes in hell.
-
-Lord, what an envious fool I was!
-How like a thoughtless beast
-Thus to suspect thy promised grace,
-And think the wicked blessed.
-
-Yet I was kept from full despair,
-Upheld by power unknown;
-That blessed hand that broke the snare
-Shall guide me to thy throne.
-
-God, my supporter and my hope,
-My help for ever near,
-Thine arm of mercy held me up,
-When sinking in despair.
-
-Thy counsels, Lord, shall guide my feet
-Through this dark wilderness;
-Thine hand conduct me near thy seat,
-To dwell before thy face.
-
-Were I in heav'n without my God,
-'twould be no joy to me;
-And whilst this earth is my abode,
-I long for none but thee.
-
-What if the springs of life were broke,
-And flesh and heart should faint?
-God is my soul's eternal rock,
-The strength of ev'ry saint.
-
-Behold, the sinners that remove
-Far from thy presence die;
-Not all the idol gods they love
-Can save them when they cry.
-
-But to draw near to thee, my God,
-Shall be my sweet employ;
-My tongue shall sound thy works abroad,
-And tell the world my joy.
-
-Lord, what a thoughtless wretch was I,
-To mourn, and murmur, and repine,
-To see the wicked placed on high,
-In pride and robes of' honour shine!
-
-But O their end, their dreadful end!
-Thy sanctuary taught me so;
-On slipp'ry rocks I see them stand,
-And fiery billows roll below.
-
-Now let them boast how tall they rise,
-I'll never envy them again;
-There they may stand with haughty eyes,
-Till they plunge deep in endless pain.
-
-Their fancied joys, how fast they flee!
-Just like a dream when man awakes;
-Their songs of softest harmony
-Are but a preface to their plagues.
-
-Now I esteem their mirth and wine
-Too dear to purchase with my blood;
-Lord, 'tis enough that thou art mine,
-My life, my portion, and my God.
-
-Sure there's a righteous God,
-Nor is religion vain;
-Though men of vice may boast aloud,
-And men of grace complain.
-
-I saw the wicked rise,
-And felt my heart repine,
-While haughty fools with scornful eyes
-In robes of' honor shine.
-
-Pampered with wanton ease,
-Their flesh looks full and fair;
-Their wealth rolls in like flowing seas,
-And grows without their care.
-
-Free from the plagues and pains
-That pious souls endure;
-Through all their life oppression reigns,
-And racks the humble poor.
-
-Their impious tongues blaspheme
-The everlasting God;
-Their malice blasts the good man's name,
-And spreads their lies abroad.
-
-But I with flowing tears
-Indulged my doubts to rise;
-"Is there a God that sees or hears
-The things below the skies?"
-
-The tumults of my thought
-Held me in hard suspense,
-Till to thy house my feet were brought,
-To learn thy justice thence.
-
-Thy word with light and power
-Did my mistake amend;
-I viewed the sinners' life before,
-But here I learned their end.
-
-On what a slippery steep
-The thoughtless wretches go;
-And O that dreadful fiery deep
-That waits their fall below!
-
-Lord, at thy feet I bow,
-My thoughts no more repine;
-I call my God my portion now,
-And all my powers are thine.
+"Sonnet I: Like an Advent'rous Seafarer" by Michael Drayton
+Like an advent'rous seafarer am I,
+Who hath some long and dang'rous voyage been,
+And, call'd to tell of his discovery,
+How far he sail'd, what countries he had seen;
+Proceeding from the port whence he put forth,
+Shows by his compass how his course he steer'd,
+When East, when West, when South, and when by North,
+As how the Pole to every place was rear'd,
+What capes he doubled, of what Continent,
+The gulfs and straits that strangely he had past,
+Where most becalm'd, where with foul weather spent,
+And on what rocks in peril to be cast:
+Thus in my love, Time calls me to relate
+My tedious travels and oft-varying fate.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, few clouds in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -334,4 +196,4 @@ And all my powers are thine.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->August 31, 2025 at 06:41 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 1, 2025 at 06:50 AM GMT+5<!-- TIMESTAMP:END -->_
