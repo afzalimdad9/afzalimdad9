@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 8/31/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/1/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 11 (Updated: 8/29/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 42 (Updated: 8/28/2025)
 <!-- HOT_REPOS:END -->
@@ -64,14 +64,13 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Configure two-factor authentication on your accounts
+Color
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -80,21 +79,38 @@ Configure two-factor authentication on your accounts
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Sonnet I: Like an Advent'rous Seafarer" by Michael Drayton
-Like an advent'rous seafarer am I,
-Who hath some long and dang'rous voyage been,
-And, call'd to tell of his discovery,
-How far he sail'd, what countries he had seen;
-Proceeding from the port whence he put forth,
-Shows by his compass how his course he steer'd,
-When East, when West, when South, and when by North,
-As how the Pole to every place was rear'd,
-What capes he doubled, of what Continent,
-The gulfs and straits that strangely he had past,
-Where most becalm'd, where with foul weather spent,
-And on what rocks in peril to be cast:
-Thus in my love, Time calls me to relate
-My tedious travels and oft-varying fate.
+"Time And Life" by Algernon Charles Swinburne
+I.
+
+Time, thy name is sorrow, says the stricken
+Heart of life, laid waste with wasting flame
+Ere the change of things and thoughts requicken,
+Time, thy name.
+
+Girt about with shadow, blind and lame,
+Ghosts of things that smite and thoughts that sicken
+Hunt and hound thee down to death and shame.
+
+Eyes of hours whose paces halt or quicken
+Read in bloodred lines of loss and blame,
+Writ where cloud and darkness round it thicken,
+Time, thy name.
+
+II.
+
+Nay, but rest is born of me for healing,
+- So might haply time, with voice represt,
+Speak: is grief the last gift of my dealing?
+Nay, but rest.
+
+All the world is wearied, east and west,
+Tired with toil to watch the slow sun wheeling,
+Twelve loud hours of life's laborious quest.
+
+Eyes forspent with vigil, faint and reeling,
+Find at last my comfort, and are blest,
+Not with rapturous light of life's revealing -
+Nay, but rest.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -196,4 +212,4 @@ My tedious travels and oft-varying fate.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 1, 2025 at 06:50 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 2, 2025 at 06:38 AM GMT+5<!-- TIMESTAMP:END -->_
