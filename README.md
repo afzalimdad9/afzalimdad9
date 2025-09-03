@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/1/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/2/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 11 (Updated: 8/29/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 42 (Updated: 8/28/2025)
 <!-- HOT_REPOS:END -->
@@ -64,13 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Color
+Learn to greet someone in a new language
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -79,43 +78,26 @@ Color
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Time And Life" by Algernon Charles Swinburne
-I.
+"To----" by George Gordon, Lord Byron
+But once I dared to lift my eyes--
+  To lift my eyes to thee;
+And since that day, beneath the skies,
+  No other sight they see.
 
-Time, thy name is sorrow, says the stricken
-Heart of life, laid waste with wasting flame
-Ere the change of things and thoughts requicken,
-Time, thy name.
+In vain sleep shuts them in the night--
+  The night grows day to me;
+Presenting idly to my sight
+  What still a dream must be.
 
-Girt about with shadow, blind and lame,
-Ghosts of things that smite and thoughts that sicken
-Hunt and hound thee down to death and shame.
-
-Eyes of hours whose paces halt or quicken
-Read in bloodred lines of loss and blame,
-Writ where cloud and darkness round it thicken,
-Time, thy name.
-
-II.
-
-Nay, but rest is born of me for healing,
-- So might haply time, with voice represt,
-Speak: is grief the last gift of my dealing?
-Nay, but rest.
-
-All the world is wearied, east and west,
-Tired with toil to watch the slow sun wheeling,
-Twelve loud hours of life's laborious quest.
-
-Eyes forspent with vigil, faint and reeling,
-Find at last my comfort, and are blest,
-Not with rapturous light of life's revealing -
-Nay, but rest.
+A fatal dream--for many a bar
+  Divides thy fate from mine;
+And still my passions wake and war,
+  But peace be still with thine.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, smoke in Karachi 🇵🇰
+🌡️ 27°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -212,4 +194,4 @@ Nay, but rest.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 2, 2025 at 06:38 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 3, 2025 at 06:24 AM GMT+5<!-- TIMESTAMP:END -->_
