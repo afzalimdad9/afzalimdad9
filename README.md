@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/2/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/3/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 11 (Updated: 8/29/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 42 (Updated: 8/28/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+Four engineers get into a car. The car won't start.
+The Mechanical engineer says "It's a broken starter".
+The Electrical engineer says "Dead battery".
+The Chemical engineer says "Impurities in the gasoline".
+The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn to greet someone in a new language
+Volunteer and help out at a senior center
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,26 +82,81 @@ Learn to greet someone in a new language
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"To----" by George Gordon, Lord Byron
-But once I dared to lift my eyes--
-  To lift my eyes to thee;
-And since that day, beneath the skies,
-  No other sight they see.
+"Jottings of New York" by William Topaz McGonagall
+Oh, mighty city of New York, you are wonderful to behold--
+Your buildings are magnificent-- the truth be it told--
+They were the only thing that seemed to arrest my eye,
+Because many of them are thirteen storeys high;
 
-In vain sleep shuts them in the night--
-  The night grows day to me;
-Presenting idly to my sight
-  What still a dream must be.
+And as for Central Park, it is lovely to be seen--
+Especially in the summer season when its shrubberies are green
+And the Burns Statue is there to be seen,
+Surrounded by trees on the beautiful sward so green;
+Also Shakespeare and the immortal Sir Walter Scott,
+Which by Scotchmen and Englishmen will never be forgot.
 
-A fatal dream--for many a bar
-  Divides thy fate from mine;
-And still my passions wake and war,
-  But peace be still with thine.
+There are people on the Sabbath day in thousands resort--
+All lov'd, in conversation, and eager for sport;
+And some of them viewing the wild beasts there,
+While the joyous shouts of children does rend the air--
+And also beautiful black swans, I do declare.
+
+And there's beautiful boats to be seen there,
+And joyous shouts of children does rend the air,
+While the boats sail along with them o'er Lohengrin Lake,
+And fare is 5 cents for children, and adults ten is all they take.
+
+And there's also summer-house shades, and merry-go-rounds
+And with the merry laughter of the children the Park resounds,
+During the live-long Sabbath day
+Enjoying themselves at the merry-go-round play.
+
+Then there's the elevated railroads abont five storeys high,
+Which the inhabitants can hear night and day passing by;
+Of, such a mass of people there daily do throng--
+No less than five 100,000 daily pass along;
+And all along the city you can get for five cents--
+And, believe me, among the passengers there's few discontent.
+
+And the top of the houses are mostly all flat,
+And in the warm weather the people gather to chat;
+Besides, on the housetops they dry their clothes;
+And, also, many people all night on the housetops repose.
+
+And numerous ships end steamboats are there to be seen,
+Sailing along the East River water, which is very green--
+Which is certainly a most beautiful sight
+To see them sailing o'er the smooth water day and night.
+
+And as for Brooklyn Bridge, it's a very great height,
+And fills the stranger's heart with wonder at first sight;
+And with all its loftiness I venture to say
+It cannot surpass the new railway bridge of the Silvery Tay.
+
+And there's also ten thousand rumsellers there--
+Oh, wonderful to think of, I do declare!
+To accommodate the people of New York therein,
+And to encourage them to commit all sorts of sin.
+
+And on the Sabbath day ye will see many a man
+Going for beer with a big tin can,
+And seems proud to be seen carrying home the beer
+To treat his neighbours and his family dear.
+
+Then at night numbers of the people dance and sing,
+Making the walls of their houses to ring
+With their songs and dancing on Sabbath night,
+Which I witnessed with disgust, and fled from the sight.
+
+And with regard to New York and the sights I did see--
+Believe me, I never saw such sights in Dundee;
+And the morning I sailed from the city of New York
+My heart it felt as light as a cork.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 27°C, smoke in Karachi 🇵🇰
+🌡️ 27°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -194,4 +253,4 @@ And still my passions wake and war,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 3, 2025 at 06:24 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 4, 2025 at 06:24 AM GMT+5<!-- TIMESTAMP:END -->_
