@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,9 +28,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/3/2025)
+- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 43 (Updated: 9/4/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/4/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 11 (Updated: 8/29/2025)
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 42 (Updated: 8/28/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -64,16 +64,15 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Four engineers get into a car. The car won't start.
-The Mechanical engineer says "It's a broken starter".
-The Electrical engineer says "Dead battery".
-The Chemical engineer says "Impurities in the gasoline".
-The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Volunteer and help out at a senior center
+Organize your basement
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -82,86 +81,44 @@ Volunteer and help out at a senior center
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Jottings of New York" by William Topaz McGonagall
-Oh, mighty city of New York, you are wonderful to behold--
-Your buildings are magnificent-- the truth be it told--
-They were the only thing that seemed to arrest my eye,
-Because many of them are thirteen storeys high;
+"Fragment of an Epistle to Thomas Moore" by George Gordon, Lord Byron
+"WHAT say _I_?"--not a syllable further in prose;
+I'm your man "of all measures," dear Tom,--so here goes!
+Here goes, for a swim on the stream of old Time,
+On those buoyant supporters, the bladders of rhyme.
+If our weight breaks them down, and we sink in the flood,
+We are smothered, at least, in respectable mud,
+Where the divers of Bathos lie drowned in a heap,
+And Southey's last Pæan has pillowed his sleep;
+That _Felo de se_ who, half drunk with his Malmsey,
+Walked out of his depth and was lost in a calm sea,
+Singing "Glory to God" in a spick and span stanza,
+The like (since Tom Sternhold was choked) never man saw.
 
-And as for Central Park, it is lovely to be seen--
-Especially in the summer season when its shrubberies are green
-And the Burns Statue is there to be seen,
-Surrounded by trees on the beautiful sward so green;
-Also Shakespeare and the immortal Sir Walter Scott,
-Which by Scotchmen and Englishmen will never be forgot.
+The papers have told you, no doubt, of the fusses,
+The fêtes, and the gapings to get at these Russes,--
+Of his Majesty's suite, up from coachman to Hetman,--
+And what dignity decks the flat face of the great man.
+I saw him, last week, at two balls and a party,--
+For a Prince, his demeanour was rather too hearty.
+You know, _we_ are used to quite different graces,
 
-There are people on the Sabbath day in thousands resort--
-All lov'd, in conversation, and eager for sport;
-And some of them viewing the wild beasts there,
-While the joyous shouts of children does rend the air--
-And also beautiful black swans, I do declare.
-
-And there's beautiful boats to be seen there,
-And joyous shouts of children does rend the air,
-While the boats sail along with them o'er Lohengrin Lake,
-And fare is 5 cents for children, and adults ten is all they take.
-
-And there's also summer-house shades, and merry-go-rounds
-And with the merry laughter of the children the Park resounds,
-During the live-long Sabbath day
-Enjoying themselves at the merry-go-round play.
-
-Then there's the elevated railroads abont five storeys high,
-Which the inhabitants can hear night and day passing by;
-Of, such a mass of people there daily do throng--
-No less than five 100,000 daily pass along;
-And all along the city you can get for five cents--
-And, believe me, among the passengers there's few discontent.
-
-And the top of the houses are mostly all flat,
-And in the warm weather the people gather to chat;
-Besides, on the housetops they dry their clothes;
-And, also, many people all night on the housetops repose.
-
-And numerous ships end steamboats are there to be seen,
-Sailing along the East River water, which is very green--
-Which is certainly a most beautiful sight
-To see them sailing o'er the smooth water day and night.
-
-And as for Brooklyn Bridge, it's a very great height,
-And fills the stranger's heart with wonder at first sight;
-And with all its loftiness I venture to say
-It cannot surpass the new railway bridge of the Silvery Tay.
-
-And there's also ten thousand rumsellers there--
-Oh, wonderful to think of, I do declare!
-To accommodate the people of New York therein,
-And to encourage them to commit all sorts of sin.
-
-And on the Sabbath day ye will see many a man
-Going for beer with a big tin can,
-And seems proud to be seen carrying home the beer
-To treat his neighbours and his family dear.
-
-Then at night numbers of the people dance and sing,
-Making the walls of their houses to ring
-With their songs and dancing on Sabbath night,
-Which I witnessed with disgust, and fled from the sight.
-
-And with regard to New York and the sights I did see--
-Believe me, I never saw such sights in Dundee;
-And the morning I sailed from the city of New York
-My heart it felt as light as a cork.
+The Czar's look, I own, was much brighter and brisker,
+But then he is sadly deficient in whisker;
+And wore but a starless blue coat, and in kersey-
+mere breeches whisked round, in a waltz with the Jersey,
+Who, lovely as ever, seemed just as delighted
+With Majesty's presence as those she invited.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 27°C, haze in Karachi 🇵🇰
+🌡️ 27°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **57** total stars earned
+- 🏆 **58** total stars earned
 - 🍴 **8** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -253,4 +210,4 @@ My heart it felt as light as a cork.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 4, 2025 at 06:24 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 5, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
