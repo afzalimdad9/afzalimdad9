@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/5/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 43 (Updated: 9/4/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/4/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 11 (Updated: 8/29/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,15 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+"We messed up the keming again guys."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Organize your basement
+Listen to a new podcast
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,34 +78,41 @@ Organize your basement
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Fragment of an Epistle to Thomas Moore" by George Gordon, Lord Byron
-"WHAT say _I_?"--not a syllable further in prose;
-I'm your man "of all measures," dear Tom,--so here goes!
-Here goes, for a swim on the stream of old Time,
-On those buoyant supporters, the bladders of rhyme.
-If our weight breaks them down, and we sink in the flood,
-We are smothered, at least, in respectable mud,
-Where the divers of Bathos lie drowned in a heap,
-And Southey's last Pæan has pillowed his sleep;
-That _Felo de se_ who, half drunk with his Malmsey,
-Walked out of his depth and was lost in a calm sea,
-Singing "Glory to God" in a spick and span stanza,
-The like (since Tom Sternhold was choked) never man saw.
+"Rose-Morals" by Sidney Lanier
+I. -- Red.
 
-The papers have told you, no doubt, of the fusses,
-The fêtes, and the gapings to get at these Russes,--
-Of his Majesty's suite, up from coachman to Hetman,--
-And what dignity decks the flat face of the great man.
-I saw him, last week, at two balls and a party,--
-For a Prince, his demeanour was rather too hearty.
-You know, _we_ are used to quite different graces,
+Would that my songs might be
+What roses make by day and night --
+Distillments of my clod of misery
+Into delight.
 
-The Czar's look, I own, was much brighter and brisker,
-But then he is sadly deficient in whisker;
-And wore but a starless blue coat, and in kersey-
-mere breeches whisked round, in a waltz with the Jersey,
-Who, lovely as ever, seemed just as delighted
-With Majesty's presence as those she invited.
+Soul, could'st thou bare thy breast
+As yon red rose, and dare the day,
+All clean, and large, and calm with velvet rest?
+Say yea -- say yea!
+
+Ah, dear my Rose, good-bye;
+The wind is up; so; drift away.
+That songs from me as leaves from thee may fly,
+I strive, I pray.
+
+
+II. -- White.
+
+Soul, get thee to the heart
+Of yonder tuberose: hide thee there --
+There breathe the meditations of thine art
+Suffused with prayer.
+
+Of spirit grave yet light,
+How fervent fragrances uprise
+Pure-born from these most rich and yet most white
+Virginities!
+
+Mulched with unsavory death,
+Grow, Soul! unto such white estate,
+That virginal-prayerful art shall be thy breath,
+Thy work, thy fate.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -210,4 +214,4 @@ With Majesty's presence as those she invited.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 5, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 6, 2025 at 06:24 AM GMT+5<!-- TIMESTAMP:END -->_
