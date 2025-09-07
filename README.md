@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/5/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/6/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 43 (Updated: 9/4/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 11 (Updated: 8/29/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-"We messed up the keming again guys."
+Four engineers get into a car. The car won't start.
+The Mechanical engineer says "It's a broken starter".
+The Electrical engineer says "Dead battery".
+The Chemical engineer says "Impurities in the gasoline".
+The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Listen to a new podcast
+Organize your music collection
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,46 +82,295 @@ Listen to a new podcast
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Rose-Morals" by Sidney Lanier
-I. -- Red.
+"The Waltz: An Apostrophic Hymn.  by Horace Hornem, Esq" by George Gordon, Lord Byron
+  "Qualis in Eurotæ ripis, aut per juga Cynthi,
+  Exercet DIANA choros."
 
-Would that my songs might be
-What roses make by day and night --
-Distillments of my clod of misery
-Into delight.
+  VIRGIL, 'Æn'. i. 502.
 
-Soul, could'st thou bare thy breast
-As yon red rose, and dare the day,
-All clean, and large, and calm with velvet rest?
-Say yea -- say yea!
+  "Such on Eurotas's banks, or Cynthus's height,
+  Diana seems: and so she charms the sight,
+  When in the dance the graceful goddess leads
+  The quire of nymphs, and overtops their heads."
 
-Ah, dear my Rose, good-bye;
-The wind is up; so; drift away.
-That songs from me as leaves from thee may fly,
-I strive, I pray.
+  DRYDEN'S _Virgil_.
 
+Muse of the many-twinkling feet! whose charms
+Are now extended up from legs to arms;
+Terpsichore!--too long misdeemed a maid--
+Reproachful term--bestowed but to upbraid--
+Henceforth in all the bronze of brightness shine,
+The least a Vestal of the Virgin Nine.
+Far be from thee and thine the name of Prude:
+Mocked yet triumphant; sneered at, unsubdued;
+Thy legs must move to conquer as they fly,
+If but thy coats are reasonably high!
+Thy breast--if bare enough--requires no shield;
+Dance forth--_sans armour_ thou shalt take the field
+And own--impregnable to _most_ assaults,
+Thy not too lawfully begotten "Waltz."
 
-II. -- White.
+  Hail, nimble Nymph! to whom the young hussar,
+The whiskered votary of Waltz and War,
+His night devotes, despite of spur and boots;
+A sight unmatched since Orpheus and his brutes:
+Hail, spirit-stirring Waltz!--beneath whose banners
+A modern hero fought for modish manners;
+On Hounslow's heath to rival Wellesley's fame,
+Cocked, fired, and missed his man--but gained his aim;
+Hail, moving muse! to whom the fair one's breast
+Gives all it can, and bids us take the rest.
+Oh! for the flow of Busby, or of Fitz,
+The latter's loyalty, the former's wits,
+To "energise the object I pursue,"
+And give both Belial and his Dance their due!
 
-Soul, get thee to the heart
-Of yonder tuberose: hide thee there --
-There breathe the meditations of thine art
-Suffused with prayer.
+  Imperial Waltz! imported from the Rhine
+(Famed for the growth of pedigrees and wine),
+Long be thine import from all duty free,
+And Hock itself be less esteemed than thee;
+In some few qualities alike--for Hock
+Improves our cellar--_thou_ our living stock.
+The head to Hock belongs--thy subtler art
+Intoxicates alone the heedless heart:
+Through the full veins thy gentler poison swims,
+And wakes to Wantonness the willing limbs.
 
-Of spirit grave yet light,
-How fervent fragrances uprise
-Pure-born from these most rich and yet most white
-Virginities!
+  Oh, Germany! how much to thee we owe,
+As heaven-born Pitt can testify below,
+Ere cursed Confederation made thee France's,
+And only left us thy d--d debts and dances!
+Of subsidies and Hanover bereft,
+We bless thee still--George the Third is left!
+Of kings the best--and last, not least in worth,
+For graciously begetting George the Fourth.
+To Germany, and Highnesses serene,
+Who owe us millions--don't we owe the Queen?
+To Germany, what owe we not besides?
+So oft bestowing Brunswickers and brides;
+Who paid for vulgar, with her royal blood,
+Drawn from the stem of each Teutonic stud:
+Who sent us--so be pardoned all her faults--
+A dozen dukes, some kings, a Queen--and Waltz.
 
-Mulched with unsavory death,
-Grow, Soul! unto such white estate,
-That virginal-prayerful art shall be thy breath,
-Thy work, thy fate.
+  But peace to her--her Emperor and Diet,
+Though now transferred to Buonapartè's "fiat!"
+Back to my theme--O muse of Motion! say,
+How first to Albion found thy Waltz her way?
+
+  Borne on the breath of Hyperborean gales,
+From Hamburg's port (while Hamburg yet had _mails_),
+Ere yet unlucky Fame--compelled to creep
+To snowy Gottenburg-was chilled to sleep;
+Or, starting from her slumbers, deigned arise,
+Heligoland! to stock thy mart with lies;
+While unburnt Moscow yet had news to send,
+Nor owed her fiery Exit to a friend,
+She came--Waltz came--and with her certain sets
+Of true despatches, and as true Gazettes;
+Then flamed of Austerlitz the blest despatch,
+Which _Moniteur_ nor _Morning Post_ can match
+And--almost crushed beneath the glorious news--
+Ten plays, and forty tales of Kotzebue's;
+One envoy's letters, six composer's airs,
+And loads from Frankfort and from Leipsic fairs:
+Meiners' four volumes upon Womankind,
+Like Lapland witches to ensure a wind;
+Brunck's heaviest tome for ballast, and, to back it,
+Of Heynè, such as should not sink the packet.
+
+  Fraught with this cargo--and her fairest freight,
+Delightful Waltz, on tiptoe for a Mate,
+The welcome vessel reached the genial strand,
+And round her flocked the daughters of the land.
+Not decent David, when, before the ark,
+His grand _Pas-seul_ excited some remark;
+Not love-lorn Quixote, when his Sancho thought
+The knight's _Fandango_ friskier than it ought;
+Not soft Herodias, when, with winning tread,
+Her nimble feet danced off another's head;
+Not Cleopatra on her Galley's Deck,
+Displayed so much of _leg_ or more of _neck_,
+Than Thou, ambrosial Waltz, when first the Moon
+Beheld thee twirling to a Saxon tune!
+
+  To You, ye husbands of ten years! whose brows
+Ache with the annual tributes of a spouse;
+To you of nine years less, who only bear
+The budding sprouts of those that you _shall_ wear,
+With added ornaments around them rolled
+Of native brass, or law-awarded gold;
+To You, ye Matrons, ever on the watch
+To mar a son's, or make a daughter's match;
+To You, ye children of--whom chance accords--
+_Always_ the Ladies, and _sometimes_ their Lords;
+To You, ye single gentlemen, who seek
+Torments for life, or pleasures for a week;
+As Love or Hymen your endeavours guide,
+To gain your own, or snatch another's bride;--
+To one and all the lovely Stranger came,
+And every Ball-room echoes with her name.
+
+  Endearing Waltz!--to thy more melting tune
+Bow Irish Jig, and ancient Rigadoon.
+Scotch reels, avaunt! and Country-dance forego
+Your future claims to each fantastic toe!
+Waltz--Waltz alone--both legs and arms demands,
+Liberal of feet, and lavish of her hands;
+Hands which may freely range in public sight
+Where ne'er before--but--pray "put out the light."
+Methinks the glare of yonder chandelier
+Shines much too far--or I am much too near;
+And true, though strange--Waltz whispers this remark,
+"My slippery steps are safest in the dark!"
+But here the Muse with due decorum halts,
+And lends her longest petticoat to "Waltz."
+
+  Observant Travellers of every time!
+Ye Quartos published upon every clime!
+0 say, shall dull _Romaika's_ heavy round,
+_Fandango's_ wriggle, or _Bolero's_ bound;
+Can Egypt's _Almas_ -tantalising group--
+Columbia's caperers to the warlike Whoop--
+Can aught from cold Kamschatka to Cape Horn
+With Waltz compare, or after Waltz be born?
+Ah, no! from Morier's pages down to Galt's,
+Each tourist pens a paragraph for "Waltz."
+
+  Shades of those Belles whose reign began of yore,
+With George the Third's--and ended long before!--
+Though in your daughters' daughters yet you thrive,
+Burst from your lead, and be yourselves alive!
+Back to the Ball-room speed your spectred host,
+Fool's Paradise is dull to that you lost.
+No treacherous powder bids Conjecture quake;
+No stiff-starched stays make meddling fingers ache;
+(Transferred to those ambiguous things that ape
+Goats in their visage, women in their shape;)
+No damsel faints when rather closely pressed,
+But more caressing seems when most caressed;
+Superfluous Hartshorn, and reviving Salts,
+Both banished by the sovereign cordial "Waltz."
+
+  Seductive Waltz!--though on thy native shore
+Even Werter's self proclaimed thee half a whore;
+Werter--to decent vice though much inclined,
+Yet warm, not wanton; dazzled, but not blind--
+Though gentle Genlis, in her strife with Staël,
+Would even proscribe thee from a Paris ball;
+The fashion hails--from Countesses to Queens,
+And maids and valets waltz behind the scenes;
+Wide and more wide thy witching circle spreads,
+And turns--if nothing else--at least our _heads_;
+With thee even clumsy cits attempt to bounce,
+And cockney's practise what they can't pronounce.
+Gods! how the glorious theme my strain exalts,
+And Rhyme finds partner Rhyme in praise of "Waltz!"
+Blest was the time Waltz chose for her _début_!
+The Court, the Regent, like herself were new;
+New face for friends, for foes some new rewards;
+New ornaments for black-and royal Guards;
+New laws to hang the rogues that roared for bread;
+New coins (most new) to follow those that fled;
+New victories--nor can we prize them less,
+Though Jenky wonders at his own success;
+New wars, because the old succeed so well,
+That most survivors envy those who fell;
+New mistresses--no, old--and yet 'tis true,
+Though they be _old_, the _thing_ is something new;
+Each new, quite new--(except some ancient tricks),
+New white-sticks--gold-sticks--broom-sticks--_all new sticks_!
+With vests or ribands--decked alike in hue,
+New troopers strut, new turncoats blush in blue:
+So saith the Muse: my----, what say you?
+Such was the time when Waltz might best maintain
+Her new preferments in this novel reign;
+Such was the time, nor ever yet was such;
+Hoops are _ more_, and petticoats _not much_;
+Morals and Minuets, Virtue and her stays,
+And tell-tale powder--all have had their days.
+The Ball begins--the honours of the house
+First duly done by daughter or by spouse,
+Some Potentate--or royal or serene--
+With Kent's gay grace, or sapient Gloster's mien,
+Leads forth the ready dame, whose rising flush
+Might once have been mistaken for a blush.
+From where the garb just leaves the bosom free,
+That spot where hearts were once supposed to be;
+Round all the confines of the yielded waist,
+The strangest hand may wander undisplaced:
+The lady's in return may grasp as much
+As princely paunches offer to her touch.
+Pleased round the chalky floor how well they trip
+One hand reposing on the royal hip!
+The other to the shoulder no less royal
+Ascending with affection truly loyal!
+Thus front to front the partners move or stand,
+The foot may rest, but none withdraw the hand;
+And all in turn may follow in their rank,
+The Earl of--Asterisk--and Lady--Blank;
+Sir--Such-a-one--with those of fashion's host,
+For whose blest surnames--vide "Morning Post."
+(Or if for that impartial print too late,
+Search Doctors' Commons six months from my date)--
+Thus all and each, in movement swift or slow,
+The genial contact gently undergo;
+Till some might marvel, with the modest Turk,
+If "nothing follows all this palming work?"
+True, honest Mirza!--you may trust my rhyme--
+Something does follow at a fitter time;
+The breast thus publicly resigned to man,
+In private may resist him--if it can.
+
+  O ye who loved our Grandmothers of yore,
+Fitzpatrick, Sheridan, and many more!
+And thou, my Prince! whose sovereign taste and will
+It is to love the lovely beldames still!
+Thou Ghost of Queensberry! whose judging Sprite
+Satan may spare to peep a single night,
+Pronounce--if ever in your days of bliss
+Asmodeus struck so bright a stroke as this;
+To teach the young ideas how to rise,
+Flush in the cheek, and languish in the eyes;
+Rush to the heart, and lighten through the frame,
+With half-told wish, and ill-dissembled flame,
+For prurient Nature still will storm the breast--
+_Who_, tempted thus, can answer for the rest?
+
+  But ye--who never felt a single thought
+For what our Morals are to be, or ought;
+Who wisely wish the charms you view to reap,
+Say--would you make those beauties quite so cheap?
+Hot from the hands promiscuously applied,
+Round the slight waist, or down the glowing side,
+Where were the rapture then to clasp the form
+From this lewd grasp and lawless contact warm?
+At once Love's most endearing thought resign,
+To press the hand so pressed by none but thine;
+To gaze upon that eye which never met
+Another's ardent look without regret;
+Approach the lip which all, without restraint,
+Come near enough--if not to touch--to taint;
+If such thou lovest--love her then no more,
+Or give--like her--caresses to a score;
+Her Mind with these is gone, and with it go
+The little left behind it to bestow.
+
+  Voluptuous Waltz! and dare I thus blaspheme?
+Thy bard forgot thy praises were his theme.
+Terpsichore forgive!--at every Ball
+My wife _now_ waltzes--and my daughters _shall_;
+_My_ son--(or stop--'tis needless to inquire--
+These little accidents should ne'er transpire;
+Some ages hence our genealogic tree
+Will wear as green a bough for him as me)--
+Waltzing shall rear, to make our name amends
+Grandsons for me--in heirs to all his friends.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 27°C, smoke in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -214,4 +467,4 @@ Thy work, thy fate.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 6, 2025 at 06:24 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 7, 2025 at 06:39 AM GMT+5<!-- TIMESTAMP:END -->_
