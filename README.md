@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/8/2025)
 - 🔥 [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema ⭐ 0 (Updated: 9/7/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/7/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 43 (Updated: 9/4/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,12 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Patronize a local independent restaurant
+Paint the first thing you see
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,33 +78,36 @@ Patronize a local independent restaurant
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Inscription on the Monument of a Newfoundland Dog" by George Gordon, Lord Byron
-When some proud son of man returns to earth,
-Unknown to glory, but upheld by birth,
-The sculptor's art exhausts the pomp of woe
-And storied urns record who rest below:
-When all is done, upon the tomb is seen,
-Not what he was, but what he should have been:
-But the poor dog, in life the firmest friend,
-The first to welcome, foremost to defend,
-Whose honest heart is still his master's own,
-Who labours, fights, lives, breathes for him alone,
-Unhonour'd falls, unnoticed all his worth--
-Denied in heaven the soul he held on earth:
-While Man, vain insect! hopes to be forgiven,
-And claims himself a sole exclusive Heaven.
-Oh Man! thou feeble tenant of an hour,
-Debased by slavery, or corrupt by power,
-Who knows thee well must quit thee with disgust,
-Degraded mass of animated dust!
-Thy love is lust, thy friendship all a cheat,
-Thy smiles hypocrisy, thy words deceit!
-By nature vile, ennobled but by name,
-Each kindred brute might bid thee blush for shame.
-Ye! who perchance behold this simple urn,
-Pass on--it honours none you wish to mourn:
-To mark a Friend's remains these stones arise;
-I never knew but one,--and here he lies.
+"Fragment From the "Monk of Athos."" by George Gordon, Lord Byron
+Beside the confines of the Ægean main,
+   Where northward Macedonia bounds the flood,
+And views opposed the Asiatic plain,
+   Where once the pride of lofty Ilion stood,
+Like the great Father of the giant brood,
+   With lowering port majestic Athos stands,
+Crowned with the verdure of eternal wood,
+   As yet unspoiled by sacrilegious hands,
+And throws his mighty shade o'er seas and distant lands.
+
+And deep embosomed in his shady groves
+   Full many a convent rears its glittering spire,
+Mid scenes where Heavenly Contemplation loves
+   To kindle in her soul her hallowed fire,
+Where air and sea with rocks and woods conspire
+   To breathe a sweet religious calm around,
+Weaning the thoughts from every low desire,
+   And the wild waves that break with murmuring sound
+Along the rocky shore proclaim it holy ground.
+
+Sequestered shades where Piety has given
+   A quiet refuge from each earthly care,
+Whence the rapt spirit may ascend to Heaven!
+
+Oh, ye condemned the ills of life to bear!
+   As with advancing age your woes increase,
+What bliss amidst these solitudes to share
+   The happy foretaste of eternal Peace,
+Till Heaven in mercy bids your pain and sorrows cease.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -206,4 +209,4 @@ I never knew but one,--and here he lies.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 8, 2025 at 06:39 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 9, 2025 at 06:28 AM GMT+5<!-- TIMESTAMP:END -->_
