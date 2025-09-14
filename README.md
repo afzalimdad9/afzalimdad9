@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/13/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 44 (Updated: 9/12/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/12/2025)
 - 🔥 [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema ⭐ 0 (Updated: 9/7/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,12 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Make a couch fort
+Draw something interesting
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,47 +82,21 @@ Make a couch fort
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Bridal Ballad" by Edgar Allan Poe
-The ring is on my hand,
-  And the wreath is on my brow;
-Satins and jewels grand
-Are all at my command.
-  And I am happy now.
+"Song" by Edward Thomas
+AT poet's tears,
+Sweeter than any smiles but hers,
+She laughs; I sigh;
+And yet I could not live if she should die.
 
-And my lord he loves me well;
-  But, when first he breathed his vow,
-I felt my bosom swell--
-For the words rang as a knell,
-And the voice seemed _his_ who fell
-In the battle down the dell,
-  And who is happy now.
-
-But he spoke to reassure me,
-  And he kissed my pallid brow,
-While a reverie came o'er me,
-And to the churchyard bore me,
-And I sighed to him before me,
-Thinking him dead D'Elormie,
-  "Oh, I am happy now!"
-
-And thus the words were spoken,
-  And thus the plighted vow,
-And, though my faith be broken,
-And, though my heart be broken,
-Behold the golden keys
-  That _proves_ me happy now!
-
-Would to God I could awaken
-  For I dream I know not how,
-And my soul is sorely shaken
-Lest an evil step be taken,--
-Lest the dead who is forsaken
-  May not be happy now.
+And when in June
+Once more the cuckoo spoils his tune,
+She laughs at sighs;
+And yet she says she loves me till she dies.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 26°C, smoke in Karachi 🇵🇰
+🌡️ 27°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -215,4 +193,4 @@ Lest the dead who is forsaken
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 13, 2025 at 06:20 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 14, 2025 at 06:39 AM GMT+5<!-- TIMESTAMP:END -->_
