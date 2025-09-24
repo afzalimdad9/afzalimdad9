@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/22/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/23/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 45 (Updated: 9/14/2025)
 - 🔥 [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema ⭐ 0 (Updated: 9/7/2025)
 <!-- HOT_REPOS:END -->
@@ -64,15 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Visit your past teachers
+Organize a cluttered drawer
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,496 +78,1396 @@ Visit your past teachers
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Canterbury Tales. The Reeve's Tale." by Geoffrey Chaucer
-THE PROLOGUE.
+"Rosalind and Helen.  a Modern Eclogue" by Percy Bysshe Shelley
+HELEN:
+Come hither, my sweet Rosalind.
+'Tis long since thou and I have met;
+And yet methinks it were unkind
+Those moments to forget.
+Come, sit by me. I see thee stand
+By this lone lake, in this far land,
+Thy loose hair in the light wind flying,
+Thy sweet voice to each tone of even
+United, and thine eyes replying
+To the hues of yon fair heaven.
+Come, gentle friend: wilt sit by me?
+And be as thou wert wont to be
+Ere we were disunited?
+None doth behold us now; the power
+That led us forth at this lone hour
+Will be but ill requited
+If thou depart in scorn: oh! come,
+And talk of our abandoned home.
+Remember, this is Italy,
+And we are exiles. Talk with me
+Of that our land, whose wilds and floods,
+Barren and dark although they be,
+Were dearer than these chestnut woods:
+Those heathy paths, that inland stream,
+And the blue mountains, shapes which seem
+Like wrecks of childhood's sunny dream:
+Which that we have abandoned now,
+Weighs on the heart like that remorse
+Which altered friendship leaves. I seek
+No more our youthful intercourse.
+That cannot be! Rosalind, speak.
+Speak to me. Leave me not.--When morn did come,
+When evening fell upon our common home,
+When for one hour we parted,--do not frown:
+I would not chide thee, though thy faith is broken:
+But turn to me. Oh! by this cherished token,
+Of woven hair, which thou wilt not disown,
+Turn, as 'twere but the memory of me,
+And not my scorned self who prayed to thee.
 
-WHEN folk had laughed all at this nice case
-Of Absolon and Hendy Nicholas,
-Diverse folk diversely they said,
-But for the more part they laugh'd and play'd;
-And at this tale I saw no man him grieve,
-But it were only Osewold the Reeve.
-Because he was of carpenteres craft,
-A little ire is in his hearte laft;
-He gan to grudge and blamed it a lite.
-"So the I," quoth he, "full well could I him quite
-With blearing of a proude miller's eye,
-If that me list to speak of ribaldry.
-But I am old; me list not play for age;
-Grass time is done, my fodder is now forage.
-This white top writeth mine olde years;
-Mine heart is also moulded as mine hairs;
-And I do fare as doth an open-erse;
-That ilke fruit is ever longer werse,
-Till it be rotten in mullok or in stre.
-We olde men, I dread, so fare we;
-Till we be rotten, can we not be ripe;
-We hop away, while that the world will pipe;
-For in our will there sticketh aye a nail,
-To have an hoary head and a green tail,
-As hath a leek; for though our might be gone,
-Our will desireth folly ever-in-one:
-For when we may not do, then will we speak,
-Yet in our ashes cold does fire reek.
-Four gledes have we, which I shall devise,
-Vaunting, and lying, anger, covetise.
-These foure sparks belongen unto eld.
-Our olde limbes well may be unweld,
-But will shall never fail us, that is sooth.
-And yet have I alway a coltes tooth,
-As many a year as it is passed and gone
-Since that my tap of life began to run;
-For sickerly, when I was born, anon
-Death drew the tap of life, and let it gon:
-And ever since hath so the tap y-run,
-Till that almost all empty is the tun.
-The stream of life now droppeth on the chimb.
-The silly tongue well may ring and chime
-Of wretchedness, that passed is full yore:
-With olde folk, save dotage, is no more.
+ROSALIND:
+Is it a dream, or do I see
+And hear frail Helen? I would flee
+Thy tainting touch; but former years
+Arise, and bring forbidden tears;
+And my o'erburthened memory
+Seeks yet its lost repose in thee.
+I share thy crime. I cannot choose
+But weep for thee: mine own strange grief
+But seldom stoops to such relief:
+Nor ever did I love thee less,
+Though mourning o'er thy wickedness
+Even with a sister's woe. I knew
+What to the evil world is due,
+And therefore sternly did refuse
+To link me with the infamy
+Of one so lost as Helen. Now
+Bewildered by my dire despair,
+Wondering I blush, and weep that thou
+Should'st love me still,--thou only!--There,
+Let us sit on that gray stone
+Till our mournful talk be done.
 
-When that our Host had heard this sermoning,
-He gan to speak as lordly as a king,
-And said; "To what amounteth all this wit?
-What? shall we speak all day of holy writ?
-The devil made a Reeve for to preach,
-As of a souter a shipman, or a leach.
-Say forth thy tale, and tarry not the time:
-Lo here is Deptford, and 'tis half past prime:
-Lo Greenwich, where many a shrew is in.
-It were high time thy tale to begin."
+HELEN:
+Alas! not there; I cannot bear
+The murmur of this lake to hear.
+A sound from there, Rosalind dear,
+Which never yet I heard elsewhere
+But in our native land, recurs,
+Even here where now we meet. It stirs
+Too much of suffocating sorrow!
+In the dell of yon dark chestnutwood
+Is a stone seat, a solitude
+Less like our own. The ghost of Peace
+Will not desert this spot. To-morrow,
+If thy kind feelings should not cease,
+We may sit here.
 
-"Now, sirs," quoth then this Osewold the Reeve,
-I pray you all that none of you do grieve,
-Though I answer, and somewhat set his hove,
-For lawful is force off with force to shove.
-This drunken miller hath y-told us here
-How that beguiled was a carpentere,
-Paraventure in scorn, for I am one:
-And, by your leave, I shall him quite anon.
-Right in his churlish termes will I speak,
-I pray to God his necke might to-break.
-He can well in mine eye see a stalk,
-But in his own he cannot see a balk."
+ROSALIND:
+Thou lead, my sweet,
+And I will follow.
 
-THE TALE.
+HENRY:
+'Tis Fenici's seat
+Where you are going? This is not the way,
+Mamma; it leads behind those trees that grow
+Close to the little river.
 
-At Trompington, not far from Cantebrig,
-There goes a brook, and over that a brig,
-Upon the whiche brook there stands a mill:
-And this is very sooth that I you tell.
-A miller was there dwelling many a day,
-As any peacock he was proud and gay:
-Pipen he could, and fish, and nettes bete,
-And turne cups, and wrestle well, and shete.
-Aye by his belt he bare a long pavade,
-And of his sword full trenchant was the blade.
-A jolly popper bare he in his pouch;
-There was no man for peril durst him touch.
-A Sheffield whittle bare he in his hose.
-Round was his face, and camuse was his nose.
-As pilled as an ape's was his skull.
-He was a market-beter at the full.
-There durste no wight hand upon him legge,
-That he ne swore anon he should abegge.
+HELEN:
+Yes: I know;
+I was bewildered. Kiss me and be gay,
+Dear boy: why do you sob?
 
-A thief he was, for sooth, of corn and meal,
-And that a sly, and used well to steal.
-His name was hoten deinous Simekin
-A wife he hadde, come of noble kin:
-The parson of the town her father was.
-With her he gave full many a pan of brass,
-For that Simkin should in his blood ally.
-She was y-foster'd in a nunnery:
-For Simkin woulde no wife, as he said,
-But she were well y-nourish'd, and a maid,
-To saven his estate and yeomanry:
-And she was proud, and pert as is a pie.
-A full fair sight it was to see them two;
-On holy days before her would he go
-With his tippet y-bound about his head;
-And she came after in a gite of red,
-And Simkin hadde hosen of the same.
-There durste no wight call her aught but Dame:
-None was so hardy, walking by that way,
-That with her either durste rage or play,
-But if he would be slain by Simekin
-With pavade, or with knife, or bodekin.
-For jealous folk be per'lous evermo':
-Algate they would their wives wende so.
-And eke for she was somewhat smutterlich,
-She was as dign as water in a ditch,
-And all so full of hoker, and bismare.
-Her thoughte that a lady should her spare,
-What for her kindred, and her nortelrie
-That she had learned in the nunnery.
+HENRY:
+I do not know:
+But it might break any one's heart to see
+You and the lady cry so bitterly.
 
-One daughter hadde they betwixt them two
-Of twenty year, withouten any mo,
-Saving a child that was of half year age,
-In cradle it lay, and was a proper page.
-This wenche thick and well y-growen was,
-With camuse nose, and eyen gray as glass;
-With buttocks broad, and breastes round and high;
-But right fair was her hair, I will not lie.
-The parson of the town, for she was fair,
-In purpose was to make of her his heir
-Both of his chattels and his messuage,
-And strange he made it of her marriage.
-His purpose was for to bestow her high
-Into some worthy blood of ancestry.
-For holy Church's good may be dispended
-On holy Church's blood that is descended.
-Therefore he would his holy blood honour
-Though that he holy Churche should devour.
+HELEN:
+It is a gentle child, my friend. Go home,
+Henry, and play with Lilla till I come.
+We only cried with joy to see each other;
+We are quite merry now: Good-night.
 
-Great soken hath this miller, out of doubt,
-With wheat and malt, of all the land about;
-And namely there was a great college
-Men call the Soler Hall at Cantebrege,
-There was their wheat and eke their malt y-ground.
-And on a day it happed in a stound,
-Sick lay the manciple of a malady,
-Men weened wisly that he shoulde die.
-For which this miller stole both meal and corn
-An hundred times more than beforn.
-For theretofore he stole but courteously,
-But now he was a thief outrageously.
-For which the warden chid and made fare,
-But thereof set the miller not a tare;
-He crack'd his boast, and swore it was not so.
+The boy
+Lifted a sudden look upon his mother,
+And in the gleam of forced and hollow joy
+Which lightened o'er her face, laughed with the glee
+Of light and unsuspecting infancy,
+And whispered in her ear, 'Bring home with you
+That sweet strange lady-friend.' Then off he flew,
+But stopped, and beckoned with a meaning smile,
+Where the road turned. Pale Rosalind the while,
+Hiding her face, stood weeping silently.
 
-Then were there younge poore scholars two,
-That dwelled in the hall of which I say;
-Testif they were, and lusty for to play;
-And only for their mirth and revelry
-Upon the warden busily they cry,
-To give them leave for but a little stound,
-To go to mill, and see their corn y-ground:
-And hardily they durste lay their neck,
-The miller should not steal them half a peck
-Of corn by sleight, nor them by force bereave
-And at the last the warden give them leave:
-John hight the one, and Alein hight the other,
-Of one town were they born, that highte Strother,
-Far in the North, I cannot tell you where.
-This Alein he made ready all his gear,
-And on a horse the sack he cast anon:
-Forth went Alein the clerk, and also John,
-With good sword and with buckler by their side.
-John knew the way, him needed not no guide,
-And at the mill the sack adown he lay'th.
+In silence then they took the way
+Beneath the forest's solitude.
+It was a vast and antique wood,
+Thro' which they took their way;
+And the gray shades of evening
+O'er that green wilderness did fling
+Still deeper solitude.
+Pursuing still the path that wound
+The vast and knotted trees around
+Through which slow shades were wandering,
+To a deep lawny dell they came,
+To a stone seat beside a spring,
+O'er which the columned wood did frame
+A roofless temple, like the fane
+Where, ere new creeds could faith obtain,
+Man's early race once knelt beneath
+The overhanging deity.
+O'er this fair fountain hung the sky,
+Now spangled with rare stars. The snake,
+The pale snake, that with eager breath
+Creeps here his noontide thirst to slake,
+Is beaming with many a mingled hue,
+Shed from yon dome's eternal blue,
+When he floats on that dark and lucid flood
+In the light of his own loveliness;
+And the birds that in the fountain dip
+Their plumes, with fearless fellowship
+Above and round him wheel and hover.
+The fitful wind is heard to stir
+One solitary leaf on high;
+The chirping of the grasshopper
+Fills every pause. There is emotion
+In all that dwells at noontide here;
+Then, through the intricate wild wood,
+A maze of life and light and motion
+Is woven. But there is stillness now:
+Gloom, and the trance of Nature now:
+The snake is in his cave asleep;
+The birds are on the branches dreaming:
+Only the shadows creep:
+Only the glow-worm is gleaming:
+Only the owls and the nightingales
+Wake in this dell when daylight fails,
+And gray shades gather in the woods:
+And the owls have all fled far away
+In a merrier glen to hoot and play,
+For the moon is veiled and sleeping now.
+The accustomed nightingale still broods
+On her accustomed bough,
+But she is mute; for her false mate
+Has fled and left her desolate.
 
-Alein spake first; "All hail, Simon, in faith,
-How fares thy faire daughter, and thy wife."
-"Alein, welcome," quoth Simkin, "by my life,
-And John also: how now, what do ye here?"
-"By God, Simon," quoth John, "need has no peer.
-Him serve himself behoves that has no swain,
-Or else he is a fool, as clerkes sayn.
-Our manciple I hope he will be dead,
-So workes aye the wanges in his head:
-And therefore is I come, and eke Alein,
-To grind our corn and carry it home again:
-I pray you speed us hence as well ye may."
-"It shall be done," quoth Simkin, "by my fay.
-What will ye do while that it is in hand?"
-"By God, right by the hopper will I stand,"
-Quoth John, "and see how that the corn goes in.
-Yet saw I never, by my father's kin,
-How that the hopper wagges to and fro."
-Alein answered, "John, and wilt thou so?
-Then will I be beneathe, by my crown,
-And see how that the meale falls adown
-Into the trough, that shall be my disport:
-For, John, in faith I may be of your sort;
-I is as ill a miller as is ye."
+This silent spot tradition old
+Had peopled with the spectral dead.
+For the roots of the speaker's hair felt cold
+And stiff, as with tremulous lips he told
+That a hellish shape at midnight led
+The ghost of a youth with hoary hair,
+And sate on the seat beside him there,
+Till a naked child came wandering by,
+When the fiend would change to a lady fair!
+A fearful tale! The truth was worse:
+For here a sister and a brother
+Had solemnized a monstrous curse,
+Meeting in this fair solitude:
+For beneath yon very sky,
+Had they resigned to one another
+Body and soul. The multitude:
+Tracking them to the secret wood,
+Tore limb from limb their innocent child,
+And stabbed and trampled on its mother;
+But the youth, for God's most holy grace,
+A priest saved to burn in the market-place.
 
-This miller smiled at their nicety,
-And thought, "All this is done but for a wile.
-They weenen that no man may them beguile,
-But by my thrift yet shall I blear their eye,
-For all the sleight in their philosophy.
-The more quainte knackes that they make,
-The more will I steal when that I take.
-Instead of flour yet will I give them bren.
-The greatest clerks are not the wisest men,
-As whilom to the wolf thus spake the mare:
-Of all their art ne count I not a tare."
-Out at the door he went full privily,
-When that he saw his time, softely.
-He looked up and down, until he found
-The clerkes' horse, there as he stood y-bound
-Behind the mill, under a levesell:
-And to the horse he went him fair and well,
-And stripped off the bridle right anon.
-And when the horse was loose, he gan to gon
-Toward the fen, where wilde mares run,
-Forth, with "Wehee!" through thick and eke through thin.
-This miller went again, no word he said,
-But did his note, and with these clerkes play'd,
-Till that their corn was fair and well y-ground.
-And when the meal was sacked and y-bound,
-Then John went out, and found his horse away,
-And gan to cry, "Harow, and well-away!
-Our horse is lost: Alein, for Godde's bones,
-Step on thy feet; come off, man, all at once:
-Alas! our warden has his palfrey lorn."
-This Alein all forgot, both meal and corn;
-All was out of his mind his husbandry.
-"What, which way is he gone?" he gan to cry.
-The wife came leaping inward at a renne,
-She said; "Alas! your horse went to the fen
-With wilde mares, as fast as he could go.
-Unthank come on his hand that bound him so
-And his that better should have knit the rein."
-"Alas!" quoth John, "Alein, for Christes pain
-Lay down thy sword, and I shall mine also.
-I is full wight, God wate, as is a roe.
-By Godde's soul he shall not scape us bathe.
-Why n' had thou put the capel in the lathe?
-Ill hail, Alein, by God thou is a fonne."
-These silly clerkes have full fast y-run
-Toward the fen, both Alein and eke John;
-And when the miller saw that they were gone,
-He half a bushel of their flour did take,
-And bade his wife go knead it in a cake.
-He said; I trow, the clerkes were afeard,
-Yet can a miller make a clerkes beard,
-For all his art: yea, let them go their way!
-Lo where they go! yea, let the children play:
-They get him not so lightly, by my crown."
-These silly clerkes runnen up and down
-With "Keep, keep; stand, stand; jossa, warderere.
-Go whistle thou, and I shall keep him here."
-But shortly, till that it was very night
-They coulde not, though they did all their might,
-Their capel catch, he ran alway so fast:
-Till in a ditch they caught him at the last.
+Duly at evening Helen came
+To this lone silent spot,
+From the wrecks of a tale of wilder sorrow
+So much of sympathy to borrow
+As soothed her own dark lot.
+Duly each evening from her home,
+With her fair child would Helen come
+To sit upon that antique seat,
+While the hues of day were pale;
+And the bright boy beside her feet
+Now lay, lifting at intervals
+His broad blue eyes on her;
+Now, where some sudden impulse calls
+Following. He was a gentle boy
+And in all gentle sorts took joy;
+Oft in a dry leaf for a boat,
+With a small feather for a sail,
+His fancy on that spring would float,
+If some invisible breeze might stir
+Its marble calm: and Helen smiled
+Through tears of awe on the gay child,
+To think that a boy as fair as he,
+In years which never more may be,
+By that same fount, in that same wood,
+The like sweet fancies had pursued;
+And that a mother, lost like her,
+Had mournfully sate watching him.
+Then all the scene was wont to swim
+Through the mist of a burning tear.
 
-Weary and wet, as beastes in the rain,
-Comes silly John, and with him comes Alein.
-"Alas," quoth John, "the day that I was born!
-Now are we driv'n till hething and till scorn.
-Our corn is stol'n, men will us fonnes call,
-Both the warden, and eke our fellows all,
-And namely the miller, well-away!"
-Thus plained John, as he went by the way
-Toward the mill, and Bayard in his hand.
-The miller sitting by the fire he fand.
-For it was night, and forther might they not,
-But for the love of God they him besought
-Of herberow and ease, for their penny.
-The miller said again," If there be any,
-Such as it is, yet shall ye have your part.
-Mine house is strait, but ye have learned art;
-Ye can by arguments maken a place
-A mile broad, of twenty foot of space.
-Let see now if this place may suffice,
-Or make it room with speech, as is your guise."
-"Now, Simon," said this John, "by Saint Cuthberd
-Aye is thou merry, and that is fair answer'd.
-I have heard say, man shall take of two things,
-Such as he findes, or such as he brings.
-But specially I pray thee, hoste dear,
-Gar  us have meat and drink, and make us cheer,
-And we shall pay thee truly at the full:
-With empty hand men may not hawkes tull.
-Lo here our silver ready for to spend."
+For many months had Helen known
+This scene; and now she thither turned
+Her footsteps, not alone.
+The friend whose falsehood she had mourned,
+Sate with her on that seat of stone.
+Silent they sate; for evening,
+And the power its glimpses bring
+Had, with one awful shadow, quelled
+The passion of their grief. They sate
+With linked hands, for unrepelled
+Had Helen taken Rosalind's.
+Like the autumn wind, when it unbinds
+The tangled locks of the nightshade's hair,
+Which is twined in the sultry summer air
+Round the walls of an outworn sepulchre,
+Did the voice of Helen, sad and sweet,
+And the sound of her heart that ever beat,
+As with sighs and words she breathed on her,
+Unbind the knots of her friend's despair,
+Till her thoughts were free to float and flow;
+And from her labouring bosom now,
+Like the bursting of a prisoned flame,
+The voice of a long pent sorrow came.
 
-This miller to the town his daughter send
-For ale and bread, and roasted them a goose,
-And bound their horse, he should no more go loose:
-And them in his own chamber made a bed.
-With sheetes and with chalons fair y-spread,
-Not from his owen bed ten foot or twelve:
-His daughter had a bed all by herselve,
-Right in the same chamber by and by:
-It might no better be, and cause why,
-There was no roomer herberow in the place.
-They suppen, and they speaken of solace,
-And drinken ever strong ale at the best.
-Aboute midnight went they all to rest.
-Well had this miller varnished his head;
-Full pale he was, fordrunken, and nought red.
-He yoxed, and he spake thorough the nose,
-As he were in the quakke, or in the pose.
-To bed he went, and with him went his wife,
-As any jay she light was and jolife,
-So was her jolly whistle well y-wet.
-The cradle at her beddes feet was set,
-To rock, and eke to give the child to suck.
-And when that drunken was all in the crock
-To bedde went the daughter right anon,
-To bedde went Alein, and also John.
-There was no more; needed them no dwale.
-This miller had, so wisly bibbed ale,
-That as a horse he snorted in his sleep,
-Nor of his tail behind he took no keep.
-His wife bare him a burdoun, a full strong;
-Men might their routing hearen a furlong.
+ROSALIND:
+I saw the dark earth fall upon
+The coffin; and I saw the stone
+Laid over him whom this cold breast
+Had pillowed to his nightly rest!
+Thou knowest not, thou canst not know
+My agony. Oh! I could not weep:
+The sources whence such blessings flow
+Were not to be approached by me!
+But I could smile, and I could sleep,
+Though with a self-accusing heart.
+In morning's light, in evening's gloom,
+I watched,--and would not thence depart--
+My husband's unlamented tomb.
+My children knew their sire was gone,
+But when I told them,--'He is dead,'--
+They laughed aloud in frantic glee,
+They clapped their hands and leaped about,
+Answering each other's ecstasy
+With many a prank and merry shout.
+But I sate silent and alone,
+Wrapped in the mock of mourning weed.
 
-The wenche routed eke for company.
-Alein the clerk, that heard this melody,
-He poked John, and saide: "Sleepest thou?
-Heardest thou ever such a song ere now?
-Lo what a compline is y-mell them all.
-A wilde fire upon their bodies fall,
-Who hearken'd ever such a ferly thing?
-Yea, they shall have the flow'r of ill ending!
-This longe night there tides me no rest.
-But yet no force, all shall be for the best.
-For, John," said he, "as ever may I thrive,
-If that I may, yon wenche will I swive.
-Some easement has law y-shapen us
-For, John, there is a law that sayeth thus,
-That if a man in one point be aggriev'd,
-That in another he shall be relievd.
-Our corn is stol'n, soothly it is no nay,
-And we have had an evil fit to-day.
-And since I shall have none amendement
-Against my loss, I will have easement:
-By Godde's soul, it shall none, other be."
-This John answer'd; Alein, avise thee:
-The miller is a perilous man," he said,
-"And if that he out of his sleep abraid,
-He mighte do us both a villainy."
-Alein answer'd; "I count him not a fly.
-And up he rose, and by the wench he crept.
-This wenche lay upright, and fast she slept,
-Till he so nigh was, ere she might espy,
-That it had been too late for to cry:
-And, shortly for to say, they were at one.
-Now play, Alein, for I will speak of John.
+They laughed, for he was dead: but I
+Sate with a hard and tearless eye,
+And with a heart which would deny
+The secret joy it could not quell,
+Low muttering o'er his loathed name;
+Till from that self-contention came
+Remorse where sin was none; a hell
+Which in pure spirits should not dwell.
 
-This John lay still a furlong way  or two,
-And to himself he made ruth and woe.
-"Alas!" quoth he, "this is a wicked jape;
-Now may I say, that I is but an ape.
-Yet has my fellow somewhat for his harm;
-He has the miller's daughter in his arm:
-He auntred him, and hath his needes sped,
-And I lie as a draff-sack in my bed;
-And when this jape is told another day,
-I shall be held a daffe or a cockenay
-I will arise, and auntre it, by my fay:
-Unhardy is unsely,  as men say."
-And up he rose, and softely he went
-Unto the cradle, and in his hand it hent,
-And bare it soft unto his beddes feet.
-Soon after this the wife her routing lete,
-And gan awake, and went her out to piss
-And came again and gan the cradle miss
-And groped here and there, but she found none.
-"Alas!" quoth she, "I had almost misgone
-I had almost gone to the clerkes' bed.
-Ey! Benedicite, then had I foul y-sped."
-And forth she went, till she the cradle fand.
-She groped alway farther with her hand
-And found the bed, and thoughte not but good
-Because that the cradle by it stood,
-And wist not where she was, for it was derk;
-But fair and well she crept in by the clerk,
-And lay full still, and would have caught a sleep.
-Within a while this John the Clerk up leap
-And on this goode wife laid on full sore;
-So merry a fit had she not had full yore.
-He pricked hard and deep, as he were mad.
+I'll tell thee truth. He was a man
+Hard, selfish, loving only gold,
+Yet full of guile; his pale eyes ran
+With tears, which each some falsehood told,
+And oft his smooth and bridled tongue
+Would give the lie to his flushing cheek;
+He was a coward to the strong:
+He was a tyrant to the weak,
+On whom his vengeance he would wreak:
+For scorn, whose arrows search the heart,
+From many a stranger's eye would dart,
+And on his memory cling, and follow
+His soul to its home so cold and hollow.
+He was a tyrant to the weak,
+And we were such, alas the day!
+Oft, when my little ones at play,
+Were in youth's natural lightness gay,
+Or if they listened to some tale
+Of travellers, or of fairy land,--
+When the light from the wood-fire's dying brand
+Flashed on their faces,--if they heard
+Or thought they heard upon the stair
+His footstep, the suspended word
+Died on my lips: we all grew pale:
+The babe at my bosom was hushed with fear
+If it thought it heard its father near;
+And my two wild boys would near my knee
+Cling, cowed and cowering fearfully.
 
-This jolly life have these two clerkes had,
-Till that the thirde cock began to sing.
-Alein wax'd weary in the morrowing,
-For he had swonken all the longe night,
-And saide; "Farewell, Malkin, my sweet wight.
-The day is come, I may no longer bide,
-But evermore, where so I go or ride,
-I is thine owen clerk, so have I hele."
-"Now, deare leman," quoth she, "go, fare wele:
-But ere thou go, one thing I will thee tell.
-When that thou wendest homeward by the mill,
-Right at the entry of the door behind
-Thou shalt a cake of half a bushel find,
-That was y-maked of thine owen meal,
-Which that I help'd my father for to steal.
-And goode leman, God thee save and keep."
-And with that word she gan almost to weep.
-Alein uprose and thought, "Ere the day daw
-I will go creepen in by my fellaw:"
-And found the cradle with his hand anon.
-"By God!" thought he, "all wrong I have misgone:
-My head is totty of my swink to-night,
-That maketh me that I go not aright.
-I wot well by the cradle I have misgo';
-Here lie the miller and his wife also."
-And forth he went a twenty devil way
-Unto the bed, there as the miller lay.
-He ween'd t' have creeped by his fellow John,
-And by the miller in he crept anon,
-And caught him by the neck, and gan him shake,
-And said; "Thou John, thou swines-head, awake
-For Christes soul, and hear a noble game!
-For by that lord that called is Saint Jame,
-As I have thries in this shorte night
-Swived the miller's daughter bolt-upright,
-While thou hast as a coward lain aghast."
-"Thou false harlot," quoth the miller, "hast?
-Ah, false traitor, false clerk," quoth he,
-"Thou shalt be dead, by Godde's dignity,
-Who durste be so bold to disparage
-My daughter, that is come of such lineage?"
-And by the throate-ball he caught Alein,
-And he him hent dispiteously again,
-And on the nose he smote him with his fist;
-Down ran the bloody stream upon his breast:
-And in the floor with nose and mouth all broke
-They wallow, as do two pigs in a poke.
-And up they go, and down again anon,
-Till that the miller spurned on a stone,
-And down he backward fell upon his wife,
-That wiste nothing of this nice strife:
-For she was fall'n asleep a little wight
-With John the clerk, that waked had all night:
-And with the fall out of her sleep she braid.
-"Help, holy cross of Bromeholm,"  she said;
-"In manus tuas!  Lord, to thee I call.
-Awake, Simon, the fiend is on me fall;
-Mine heart is broken; help; I am but dead:
-There li'th one on my womb and on mine head.
-Help, Simkin, for these false clerks do fight"
-This John start up as fast as e'er he might,
-And groped by the walles to and fro
-To find a staff; and she start up also,
-And knew the estres better than this John,
-And by the wall she took a staff anon:
-And saw a little shimmering of a light,
-For at an hole in shone the moone bright,
-And by that light she saw them both the two,
-But sickerly she wist not who was who,
-But as she saw a white thing in her eye.
-And when she gan this white thing espy,
-She ween'd the clerk had wear'd a volupere;
-And with the staff she drew aye nere and nere,
-And ween'd to have hit this Alein at the full,
-And smote the miller on the pilled skull;
-That down he went, and cried," Harow! I die."
-These clerkes beat him well, and let him lie,
-And greithen them, and take their horse anon,
-And eke their meal, and on their way they gon:
-And at the mill door eke they took their cake
-Of half a bushel flour, full well y-bake.
+I'll tell thee truth: I loved another.
+His name in my ear was ever ringing,
+His form to my brain was ever clinging:
+Yet if some stranger breathed that name,
+My lips turned white, and my heart beat fast:
+My nights were once haunted by dreams of flame,
+My days were dim in the shadow cast
+By the memory of the same!
+Day and night, day and night,
+He was my breath and life and light,
+For three short years, which soon were passed.
+On the fourth, my gentle mother
+Led me to the shrine, to be
+His sworn bride eternally.
+And now we stood on the altar stair,
+When my father came from a distant land,
+And with a loud and fearful cry
+Rushed between us suddenly.
+I saw the stream of his thin gray hair,
+I saw his lean and lifted hand,
+And heard his words,--and live! Oh God!
+Wherefore do I live?--'Hold, hold!'
+He cried, 'I tell thee 'tis her brother!
+Thy mother, boy, beneath the sod
+Of yon churchyard rests in her shroud so cold:
+I am now weak, and pale, and old:
+We were once dear to one another,
+I and that corpse! Thou art our child!'
+Then with a laugh both long and wild
+The youth upon the pavement fell:
+They found him dead! All looked on me,
+The spasms of my despair to see:
+But I was calm. I went away:
+I was clammy-cold like clay!
+I did not weep: I did not speak:
+But day by day, week after week,
+I walked about like a corpse alive!
+Alas! sweet friend, you must believe
+This heart is stone: it did not break.
+My father lived a little while,
+But all might see that he was dying,
+He smiled with such a woeful smile!
+When he was in the churchyard lying
+Among the worms, we grew quite poor,
+So that no one would give us bread:
+My mother looked at me, and said
+Faint words of cheer, which only meant
+That she could die and be content;
+So I went forth from the same church door
+To another husband's bed.
+And this was he who died at last,
+When weeks and months and years had passed,
+Through which I firmly did fulfil
+My duties, a devoted wife,
+With the stern step of vanquished will,
+Walking beneath the night of life,
+Whose hours extinguished, like slow rain
+Falling for ever, pain by pain,
+The very hope of death's dear rest;
+Which, since the heart within my breast
+Of natural life was dispossessed,
+Its strange sustainer there had been.
 
-Thus is the proude miller well y-beat,
-And hath y-lost the grinding of the wheat;
-And payed for the supper every deal
-Of Alein and of John, that beat him well;
-His wife is swived, and his daughter als;
-Lo, such it is a miller to be false.
-And therefore this proverb is said full sooth,
-"Him thar not winnen well that evil do'th,
-A guiler shall himself beguiled be:"
-And God that sitteth high in majesty
-Save all this Company, both great and smale.
-Thus have I quit the Miller in my tale.
+When flowers were dead, and grass was green
+Upon my mother's grave,--that mother
+Whom to outlive, and cheer, and make
+My wan eyes glitter for her sake,
+Was my vowed task, the single care
+Which once gave life to my despair,--
+When she was a thing that did not stir
+And the crawling worms were cradling her
+To a sleep more deep and so more sweet
+Than a baby's rocked on its nurse's knee,
+I lived: a living pulse then beat
+Beneath my heart that awakened me.
+What was this pulse so warm and free?
+Alas! I knew it could not be
+My own dull blood: 'twas like a thought
+Of liquid love, that spread and wrought
+Under my bosom and in my brain,
+And crept with the blood through every vein;
+And hour by hour, day after day,
+The wonder could not charm away,
+But laid in sleep, my wakeful pain,
+Until I knew it was a child,
+And then I wept. For long, long years
+These frozen eyes had shed no tears:
+But now--'twas the season fair and mild
+When April has wept itself to May:
+I sate through the sweet sunny day
+By my window bowered round with leaves,
+And down my cheeks the quick tears fell
+Like twinkling rain-drops from the eaves,
+When warm spring showers are passing o'er.
+O Helen, none can ever tell
+The joy it was to weep once more!
+
+I wept to think how hard it were
+To kill my babe, and take from it
+The sense of light, and the warm air,
+And my own fond and tender care,
+And love and smiles; ere I knew yet
+That these for it might, as for me,
+Be the masks of a grinning mockery.
+And haply, I would dream, 'twere sweet
+To feed it from my faded breast,
+Or mark my own heart's restless beat
+Rock it to its untroubled rest,
+And watch the growing soul beneath
+Dawn in faint smiles; and hear its breath,
+Half interrupted by calm sighs,
+And search the depth of its fair eyes
+For long departed memories!
+And so I lived till that sweet load
+Was lightened. Darkly forward flowed
+The stream of years, and on it bore
+Two shapes of gladness to my sight;
+Two other babes, delightful more
+In my lost soul's abandoned night,
+Than their own country ships may be
+Sailing towards wrecked mariners,
+Who cling to the rock of a wintry sea.
+For each, as it came, brought soothing tears;
+And a loosening warmth, as each one lay
+Sucking the sullen milk away
+About my frozen heart, did play,
+And weaned it, oh how painfully--
+As they themselves were weaned each one
+From that sweet food,--even from the thirst
+Of death, and nothingness, and rest,
+Strange inmate of a living breast!
+Which all that I had undergone
+Of grief and shame, since she, who first
+The gates of that dark refuge closed,
+Came to my sight, and almost burst
+The seal of that Lethean spring;
+But these fair shadows interposed:
+For all delights are shadows now!
+And from my brain to my dull brow
+The heavy tears gather and flow:
+I cannot speak: Oh, let me weep!
+
+The tears which fell from her wan eyes
+Glimmered among the moonlight dew:
+Her deep hard sobs and heavy sighs
+Their echoes in the darkness threw.
+When she grew calm, she thus did keep
+The tenor of her tale:
+He died:
+I know not how: he was not old,
+If age be numbered by its years:
+But he was bowed and bent with fears,
+Pale with the quenchless thirst of gold,
+Which, like fierce fever, left him weak;
+And his strait lip and bloated cheek
+Were warped in spasms by hollow sneers;
+And selfish cares with barren plough,
+Not age, had lined his narrow brow,
+And foul and cruel thoughts, which feed
+Upon the withering life within,
+Like vipers on some poisonous weed.
+Whether his ill were death or sin
+None knew, until he died indeed,
+And then men owned they were the same.
+
+Seven days within my chamber lay
+That corse, and my babes made holiday:
+At last, I told them what is death:
+The eldest, with a kind of shame,
+Came to my knees with silent breath,
+And sate awe-stricken at my feet;
+And soon the others left their play,
+And sate there too. It is unmeet
+To shed on the brief flower of youth
+The withering knowledge of the grave;
+From me remorse then wrung that truth.
+I could not bear the joy which gave
+Too just a response to mine own.
+In vain. I dared not feign a groan,
+And in their artless looks I saw,
+Between the mists of fear and awe,
+That my own thought was theirs, and they
+Expressed it not in words, but said,
+Each in its heart, how every day
+Will pass in happy work and play,
+Now he is dead and gone away.
+
+After the funeral all our kin
+Assembled, and the will was read.
+My friend, I tell thee, even the dead
+Have strength, their putrid shrouds within,
+To blast and torture. Those who live
+Still fear the living, but a corse
+Is merciless, and power doth give
+To such pale tyrants half the spoil
+He rends from those who groan and toil,
+Because they blush not with remorse
+Among their crawling worms. Behold,
+I have no child! my tale grows old
+With grief, and staggers: let it reach
+The limits of my feeble speech,
+And languidly at length recline
+On the brink of its own grave and mine.
+
+Thou knowest what a thing is Poverty
+Among the fallen on evil days:
+'Tis Crime, and Fear, and Infamy,
+And houseless Want in frozen ways
+Wandering ungarmented, and Pain,
+And, worse than all, that inward stain
+Foul Self-contempt, which drowns in sneers
+Youth's starlight smile, and makes its tears
+First like hot gall, then dry for ever!
+And well thou knowest a mother never
+Could doom her children to this ill,
+And well he knew the same. The will
+Imported, that if e'er again
+I sought my children to behold,
+Or in my birthplace did remain
+Beyond three days, whose hours were told,
+They should inherit nought: and he,
+To whom next came their patrimony,
+A sallow lawyer, cruel and cold,
+Aye watched me, as the will was read,
+With eyes askance, which sought to see
+The secrets of my agony;
+And with close lips and anxious brow
+Stood canvassing still to and fro
+The chance of my resolve, and all
+The dead man's caution just did call;
+For in that killing lie 'twas said--
+'She is adulterous, and doth hold
+In secret that the Christian creed
+Is false, and therefore is much need
+That I should have a care to save
+My children from eternal fire.'
+Friend, he was sheltered by the grave,
+And therefore dared to be a liar!
+In truth, the Indian on the pyre
+Of her dead husband, half consumed,
+As well might there be false, as I
+To those abhorred embraces doomed,
+Far worse than fire's brief agony
+As to the Christian creed, if true
+Or false, I never questioned it:
+I took it as the vulgar do:
+Nor my vexed soul had leisure yet
+To doubt the things men say, or deem
+That they are other than they seem.
+
+All present who those crimes did hear,
+In feigned or actual scorn and fear,
+Men, women, children, slunk away,
+Whispering with self-contented pride,
+Which half suspects its own base lie.
+I spoke to none, nor did abide,
+But silently I went my way,
+Nor noticed I where joyously
+Sate my two younger babes at play,
+In the court-yard through which I passed;
+But went with footsteps firm and fast
+Till I came to the brink of the ocean green,
+And there, a woman with gray hairs,
+Who had my mother's servant been,
+Kneeling, with many tears and prayers,
+Made me accept a purse of gold,
+Half of the earnings she had kept
+To refuge her when weak and old.
+
+With woe, which never sleeps or slept,
+I wander now. 'Tis a vain thought--
+But on yon alp, whose snowy head
+'Mid the azure air is islanded,
+(We see it o'er the flood of cloud,
+Which sunrise from its eastern caves
+Drives, wrinkling into golden waves,
+Hung with its precipices proud,
+From that gray stone where first we met)
+There now--who knows the dead feel nought?--
+Should be my grave; for he who yet
+Is my soul's soul, once said: ''Twere sweet
+'Mid stars and lightnings to abide,
+And winds and lulling snows, that beat
+With their soft flakes the mountain wide,
+Where weary meteor lamps repose,
+And languid storms their pinions close:
+And all things strong and bright and pure,
+And ever during, aye endure:
+Who knows, if one were buried there,
+But these things might our spirits make,
+Amid the all-surrounding air,
+Their own eternity partake?'
+Then 'twas a wild and playful saying
+At which I laughed, or seemed to laugh:
+They were his words: now heed my praying,
+And let them be my epitaph.
+Thy memory for a term may be
+My monument. Wilt remember me?
+I know thou wilt, and canst forgive
+Whilst in this erring world to live
+My soul disdained not, that I thought
+Its lying forms were worthy aught
+And much less thee.
+
+HELEN:
+O speak not so,
+But come to me and pour thy woe
+Into this heart, full though it be,
+Ay, overflowing with its own:
+I thought that grief had severed me
+From all beside who weep and groan;
+Its likeness upon earth to be,
+Its express image; but thou art
+More wretched. Sweet! we will not part
+Henceforth, if death be not division;
+If so, the dead feel no contrition.
+But wilt thou hear since last we parted
+All that has left me broken hearted?
+
+ROSALIND:
+Yes, speak. The faintest stars are scarcely shorn
+Of their thin beams by that delusive morn
+Which sinks again in darkness, like the light
+Of early love, soon lost in total night.
+
+HELEN:
+Alas! Italian winds are mild,
+But my bosom is cold--wintry cold--
+When the warm air weaves, among the fresh leaves,
+Soft music, my poor brain is wild,
+And I am weak like a nursling child,
+Though my soul with grief is gray and old.
+
+ROSALIND:
+Weep not at thine own words, though they must make
+Me weep. What is thy tale?
+
+HELEN:
+I fear 'twill shake
+Thy gentle heart with tears. Thou well
+Rememberest when we met no more,
+And, though I dwelt with Lionel,
+That friendless caution pierced me sore
+With grief; a wound my spirit bore
+Indignantly, but when he died,
+With him lay dead both hope and pride.
+Alas! all hope is buried now.
+But then men dreamed the aged earth
+Was labouring in that mighty birth,
+Which many a poet and a sage
+Has aye foreseen--the happy age
+When truth and love shall dwell below
+Among the works and ways of men;
+Which on this world not power but will
+Even now is wanting to fulfil.
+
+Among mankind what thence befell
+Of strife, how vain, is known too well;
+When Liberty's dear paean fell
+'Mid murderous howls. To Lionel,
+Though of great wealth and lineage high,
+Yet through those dungeon walls there came
+Thy thrilling light, O Liberty!
+And as the meteor's midnight flame
+Startles the dreamer, sun-like truth
+Flashed on his visionary youth,
+And filled him, not with love, but faith,
+And hope, and courage mute in death;
+For love and life in him were twins,
+Born at one birth: in every other
+First life then love its course begins,
+Though they be children of one mother;
+And so through this dark world they fleet
+Divided, till in death they meet;
+But he loved all things ever. Then
+He passed amid the strife of men,
+And stood at the throne of armed power
+Pleading for a world of woe:
+Secure as one on a rock-built tower
+O'er the wrecks which the surge trails to and fro,
+'Mid the passions wild of human kind
+He stood, like a spirit calming them;
+For, it was said, his words could bind
+Like music the lulled crowd, and stem
+That torrent of unquiet dream
+Which mortals truth and reason deem,
+But is revenge and fear and pride.
+Joyous he was; and hope and peace
+On all who heard him did abide,
+Raining like dew from his sweet talk,
+As where the evening star may walk
+Along the brink of the gloomy seas,
+Liquid mists of splendour quiver.
+His very gestures touched to tears
+The unpersuaded tyrant, never
+So moved before: his presence stung
+The torturers with their victim's pain,
+And none knew how; and through their ears
+The subtle witchcraft of his tongue
+Unlocked the hearts of those who keep
+Gold, the world's bond of slavery.
+Men wondered, and some sneered to see
+One sow what he could never reap:
+For he is rich, they said, and young,
+And might drink from the depths of luxury.
+If he seeks Fame, Fame never crowned
+The champion of a trampled creed:
+If he seeks Power, Power is enthroned
+'Mid ancient rights and wrongs, to feed
+Which hungry wolves with praise and spoil,
+Those who would sit near Power must toil;
+And such, there sitting, all may see.
+What seeks he? All that others seek
+He casts away, like a vile weed
+Which the sea casts unreturningly.
+That poor and hungry men should break
+The laws which wreak them toil and scorn,
+We understand; but Lionel
+We know, is rich and nobly born.
+So wondered they: yet all men loved
+Young Lionel, though few approved;
+All but the priests, whose hatred fell
+Like the unseen blight of a smiling day,
+The withering honey dew, which clings
+Under the bright green buds of May,
+Whilst they unfold their emerald wings:
+For he made verses wild and queer
+On the strange creeds priests hold so dear,
+Because they bring them land and gold.
+Of devils and saints and all such gear,
+He made tales which whoso heard or read
+Would laugh till he were almost dead.
+So this grew a proverb: 'Don't get old
+Till Lionel's "Banquet in Hell" you hear,
+And then you will laugh yourself young again.'
+So the priests hated him, and he
+Repaid their hate with cheerful glee.
+
+Ah, smiles and joyance quickly died,
+For public hope grew pale and dim
+In an altered time and tide,
+And in its wasting withered him,
+As a summer flower that blows too soon
+Droops in the smile of the waning moon,
+When it scatters through an April night
+The frozen dews of wrinkling blight.
+None now hoped more. Gray Power was seated
+Safely on her ancestral throne;
+And Faith, the Python, undefeated,
+Even to its blood-stained steps dragged on
+Her foul and wounded train, and men
+Were trampled and deceived again,
+And words and shows again could bind
+The wailing tribes of human kind
+In scorn and famine. Fire and blood
+Raged round the raging multitude,
+To fields remote by tyrants sent
+To be the scorned instrument
+With which they drag from mines of gore
+The chains their slaves yet ever wore:
+And in the streets men met each other,
+And by old altars and in halls,
+And smiled again at festivals.
+But each man found in his heart's brother
+Cold cheer; for all, though half deceived,
+The outworn creeds again believed,
+And the same round anew began,
+Which the weary world yet ever ran.
+
+Many then wept, not tears, but gall
+Within their hearts, like drops which fall
+Wasting the fountain-stone away.
+And in that dark and evil day
+Did all desires and thoughts, that claim
+Men's care--ambition, friendship, fame,
+Love, hope, though hope was now despair--
+Indue the colours of this change,
+As from the all-surrounding air
+The earth takes hues obscure and strange,
+When storm and earthquake linger there.
+
+And so, my friend, it then befell
+To many, most to Lionel,
+Whose hope was like the life of youth
+Within him, and when dead, became
+A spirit of unresting flame,
+Which goaded him in his distress
+Over the world's vast wilderness.
+Three years he left his native land,
+And on the fourth, when he returned,
+None knew him: he was stricken deep
+With some disease of mind, and turned
+Into aught unlike Lionel.
+On him, on whom, did he pause in sleep,
+Serenest smiles were wont to keep,
+And, did he wake, a winged band
+Of bright persuasions, which had fed
+On his sweet lips and liquid eyes,
+Kept their swift pinions half outspread
+To do on men his least command;
+On him, whom once 'twas paradise
+Even to behold, now misery lay:
+In his own heart 'twas merciless,
+To all things else none may express
+Its innocence and tenderness.
+
+'Twas said that he had refuge sought
+In love from his unquiet thought
+In distant lands, and been deceived
+By some strange show; for there were found,
+Blotted with tears as those relieved
+By their own words are wont to do,
+These mournful verses on the ground,
+By all who read them blotted too.
+
+'How am I changed! my hopes were once like fire:
+I loved, and I believed that life was love.
+How am I lost! on wings of swift desire
+Among Heaven's winds my spirit once did move.
+I slept, and silver dreams did aye inspire
+My liquid sleep: I woke, and did approve
+All nature to my heart, and thought to make
+A paradise of earth for one sweet sake.
+
+'I love, but I believe in love no more.
+I feel desire, but hope not. O, from sleep
+Most vainly must my weary brain implore
+Its long lost flattery now: I wake to weep,
+And sit through the long day gnawing the core
+Of my bitter heart, and, like a miser, keep,
+Since none in what I feel take pain or pleasure,
+To my own soul its self-consuming treasure.'
+
+He dwelt beside me near the sea;
+And oft in evening did we meet,
+When the waves, beneath the starlight, flee
+O'er the yellow sands with silver feet,
+And talked: our talk was sad and sweet,
+Till slowly from his mien there passed
+The desolation which it spoke;
+And smiles,--as when the lightning's blast
+Has parched some heaven-delighting oak,
+The next spring shows leaves pale and rare,
+But like flowers delicate and fair,
+On its rent boughs,--again arrayed
+His countenance in tender light:
+His words grew subtile fire, which made
+The air his hearers breathed delight:
+His motions, like the winds, were free,
+Which bend the bright grass gracefully,
+Then fade away in circlets faint:
+And winged Hope, on which upborne
+His soul seemed hovering in his eyes,
+Like some bright spirit newly born
+Floating amid the sunny skies,
+Sprang forth from his rent heart anew.
+Yet o'er his talk, and looks, and mien,
+Tempering their loveliness too keen,
+Past woe its shadow backward threw,
+Till like an exhalation, spread
+From flowers half drunk with evening dew,
+They did become infectious: sweet
+And subtle mists of sense and thought:
+Which wrapped us soon, when we might meet,
+Almost from our own looks and aught
+The wild world holds. And so, his mind
+Was healed, while mine grew sick with fear:
+For ever now his health declined,
+Like some frail bark which cannot bear
+The impulse of an altered wind,
+Though prosperous: and my heart grew full
+'Mid its new joy of a new care:
+For his cheek became, not pale, but fair,
+As rose-o'ershadowed lilies are;
+And soon his deep and sunny hair,
+In this alone less beautiful,
+Like grass in tombs grew wild and rare.
+The blood in his translucent veins
+Beat, not like animal life, but love
+Seemed now its sullen springs to move,
+When life had failed, and all its pains:
+And sudden sleep would seize him oft
+Like death, so calm, but that a tear,
+His pointed eyelashes between,
+Would gather in the light serene
+Of smiles, whose lustre bright and soft
+Beneath lay undulating there.
+His breath was like inconstant flame,
+As eagerly it went and came;
+And I hung o'er him in his sleep,
+Till, like an image in the lake
+Which rains disturb, my tears would break
+The shadow of that slumber deep:
+Then he would bid me not to weep,
+And say, with flattery false, yet sweet,
+That death and he could never meet,
+If I would never part with him.
+And so we loved, and did unite
+All that in us was yet divided:
+For when he said, that many a rite,
+By men to bind but once provided,
+Could not be shared by him and me,
+Or they would kill him in their glee,
+I shuddered, and then laughing said--
+'We will have rites our faith to bind,
+But our church shall be the starry night,
+Our altar the grassy earth outspread,
+And our priest the muttering wind.'
+
+'Twas sunset as I spoke: one star
+Had scarce burst forth, when from afar
+The ministers of misrule sent,
+Seized upon Lionel, and bore
+His chained limbs to a dreary tower,
+In the midst of a city vast and wide.
+For he, they said, from his mind had bent
+Against their gods keen blasphemy,
+For which, though his soul must roasted be
+In hell's red lakes immortally,
+Yet even on earth must he abide
+The vengeance of their slaves: a trial,
+I think, men call it. What avail
+Are prayers and tears, which chase denial
+From the fierce savage, nursed in hate?
+What the knit soul that pleading and pale
+Makes wan the quivering cheek, which late
+It painted with its own delight?
+We were divided. As I could,
+I stilled the tingling of my blood,
+And followed him in their despite,
+As a widow follows, pale and wild,
+The murderers and corse of her only child;
+And when we came to the prison door
+And I prayed to share his dungeon floor
+With prayers which rarely have been spurned,
+And when men drove me forth and I
+Stared with blank frenzy on the sky,
+A farewell look of love he turned,
+Half calming me; then gazed awhile,
+As if thro' that black and massy pile,
+And thro' the crowd around him there,
+And thro' the dense and murky air,
+And the thronged streets, he did espy
+What poets know and prophesy;
+And said, with voice that made them shiver
+And clung like music in my brain,
+And which the mute walls spoke again
+Prolonging it with deepened strain:
+'Fear not the tyrants shall rule for ever,
+Or the priests of the bloody faith;
+They stand on the brink of that mighty river,
+Whose waves they have tainted with death:
+It is fed from the depths of a thousand dells,
+Around them it foams, and rages, and swells,
+And their swords and their sceptres I floating see,
+Like wrecks in the surge of eternity.'
+
+I dwelt beside the prison gate;
+And the strange crowd that out and in
+Passed, some, no doubt, with mine own fate,
+Might have fretted me with its ceaseless din,
+But the fever of care was louder within.
+Soon, but too late, in penitence
+Or fear, his foes released him thence:
+I saw his thin and languid form,
+As leaning on the jailor's arm,
+Whose hardened eyes grew moist the while,
+To meet his mute and faded smile,
+And hear his words of kind farewell,
+He tottered forth from his damp cell.
+Many had never wept before,
+From whom fast tears then gushed and fell:
+Many will relent no more,
+Who sobbed like infants then; aye, all
+Who thronged the prison's stony hall,
+The rulers or the slaves of law,
+Felt with a new surprise and awe
+That they were human, till strong shame
+Made them again become the same.
+The prison blood-hounds, huge and grim,
+From human looks the infection caught,
+And fondly crouched and fawned on him;
+And men have heard the prisoners say,
+Who in their rotting dungeons lay,
+That from that hour, throughout one day,
+The fierce despair and hate which kept
+Their trampled bosoms almost slept:
+Where, like twin vultures, they hung feeding
+On each heart's wound, wide torn and bleeding,--
+Because their jailors' rule, they thought,
+Grew merciful, like a parent's sway.
+
+I know not how, but we were free:
+And Lionel sate alone with me,
+As the carriage drove thro' the streets apace;
+And we looked upon each other's face;
+And the blood in our fingers intertwined
+Ran like the thoughts of a single mind,
+As the swift emotions went and came
+Thro' the veins of each united frame.
+So thro' the long long streets we passed
+Of the million-peopled City vast;
+Which is that desert, where each one
+Seeks his mate yet is alone,
+Beloved and sought and mourned of none;
+Until the clear blue sky was seen,
+And the grassy meadows bright and green,
+And then I sunk in his embrace,
+Enclosing there a mighty space
+Of love: and so we travelled on
+By woods, and fields of yellow flowers,
+And towns, and villages, and towers,
+Day after day of happy hours.
+It was the azure time of June,
+When the skies are deep in the stainless noon,
+And the warm and fitful breezes shake
+The fresh green leaves of the hedgerow briar,
+And there were odours then to make
+The very breath we did respire
+A liquid element, whereon
+Our spirits, like delighted things
+That walk the air on subtle wings,
+Floated and mingled far away,
+'Mid the warm winds of the sunny day.
+And when the evening star came forth
+Above the curve of the new bent moon,
+And light and sound ebbed from the earth,
+Like the tide of the full and the weary sea
+To the depths of its own tranquillity,
+Our natures to its own repose
+Did the earth's breathless sleep attune:
+Like flowers, which on each other close
+Their languid leaves when daylight's gone,
+We lay, till new emotions came,
+Which seemed to make each mortal frame
+One soul of interwoven flame,
+A life in life, a second birth
+In worlds diviner far than earth,
+Which, like two strains of harmony
+That mingle in the silent sky
+Then slowly disunite, passed by
+And left the tenderness of tears,
+A soft oblivion of all fears,
+A sweet sleep: so we travelled on
+Till we came to the home of Lionel,
+Among the mountains wild and lone,
+Beside the hoary western sea,
+Which near the verge of the echoing shore
+The massy forest shadowed o'er.
+
+The ancient steward, with hair all hoar,
+As we alighted, wept to see
+His master changed so fearfully;
+And the old man's sobs did waken me
+From my dream of unremaining gladness;
+The truth flashed o'er me like quick madness
+When I looked, and saw that there was death
+On Lionel: yet day by day
+He lived, till fear grew hope and faith,
+And in my soul I dared to say,
+Nothing so bright can pass away:
+Death is dark, and foul, and dull,
+But he is--O how beautiful!
+Yet day by day he grew more weak,
+And his sweet voice, when he might speak,
+Which ne'er was loud, became more low;
+And the light which flashed through his waxen cheek
+Grew faint, as the rose-like hues which flow
+From sunset o'er the Alpine snow:
+And death seemed not like death in him,
+For the spirit of life o'er every limb
+Lingered, a mist of sense and thought.
+When the summer wind faint odours brought
+From mountain flowers, even as it passed
+His cheek would change, as the noonday sea
+Which the dying breeze sweeps fitfully.
+If but a cloud the sky o'ercast,
+You might see his colour come and go,
+And the softest strain of music made
+Sweet smiles, yet sad, arise and fade
+Amid the dew of his tender eyes;
+And the breath, with intermitting flow,
+Made his pale lips quiver and part.
+You might hear the beatings of his heart,
+Quick, but not strong; and with my tresses
+When oft he playfully would bind
+In the bowers of mossy lonelinesses
+His neck, and win me so to mingle
+In the sweet depth of woven caresses,
+And our faint limbs were intertwined,
+Alas! the unquiet life did tingle
+From mine own heart through every vein,
+Like a captive in dreams of liberty,
+Who beats the walls of his stony cell.
+But his, it seemed already free,
+Like the shadow of fire surrounding me!
+On my faint eyes and limbs did dwell
+That spirit as it passed, till soon,
+As a frail cloud wandering o'er the moon,
+Beneath its light invisible,
+Is seen when it folds its gray wings again
+To alight on midnight's dusky plain,
+I lived and saw, and the gathering soul
+Passed from beneath that strong control,
+And I fell on a life which was sick with fear
+Of all the woe that now I bear.
+
+Amid a bloomless myrtle wood,
+On a green and sea-girt promontory,
+Not far from where we dwelt, there stood
+In record of a sweet sad story,
+An altar and a temple bright
+Circled by steps, and o'er the gate
+Was sculptured, 'To Fidelity;'
+And in the shrine an image sate,
+All veiled: but there was seen the light
+Of smiles which faintly could express
+A mingled pain and tenderness
+Through that ethereal drapery.
+The left hand held the head, the right--
+Beyond the veil, beneath the skin,
+You might see the nerves quivering within--
+Was forcing the point of a barbed dart
+Into its side-convulsing heart.
+An unskilled hand, yet one informed
+With genius, had the marble warmed
+With that pathetic life. This tale
+It told: A dog had from the sea,
+When the tide was raging fearfully,
+Dragged Lionel's mother, weak and pale,
+Then died beside her on the sand,
+And she that temple thence had planned;
+But it was Lionel's own hand
+Had wrought the image. Each new moon
+That lady did, in this lone fane,
+The rites of a religion sweet,
+Whose god was in her heart and brain:
+The seasons' loveliest flowers were strewn
+On the marble floor beneath her feet,
+And she brought crowns of sea-buds white
+Whose odour is so sweet and faint,
+And weeds, like branching chrysolite,
+Woven in devices fine and quaint.
+And tears from her brown eyes did stain
+The altar: need but look upon
+That dying statue fair and wan,
+If tears should cease, to weep again:
+And rare Arabian odours came,
+Through the myrtle copses steaming thence
+From the hissing frankincense,
+Whose smoke, wool-white as ocean foam,
+Hung in dense flocks beneath the dome--
+That ivory dome, whose azure night
+With golden stars, like heaven, was bright--
+O'er the split cedar's pointed flame;
+And the lady's harp would kindle there
+The melody of an old air,
+Softer than sleep; the villagers
+Mixed their religion up with hers,
+And, as they listened round, shed tears.
+
+One eve he led me to this fane:
+Daylight on its last purple cloud
+Was lingering gray, and soon her strain
+The nightingale began; now loud,
+Climbing in circles the windless sky,
+Now dying music; suddenly
+'Tis scattered in a thousand notes,
+And now to the hushed ear it floats
+Like field smells known in infancy,
+Then failing, soothes the air again.
+We sate within that temple lone,
+Pavilioned round with Parian stone:
+His mother's harp stood near, and oft
+I had awakened music soft
+Amid its wires: the nightingale
+Was pausing in her heaven-taught tale:
+'Now drain the cup,' said Lionel,
+'Which the poet-bird has crowned so well
+With the wine of her bright and liquid song!
+Heardst thou not sweet words among
+That heaven-resounding minstrelsy?
+Heard'st thou not that those who die
+Awake in a world of ecstasy?
+That love, when limbs are interwoven,
+And sleep, when the night of life is cloven,
+And thought, to the world's dim boundaries clinging,
+And music, when one beloved is singing,
+Is death? Let us drain right joyously
+The cup which the sweet bird fills for me.'
+He paused, and to my lips he bent
+His own: like spirit his words went
+Through all my limbs with the speed of fire;
+And his keen eyes, glittering through mine,
+Filled me with the flame divine,
+Which in their orbs was burning far,
+Like the light of an unmeasured star,
+In the sky of midnight dark and deep:
+Yes, 'twas his soul that did inspire
+Sounds, which my skill could ne'er awaken;
+And first, I felt my fingers sweep
+The harp, and a long quivering cry
+Burst from my lips in symphony:
+The dusk and solid air was shaken,
+As swift and swifter the notes came
+From my touch, that wandered like quick flame,
+And from my bosom, labouring
+With some unutterable thing:
+The awful sound of my own voice made
+My faint lips tremble; in some mood
+Of wordless thought Lionel stood
+So pale, that even beside his cheek
+The snowy column from its shade
+Caught whiteness: yet his countenance,
+Raised upward, burned with radiance
+Of spirit-piercing joy, whose light,
+Like the moon struggling through the night
+Of whirlwind-rifted clouds, did break
+With beams that might not be confined.
+I paused, but soon his gestures kindled
+New power, as by the moving wind
+The waves are lifted, and my song
+To low soft notes now changed and dwindled,
+And from the twinkling wires among,
+My languid fingers drew and flung
+Circles of life-dissolving sound,
+Yet faint; in aery rings they bound
+My Lionel, who, as every strain
+Grew fainter but more sweet, his mien
+Sunk with the sound relaxedly;
+And slowly now he turned to me,
+As slowly faded from his face
+That awful joy: with looks serene
+He was soon drawn to my embrace,
+And my wild song then died away
+In murmurs: words I dare not say
+We mixed, and on his lips mine fed
+Till they methought felt still and cold:
+'What is it with thee, love?' I said:
+No word, no look, no motion! yes,
+There was a change, but spare to guess,
+Nor let that moment's hope be told.
+I looked, and knew that he was dead,
+And fell, as the eagle on the plain
+Falls when life deserts her brain,
+And the mortal lightning is veiled again.
+
+O that I were now dead! but such
+(Did they not, love, demand too much,
+Those dying murmurs?) he forbade.
+O that I once again were mad!
+And yet, dear Rosalind, not so,
+For I would live to share thy woe.
+Sweet boy! did I forget thee too?
+Alas, we know not what we do
+When we speak words.
+No memory more
+Is in my mind of that sea shore.
+Madness came on me, and a troop
+Of misty shapes did seem to sit
+Beside me, on a vessel's poop,
+And the clear north wind was driving it.
+Then I heard strange tongues, and saw strange flowers,
+And the stars methought grew unlike ours,
+And the azure sky and the stormless sea
+Made me believe that I had died,
+And waked in a world, which was to me
+Drear hell, though heaven to all beside:
+Then a dead sleep fell on my mind,
+Whilst animal life many long years
+Had rescued from a chasm of tears;
+And when I woke, I wept to find
+That the same lady, bright and wise,
+With silver locks and quick brown eyes,
+The mother of my Lionel,
+Had tended me in my distress,
+And died some months before. Nor less
+Wonder, but far more peace and joy,
+Brought in that hour my lovely boy;
+For through that trance my soul had well
+The impress of thy being kept;
+And if I waked, or if I slept,
+No doubt, though memory faithless be,
+Thy image ever dwelt on me;
+And thus, O Lionel, like thee
+Is our sweet child. 'Tis sure most strange
+I knew not of so great a change,
+As that which gave him birth, who now
+Is all the solace of my woe.
+
+That Lionel great wealth had left
+By will to me, and that of all
+The ready lies of law bereft
+My child and me, might well befall.
+But let me think not of the scorn,
+Which from the meanest I have borne,
+When, for my child's beloved sake,
+I mixed with slaves, to vindicate
+The very laws themselves do make:
+Let me not say scorn is my fate,
+Lest I be proud, suffering the same
+With those who live in deathless fame.
+
+She ceased.--'Lo, where red morning thro' the woods
+Is burning o'er the dew;' said Rosalind.
+And with these words they rose, and towards the flood
+Of the blue lake, beneath the leaves now wind
+With equal steps and fingers intertwined:
+Thence to a lonely dwelling, where the shore
+Is shadowed with steep rocks, and cypresses
+Cleave with their dark green cones the silent skies,
+And with their shadows the clear depths below,
+And where a little terrace from its bowers,
+Of blooming myrtle and faint lemon-flowers,
+Scatters its sense-dissolving fragrance o'er
+The liquid marble of the windless lake;
+And where the aged forest's limbs look hoar,
+Under the leaves which their green garments make,
+They come: 'Tis Helen's home, and clean and white,
+Like one which tyrants spare on our own land
+In some such solitude, its casements bright
+Shone through their vine-leaves in the morning sun,
+And even within 'twas scarce like Italy.
+And when she saw how all things there were planned,
+As in an English home, dim memory
+Disturbed poor Rosalind: she stood as one
+Whose mind is where his body cannot be,
+Till Helen led her where her child yet slept,
+And said, 'Observe, that brow was Lionel's,
+Those lips were his, and so he ever kept
+One arm in sleep, pillowing his head with it.
+You cannot see his eyes--they are two wells
+Of liquid love: let us not wake him yet.'
+But Rosalind could bear no more, and wept
+A shower of burning tears, which fell upon
+His face, and so his opening lashes shone
+With tears unlike his own, as he did leap
+In sudden wonder from his innocent sleep.
+
+So Rosalind and Helen lived together
+Thenceforth, changed in all else, yet friends again,
+Such as they were, when o'er the mountain heather
+They wandered in their youth, through sun and rain.
+And after many years, for human things
+Change even like the ocean and the wind,
+Her daughter was restored to Rosalind,
+And in their circle thence some visitings
+Of joy 'mid their new calm would intervene:
+A lovely child she was, of looks serene,
+And motions which o'er things indifferent shed
+The grace and gentleness from whence they came.
+And Helen's boy grew with her, and they fed
+From the same flowers of thought, until each mind
+Like springs which mingle in one flood became,
+And in their union soon their parents saw
+The shadow of the peace denied to them.
+And Rosalind, for when the living stem
+Is cankered in its heart, the tree must fall,
+Died ere her time; and with deep grief and awe
+The pale survivors followed her remains
+Beyond the region of dissolving rains,
+Up the cold mountain she was wont to call
+Her tomb; and on Chiavenna's precipice
+They raised a pyramid of lasting ice,
+Whose polished sides, ere day had yet begun,
+Caught the first glow of the unrisen sun,
+The last, when it had sunk; and thro' the night
+The charioteers of Arctos wheeled round
+Its glittering point, as seen from Helen's home,
+Whose sad inhabitants each year would come,
+With willing steps climbing that rugged height,
+And hang long locks of hair, and garlands bound
+With amaranth flowers, which, in the clime's despite,
+Filled the frore air with unaccustomed light:
+Such flowers, as in the wintry memory bloom
+Of one friend left, adorned that frozen tomb.
+
+Helen, whose spirit was of softer mould,
+Whose sufferings too were less, Death slowlier led
+Into the peace of his dominion cold:
+She died among her kindred, being old.
+And know, that if love die not in the dead
+As in the living, none of mortal kind
+Are blest, as now Helen and Rosalind.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -672,4 +1569,4 @@ Thus have I quit the Miller in my tale.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 23, 2025 at 06:25 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 24, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
