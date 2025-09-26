@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,9 +28,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/24/2025)
+- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 12 (Updated: 9/26/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/25/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 45 (Updated: 9/14/2025)
-- 🔥 [zod-formik-adapter](https://github.com/afzalimdad9/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema ⭐ 0 (Updated: 9/7/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -64,12 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-The generation of random numbers is too important to be left to chance.
+Two C strings walk into a bar.
+The bartender asks "What can I get ya?"
+The first string says "I'll have a gin and tonic."
+The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
+The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Make a couch fort
+Make bread from scratch
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,170 +82,68 @@ Make a couch fort
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"A Grammarian's Funeral : Shortly After the Revival of Learning in Europe" by Robert Browning
-Let us begin and carry up this corpse,
-      Singing together.
-Leave we the common crofts, the vulgar thorpes,
-      Each in its tether
-Sleeping safe on the bosom of the plain,
-      Cared-for till cock-crow:
-Look out if yonder be not day again
-      Rimming the rock-row!
-That's the appropriate country; there, man's thought,
-      Rarer, intenser,
-Self-gathered for an outbreak, as it ought,
-      Chafes in the censer.
+"An Hymn To Humanity (To S.P.G. Esp)" by Phillis Wheatley
+O! for this dark terrestrial ball
+Forsakes his azure-paved hall
+    A prince of heav'nly birth!
+Divine Humanity behold,
+What wonders rise, what charms unfold
+    At his descent to earth!
 
-Leave we the unlettered plain its herd and crop;
-      Seek we sepulture
-On a tall mountain, citied to the top,
-      Crowded with culture!
-All the peaks soar, but one the rest excels;
-      Clouds overcome it;
-No! yonder sparkle is the citadel's
-      Circling its summit.
-Thither our path lies; wind we up the heights:
-      Wait ye the warning?
-Our low life was the level's and the night's:
-      He's for the morning.
-Step to a tune, square chests, erect each head,
-      'Ware the beholders!
-This is our master, famous calm and dead,
-      Borne on our shoulders.
+II.
 
-Sleep, crop and herd! sleep, darkling thorpe and croft,
-      Safe from the weather!
-He, whom we convoy to his grave aloft,
-      Singing together,
-He was a man born with thy face and throat,
-      Lyric Apollo!
-Long he lived nameless: how should spring take note
-      Winter would follow?
-Till lo, the little touch, and youth was gone!
-      Cramped and diminished,
-Moaned he, "New measures, other feet anon!
-      My dance is finished?"
-No, that's the world's way; (keep the mountain-side,
-      Make for the city!)
-He knew the signal, and stepped on with pride
-      Over men's pity;
-Left play for work, and grappled with the world
-      Bent on escaping:
-"What's in the scroll," quoth he, "thou keepest furled?
-      Show me their shaping,
-Theirs who most studied man, the bard and sage,--
-      Give!"--So, he gowned him,
-Straight got by heart that book to its last page:
-      Learned, we found him.
-Yea, but we found him bald too, eyes like lead,
-      Accents uncertain:
-"Time to taste life," another would have said,
-      "Up with the curtain!"
-This man said rather, "Actual life comes next?
-      Patience a moment!
-Grant I have mastered learning's crabbed text,
-      Still there's the comment.
+The bosoms of the great and good
+With wonder and delight he view'd,
+    And fix'd his empire there:
+Him, close compressing to his breast,
+The sire of gods and men address'd,
+    "My son, my heav'nly fair!
 
-Let me know all! Prate not of most or least,
-      Painful or easy!
-Even to the crumbs I'd fain eat up the feast,
-      Ay, nor feel queasy."
-Oh, such a life as he resolved to live,
-      When he had learned it,
-When he had gathered all books had to give!
-      Sooner, he spurned it.
-Image the whole, then execute the parts--
-      Fancy the fabric
-Quite, ere you build, ere steel strikes fire from quartz,
-      Ere mortar dab brick.
+III.
 
-(Here's the town-gate reached; there's the market-place
-      Gaping before us.)
-Yea, this in him was the peculiar grace
-      (Hearten our chorus!)
-That before living he'd learn how to live--
-      No end to learning:
-Earn the means first--God surely will contrive
-      Use for our earning.
-Others mistrust and say, "But time escapes!
-      Live now or never!"
-He said, "What's time? Leave Now for dogs and apes!
-      Man has Forever."
+"Descend to earth, there place thy throne;
+"To succour man's afflicted son
+    "Each human heart inspire:
+"To act in bounties unconfin'd
+"Enlarge the close contracted mind,
+    "And fill it with thy fire."
 
-Back to his book then: deeper drooped his head:
-Calculus_ racked him:
-Leaden before, his eyes grew dross of lead:
-Tussis_ attacked him.
-"Now, master, take a little rest!"--not he!
-      (Caution redoubled!
-Step two abreast, the way winds narrowly!)
-      Not a whit troubled,
-Back to his studies, fresher than at first,
-      Fierce as a dragon
-He (soul-hydroptic with a sacred thirst)
-      Sucked at the flagon.
-Oh, if we draw a circle premature,
-      Heedless of far gain,
-Greedy for quick returns of profit, sure
-      Bad is our bargain!
-Was it not great? did not he throw on God
-      (He loves the burthen)--
-God's task to make the heavenly period
-      Perfect the earthen?
-Did not he magnify the mind, show clear
-      Just what it all meant?
-He would not discount life, as fools do here,
-      Paid by instalment.
-He ventured neck or nothing--heaven's success
-      Found, or earth's failure:
-"Wilt thou trust death or not?" He answered "Yes!
-      Hence with life's pale lure!"
-That low man seeks a little thing to do,
-      Sees it and does it:
-This high man, with a great thing to pursue,
-      Dies ere he knows it.
-That low man goes on adding one to one,
-      His hundred's soon hit:
-This high man, aiming at a million,
-      Misses an unit.
-That, has the world here--should he need the next,
-      Let the world mind him!
-This, throws himself on God, and unperplexed
-      Seeking shall find Him.
-So, with the throttling hands of death at strife,
-      Ground he at grammar;
-Still, thro' the rattle, parts of speech were rife:
-      While he could stammer
-He settledHoti's_ business--let it be!--
-      Properly basedOun_--
-Gave as the doctrine of the encliticDe_
-      Dead from the waist down.
-Well, here's the platform, here's the proper place:
-      Hail to your purlieus,
-All ye highfliers of the feathered race,
-      Swallows and curlews:
-Here's the top-peak; the multitude below
-      Live, for they can, there:
-This man decided not to Live, but Know--
-      Bury this man there?
-Here--here's his place, where meteors shoot, clouds form,
-      Lightnings are loosened,
-Stars come and go! Let joy break with the storm,
-      Peace let the dew send!
-Lofty designs must close in like effects:
-      Loftily lying,
-Leave him--still loftier than the world suspects,
-      Living and dying.
+IV.
+
+Quick as the word, with swift career
+He wings his course from star to star,
+    And leaves the bright abode.
+The Virtue did his charms impart;
+Their G——! then thy raptur'd heart
+    Perceiv'd the rushing God:
+
+V.
+
+For when thy pitying eye did see
+The languid muse in low degree,
+    Then, then at thy desire
+Descended the celestial nine;
+O'er me methought they deign'd to shine,
+And deign'd to string my lyre.
+
+VI.
+
+Can Afric's muse forgetful prove?
+Or can such friendship fail to move
+    A tender human heart?
+Immortal Friendship laurel-crown'd
+The smiling Graces all surround
+    With ev'ry heav'nly Art.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 26°C, smoke in Karachi 🇵🇰
+🌡️ 26°C, few clouds in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **60** total stars earned
+- 🏆 **61** total stars earned
 - 🍴 **10** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -333,4 +235,4 @@ Leave him--still loftier than the world suspects,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 25, 2025 at 06:27 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 26, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
