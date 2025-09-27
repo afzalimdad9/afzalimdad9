@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/26/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 12 (Updated: 9/26/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 9/25/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 45 (Updated: 9/14/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,16 +64,15 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
+Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Make bread from scratch
+Make a budget
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -82,69 +81,118 @@ Make bread from scratch
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"An Hymn To Humanity (To S.P.G. Esp)" by Phillis Wheatley
-O! for this dark terrestrial ball
-Forsakes his azure-paved hall
-    A prince of heav'nly birth!
-Divine Humanity behold,
-What wonders rise, what charms unfold
-    At his descent to earth!
-
-II.
-
-The bosoms of the great and good
-With wonder and delight he view'd,
-    And fix'd his empire there:
-Him, close compressing to his breast,
-The sire of gods and men address'd,
-    "My son, my heav'nly fair!
-
-III.
-
-"Descend to earth, there place thy throne;
-"To succour man's afflicted son
-    "Each human heart inspire:
-"To act in bounties unconfin'd
-"Enlarge the close contracted mind,
-    "And fill it with thy fire."
-
-IV.
-
-Quick as the word, with swift career
-He wings his course from star to star,
-    And leaves the bright abode.
-The Virtue did his charms impart;
-Their G——! then thy raptur'd heart
-    Perceiv'd the rushing God:
-
-V.
-
-For when thy pitying eye did see
-The languid muse in low degree,
-    Then, then at thy desire
-Descended the celestial nine;
-O'er me methought they deign'd to shine,
-And deign'd to string my lyre.
-
-VI.
-
-Can Afric's muse forgetful prove?
-Or can such friendship fail to move
-    A tender human heart?
-Immortal Friendship laurel-crown'd
-The smiling Graces all surround
-    With ev'ry heav'nly Art.
+"To a Knot of Ungenerous Critics" by George Gordon, Lord Byron
+Rail on, Rail on, ye heartless crew!
+My strains were never meant for you;
+Remorseless Rancour still reveal,
+And damn the verse you cannot feel.
+Invoke those kindred passions' aid,
+Whose baleful stings your breasts pervade;
+Crush, if you can, the hopes of youth,
+Trampling regardless on the Truth:
+Truth's Records you consult in vain,
+She will not blast her native strain;
+She will assist her votary's cause,
+His will at least be her applause,
+Your prayer the gentle Power will spurn;
+To Fiction's motley altar turn,
+Who joyful in the fond address
+Her favoured worshippers will bless:
+And lo! she holds a magic glass,
+Where Images reflected pass,
+Bent on your knees the Boon receive--
+This will assist you to deceive--
+The glittering gift was made for you,
+Now hold it up to public view;
+Lest evil unforeseen betide,
+A Mask each canker'd brow shall hide,
+(Whilst Truth my sole desire is nigh,
+Prepared the danger to defy,)
+"There is the Maid's perverted name,
+And there the Poet's guilty Flame,
+Gloaming a deep phosphoric fire,
+Threatening--but ere it spreads, retire.
+Says Truth Up Virgins, do not fear!
+The Comet rolls its Influence here;
+'Tis Scandal's Mirror you perceive,
+These dazzling Meteors but deceive--
+Approach and touch--Nay do not turn
+It blazes there, but will not burn."--
+At once the shivering Mirror flies,
+Teeming no more with varnished Lies;
+The baffled friends of Fiction start,
+Too late desiring to depart--
+Truth poising high Ithuriel's spear
+Bids every Fiend unmask'd appear,
+The vizard tears from every face,
+And dooms them to a dire disgrace.
+For e'er they compass their escape,
+Each takes perforce a native shape--
+The Leader of the wrathful Band,
+Behold a portly Female stand!
+She raves, impelled by private pique,
+This mean unjust revenge to seek;
+From vice to save this virtuous Age,
+Thus does she vent indecent rage!
+What child has she of promise fair,
+Who claims a fostering Mother's care?
+Whose Innocence requires defence,
+Or forms at least a smooth pretence,
+Thus to disturb a harmless Boy,
+His humble hope, and peace annoy?
+She need not fear the amorous rhyme,
+Love will not tempt her future time,
+For her his wings have ceased to spread,
+No more he flutters round her head;
+Her day's Meridian now is past,
+The clouds of Age her Sun o'ercast;
+To her the strain was never sent,
+For feeling Souls alone 'twas meant--
+The verse she seized, unask'd, unbade,
+And damn'd, ere yet the whole was read!
+Yes! for one single erring verse,
+Pronounced an unrelenting Curse;
+Yes! at a first and transient view,
+Condemned a heart she never knew.--
+Can such a verdict then decide,
+Which springs from disappointed pride?
+Without a wondrous share of Wit,
+To judge is such a Matron fit?
+The rest of the censorious throng
+Who to this zealous Band belong,
+To her a general homage pay,
+And right or wrong her wish obey:
+Why should I point my pen of steel
+To break "such flies upon the wheel?"
+With minds to Truth and Sense unknown,
+Who dare not call their words their own.
+Rail on, Rail on, ye heartless Crew!
+Your Leader's grand design pursue:
+Secure behind her ample shield,
+Yours is the harvest of the field.--
+My path with thorns you cannot strew,
+Nay more, my warmest thanks are due;
+When such as you revile my Name,
+Bright beams the rising Sun of Fame,
+Chasing the shades of envious night,
+Outshining every critic Light.--
+Such, such as you will serve to show
+Each radiant tint with higher glow.
+Vain is the feeble cheerless toil,
+Your efforts on yourselves recoil;
+Then Glory still for me you raise,
+Yours is the Censure, mine the Praise.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 26°C, few clouds in Karachi 🇵🇰
+🌡️ 26°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
 - 🏆 **61** total stars earned
-- 🍴 **10** total forks
+- 🍴 **11** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -235,4 +283,4 @@ The smiling Graces all surround
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->September 26, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 27, 2025 at 06:23 AM GMT+5<!-- TIMESTAMP:END -->_
