@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/2/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/3/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 46 (Updated: 9/30/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 12 (Updated: 9/26/2025)
 <!-- HOT_REPOS:END -->
@@ -64,15 +64,14 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Make tie dye shirts
+Draw and color a Mandala
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,401 +80,306 @@ Make tie dye shirts
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Eloisa to Abelard." by Alexander Pope
-In these deep solitudes and awful cells,
-Where heavenly-pensive Contemplation dwells,
-And ever-musing Melancholy reigns,
-What means this tumult in a vestal's veins?
-Why rove my thoughts beyond this last retreat?
-Why feels my heart its long-forgotten heat?
-Yet, yet I love!--From Abelard it came,
-And Eloisa yet must kiss the name.
+"The Canterbury Tales. The Prioress's Tale." by Geoffrey Chaucer
+THE PROLOGUE.
 
-Dear fatal name! rest ever unreveal'd,
-Nor pass these lips in holy silence seal'd:
-Hide it, my heart, within that close disguise
-Where, mix'd with God's, his loved idea lies:
-Oh write it not, my hand!--the name appears
-Already written--wash it out, my tears!
-In vain lost Eloisa weeps and prays,
-Her heart still dictates, and her hand obeys.
+"WELL said, by corpus Domini," quoth our Host;
+"Now longe may'st thou saile by the coast,
+Thou gentle Master, gentle Marinere.
+God give the monk a thousand last quad year!
+Aha! fellows, beware of such a jape.
+The monk put in the manne's hood an ape,
+And in his wife's eke, by Saint Austin.
+Drawe no monkes more into your inn.
+But now pass over, and let us seek about,
+Who shall now telle first of all this rout
+Another tale;" and with that word he said,
+As courteously as it had been a maid;
+"My Lady Prioresse, by your leave,
+So that I wist I shoulde you not grieve,
+I woulde deeme that ye telle should
+A tale next, if so were that ye would.
+Now will ye vouchesafe, my lady dear?"
+"Gladly," quoth she; and said as ye shall hear.
 
-Relentless walls! whose darksome round contains
-Repentant sighs, and voluntary pains:
-Ye rugged rocks! which holy knees have worn;
-Ye grots and caverns, shagg'd with horrid thorn!
-Shrines! where their vigils pale-eyed virgins keep,
-And pitying saints, whose statues learn to weep!
-Though cold like you, unmoved and silent grown,
-I have not yet forgot myself to stone.
-All is not Heaven's while Abelard has part,
-Still rebel nature holds out half my heart;
-Nor prayers nor fasts its stubborn pulse restrain,
-Nor tears for ages taught to flow in vain.
+THE TALE.
 
-Soon as thy letters trembling I unclose,
-That well-known name awakens all my woes.
-Oh, name for ever sad! for ever dear!
-Still breathed in sighs, still usher'd with a tear.
-I tremble too, where'er my own I find,
-Some dire misfortune follows close behind.
-Line after line my gushing eyes o'erflow,
-Led through a sad variety of woe;
-Now warm in love, now withering in my bloom,
-Lost in a convent's solitary gloom!
-There stern religion quench'd the unwilling flame,
-There died the best of passions, Love and Fame.
+O Lord our Lord! thy name how marvellous
+Is in this large world y-spread!  (quoth she)
+For not only thy laude precious
+Performed is by men of high degree,
+But by the mouth of children thy bounte
+Performed is, for on the breast sucking
+Sometimes showe they thy herying.
 
-Yet write, oh! write me all, that I may join
-Griefs to thy griefs, and echo sighs to thine.
-Nor foes nor fortune take this power away;
-And is my Abelard less kind than they?
-Tears still are mine, and those I need not spare,
-Love but demands what else were shed in prayer;
-No happier task these faded eyes pursue;
-To read and weep is all they now can do.
+Wherefore in laud, as I best can or may
+Of thee, and of the white lily flow'r
+Which that thee bare, and is a maid alway,
+To tell a story I will do my labour;
+Not that I may increase her honour,
+For she herselven is honour and root
+Of bounte, next her son, and soules' boot.
 
-Then share thy pain, allow that sad relief;
-Ah, more than share it, give me all thy grief!
-Heaven first taught letters for some wretch's aid,
-Some banish'd lover, or some captive maid;
-They live, they speak, they breathe what love inspires,
-Warm from the soul, and faithful to its fires;
-The virgin's wish without her fears impart,
-Excuse the blush, and pour out all the heart,
-Speed the soft intercourse from soul to soul,
-And waft a sigh from Indus to the Pole.
+O mother maid, O maid and mother free!
+O bush unburnt, burning in Moses' sight,
+That ravished'st down from the deity,
+Through thy humbless, the ghost that in thee light;
+Of whose virtue, when he thine hearte light,
+Conceived was the Father's sapience;
+Help me to tell it to thy reverence.
 
-Thou know'st how guiltless first I met thy flame,
-When Love approach'd me under Friendship's name;
-My fancy form'd thee of angelic kind,
-Some emanation of the all-beauteous Mind.
-Those smiling eyes, attempering every ray,
-Shone sweetly lambent with celestial day.
-Guiltless I gazed; Heaven listen'd while you sung;
-And truths divine came mended from that tongue.
-From lips like those, what precept fail'd to move?
-Too soon they taught me 'twas no sin to love:
-Back through the paths of pleasing sense I ran,
-Nor wish'd an angel whom I loved a man.
-Dim and remote the joys of saints I see;
-Nor envy them that heaven I lose for thee.
+Lady! thy bounty, thy magnificence,
+Thy virtue, and thy great humility,
+There may no tongue express in no science:
+For sometimes, Lady! ere men pray to thee,
+Thou go'st before, of thy benignity,
+And gettest us the light, through thy prayere,
+To guiden us unto thy son so dear.
 
-How oft, when press'd to marriage, have I said,
-Curse on all laws but those which Love has made!
-Love, free as air, at sight of human ties,
-Spreads his light wings, and in a moment flies.
-Let wealth, let honour, wait the wedded dame,
-August her deed, and sacred be her fame;
-Before true passion all those views remove;
-Fame, wealth, and honour! what are you to Love?
-The jealous god, when we profane his fires,
-Those restless passions in revenge inspires,
-And bids them make mistaken mortals groan,
-Who seek in love for aught but love alone.
-Should at my feet the world's great master fall,
-Himself, his throne, his world, I'd scorn them all:
-Not Cæsar's empress would I deign to prove;
-No, make me mistress to the man I love;
-If there be yet another name more free,
-More fond than mistress, make me that to thee!
-Oh, happy state! when souls each other draw,
-When love is liberty, and nature law:
-All then is full, possessing and possess'd,
-No craving void left aching in the breast:
-Even thought meets thought, ere from the lips it part,
-And each warm wish springs mutual from the heart.
-This, sure, is bliss (if bliss on earth there be)
-And once the lot of Abelard and me.
+My conning is so weak, O blissful queen,
+For to declare thy great worthiness,
+That I not may the weight of it sustene;
+But as a child of twelvemonth old, or less,
+That can unnethes any word express,
+Right so fare I; and therefore, I you pray,
+Guide my song that I shall of you say.
 
-Alas, how changed! what sudden horrors rise!
-A naked lover bound and bleeding lies!
-Where, where was Eloise? her voice, her hand,
-Her poniard, had opposed the dire command.
-Barbarian, stay! that bloody stroke restrain;
-The crime was common, common be the pain.
-I can no more; by shame, by rage suppress'd,
-Let tears and burning blushes speak the rest.
+There was in Asia, in a great city,
+Amonges Christian folk, a Jewery,
+Sustained by a lord of that country,
+For foul usure, and lucre of villainy,
+Hateful to Christ, and to his company;
+And through the street men mighte ride and wend,
+For it was free, and open at each end.
 
-Canst thou forget that sad, that solemn day,
-When victims at yon altar's foot we lay?
-Canst thou forget what tears that moment fell,
-When, warm in youth, I bade the world farewell?
-As with cold lips I kiss'd the sacred veil,
-The shrines all trembled, and the lamps grew pale:
-Heaven scarce believed the conquest it survey'd,
-And saints with wonder heard the vows I made.
-Yet then, to those dread altars as I drew,
-Not on the cross my eyes were fix'd, but you:
-Not grace, or zeal, love only was my call,
-And if I lose thy love, I lose my all.
-Come! with thy looks, thy words, relieve my woe;
-Those still at least are left thee to bestow.
-Still on that breast enamour'd let me lie,
-Still drink delicious poison from thy eye,
-Pant on thy lip, and to thy heart be press'd;
-Give all thou canst--and let me dream the rest.
-Ah, no! instruct me other joys to prize,
-With other beauties charm my partial eyes,
-Full in my view set all the bright abode,
-And make my soul quit Abelard for God.
+A little school of Christian folk there stood
+Down at the farther end, in which there were
+Children an heap y-come of Christian blood,
+That learned in that schoole year by year
+Such manner doctrine as men used there;
+This is to say, to singen and to read,
+As smalle children do in their childhead.
 
-Ah, think at least thy flock deserves thy care,
-Plants of thy hand, and children of thy prayer.
-From the false world in early youth they fled,
-By thee to mountains, wilds, and deserts led.
-You raised these hallow'd walls; the desert smiled,
-And Paradise was open'd in the wild.
-No weeping orphan saw his father's stores
-Our shrines irradiate, or emblaze the floors;
-No silver saints, by dying misers given,
-Here bribed the rage of ill-requited Heaven:
-But such plain roofs as Piety could raise,
-And only vocal with the Maker's praise.
-In these lone walls, (their day's eternal bound)
-These moss-grown domes with spiry turrets crown'd,
-Where awful arches make a noonday night,
-And the dim windows shed a solemn light;
-Thy eyes diffused a reconciling ray,
-And gleams of glory brighten'd all the day.
-But now no face divine contentment wears,
-'Tis all blank sadness, or continual tears.
-See how the force of others' prayers I try,
-(Oh pious fraud of amorous charity!)
-But why should I on others' prayers depend?
-Come thou, my father, brother, husband, friend!
-Ah, let thy handmaid, sister, daughter move,
-And all those tender names in one--thy love!
-The darksome pines that, o'er yon rocks reclined,
-Wave high, and murmur to the hollow wind,
-The wandering streams that shine between the hills,
-The grots that echo to the tinkling rills,
-The dying gales that pant upon the trees,
-The lakes that quiver to the curling breeze;
-No more these scenes my meditation aid,
-Or lull to rest the visionary maid.
-But o'er the twilight groves and dusky caves,
-Long-sounding aisles, and intermingled graves,
-Black Melancholy sits, and round her throws
-A death-like silence, and a dread repose:
-Her gloomy presence saddens all the scene,
-Shades every flower, and darkens every green,
-Deepens the murmur of the falling floods,
-And breathes a browner horror on the woods.
+Among these children was a widow's son,
+A little clergion, seven year of age,
+That day by day to scholay was his won,
+And eke also, whereso he saw th' image
+Of Christe's mother, had he in usage,
+As him was taught, to kneel adown, and say
+Ave Maria as he went by the way.
 
-Yet here for ever, ever must I stay;
-Sad proof how well a lover can obey!
-Death, only death, can break the lasting chain;
-And here, even then, shall my cold dust remain;
-Here all its frailties, all its flames resign,
-And wait till 'tis no sin to mix with thine.
+Thus had this widow her little son y-taught
+Our blissful Lady, Christe's mother dear,
+To worship aye, and he forgot it not;
+For sely child will always soone lear.
+But aye when I remember on this mattere,
+Saint Nicholas  stands ever in my presence;
+For he so young to Christ did reverence.
 
-Ah, wretch! believed the spouse of God in vain,
-Confess'd within the slave of love and man.
-Assist me, Heaven! but whence arose that prayer?
-Sprung it from piety, or from despair?
-Even here, where frozen chastity retires,
-Love finds an altar for forbidden fires.
-I ought to grieve, but cannot what I ought;
-I mourn the lover, not lament the fault;
-I view my crime, but kindle at the view,
-Repent old pleasures, and solicit new;
-Now turn'd to Heaven, I weep my past offence,
-Now think of thee, and curse my innocence.
-Of all affliction taught a lover yet,
-'Tis sure the hardest science to forget!
-How shall I lose the sin, yet keep the sense,
-And love the offender, yet detest the offence?
-How the dear object from the crime remove,
-Or how distinguish penitence from love?
-Unequal task! a passion to resign,
-For hearts so touch'd, so pierced, so lost as mine.
-Ere such a soul regains its peaceful state,
-How often must it love, how often hate!
-How often hope, despair, resent, regret,
-Conceal, disdain,--do all things but forget!
-But let Heaven seize it, all at once 'tis fired;
-Not touch'd, but rapt; not waken'd, but inspired!
-Oh come! oh teach me nature to subdue,
-Renounce my love, my life, myself--and you.
-Fill my fond heart with God alone, for He
-Alone can rival, can succeed to thee.
+This little child his little book learning,
+As he sat in the school at his primere,
+He Alma redemptoris  hearde sing,
+As children learned their antiphonere;
+And as he durst, he drew him nere and nere,
+And hearken'd aye the wordes and the note,
+Till he the firste verse knew all by rote.
 
-How happy is the blameless Vestal's lot!
-The world forgetting, by the world forgot:
-Eternal sunshine of the spotless mind!
-Each prayer accepted, and each wish resign'd;
-Labour and rest, that equal periods keep;
-'Obedient slumbers that can wake and weep;'
-Desires composed, affections ever even;
-Tears that delight, and sighs that waft to heaven.
-Grace shines around her with serenest beams,
-And whispering angels prompt her golden dreams.
-For her the unfading rose of Eden blooms,
-And wings of seraphs shed divine perfumes;
-For her the spouse prepares the bridal ring,
-For her white virgins hymeneals sing,
-To sounds of heavenly harps she dies away,
-And melts in visions of eternal day.
+Nought wist he what this Latin was tosay,
+For he so young and tender was of age;
+But on a day his fellow gan he pray
+To expound him this song in his language,
+Or tell him why this song was in usage:
+This pray'd he him to construe and declare,
+Full oftentime upon his knees bare.
 
-Far other dreams my erring soul employ,
-Far other raptures, of unholy joy:
-When at the close of each sad, sorrowing day,
-Fancy restores what vengeance snatch'd away,
-Then conscience sleeps, and leaving nature free,
-All my loose soul unbounded springs to thee.
-O curst, dear horrors of all-conscious night!
-How glowing guilt exalts the keen delight!
-Provoking demons all restraint remove,
-And stir within me every source of love.
-I hear thee, view thee, gaze o'er all thy charms,
-And round thy phantom glue my clasping arms.
-I wake:--no more I hear, no more I view,
-The phantom flies me, as unkind as you.
-I call aloud; it hears not what I say:
-I stretch my empty arms; it glides away.
-To dream once more I close my willing eyes;
-Ye soft illusions, dear deceits, arise!
-Alas, no more! methinks we wandering go
-Through dreary wastes, and weep each other's woe,
-Where round some mouldering tower pale ivy creeps,
-And low-brow'd rocks hang nodding o'er the deeps.
-Sudden you mount, you beckon from the skies;
-Clouds interpose, waves roar, and winds arise.
-I shriek, start up, the same sad prospect find,
-And wake to all the griefs I left behind.
+His fellow, which that elder was than he,
+Answer'd him thus: "This song, I have heard say,
+Was maked of our blissful Lady free,
+Her to salute, and eke her to pray
+To be our help and succour when we dey.
+I can no more expound in this mattere:
+I learne song, I know but small grammere."
 
-For thee the Fates, severely kind, ordain
-A cool suspense from pleasure and from pain;
-Thy life a long dead calm of fix'd repose;
-No pulse that riots, and no blood that glows.
-Still as the sea, ere winds were taught to blow,
-Or moving spirit bade the waters flow;
-Soft as the slumbers of a saint forgiven,
-And mild as opening gleams of promised heaven.
+"And is this song y-made in reverence
+Of Christe's mother?" said this innocent;
+Now certes I will do my diligence
+To conne it all, ere Christemas be went;
+Though that I for my primer shall be shent,
+And shall be beaten thries in an hour,
+I will it conne, our Lady to honour."
 
-Come, Abelard! for what hast thou to dread?
-The torch of Venus burns not for the dead.
-Nature stands check'd; Religion disapproves;
-Even thou art cold--yet Eloisa loves.
-Ah hopeless, lasting flames! like those that burn
-To light the dead, and warm the unfruitful urn.
+His fellow taught him homeward privily
+From day to day, till he coud it by rote,
+And then he sang it well and boldely
+From word to word according with the note;
+Twice in a day it passed through his throat;
+To schoole-ward, and homeward when he went;
+On Christ's mother was set all his intent.
 
-What scenes appear where'er I turn my view?
-The dear ideas, where I fly, pursue,
-Rise in the grove, before the altar rise,
-Stain all my soul, and wanton in my eyes.
-I waste the matin lamp in sighs for thee,
-Thy image steals between my God and me,
-Thy voice I seem in every hymn to hear,
-With every bead I drop too soft a tear.
-When from the censer clouds of fragrance roll,
-And swelling organs lift the rising soul,
-One thought of thee puts all the pomp to flight,
-Priests, tapers, temples, swim before my sight:
-In seas of flame my plunging soul is drown'd,
-While altars blaze, and angels tremble round.
+As I have said, throughout the Jewery,
+This little child, as he came to and fro,
+Full merrily then would he sing and cry,
+O Alma redemptoris, evermo';
+The sweetness hath his hearte pierced so
+Of Christe's mother, that to her to pray
+He cannot stint of singing by the way.
 
-While prostrate here in humble grief I lie,
-Kind, virtuous drops just gathering in my eye,
-While praying, trembling, in the dust I roll,
-And dawning grace is opening on my soul:
-Come, if thou dar'st, all charming as thou art!
-Oppose thyself to heaven; dispute my heart;
-Come, with one glance of those deluding eyes
-Blot out each bright idea of the skies;
-Take back that grace, those sorrows, and those tears;
-Take back my fruitless penitence and prayers;
-Snatch me, just mounting, from the blest abode;
-Assist the fiends, and tear me from my God!
+Our firste foe, the serpent Satanas,
+That hath in Jewes' heart his waspe's nest,
+Upswell'd and said, "O Hebrew people, alas!
+Is this to you a thing that is honest,
+That such a boy shall walken as him lest
+In your despite, and sing of such sentence,
+Which is against your lawe's reverence?"
 
-No, fly me, fly me, far as pole from pole;
-Rise Alps between us! and whole oceans roll!
-Ah, come not, write not, think not once of me,
-Nor share one pang of all I felt for thee!
-Thy oaths I quit, thy memory resign;
-Forget, renounce me, hate whate'er was mine.
-Fair eyes, and tempting looks (which yet I view)
-Long loved, adored ideas, all adieu!
-O Grace serene! O Virtue heavenly fair!
-Divine oblivion of low-thoughted care!
-Fresh blooming Hope, gay daughter of the sky!
-And Faith, our early immortality!
-Enter, each mild, each amicable guest;
-Receive, and wrap me in eternal rest!
+From thenceforth the Jewes have conspired
+This innocent out of the world to chase;
+A homicide thereto have they hired,
+That in an alley had a privy place,
+And, as the child gan forth by for to pace,
+This cursed Jew him hent, and held him fast
+And cut his throat, and in a pit him cast.
 
-See in her cell sad Eloisa spread,
-Propp'd on some tomb, a neighbour of the dead.
-In each low wind methinks a spirit calls,
-And more than echoes talk along the walls.
-Here, as I watch'd the dying lamps around,
-From yonder shrine I heard a hollow sound.
-'Come, sister, come!' (it said, or seem'd to say)
-'Thy place is here, sad sister, come away!
-Once like thyself, I trembled, wept, and pray'd,
-Love's victim then, though now a sainted maid:
-But all is calm in this eternal sleep;
-Here Grief forgets to groan, and Love to weep,
-Even Superstition loses every fear:
-For God, not man, absolves our frailties here.'
+I say that in a wardrobe he him threw,
+Where as the Jewes purged their entrail.
+O cursed folk! O Herodes all new!
+What may your evil intente you avail?
+Murder will out, certain it will not fail,
+And namely where th' honour of God shall spread;
+The blood out crieth on your cursed deed.
 
-I come, I come! prepare your roseate bowers,
-Celestial palms, and ever-blooming flowers.
-Thither, where sinners may have rest, I go,
-Where flames refined in breasts seraphic glow:
-Thou, Abelard! the last sad office pay,
-And smooth my passage to the realms of day;
-See my lips tremble, and my eyeballs roll,
-Suck my last breath, and catch my flying soul!
-Ah, no!--in sacred vestments may'st thou stand,
-The hallow'd taper trembling in thy hand,
-Present the cross before my lifted eye,
-Teach me at once, and learn of me to die.
-Ah, then thy once-loved Eloisa see!
-It will be then no crime to gaze on me.
-See from my cheek the transient roses fly!
-See the last sparkle languish in my eye!
-Till every motion, pulse, and breath be o'er;
-And even my Abelard be loved no more.
-O Death all-eloquent! you only prove
-What dust we doat on when 'tis man we love.
+O martyr souded to virginity,
+Now may'st thou sing, and follow ever-in-one
+The white Lamb celestial (quoth she),
+Of which the great Evangelist Saint John
+In Patmos wrote, which saith that they that gon
+Before this Lamb, and sing a song all new,
+That never fleshly woman they ne knew.
 
-Then too, when fate shall thy fair frame destroy,
-(That cause of all my guilt, and all my joy!)
-In trance ecstatic may thy pangs be drown'd,
-Bright clouds descend, and angels watch thee round,
-From opening skies may streaming glories shine,
-And saints embrace thee with a love like mine.
+This poore widow waited all that night
+After her little child, but he came not;
+For which, as soon as it was daye's light,
+With face pale, in dread and busy thought,
+She hath at school and elleswhere him sought,
+Till finally she gan so far espy,
+That he was last seen in the Jewery.
 
-May one kind grave unite each hapless name,
-And graft my love immortal on thy fame!
-Then, ages hence, when all my woes are o'er,
-When this rebellious heart shall beat no more;
-If ever chance two wandering lovers brings
-To Paraclete's white walls and silver springs,
-O'er the pale marble shall they join their heads,
-And drink the falling tears each other sheds;
-Then sadly say,--with mutual pity moved,
-'Oh, may we never love as these have loved!'
-From the full choir when loud hosannas rise,
-And swell the pomp of dreadful sacrifice,
-Amid that scene, if some relenting eye
-Glance on the stone where our cold relics lie,
-Devotion's self shall steal a thought from heaven,
-One human tear shall drop, and be forgiven.
-And sure, if Fate some future bard shall join
-In sad similitude of griefs to mine,
-Condemn'd whole years in absence to deplore,
-And image charms he must behold no more;
-Such if there be, who love so long, so well,
-Let him our sad, our tender story tell;
-The well-sung woes will soothe my pensive ghost;
-He best can paint them who shall feel them most.
+With mother's pity in her breast enclosed,
+She went, as she were half out of her mind,
+To every place, where she hath supposed
+By likelihood her little child to find:
+And ever on Christ's mother meek and kind
+She cried, and at the laste thus she wrought,
+Among the cursed Jewes she him sought.
+
+She freined, and she prayed piteously
+To every Jew that dwelled in that place,
+To tell her, if her childe went thereby;
+They saide, "Nay;" but Jesus of his grace
+Gave in her thought, within a little space,
+That in that place after her son she cried,
+Where he was cast into a pit beside.
+
+O greate God, that preformest thy laud
+By mouth of innocents, lo here thy might!
+This gem of chastity, this emeraud,
+And eke of martyrdom the ruby bright,
+Where he with throat y-carven lay upright,
+He Alma Redemptoris gan to sing
+So loud, that all the place began to ring.
+
+The Christian folk, that through the streete went,
+In came, for to wonder on this thing:
+And hastily they for the provost sent.
+He came anon withoute tarrying,
+And heried Christ, that is of heaven king,
+And eke his mother, honour of mankind;
+And after that the Jewes let he bind.
+
+With torment, and with shameful death each one
+The provost did these Jewes for to sterve
+That of this murder wist, and that anon;
+He woulde no such cursedness observe
+Evil shall have that evil will deserve;
+Therefore with horses wild he did them draw,
+And after that he hung them by the law.
+
+The child, with piteous lamentation,
+Was taken up, singing his song alway:
+And with honour and great procession,
+They crry him unto the next abbay.
+His mother swooning by the biere lay;
+Unnethes might the people that were there
+This newe Rachel bringe from his bier.
+
+Upon his biere lay this innocent
+Before the altar while the masses last';
+And, after that, th' abbot with his convent
+Have sped them for to bury him full fast;
+And when they holy water on him cast,
+Yet spake this child, when sprinkled was the water,
+And sang, O Alma redemptoris mater!
+
+This abbot, which that was a holy man,
+As monkes be, or elles ought to be,
+This younger child to conjure he began,
+And said; "O deare child! I halse thee,
+In virtue of the holy Trinity;
+Tell me what is thy cause for to sing,
+Since that thy throat is cut, to my seeming."
+
+"My throat is cut unto my necke-bone,"
+Saide this child, "and, as by way of kind,
+I should have died, yea long time agone;
+But Jesus Christ, as ye in bookes find,
+Will that his glory last and be in mind;
+And, for the worship of his mother dear,
+Yet may I sing O Alma loud and clear.
+
+"This well of mercy, Christe's mother sweet,
+I loved alway, after my conning:
+And when that I my life should forlete,
+To me she came, and bade me for to sing
+This anthem verily in my dying,
+As ye have heard; and, when that I had sung,
+Me thought she laid a grain upon my tongue.
+
+"Wherefore I sing, and sing I must certain,
+In honour of that blissful maiden free,
+Till from my tongue off taken is the grain.
+And after that thus saide she to me;
+'My little child, then will I fetche thee,
+When that the grain is from thy tongue take:
+Be not aghast, I will thee not forsake.'"
+
+This holy monk, this abbot him mean I,
+His tongue out caught, and took away the grain;
+And he gave up the ghost full softely.
+And when this abbot had this wonder seen,
+His salte teares trickled down as rain:
+And groff he fell all flat upon the ground,
+And still he lay, as he had been y-bound.
+
+The convent lay eke on the pavement
+Weeping, and herying Christ's mother dear.
+And after that they rose, and forth they went,
+And took away this martyr from his bier,
+And in a tomb of marble stones clear
+Enclosed they his little body sweet;
+Where he is now, God lene us for to meet.
+
+O younge Hugh of Lincoln! slain also
+With cursed Jewes, -- as it is notable,
+For it is but a little while ago, --
+Pray eke for us, we sinful folk unstable,
+That, of his mercy, God so merciable
+On us his greate mercy multiply,
+For reverence of his mother Mary.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, broken clouds in Karachi 🇵🇰
+🌡️ 27°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -572,4 +476,4 @@ He best can paint them who shall feel them most.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 3, 2025 at 06:25 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 4, 2025 at 06:22 AM GMT+5<!-- TIMESTAMP:END -->_
