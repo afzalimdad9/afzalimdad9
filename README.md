@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/5/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/6/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 46 (Updated: 9/30/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 12 (Updated: 9/26/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Create a meal plan for the coming week
+Make bread from scratch
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,31 +82,43 @@ Create a meal plan for the coming week
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Sowing" by Edward Thomas
-IT was a perfect day
-For sowing; just
-As sweet and dry was the ground
-As tobacco-dust.
+"ON THE Dutchess of Grafton Under the Name of Alinda." by Anne Killigrew
+A SONG.
 
-I tasted deep the hour
-Between the far
-Owl's chuckling first soft cry
-And the first star.
+I.
+TH'ambitious Eye that seeks alone,
+Where Beauties Wonders most are shown;
+Of all that bounteous Heaven displays,
+Let him on bright Alinda gaze;
+And in her high Example see,
+All can admir'd, or wisht-for, be !
+II.
+An unmatch't Form, Mind like endow'd,
+Estate, and Title great and proud;
+A Charge Heaven dares to few commit,
+So few, like her, can manage it;
+Without all Blame or Envy bear.
+The being Witty, Great, and Fair !
 
-A long stretched hour it was;
-Nothing undone
-Remained; the early seeds
-All safely sown.
-
-And now, hark at the rain,
-Windless and light,
-Half a kiss, half a tear,
-Saying good-night.
+III.
+So well these Murd'ring Weapons weild,
+As first Herself with them to shield,
+Then slaughter none in proud Disport,
+Destroy those she invites to Gourt:
+Great are her Charmes, but Vertue more,
+She wounds no Hearts, though All adore.
+IV.
+'Tis Am'rous Beauty Love invites,
+A Passion, like it self, excites:
+The Paragon, though all admire,
+Kindles in none a fond desire:
+No more than those the Kings Renown
+And State applaud, affect his Crown.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 27°C, few clouds in Karachi 🇵🇰
+🌡️ 26°C, clear sky in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -199,4 +215,4 @@ Saying good-night.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 6, 2025 at 06:27 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 7, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
