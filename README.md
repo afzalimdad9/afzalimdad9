@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/9/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 12 (Updated: 10/8/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/8/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 46 (Updated: 9/30/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,12 +64,15 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Make a scrapbook with pictures of your favorite memories
+Resolve a problem you've been putting off
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,16 +81,82 @@ Make a scrapbook with pictures of your favorite memories
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Epitaph. for One Who Would Not Be Buried in Westminster Abbey." by Alexander Pope
-Heroes and kings! your distance keep:
-In peace let one poor poet sleep,
-Who never flatter'd folks like you:
-Let Horace blush, and Virgil too.
+"Upon the saying that my VERSES were made by another." by Anne Killigrew
+NExt Heaven my Vows to thee (O Sacred Muse! )
+I offer'd up, nor didst thou them refuse.
+  O Queen of Verse, said I, if thou'lt inspire,
+And warm my Soul with thy Poetique Fire,
+No Love of Gold shall share with thee my Heart,
+Or yet Ambition in my Brest have Part,
+More Rich, more Noble I will ever hold
+The Muses Laurel, than a Crown of Gold.
+An Undivided Sacrifice I'le lay
+Upon thine Altar, Soul and Body pay;
+Thou shalt my Pleasure, my Employment be,
+My All I'le make a Holocaust to thee.
+
+  The Deity that ever does attend
+Prayers so sincere, to mine did condescend.
+I writ, and the Judicious prais'd my Pen:
+Could any doubt Insuing Glory then ?
+
+What pleasing Raptures fill'd my Ravisht Sense ?
+How strong, how Sweet, Fame, was thy Influence ?
+And thine, False Hope, that to my flatter'd sight
+Didst Glories represent so Near, and Bright ?
+By thee deceiv'd, methought, each Verdant Tree,
+Apollos transform'd Daphne seem'd to be;
+And ev'ry fresher Branch, and ev'ry Bow
+Appear'd as Garlands to empale my Brow.
+The Learn'd in Love say, Thus the Winged Boy
+Does first approach, drest up in welcome Joy;
+At first he to the Cheated Lovers sight
+Nought represents, but Rapture and Delight,
+Alluring Hopes, Soft Fears, which stronger bind
+Their Hearts, than when they more assurance find.
+
+  Embolden'd thus, to Fame I did commit,
+(By some few hands) my most Unlucky Wit.
+But, ah, the sad effects that from it came !
+What ought t'have brought me Honour, brought me shame !
+Like Esops Painted Jay I seem'd to all,
+Adorn'd in Plumes, I not my own could call:
+
+Rifl'd like her, each one my Feathers tore,
+And, as they thought, unto the Owner bore.
+My Laurels thus an Others Brow adorn'd,
+My Numbers they Admir'd, but Me they scorn'd:
+An others Brow, that had so rich a store
+Of Sacred Wreaths, that circled it before;
+Where mine quite lost, (like a small stream that ran
+Into a Vast and Boundless Ocean)
+Was swallow'd up, with what it joyn'd and drown'd,
+And that Abiss yet no Accession found.
+
+  Orinda, (Albions and her Sexes Grace)
+Ow'd not her Glory to a Beauteous Face,
+It was her Radiant Soul that shon With-in,
+Which struk a Lustre through her Outward Skin;
+That did her Lips and Cheeks with Roses dy,
+Advanc't her Height, and Sparkled in her Eye.
+Nor did her Sex at all obstruct her Fame,
+But higher 'mong the Stars it fixt her Name;
+What she did write, not only all allow'd,
+But ev'ry Laurel, to her Laurel, bow'd !
+
+  Th'Envious Age, only to Me alone,
+Will not allow, what I do write, my Own,
+But let 'em Rage, and 'gainst a Maide Conspire,
+So Deathless Numbers from my Tuneful Lyre
+Do ever flow; so Phebus I by thee
+Divinely Inspired and possest may be;
+I willingly accept Cassandras Fate,
+To speak the Truth, although believ'd too late
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 22°C, smoke in Karachi 🇵🇰
+🌡️ 23°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -184,4 +253,4 @@ Let Horace blush, and Virgil too.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 9, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 10, 2025 at 06:27 AM GMT+5<!-- TIMESTAMP:END -->_
