@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/11/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 10/10/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/10/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 12 (Updated: 10/8/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,12 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Listen to a new music genre
+Visit your past teachers
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,11 +78,57 @@ Listen to a new music genre
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Epigram on an Old Lady Who Had Some Curious Notions Respecting the Soul" by George Gordon, Lord Byron
-IN Nottingham county there lives at Swan Green,
-  As curst an old Lady as ever was seen;
-And when she does die, which I hope will be soon,
-  She firmly believes she will go to the Moon!
+"Francesca of Rimini" by George Gordon, Lord Byron
+FROM THE INFERNO OF DANTE.
+
+CANTO THE FIFTH.
+
+"The Land where I was born sits by the Seas
+  Upon that shore to which the Po descends,
+  With all his followers, in search of peace.
+Love, which the gentle heart soon apprehends,
+  Seized him for the fair person which was ta'en
+  From me, and me even yet the mode offends.
+Love, who to none beloved to love again
+  Remits, seized me with wish to please, so strong,
+  That, as thou see'st, yet, yet it doth remain.
+Love to one death conducted us along,
+  But Caina waits for him our life who ended:"
+  These were the accents uttered by her tongue.--
+Since I first listened to these Souls offended,
+  I bowed my visage, and so kept it till--
+  'What think'st thou?' said the bard; when I unbended,
+And recommenced: 'Alas! unto such ill
+  How many sweet thoughts, what strong ecstacies,
+  Led these their evil fortune to fulfill!'
+And then I turned unto their side my eyes,
+  And said, 'Francesca, thy sad destinies
+  Have made me sorrow till the tears arise.
+But tell me, in the Season of sweet sighs,
+  By what and how thy Love to Passion rose,
+  So as his dim desires to recognize?'
+Then she to me: 'The greatest of all woes
+  Is to remind us of our happy days
+  In misery, and that thy teacher knows.
+But if to learn our Passion's first root preys
+  Upon thy spirit with such Sympathy,
+  I will do even as he who weeps and says.
+We read one day for pastime, seated nigh,
+  Of Lancilot, how Love enchained him too.
+  We were alone, quite unsuspiciously.
+But oft our eyes met, and our Cheeks in hue
+  All o'er discoloured by that reading were;
+  But one point only wholly us o'erthrew;
+When we read the long-sighed-for smile of her,
+  To be thus kissed by such devoted lover,
+  He, who from me can be divided ne'er,
+Kissed my mouth, trembling in the act all over:
+  Accurséd was the book and he who wrote!
+  That day no further leaf we did uncover.'
+While thus one Spirit told us of their lot,
+  The other wept, so that with Pity's thralls
+  I swooned, as if by Death I had been smote,
+And fell down even as a dead body falls."
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -184,4 +230,4 @@ And when she does die, which I hope will be soon,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 11, 2025 at 06:23 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 12, 2025 at 06:37 AM GMT+5<!-- TIMESTAMP:END -->_
