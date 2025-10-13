@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,9 +28,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/11/2025)
+- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 13 (Updated: 10/12/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/12/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 10/10/2025)
-- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 12 (Updated: 10/8/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -64,12 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Visit your past teachers
+Repaint a room in your house
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,68 +82,47 @@ Visit your past teachers
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Francesca of Rimini" by George Gordon, Lord Byron
-FROM THE INFERNO OF DANTE.
-
-CANTO THE FIFTH.
-
-"The Land where I was born sits by the Seas
-  Upon that shore to which the Po descends,
-  With all his followers, in search of peace.
-Love, which the gentle heart soon apprehends,
-  Seized him for the fair person which was ta'en
-  From me, and me even yet the mode offends.
-Love, who to none beloved to love again
-  Remits, seized me with wish to please, so strong,
-  That, as thou see'st, yet, yet it doth remain.
-Love to one death conducted us along,
-  But Caina waits for him our life who ended:"
-  These were the accents uttered by her tongue.--
-Since I first listened to these Souls offended,
-  I bowed my visage, and so kept it till--
-  'What think'st thou?' said the bard; when I unbended,
-And recommenced: 'Alas! unto such ill
-  How many sweet thoughts, what strong ecstacies,
-  Led these their evil fortune to fulfill!'
-And then I turned unto their side my eyes,
-  And said, 'Francesca, thy sad destinies
-  Have made me sorrow till the tears arise.
-But tell me, in the Season of sweet sighs,
-  By what and how thy Love to Passion rose,
-  So as his dim desires to recognize?'
-Then she to me: 'The greatest of all woes
-  Is to remind us of our happy days
-  In misery, and that thy teacher knows.
-But if to learn our Passion's first root preys
-  Upon thy spirit with such Sympathy,
-  I will do even as he who weeps and says.
-We read one day for pastime, seated nigh,
-  Of Lancilot, how Love enchained him too.
-  We were alone, quite unsuspiciously.
-But oft our eyes met, and our Cheeks in hue
-  All o'er discoloured by that reading were;
-  But one point only wholly us o'erthrew;
-When we read the long-sighed-for smile of her,
-  To be thus kissed by such devoted lover,
-  He, who from me can be divided ne'er,
-Kissed my mouth, trembling in the act all over:
-  Accurséd was the book and he who wrote!
-  That day no further leaf we did uncover.'
-While thus one Spirit told us of their lot,
-  The other wept, so that with Pity's thralls
-  I swooned, as if by Death I had been smote,
-And fell down even as a dead body falls."
+"A Descriptive Poem on the Silvery Tay" by William Topaz McGonagall
+Beautiful silvery Tay,
+With your landscapes, so lovely and gay,
+Along each side of your waters, to Perth all the way;
+No other river in the world has got scenery more fine,
+Only I am told the beautiful Rhine,
+Near to Wormit Bay, it seems very fine,
+Where the Railway Bridge is towering above its waters sublime,
+And the beautiful ship Mars,
+With her Juvenile Tare,
+Both lively and gay,
+Does carelessly lie By night and by day,
+In the beautiful Bay
+Of the silvery Tay.
+Beautiful, beautiful silvery Tay,
+Thy scenery is enchanting on a fine summer day,
+Near by Balnerino it is beautiful to behold,
+When the trees are in full bloom and the cornfields seems like gold -
+And nature's face seems gay,
+And the lambkins they do play,
+And the humming bee is on the wing,
+It is enough to make one sing,
+While they carelessly do stray,
+Along the beautiful banks of the silvery Tay,
+Beautiful silvery Tay,
+Rolling smoothly on your way,
+Near by Newport, as clear as the day,
+Thy scenery around is charming I'll be bound...
+And would make the heart of any one feel light and gay on a fine summer day,
+To view the beautiful scenery along the banks of the silvery Tay.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 22°C, smoke in Karachi 🇵🇰
+🌡️ 20°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **63** total stars earned
-- 🍴 **10** total forks
+- 🏆 **64** total stars earned
+- 🍴 **11** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -230,4 +213,4 @@ And fell down even as a dead body falls."
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 12, 2025 at 06:37 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 13, 2025 at 06:40 AM GMT+5<!-- TIMESTAMP:END -->_
