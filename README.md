@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/13/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 13 (Updated: 10/12/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/12/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 10/10/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,16 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Repaint a room in your house
+Learn GraphQL
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -82,41 +78,108 @@ Repaint a room in your house
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"A Descriptive Poem on the Silvery Tay" by William Topaz McGonagall
-Beautiful silvery Tay,
-With your landscapes, so lovely and gay,
-Along each side of your waters, to Perth all the way;
-No other river in the world has got scenery more fine,
-Only I am told the beautiful Rhine,
-Near to Wormit Bay, it seems very fine,
-Where the Railway Bridge is towering above its waters sublime,
-And the beautiful ship Mars,
-With her Juvenile Tare,
-Both lively and gay,
-Does carelessly lie By night and by day,
-In the beautiful Bay
-Of the silvery Tay.
-Beautiful, beautiful silvery Tay,
-Thy scenery is enchanting on a fine summer day,
-Near by Balnerino it is beautiful to behold,
-When the trees are in full bloom and the cornfields seems like gold -
-And nature's face seems gay,
-And the lambkins they do play,
-And the humming bee is on the wing,
-It is enough to make one sing,
-While they carelessly do stray,
-Along the beautiful banks of the silvery Tay,
-Beautiful silvery Tay,
-Rolling smoothly on your way,
-Near by Newport, as clear as the day,
-Thy scenery around is charming I'll be bound...
-And would make the heart of any one feel light and gay on a fine summer day,
-To view the beautiful scenery along the banks of the silvery Tay.
+"The Teacher's Monologue" by Charlotte Bronte
+The room is quiet, thoughts alone
+People its mute tranquillity;
+The yoke put on, the long task done,­
+I am, as it is bliss to be,
+Still and untroubled. Now, I see,
+For the first time, how soft the day
+O'er waveless water, stirless tree,
+Silent and sunny, wings its way.
+Now, as I watch that distant hill,
+So faint, so blue, so far removed,
+Sweet dreams of home my heart may fill,
+That home where I am known and loved:
+It lies beyond; yon azure brow
+Parts me from all Earth holds for me;
+And, morn and eve, my yearnings flow
+Thitherward tending, changelessly.
+My happiest hours, aye ! all the time,
+I love to keep in memory,
+Lapsed among moors, ere life's first prime
+Decayed to dark anxiety.
+
+Sometimes, I think a narrow heart
+Makes me thus mourn those far away,
+And keeps my love so far apart
+From friends and friendships of to-day;
+Sometimes, I think 'tis but a dream
+I measure up so jealously,
+All the sweet thoughts I live on seem
+To vanish into vacancy:
+And then, this strange, coarse world around
+Seems all that's palpable and true;
+And every sight, and every sound,
+Combines my spirit to subdue
+To aching grief, so void and lone
+Is Life and Earth­so worse than vain,
+The hopes that, in my own heart sown,
+And cherished by such sun and rain
+As Joy and transient Sorrow shed,
+Have ripened to a harvest there:
+Alas ! methinks I hear it said,
+"Thy golden sheaves are empty air."
+All fades away; my very home
+I think will soon be desolate;
+I hear, at times, a warning come
+Of bitter partings at its gate;
+And, if I should return and see
+The hearth-fire quenched, the vacant chair;
+And hear it whispered mournfully,
+That farewells have been spoken there,
+What shall I do, and whither turn ?
+Where look for peace ? When cease to mourn ?
+
+'Tis not the air I wished to play,
+The strain I wished to sing;
+My wilful spirit slipped away
+And struck another string.
+I neither wanted smile nor tear,
+Bright joy nor bitter woe,
+But just a song that sweet and clear,
+Though haply sad, might flow.
+
+A quiet song, to solace me
+When sleep refused to come;
+A strain to chase despondency,
+When sorrowful for home.
+In vain I try; I cannot sing;
+All feels so cold and dead;
+No wild distress, no gushing spring
+Of tears in anguish shed;
+
+But all the impatient gloom of one
+Who waits a distant day,
+When, some great task of suffering done,
+Repose shall toil repay.
+For youth departs, and pleasure flies,
+And life consumes away,
+And youth's rejoicing ardour dies
+Beneath this drear delay;
+
+And Patience, weary with her yoke,
+Is yielding to despair,
+And Health's elastic spring is broke
+Beneath the strain of care.
+Life will be gone ere I have lived;
+Where now is Life's first prime ?
+I've worked and studied, longed and grieved,
+Through all that rosy time.
+
+To toil, to think, to long, to grieve,­
+Is such my future fate ?
+The morn was dreary, must the eve
+Be also desolate ?
+Well, such a life at least makes Death
+A welcome, wished-for friend;
+Then, aid me, Reason, Patience, Faith,
+To suffer to the end !
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 20°C, smoke in Karachi 🇵🇰
+🌡️ 24°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -213,4 +276,4 @@ To view the beautiful scenery along the banks of the silvery Tay.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 13, 2025 at 06:40 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 14, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
