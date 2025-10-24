@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/22/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/23/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 13 (Updated: 10/12/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 10/10/2025)
 <!-- HOT_REPOS:END -->
@@ -64,13 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Create a compost pile
+Solve a Rubik's cube
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -79,36 +78,49 @@ Create a compost pile
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Psalm XIX: The Heavens Declare Thy Glory, Lord" by Isaac Watts
-The heavens declare thy glory, Lord,
-In every star thy wisdom shines;
-But when our eyes behold thy word,
-We read thy name in fairer lines.
+"The Man And His Horse" by Anne Kingsmill Finch
+Within a Meadow, on the way,
+A sordid Churl resolv'd to stay,
+And give his Horse a Bite;
+Purloining so his Neighbours Hay,
+That at the Inn he might not pay
+For Forage all the Night.
 
-The rolling sun, the changing light,
-And night and day, thy power confess;
-But the blest volume thou hast writ
-Reveals thy justice and thy grace.
+With Heart's content th' unloaded Steed
+Began to neigh, and frisk, and feed;
+For nothing more he car'd,
+Since none of all his Master's breed
+E'er found such Pasture, at their need,
+Or half so well had far'd.
 
-Sun, moon, and stars convey thy praise
-Round the whole earth, and never stand;
-So when thy truth began its race,
-It touched and glanced on every land.
+When, in the turning of a Hand,
+Out comes the Owner of the Land,
+And do's the Trespass eye;
+Which puts poor Bayard to a Stand,
+For now his Master do's command
+Him to return and fly.
 
-Nor shall thy spreading gospel rest
-Till through the world thy truth has run
-Till Christ has all the nations blest,
-That see the light or feel the sun.
+But Hunger quick'ning up his Wit,
+And Grass being sweeter than the Bit,
+He to the Clown reply'd;
+Shall I for you this Dinner quit,
+Who to my Back hard Burdens fit,
+And to the Death wou'd ride?
 
-Great Sun of righteousness, arise,
-Bless the dark world with heavenly light:
-Thy gospel makes the simple wise;
-Thy laws are pure, thy judgments right.
+No; shou'd I as a Stray be found,
+And seiz'd upon forbidden Ground,
+I'll on this Spot stand still;
+For tho' new Riders shou'd abound,
+(Or did Mankind this Field surround)
+They cou'd but use me ill.
+
+Urge no Man to despair; lest in the Fit
+He with some Counterblow thy Head may hit.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 24°C, haze in Karachi 🇵🇰
+🌡️ 20°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -205,4 +217,4 @@ Thy laws are pure, thy judgments right.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 23, 2025 at 06:37 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 24, 2025 at 06:26 AM GMT+5<!-- TIMESTAMP:END -->_
