@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/27/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/28/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 13 (Updated: 10/12/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 10/10/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Color
+Learn Kotlin
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,656 +78,145 @@ Color
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Julian and Maddalo.  a Conversation" by Percy Bysshe Shelley
-PREFACE.
+"In Honour of that High and Mighty Princess, Queen ELIZABETH" by Anne Bradstreet
+Proem.
 
-The meadows with fresh streams, the bees with thyme,
-The goats with the green leaves of budding Spring,
-Are saturated not--nor Love with tears.--VIRGIL'S "Gallus".
+1.1 Although great Queen, thou now in silence lie,
+1.2 Yet thy loud Herald Fame, doth to the sky
+1.3 Thy wondrous worth proclaim, in every clime,
+1.4 And so has vow'd, whilst there is world or time.
+1.5 So great's thy glory, and thine excellence,
+1.6 The sound thereof raps every human sense
+1.7 That men account it no impiety
+1.8 To say thou wert a fleshly Deity.
+1.9 Thousands bring off'rings (though out of date)
+1.10 Thy world of honours to accumulate.
+1.11 'Mongst hundred Hecatombs of roaring Verse,
+1.12 'Mine bleating stands before thy royal Hearse.
+1.13 Thou never didst, nor canst thou now disdain,
+1.14 T' accept the tribute of a loyal Brain.
+1.15 Thy clemency did yerst esteem as much
+1.16 The acclamations of the poor, as rich,
+1.17 Which makes me deem, my rudeness is no wrong,
+1.18 Though I resound thy greatness 'mongst the throng.
 
-I rode one evening with Count Maddalo
-Upon the bank of land which breaks the flow
-Of Adria towards Venice: a bare strand
-Of hillocks, heaped from ever-shifting sand,
-Matted with thistles and amphibious weeds,
-Such as from earth's embrace the salt ooze breeds,
-Is this; an uninhabited sea-side,
-Which the lone fisher, when his nets are dried,
-Abandons; and no other object breaks
-The waste, but one dwarf tree and some few stakes
-Broken and unrepaired, and the tide makes
-A narrow space of level sand thereon,
-Where 'twas our wont to ride while day went down.
-This ride was my delight. I love all waste
-And solitary places; where we taste
-The pleasure of believing what we see
-Is boundless, as we wish our souls to be:
-And such was this wide ocean, and this shore
-More barren than its billows; and yet more
-Than all, with a remembered friend I love
-To ride as then I rode;--for the winds drove
-The living spray along the sunny air
-Into our faces; the blue heavens were bare,
-Stripped to their depths by the awakening north;
-And, from the waves, sound like delight broke forth
-Harmonising with solitude, and sent
-Into our hearts aereal merriment.
-So, as we rode, we talked; and the swift thought,
-Winging itself with laughter, lingered not,
-But flew from brain to brain,--such glee was ours,
-Charged with light memories of remembered hours,
-None slow enough for sadness: till we came
-Homeward, which always makes the spirit tame.
-This day had been cheerful but cold, and now
-The sun was sinking, and the wind also.
-Our talk grew somewhat serious, as may be
-Talk interrupted with such raillery
-As mocks itself, because it cannot scorn
-The thoughts it would extinguish: --'twas forlorn,
-Yet pleasing, such as once, so poets tell,
-The devils held within the dales of Hell
-Concerning God, freewill and destiny:
-Of all that earth has been or yet may be,
-All that vain men imagine or believe,
-Or hope can paint or suffering may achieve,
-We descanted; and I (for ever still
-Is it not wise to make the best of ill?)
-Argued against despondency, but pride
-Made my companion take the darker side.
-The sense that he was greater than his kind
-Had struck, methinks, his eagle spirit blind
-By gazing on its own exceeding light.
-Meanwhile the sun paused ere it should alight,
-Over the horizon of the mountains;--Oh,
-How beautiful is sunset, when the glow
-Of Heaven descends upon a land like thee,
-Thou Paradise of exiles, Italy!
-Thy mountains, seas and vineyards, and the towers
-Of cities they encircle!--it was ours
-To stand on thee, beholding it: and then,
-Just where we had dismounted, the Count's men
-Were waiting for us with the gondola.--
-As those who pause on some delightful way
-Though bent on pleasant pilgrimage, we stood
-Looking upon the evening, and the flood
-Which lay between the city and the shore,
-Paved with the image of the sky...the hoar
-And aery Alps towards the North appeared
-Through mist, an heaven-sustaining bulwark reared
-Between the East and West; and half the sky
-Was roofed with clouds of rich emblazonry
-Dark purple at the zenith, which still grew
-Down the steep West into a wondrous hue
-Brighter than burning gold, even to the rent
-Where the swift sun yet paused in his descent
-Among the many-folded hills: they were
-Those famous Euganean hills, which bear,
-As seen from Lido thro' the harbour piles,
-The likeness of a clump of peaked isles--
-And then--as if the Earth and Sea had been
-Dissolved into one lake of fire, were seen
-Those mountains towering as from waves of flame
-Around the vaporous sun, from which there came
-The inmost purple spirit of light, and made
-Their very peaks transparent. 'Ere it fade,'
-Said my companion, 'I will show you soon
-A better station'--so, o'er the lagune
-We glided; and from that funereal bark
-I leaned, and saw the city, and could mark
-How from their many isles, in evening's gleam,
-Its temples and its palaces did seem
-Like fabrics of enchantment piled to Heaven.
-I was about to speak, when--'We are even
-Now at the point I meant,' said Maddalo,
-And bade the gondolieri cease to row.
-'Look, Julian, on the west, and listen well
-If you hear not a deep and heavy bell.'
-I looked, and saw between us and the sun
-A building on an island; such a one
-As age to age might add, for uses vile,
-A windowless, deformed and dreary pile;
-And on the top an open tower, where hung
-A bell, which in the radiance swayed and swung;
-We could just hear its hoarse and iron tongue:
-The broad sun sunk behind it, and it tolled
-In strong and black relief.--'What we behold
-Shall be the madhouse and its belfry tower,'
-Said Maddalo, 'and ever at this hour
-Those who may cross the water, hear that bell
-Which calls the maniacs, each one from his cell,
-To vespers.'--'As much skill as need to pray
-In thanks or hope for their dark lot have they
-To their stern maker,' I replied. 'O ho!
-You talk as in years past,' said Maddalo.
-''Tis strange men change not. You were ever still
-Among Christ's flock a perilous infidel,
-A wolf for the meek lambs--if you can't swim
-Beware of Providence.' I looked on him,
-But the gay smile had faded in his eye.
-'And such,'--he cried, 'is our mortality,
-And this must be the emblem and the sign
-Of what should be eternal and divine!--
-And like that black and dreary bell, the soul,
-Hung in a heaven-illumined tower, must toll
-Our thoughts and our desires to meet below
-Round the rent heart and pray--as madmen do
-For what? they know not,--till the night of death
-As sunset that strange vision, severeth
-Our memory from itself, and us from all
-We sought and yet were baffled.' I recall
-The sense of what he said, although I mar
-The force of his expressions. The broad star
-Of day meanwhile had sunk behind the hill,
-And the black bell became invisible,
-And the red tower looked gray, and all between
-The churches, ships and palaces were seen
-Huddled in gloom;--into the purple sea
-The orange hues of heaven sunk silently.
-We hardly spoke, and soon the gondola
-Conveyed me to my lodging by the way.
-The following morn was rainy, cold, and dim:
-Ere Maddalo arose, I called on him,
-And whilst I waited with his child I played;
-A lovelier toy sweet Nature never made;
-A serious, subtle, wild, yet gentle being,
-Graceful without design and unforeseeing,
-With eyes--Oh speak not of her eyes!--which seem
-Twin mirrors of Italian Heaven, yet gleam
-With such deep meaning, as we never see
-But in the human countenance: with me
-She was a special favourite: I had nursed
-Her fine and feeble limbs when she came first
-To this bleak world; and she yet seemed to know
-On second sight her ancient playfellow,
-Less changed than she was by six months or so;
-For after her first shyness was worn out
-We sate there, rolling billiard balls about,
-When the Count entered. Salutations past--
-'The word you spoke last night might well have cast
-A darkness on my spirit--if man be
-The passive thing you say, I should not see
-Much harm in the religions and old saws
-(Tho' I may never own such leaden laws)
-Which break a teachless nature to the yoke:
-Mine is another faith.'--thus much I spoke
-And noting he replied not, added: 'See
-This lovely child, blithe, innocent and free;
-She spends a happy time with little care,
-While we to such sick thoughts subjected are
-As came on you last night. It is our will
-That thus enchains us to permitted ill--
-We might be otherwise--we might be all
-We dream of happy, high, majestical.
-Where is the love, beauty, and truth we seek,
-But in our mind? and if we were not weak
-Should we be less in deed than in desire?'
-'Ay, if we were not weak--and we aspire
-How vainly to be strong!' said Maddalo:
-'You talk Utopia.' 'It remains to know,'
-I then rejoined, 'and those who try may find
-How strong the chains are which our spirit bind;
-Brittle perchance as straw...We are assured
-Much may be conquered, much may be endured,
-Of what degrades and crushes us. We know
-That we have power over ourselves to do
-And suffer--what, we know not till we try;
-But something nobler than to live and die--
-So taught those kings of old philosophy
-Who reigned, before Religion made men blind;
-And those who suffer with their suffering kind
-Yet feel their faith, religion.' 'My dear friend,'
-Said Maddalo, 'my judgement will not bend
-To your opinion, though I think you might
-Make such a system refutation-tight
-As far as words go. I knew one like you
-Who to this city came some months ago,
-With whom I argued in this sort, and he
-Is now gone mad,--and so he answered me,--
-Poor fellow! but if you would like to go,
-We'll visit him, and his wild talk will show
-How vain are such aspiring theories.'
-'I hope to prove the induction otherwise,
-And that a want of that true theory, still,
-Which seeks a "soul of goodness" in things ill
-Or in himself or others, has thus bowed
-His being--there are some by nature proud,
-Who patient in all else demand but this--
-To love and be beloved with gentleness;
-And being scorned, what wonder if they die
-Some living death? this is not destiny
-But man's own wilful ill.'
-As thus I spoke
-Servants announced the gondola, and we
-Through the fast-falling rain and high-wrought sea
-Sailed to the island where the madhouse stands.
-We disembarked. The clap of tortured hands,
-Fierce yells and howlings and lamentings keen,
-And laughter where complaint had merrier been,
-Moans, shrieks, and curses, and blaspheming prayers
-Accosted us. We climbed the oozy stairs
-Into an old courtyard. I heard on high,
-Then, fragments of most touching melody,
-But looking up saw not the singer there--
-Through the black bars in the tempestuous air
-I saw, like weeds on a wrecked palace growing,
-Long tangled locks flung wildly forth, and flowing,
-Of those who on a sudden were beguiled
-Into strange silence, and looked forth and smiled
-Hearing sweet sounds. Then I: 'Methinks there were
-A cure of these with patience and kind care,
-If music can thus move...but what is he
-Whom we seek here?' 'Of his sad history
-I know but this,' said Maddalo: 'he came
-To Venice a dejected man, and fame
-Said he was wealthy, or he had been so;
-Some thought the loss of fortune wrought him woe;
-But he was ever talking in such sort
-As you do--far more sadly--he seemed hurt,
-Even as a man with his peculiar wrong,
-To hear but of the oppression of the strong,
-Or those absurd deceits (I think with you
-In some respects, you know) which carry through
-The excellent impostors of this earth
-When they outface detection--he had worth,
-Poor fellow! but a humorist in his way'--
-'Alas, what drove him mad?' 'I cannot say:
-A lady came with him from France, and when
-She left him and returned, he wandered then
-About yon lonely isles of desert sand
-Till he grew wild--he had no cash or land
-Remaining,--the police had brought him here--
-Some fancy took him and he would not bear
-Removal; so I fitted up for him
-Those rooms beside the sea, to please his whim,
-And sent him busts and books and urns for flowers,
-Which had adorned his life in happier hours,
-And instruments of music--you may guess
-A stranger could do little more or less
-For one so gentle and unfortunate:
-And those are his sweet strains which charm the weight
-From madmen's chains, and make this Hell appear
-A heaven of sacred silence, hushed to hear.'--
-'Nay, this was kind of you--he had no claim,
-As the world says'--'None--but the very same
-Which I on all mankind were I as he
-Fallen to such deep reverse;--his melody
-Is interrupted--now we hear the din
-Of madmen, shriek on shriek, again begin;
-Let us now visit him; after this strain
-He ever communes with himself again,
-And sees nor hears not any.' Having said
-These words, we called the keeper, and he led
-To an apartment opening on the sea--
-There the poor wretch was sitting mournfully
-Near a piano, his pale fingers twined
-One with the other, and the ooze and wind
-Rushed through an open casement, and did sway
-His hair, and starred it with the brackish spray;
-His head was leaning on a music book,
-And he was muttering, and his lean limbs shook;
-His lips were pressed against a folded leaf
-In hue too beautiful for health, and grief
-Smiled in their motions as they lay apart--
-As one who wrought from his own fervid heart
-The eloquence of passion, soon he raised
-His sad meek face and eyes lustrous and glazed
-And spoke--sometimes as one who wrote, and thought
-His words might move some heart that heeded not,
-If sent to distant lands: and then as one
-Reproaching deeds never to be undone
-With wondering self-compassion; then his speech
-Was lost in grief, and then his words came each
-Unmodulated, cold, expressionless,--
-But that from one jarred accent you might guess
-It was despair made them so uniform:
-And all the while the loud and gusty storm
-Hissed through the window, and we stood behind
-Stealing his accents from the envious wind
-Unseen. I yet remember what he said
-Distinctly: such impression his words made.
+The Poem.
 
-'Month after month,' he cried, 'to bear this load
-And as a jade urged by the whip and goad
-To drag life on, which like a heavy chain
-Lengthens behind with many a link of pain!--
-And not to speak my grief--O, not to dare
-To give a human voice to my despair,
-But live, and move, and, wretched thing! smile on
-As if I never went aside to groan,
-And wear this mask of falsehood even to those
-Who are most dear--not for my own repose--
-Alas! no scorn or pain or hate could be
-So heavy as that falsehood is to me--
-But that I cannot bear more altered faces
-Than needs must be, more changed and cold embraces,
-More misery, disappointment, and mistrust
-To own me for their father...Would the dust
-Were covered in upon my body now!
-That the life ceased to toil within my brow!
-And then these thoughts would at the least be fled;
-Let us not fear such pain can vex the dead.
+2.1 No Ph{oe}nix Pen, nor Spenser's Poetry,
+2.2 No Speed's, nor Camden's learned History;
+2.3 Eliza's works, wars, praise, can e're compact,
+2.4 The World's the Theater where she did act.
+2.5 No memories, nor volumes can contain,
+2.6 The nine Olymp'ades of her happy reign,
+2.7 Who was so good, so just, so learn'd, so wise,
+2.8 From all the Kings on earth she won the prize.
+2.9 Nor say I more than truly is her due.
+2.10 Millions will testify that this is true.
+2.11 She hath wip'd off th' aspersion of her Sex,
+2.12 That women wisdom lack to play the Rex.
+2.13 Spain's Monarch sa's not so, not yet his Host:
+2.14 She taught them better manners to their cost.
+2.15 The Salic Law had not in force now been,
+2.16 If France had ever hop'd for such a Queen.
+2.17 But can you Doctors now this point dispute,
+2.18 She's argument enough to make you mute,
+2.19 Since first the Sun did run, his ne'er runn'd race,
+2.20 And earth had twice a year, a new old face;
+2.21 Since time was time, and man unmanly man,
+2.22 Come shew me such a Ph{oe}nix if you can.
+2.23 Was ever people better rul'd than hers?
+2.24 Was ever Land more happy, freed from stirs?
+2.25 Did ever wealth in England so abound?
+2.26 Her Victories in foreign Coasts resound?
+2.27 Ships more invincible than Spain's, her foe
+2.28 She rack't, she sack'd, she sunk his Armadoe.
+2.29 Her stately Troops advanc'd to Lisbon's wall,
+2.30 Don Anthony in's right for to install.
+2.31 She frankly help'd Franks' (brave) distressed King,
+2.32 The States united now her fame do sing.
+2.33 She their Protectrix was, they well do know,
+2.34 Unto our dread Virago, what they owe.
+2.35 Her Nobles sacrific'd their noble blood,
+2.36 Nor men, nor coin she shap'd, to do them good.
+2.37 The rude untamed Irish she did quell,
+2.38 And Tiron bound, before her picture fell.
+2.39 Had ever Prince such Counsellors as she?
+2.40 Her self Minerva caus'd them so to be.
+2.41 Such Soldiers, and such Captains never seen,
+2.42 As were the subjects of our (Pallas) Queen:
+2.43 Her Sea-men through all straits the world did round,
+2.44 Terra incognitæ might know her sound.
+2.45 Her Drake came laded home with Spanish gold,
+2.46 Her Essex took Cadiz, their Herculean hold.
+2.47 But time would fail me, so my wit would too,
+2.48 To tell of half she did, or she could do.
+2.49 Semiramis to her is but obscure;
+2.50 More infamy than fame she did procure.
+2.51 She plac'd her glory but on Babel's walls,
+2.52 World's wonder for a time, but yet it falls.
+2.53 Fierce Tomris (Cirus' Heads-man, Sythians' Queen)
+2.54 Had put her Harness off, had she but seen
+2.55 Our Amazon i' th' Camp at Tilbury,
+2.56 (Judging all valour, and all Majesty)
+2.57 Within that Princess to have residence,
+2.58 And prostrate yielded to her Excellence.
+2.59 Dido first Foundress of proud Carthage walls
+2.60 (Who living consummates her Funerals),
+2.61 A great Eliza, but compar'd with ours,
+2.62 How vanisheth her glory, wealth, and powers.
+2.63 Proud profuse Cleopatra, whose wrong name,
+2.64 Instead of glory, prov'd her Country's shame:
+2.65 Of her what worth in Story's to be seen,
+2.66 But that she was a rich Ægyptian Queen.
+2.67 Zenobia, potent Empress of the East,
+2.68 And of all these without compare the best
+2.69 (Whom none but great Aurelius could quell)
+2.70 Yet for our Queen is no fit parallel:
+2.71 She was a Ph{oe}nix Queen, so shall she be,
+2.72 Her ashes not reviv'd more Ph{oe}nix she.
+2.73 Her personal perfections, who would tell,
+2.74 Must dip his Pen i' th' Heliconian Well,
+2.75 Which I may not, my pride doth but aspire
+2.76 To read what others write and then admire.
+2.77 Now say, have women worth, or have they none?
+2.78 Or had they some, but with our Queen is't gone?
+2.79 Nay Masculines, you have thus tax'd us long,
+2.80 But she, though dead, will vindicate our wrong.
+2.81 Let such as say our sex is void of reason
+2.82 Know 'tis a slander now, but once was treason.
+2.83 But happy England, which had such a Queen,
+2.84 O happy, happy, had those days still been,
+2.85 But happiness lies in a higher sphere.
+2.86 Then wonder not, Eliza moves not here.
+2.87 Full fraught with honour, riches, and with days,
+2.88 She set, she set, like Titan in his rays.
+2.89 No more shall rise or set such glorious Sun,
+2.90 Until the heaven's great revolution:
+2.91 If then new things, their old form must retain,
+2.92 Eliza shall rule Albian once again.
 
-'What Power delights to torture us? I know
-That to myself I do not wholly owe
-What now I suffer, though in part I may.
-Alas! none strewed sweet flowers upon the way
-Where wandering heedlessly, I met pale Pain
-My shadow, which will leave me not again--
-If I have erred, there was no joy in error,
-But pain and insult and unrest and terror;
-I have not as some do, bought penitence
-With pleasure, and a dark yet sweet offence,
-For then,--if love and tenderness and truth
-Had overlived hope's momentary youth,
-My creed should have redeemed me from repenting;
-But loathed scorn and outrage unrelenting
-Met love excited by far other seeming
-Until the end was gained...as one from dreaming
-Of sweetest peace, I woke, and found my state
-Such as it is.--
-'O Thou, my spirit's mate
-Who, for thou art compassionate and wise,
-Wouldst pity me from thy most gentle eyes
-If this sad writing thou shouldst ever see--
-My secret groans must be unheard by thee,
-Thou wouldst weep tears bitter as blood to know
-Thy lost friend's incommunicable woe.
+Her Epitaph.
 
-'Ye few by whom my nature has been weighed
-In friendship, let me not that name degrade
-By placing on your hearts the secret load
-Which crushes mine to dust. There is one road
-To peace and that is truth, which follow ye!
-Love sometimes leads astray to misery.
-Yet think not though subdued--and I may well
-Say that I am subdued--that the full Hell
-Within me would infect the untainted breast
-Of sacred nature with its own unrest;
-As some perverted beings think to find
-In scorn or hate a medicine for the mind
-Which scorn or hate have wounded--O how vain!
-The dagger heals not but may rend again...
-Believe that I am ever still the same
-In creed as in resolve, and what may tame
-My heart, must leave the understanding free,
-Or all would sink in this keen agony--
-Nor dream that I will join the vulgar cry;
-Or with my silence sanction tyranny;
-Or seek a moment's shelter from my pain
-In any madness which the world calls gain,
-Ambition or revenge or thoughts as stern
-As those which make me what I am; or turn
-To avarice or misanthropy or lust...
-Heap on me soon, O grave, thy welcome dust!
-Till then the dungeon may demand its prey,
-And Poverty and Shame may meet and say--
-Halting beside me on the public way--
-"That love-devoted youth is ours--let's sit
-Beside him--he may live some six months yet."
-Or the red scaffold, as our country bends,
-May ask some willing victim; or ye friends
-May fall under some sorrow which this heart
-Or hand may share or vanquish or avert;
-I am prepared--in truth, with no proud joy--
-To do or suffer aught, as when a boy
-I did devote to justice and to love
-My nature, worthless now!...
-'I must remove
-A veil from my pent mind. 'Tis torn aside!
-O, pallid as Death's dedicated bride,
-Thou mockery which art sitting by my side,
-Am I not wan like thee? at the grave's call
-I haste, invited to thy wedding-ball
-To greet the ghastly paramour, for whom
-Thou hast deserted me...and made the tomb
-Thy bridal bed...But I beside your feet
-Will lie and watch ye from my winding-sheet--
-Thus...wide awake tho' dead...yet stay, O stay!
-Go not so soon--I know not what I say--
-Hear but my reasons...I am mad, I fear,
-My fancy is o'erwrought...thou art not here...
-Pale art thou, 'tis most true...but thou art gone,
-Thy work is finished...I am left alone!--
-...
-'Nay, was it I who wooed thee to this breast
-Which, like a serpent, thou envenomest
-As in repayment of the warmth it lent?
-Didst thou not seek me for thine own content?
-Did not thy love awaken mine? I thought
-That thou wert she who said, "You kiss me not
-Ever, I fear you do not love me now"--
-In truth I loved even to my overthrow
-Her, who would fain forget these words: but they
-Cling to her mind, and cannot pass away.
-...
-'You say that I am proud--that when I speak
-My lip is tortured with the wrongs which break
-The spirit it expresses...Never one
-Humbled himself before, as I have done!
-Even the instinctive worm on which we tread
-Turns, though it wound not--then with prostrate head
-Sinks in the dusk and writhes like me--and dies?
-No: wears a living death of agonies!
-As the slow shadows of the pointed grass
-Mark the eternal periods, his pangs pass,
-Slow, ever-moving,--making moments be
-As mine seem--each an immortality!
-...
-'That you had never seen me--never heard
-My voice, and more than all had ne'er endured
-The deep pollution of my loathed embrace--
-That your eyes ne'er had lied love in my face--
-That, like some maniac monk, I had torn out
-The nerves of manhood by their bleeding root
-With mine own quivering fingers, so that ne'er
-Our hearts had for a moment mingled there
-To disunite in horror--these were not
-With thee, like some suppressed and hideous thought
-Which flits athwart our musings, but can find
-No rest within a pure and gentle mind...
-Thou sealedst them with many a bare broad word,
-And searedst my memory o'er them,--for I heard
-And can forget not...they were ministered
-One after one, those curses. Mix them up
-Like self-destroying poisons in one cup,
-And they will make one blessing which thou ne'er
-Didst imprecate for, on me,--death.
-...
-'It were
-A cruel punishment for one most cruel,
-If such can love, to make that love the fuel
-Of the mind's hell; hate, scorn, remorse, despair:
-But ME--whose heart a stranger's tear might wear
-As water-drops the sandy fountain-stone,
-Who loved and pitied all things, and could moan
-For woes which others hear not, and could see
-The absent with the glance of phantasy,
-And with the poor and trampled sit and weep,
-Following the captive to his dungeon deep;
-ME--who am as a nerve o'er which do creep
-The else unfelt oppressions of this earth,
-And was to thee the flame upon thy hearth,
-When all beside was cold--that thou on me
-Shouldst rain these plagues of blistering agony--
-Such curses are from lips once eloquent
-With love's too partial praise--let none relent
-Who intend deeds too dreadful for a name
-Henceforth, if an example for the same
-They seek...for thou on me lookedst so, and so--
-And didst speak thus...and thus...I live to show
-How much men bear and die not!
-...
-'Thou wilt tell
-With the grimace of hate, how horrible
-It was to meet my love when thine grew less;
-Thou wilt admire how I could e'er address
-Such features to love's work...this taunt, though true,
-(For indeed Nature nor in form nor hue
-Bestowed on me her choicest workmanship)
-Shall not be thy defence...for since thy lip
-Met mine first, years long past, since thine eye kindled
-With soft fire under mine, I have not dwindled
-Nor changed in mind or body, or in aught
-But as love changes what it loveth not
-After long years and many trials.
+3.1 Here sleeps T H E Queen, this is the royal bed
+3.2 O' th' Damask Rose, sprung from the white and red,
+3.3 Whose sweet perfume fills the all-filling air,
+3.4 This Rose is withered, once so lovely fair:
+3.5 On neither tree did grow such Rose before,
+3.6 The greater was our gain, our loss the more.
 
-'How vain
-Are words! I thought never to speak again,
-Not even in secret,--not to mine own heart--
-But from my lips the unwilling accents start,
-And from my pen the words flow as I write,
-Dazzling my eyes with scalding tears...my sight
-Is dim to see that charactered in vain
-On this unfeeling leaf which burns the brain
-And eats into it...blotting all things fair
-And wise and good which time had written there.
+Another.
 
-'Those who inflict must suffer, for they see
-The work of their own hearts, and this must be
-Our chastisement or recompense--O child!
-I would that thine were like to be more mild
-For both our wretched sakes...for thine the most
-Who feelest already all that thou hast lost
-Without the power to wish it thine again;
-And as slow years pass, a funereal train
-Each with the ghost of some lost hope or friend
-Following it like its shadow, wilt thou bend
-No thought on my dead memory?
-...
-'Alas, love!
-Fear me not...against thee I would not move
-A finger in despite. Do I not live
-That thou mayst have less bitter cause to grieve?
-I give thee tears for scorn and love for hate;
-And that thy lot may be less desolate
-Than his on whom thou tramplest, I refrain
-From that sweet sleep which medicines all pain.
-Then, when thou speakest of me, never say
-"He could forgive not." Here I cast away
-All human passions, all revenge, all pride;
-I think, speak, act no ill; I do but hide
-Under these words, like embers, every spark
-Of that which has consumed me--quick and dark
-The grave is yawning...as its roof shall cover
-My limbs with dust and worms under and over
-So let Oblivion hide this grief...the air
-Closes upon my accents, as despair
-Upon my heart--let death upon despair!'
-
-He ceased, and overcome leant back awhile,
-Then rising, with a melancholy smile
-Went to a sofa, and lay down, and slept
-A heavy sleep, and in his dreams he wept
-And muttered some familiar name, and we
-Wept without shame in his society.
-I think I never was impressed so much;
-The man who were not, must have lacked a touch
-Of human nature...then we lingered not,
-Although our argument was quite forgot,
-But calling the attendants, went to dine
-At Maddalo's; yet neither cheer nor wine
-Could give us spirits, for we talked of him
-And nothing else, till daylight made stars dim;
-And we agreed his was some dreadful ill
-Wrought on him boldly, yet unspeakable,
-By a dear friend; some deadly change in love
-Of one vowed deeply which he dreamed not of;
-For whose sake he, it seemed, had fixed a blot
-Of falsehood on his mind which flourished not
-But in the light of all-beholding truth;
-And having stamped this canker on his youth
-She had abandoned him--and how much more
-Might be his woe, we guessed not--he had store
-Of friends and fortune once, as we could guess
-From his nice habits and his gentleness;
-These were now lost...it were a grief indeed
-If he had changed one unsustaining reed
-For all that such a man might else adorn.
-The colours of his mind seemed yet unworn;
-For the wild language of his grief was high,
-Such as in measure were called poetry;
-And I remember one remark which then
-Maddalo made. He said: 'Most wretched men
-Are cradled into poetry by wrong,
-They learn in suffering what they teach in song.'
-
-If I had been an unconnected man,
-I, from this moment, should have formed some plan
-Never to leave sweet Venice,--for to me
-It was delight to ride by the lone sea;
-And then, the town is silent--one may write
-Or read in gondolas by day or night,
-Having the little brazen lamp alight,
-Unseen, uninterrupted; books are there,
-Pictures, and casts from all those statues fair
-Which were twin-born with poetry, and all
-We seek in towns, with little to recall
-Regrets for the green country. I might sit
-In Maddalo's great palace, and his wit
-And subtle talk would cheer the winter night
-And make me know myself, and the firelight
-Would flash upon our faces, till the day
-Might dawn and make me wonder at my stay:
-But I had friends in London too: the chief
-Attraction here, was that I sought relief
-From the deep tenderness that maniac wrought
-Within me--'twas perhaps an idle thought--
-But I imagined that if day by day
-I watched him, and but seldom went away,
-And studied all the beatings of his heart
-With zeal, as men study some stubborn art
-For their own good, and could by patience find
-An entrance to the caverns of his mind,
-I might reclaim him from this dark estate:
-In friendships I had been most fortunate--
-Yet never saw I one whom I would call
-More willingly my friend; and this was all
-Accomplished not; such dreams of baseless good
-Oft come and go in crowds or solitude
-And leave no trace--but what I now designed
-Made for long years impression on my mind.
-The following morning, urged by my affairs,
-I left bright Venice.
-After many years
-And many changes I returned; the name
-Of Venice, and its aspect, was the same;
-But Maddalo was travelling far away
-Among the mountains of Armenia.
-His dog was dead. His child had now become
-A woman; such as it has been my doom
-To meet with few,--a wonder of this earth,
-Where there is little of transcendent worth,
-Like one of Shakespeare's women: kindly she,
-And, with a manner beyond courtesy,
-Received her father's friend; and when I asked
-Of the lorn maniac, she her memory tasked,
-And told as she had heard the mournful tale:
-'That the poor sufferer's health began to fail
-Two years from my departure, but that then
-The lady who had left him, came again.
-Her mien had been imperious, but she now
-Looked meek--perhaps remorse had brought her low.
-Her coming made him better, and they stayed
-Together at my father's--for I played,
-As I remember, with the lady's shawl--
-I might be six years old--but after all
-She left him.'...'Why, her heart must have been tough:
-How did it end?' 'And was not this enough?
-They met--they parted.'--'Child, is there no more?'
-'Something within that interval which bore
-The stamp of WHY they parted, HOW they met:
-Yet if thine aged eyes disdain to wet
-Those wrinkled cheeks with youth's remembered tears,
-Ask me no more, but let the silent years
-Be closed and cered over their memory
-As yon mute marble where their corpses lie.'
-I urged and questioned still, she told me how
-All happened--but the cold world shall not know.
+4.1 Here lies the pride of Queens, pattern of Kings:
+4.2 So blaze it fame, here's feathers for thy wings.
+4.3 Here lies the envy'd, yet unparallel'd Prince,
+4.4 Whose living virtues speak (though dead long since).
+4.5 If many worlds, as that fantastic framed,
+4.6 In every one, be her great glory famed
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 24°C, haze in Karachi 🇵🇰
+🌡️ 25°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -824,4 +313,4 @@ All happened--but the cold world shall not know.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 28, 2025 at 06:37 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 29, 2025 at 06:43 AM GMT+5<!-- TIMESTAMP:END -->_
