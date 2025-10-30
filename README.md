@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/28/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/29/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 13 (Updated: 10/12/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 10/10/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+ASCII silly question, get a silly ANSI.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn Kotlin
+Solve a Rubik's cube
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,140 +78,489 @@ Learn Kotlin
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"In Honour of that High and Mighty Princess, Queen ELIZABETH" by Anne Bradstreet
-Proem.
+"The Canterbury Tales. The Shipman's Tale." by Geoffrey Chaucer
+THE PROLOGUE
 
-1.1 Although great Queen, thou now in silence lie,
-1.2 Yet thy loud Herald Fame, doth to the sky
-1.3 Thy wondrous worth proclaim, in every clime,
-1.4 And so has vow'd, whilst there is world or time.
-1.5 So great's thy glory, and thine excellence,
-1.6 The sound thereof raps every human sense
-1.7 That men account it no impiety
-1.8 To say thou wert a fleshly Deity.
-1.9 Thousands bring off'rings (though out of date)
-1.10 Thy world of honours to accumulate.
-1.11 'Mongst hundred Hecatombs of roaring Verse,
-1.12 'Mine bleating stands before thy royal Hearse.
-1.13 Thou never didst, nor canst thou now disdain,
-1.14 T' accept the tribute of a loyal Brain.
-1.15 Thy clemency did yerst esteem as much
-1.16 The acclamations of the poor, as rich,
-1.17 Which makes me deem, my rudeness is no wrong,
-1.18 Though I resound thy greatness 'mongst the throng.
+Our Host upon his stirrups stood anon,
+And saide; "Good men, hearken every one,
+This was a thrifty tale for the nones.
+Sir Parish Priest," quoth he, "for Godde's bones,
+Tell us a tale, as was thy forword yore:
+I see well that ye learned men in lore
+Can muche good, by Godde's dignity."
+The Parson him answer'd, "Ben'dicite!
+What ails the man, so sinfully to swear?"
+Our Host answer'd, "O Jankin, be ye there?
+Now, good men," quoth our Host, "hearken to me.
+I smell a Lollard  in the wind," quoth he.
+"Abide, for Godde's digne passion,
+For we shall have a predication:
+This Lollard here will preachen us somewhat."
+"Nay, by my father's soul, that shall he not,
+Saide the Shipman; "Here shall he not preach,
+He shall no gospel glose here nor teach.
+We all believe in the great God," quoth he.
+"He woulde sowe some difficulty,
+Or springe cockle  in our cleane corn.
+And therefore, Host, I warne thee beforn,
+My jolly body shall a tale tell,
+And I shall clinke you so merry a bell,
+That I shall waken all this company;
+But it shall not be of philosophy,
+Nor of physic, nor termes quaint of law;
+There is but little Latin in my maw."
 
-The Poem.
+THE TALE.
 
-2.1 No Ph{oe}nix Pen, nor Spenser's Poetry,
-2.2 No Speed's, nor Camden's learned History;
-2.3 Eliza's works, wars, praise, can e're compact,
-2.4 The World's the Theater where she did act.
-2.5 No memories, nor volumes can contain,
-2.6 The nine Olymp'ades of her happy reign,
-2.7 Who was so good, so just, so learn'd, so wise,
-2.8 From all the Kings on earth she won the prize.
-2.9 Nor say I more than truly is her due.
-2.10 Millions will testify that this is true.
-2.11 She hath wip'd off th' aspersion of her Sex,
-2.12 That women wisdom lack to play the Rex.
-2.13 Spain's Monarch sa's not so, not yet his Host:
-2.14 She taught them better manners to their cost.
-2.15 The Salic Law had not in force now been,
-2.16 If France had ever hop'd for such a Queen.
-2.17 But can you Doctors now this point dispute,
-2.18 She's argument enough to make you mute,
-2.19 Since first the Sun did run, his ne'er runn'd race,
-2.20 And earth had twice a year, a new old face;
-2.21 Since time was time, and man unmanly man,
-2.22 Come shew me such a Ph{oe}nix if you can.
-2.23 Was ever people better rul'd than hers?
-2.24 Was ever Land more happy, freed from stirs?
-2.25 Did ever wealth in England so abound?
-2.26 Her Victories in foreign Coasts resound?
-2.27 Ships more invincible than Spain's, her foe
-2.28 She rack't, she sack'd, she sunk his Armadoe.
-2.29 Her stately Troops advanc'd to Lisbon's wall,
-2.30 Don Anthony in's right for to install.
-2.31 She frankly help'd Franks' (brave) distressed King,
-2.32 The States united now her fame do sing.
-2.33 She their Protectrix was, they well do know,
-2.34 Unto our dread Virago, what they owe.
-2.35 Her Nobles sacrific'd their noble blood,
-2.36 Nor men, nor coin she shap'd, to do them good.
-2.37 The rude untamed Irish she did quell,
-2.38 And Tiron bound, before her picture fell.
-2.39 Had ever Prince such Counsellors as she?
-2.40 Her self Minerva caus'd them so to be.
-2.41 Such Soldiers, and such Captains never seen,
-2.42 As were the subjects of our (Pallas) Queen:
-2.43 Her Sea-men through all straits the world did round,
-2.44 Terra incognitæ might know her sound.
-2.45 Her Drake came laded home with Spanish gold,
-2.46 Her Essex took Cadiz, their Herculean hold.
-2.47 But time would fail me, so my wit would too,
-2.48 To tell of half she did, or she could do.
-2.49 Semiramis to her is but obscure;
-2.50 More infamy than fame she did procure.
-2.51 She plac'd her glory but on Babel's walls,
-2.52 World's wonder for a time, but yet it falls.
-2.53 Fierce Tomris (Cirus' Heads-man, Sythians' Queen)
-2.54 Had put her Harness off, had she but seen
-2.55 Our Amazon i' th' Camp at Tilbury,
-2.56 (Judging all valour, and all Majesty)
-2.57 Within that Princess to have residence,
-2.58 And prostrate yielded to her Excellence.
-2.59 Dido first Foundress of proud Carthage walls
-2.60 (Who living consummates her Funerals),
-2.61 A great Eliza, but compar'd with ours,
-2.62 How vanisheth her glory, wealth, and powers.
-2.63 Proud profuse Cleopatra, whose wrong name,
-2.64 Instead of glory, prov'd her Country's shame:
-2.65 Of her what worth in Story's to be seen,
-2.66 But that she was a rich Ægyptian Queen.
-2.67 Zenobia, potent Empress of the East,
-2.68 And of all these without compare the best
-2.69 (Whom none but great Aurelius could quell)
-2.70 Yet for our Queen is no fit parallel:
-2.71 She was a Ph{oe}nix Queen, so shall she be,
-2.72 Her ashes not reviv'd more Ph{oe}nix she.
-2.73 Her personal perfections, who would tell,
-2.74 Must dip his Pen i' th' Heliconian Well,
-2.75 Which I may not, my pride doth but aspire
-2.76 To read what others write and then admire.
-2.77 Now say, have women worth, or have they none?
-2.78 Or had they some, but with our Queen is't gone?
-2.79 Nay Masculines, you have thus tax'd us long,
-2.80 But she, though dead, will vindicate our wrong.
-2.81 Let such as say our sex is void of reason
-2.82 Know 'tis a slander now, but once was treason.
-2.83 But happy England, which had such a Queen,
-2.84 O happy, happy, had those days still been,
-2.85 But happiness lies in a higher sphere.
-2.86 Then wonder not, Eliza moves not here.
-2.87 Full fraught with honour, riches, and with days,
-2.88 She set, she set, like Titan in his rays.
-2.89 No more shall rise or set such glorious Sun,
-2.90 Until the heaven's great revolution:
-2.91 If then new things, their old form must retain,
-2.92 Eliza shall rule Albian once again.
+A Merchant whilom dwell'd at Saint Denise,
+That riche was, for which men held him wise.
+A wife he had of excellent beauty,
+And companiable and revellous was she,
+Which is a thing that causeth more dispence
+Than worth is all the cheer and reverence
+That men them do at feastes and at dances.
+Such salutations and countenances
+Passen, as doth the shadow on the wall;
+Put woe is him that paye must for all.
+The sely husband algate he must pay,
+He must us  clothe and he must us array
+All for his owen worship richely:
+In which array we dance jollily.
+And if that he may not, paraventure,
+Or elles list not such dispence endure,
+But thinketh it is wasted and y-lost,
+Then must another paye for our cost,
+Or lend us gold, and that is perilous.
 
-Her Epitaph.
+This noble merchant held a noble house;
+For which he had all day so great repair,
+For his largesse, and for his wife was fair,
+That wonder is; but hearken to my tale.
+Amonges all these guestes great and smale,
+There was a monk, a fair man and a bold,
+I trow a thirty winter he was old,
+That ever-in-one was drawing to that place.
+This younge monk, that was so fair of face,
+Acquainted was so with this goode man,
+Since that their firste knowledge began,
+That in his house as familiar was he
+As it is possible any friend to be.
+And, for as muchel as this goode man,
+And eke this monk of which that I began,
+Were both the two y-born in one village,
+The monk him claimed, as for cousinage,
+And he again him said not once nay,
+But was as glad thereof as fowl of day;
+"For to his heart it was a great pleasance.
+Thus be they knit with etern' alliance,
+And each of them gan other to assure
+Of brotherhood while that their life may dure.
 
-3.1 Here sleeps T H E Queen, this is the royal bed
-3.2 O' th' Damask Rose, sprung from the white and red,
-3.3 Whose sweet perfume fills the all-filling air,
-3.4 This Rose is withered, once so lovely fair:
-3.5 On neither tree did grow such Rose before,
-3.6 The greater was our gain, our loss the more.
+As in that house, and full of diligence
+To do pleasance, and also great costage;
+He not forgot to give the leaste page
+In all that house; but, after their degree,
+He gave the lord, and sithen his meinie,
+When that he came, some manner honest thing;
+For which they were as glad of his coming
+As fowl is fain when that the sun upriseth.
+No more of this as now, for it sufficeth.
 
-Another.
+But so befell, this merchant on a day
+Shope him to make ready his array
+Toward the town of Bruges  for to fare,
+To buye there a portion of ware;
+For which he hath to Paris sent anon
+A messenger, and prayed hath Dan John
+That he should come to Saint Denis, and play
+With him, and with his wife, a day or tway,
+Ere he to Bruges went, in alle wise.
+This noble monk, of which I you devise,
+Had of his abbot, as him list, licence,
+(Because he was a man of high prudence,
+And eke an officer out for to ride,
+To see their granges and their barnes wide);
+And unto Saint Denis he came anon.
+Who was so welcome as my lord Dan John,
+Our deare cousin, full of courtesy?
+With him he brought a jub of malvesie,
+And eke another full of fine vernage,
+And volatile, as aye was his usage:
+And thus I let them eat, and drink, and play,
+This merchant and this monk, a day or tway.
+The thirde day the merchant up ariseth,
+And on his needeis sadly him adviseth;
+And up into his countour-house went he,
+To reckon with himself as well may be,
+Of thilke year, how that it with him stood,
+And how that he dispended bad his good,
+And if that he increased were or non.
+His bookes and his bagges many a one
+He laid before him on his counting-board.
+Full riche was his treasure and his hoard;
+For which full fast his countour door he shet;
+And eke he would that no man should him let
+Of his accountes, for the meane time:
+And thus he sat, till it was passed prime.
 
-4.1 Here lies the pride of Queens, pattern of Kings:
-4.2 So blaze it fame, here's feathers for thy wings.
-4.3 Here lies the envy'd, yet unparallel'd Prince,
-4.4 Whose living virtues speak (though dead long since).
-4.5 If many worlds, as that fantastic framed,
-4.6 In every one, be her great glory famed
+Dan John was risen in the morn also,
+And in the garden walked to and fro,
+And had his thinges said full courteously.
+The good wife came walking full privily
+Into the garden, where he walked soft,
+And him saluted, as she had done oft;
+A maiden child came in her company,
+Which as her list she might govern and gie,
+For yet under the yarde was the maid.
+"O deare cousin mine, Dan John," she said,
+"What aileth you so rath for to arise?"
+"Niece," quoth he, "it ought enough suffice
+Five houres for to sleep upon a night;'
+But it were for an old appalled wight,
+As be these wedded men, that lie and dare,
+As in a forme sits a weary hare,
+Alle forstraught with houndes great and smale;
+But, deare niece, why be ye so pale?
+I trowe certes that our goode man
+Hath you so laboured, since this night began,
+That you were need to reste hastily."
+And with that word he laugh'd full merrily,
+And of his owen thought he wax'd all red.
+This faire wife gan for to shake her head,
+And saide thus; "Yea, God wot all" quoth she.
+"Nay, cousin mine, it stands not so with me;
+For by that God, that gave me soul and life,
+In all the realm of France is there no wife
+That lesse lust hath to that sorry play;
+For I may sing alas and well-away!
+That I was born; but to no wight," quoth she,
+"Dare I not tell how that it stands with me.
+Wherefore I think out of this land to wend,
+Or elles of myself to make an end,
+So full am I of dread and eke of care."
+
+This monk began upon this wife to stare,
+And said, "Alas! my niece, God forbid
+That ye for any sorrow, or any dread,
+Fordo yourself: but telle me your grief,
+Paraventure I may, in your mischief,
+Counsel or help; and therefore telle me
+All your annoy, for it shall be secre.
+For on my portos here I make an oath,
+That never in my life, for lief nor loth,
+Ne shall I of no counsel you bewray."
+"The same again to you," quoth she, "I say.
+By God and by this portos I you swear,
+Though men me woulden all in pieces tear,
+Ne shall I never, for to go to hell,
+Bewray one word of thing that ye me tell,
+For no cousinage, nor alliance,
+But verily for love and affiance."
+Thus be they sworn, and thereupon they kiss'd,
+And each of them told other what them list.
+"Cousin," quoth she, "if that I hadde space,
+As I have none, and namely in this place,
+Then would I tell a legend of my life,
+What I have suffer'd since I was a wife
+With mine husband, all be he your cousin.
+"Nay," quoth this monk, "by God and Saint Martin,
+He is no more cousin unto me,
+Than is the leaf that hangeth on the tree;
+I call him so, by Saint Denis of France,
+To have the more cause of acquaintance
+Of you, which I have loved specially
+Aboven alle women sickerly,
+This swear I you on my professioun;
+Tell me your grief, lest that he come adown,
+And hasten you, and go away anon."
+
+"My deare love," quoth she, "O my Dan John,
+Full lief were me this counsel for to hide,
+But out it must, I may no more abide.
+My husband is to me the worste man
+That ever was since that the world began;
+But since I am a wife, it sits not me
+To telle no wight of our privity,
+Neither in bed, nor in none other place;
+God shield I shoulde tell it for his grace;
+A wife shall not say of her husband
+But all honour, as I can understand;
+Save unto you thus much I telle shall;
+As help me God, he is nought worth at all
+In no degree, the value of a fly.
+But yet me grieveth most his niggardy.
+And well ye wot, that women naturally
+Desire thinges six, as well as I.
+They woulde that their husbands shoulde be
+Hardy, and wise, and rich, and thereto free,
+And buxom to his wife, and fresh in bed.
+But, by that ilke Lord that for us bled,
+For his honour myself for to array,
+On Sunday next I muste needes pay
+A hundred francs, or elles am I lorn.
+Yet were me lever that I were unborn,
+Than me were done slander or villainy.
+And if mine husband eke might it espy,
+I were but lost; and therefore I you pray,
+Lend me this sum, or elles must I dey.
+Dan John, I say, lend me these hundred francs;
+Pardie, I will not faile you, my thanks,
+If that you list to do that I you pray;
+For at a certain day I will you pay,
+And do to you what pleasance and service
+That I may do, right as you list devise.
+And but I do, God take on me vengeance,
+As foul as e'er had Ganilion  of France."
+
+This gentle monk answer'd in this mannere;
+"Now truely, mine owen lady dear,
+I have," quoth he, "on you so greate ruth,
+That I you swear, and plighte you my truth,
+That when your husband is to Flanders fare,
+I will deliver you out of this care,
+For I will bringe you a hundred francs."
+And with that word he caught her by the flanks,
+And her embraced hard, and kissed her oft.
+"Go now your way," quoth he, "all still and soft,
+And let us dine as soon as that ye may,
+For by my cylinder 'tis prime of day;
+Go now, and be as true as I shall be ."
+"Now elles God forbidde, Sir," quoth she;
+And forth she went, as jolly as a pie,
+And bade the cookes that they should them hie,
+So that men mighte dine, and that anon.
+Up to her husband is this wife gone,
+And knocked at his contour boldely.
+"Qui est la?" quoth he. "Peter! it am I,"
+Quoth she; "What, Sir, how longe all will ye fast?
+How longe time will ye reckon and cast
+Your summes, and your bookes, and your things?
+The devil have part of all such reckonings!
+Ye have enough, pardie, of Godde's sond.
+Come down to-day, and let your bagges stond.
+Ne be ye not ashamed, that Dan John
+Shall fasting all this day elenge gon?
+What? let us hear a mass, and go we dine."
+"Wife," quoth this man, "little canst thou divine
+The curious businesse that we have;
+For of us chapmen, all so God me save,
+And by that lord that cleped is Saint Ive,
+Scarcely amonges twenty, ten shall thrive
+Continually, lasting unto our age.
+We may well make cheer and good visage,
+And drive forth the world as it may be,
+And keepen our estate in privity,
+Till we be dead, or elles that we play
+A pilgrimage, or go out of the way.
+And therefore have I great necessity
+Upon this quaint world to advise me.
+For evermore must we stand in dread
+Of hap and fortune in our chapmanhead.
+To Flanders will I go to-morrow at day,
+And come again as soon as e'er I may:
+For which, my deare wife, I thee beseek
+As be to every wight buxom and meek,
+And for to keep our good be curious,
+And honestly governe well our house.
+Thou hast enough, in every manner wise,
+That to a thrifty household may suffice.
+Thee lacketh none array, nor no vitail;
+Of silver in thy purse thou shalt not fail."
+
+And with that word his contour door he shet,
+And down he went; no longer would he let;
+And hastily a mass was there said,
+And speedily the tables were laid,
+And to the dinner faste they them sped,
+And richely this monk the chapman fed.
+And after dinner Dan John soberly
+This chapman took apart, and privily
+He said him thus: "Cousin, it standeth so,
+That, well I see, to Bruges ye will go;
+God and Saint Austin speede you and guide.
+I pray you, cousin, wisely that ye ride:
+Governe you also of your diet
+Attemperly, and namely in this heat.
+Betwixt us two needeth no strange fare;
+Farewell, cousin, God shielde you from care.
+If any thing there be, by day or night,
+If it lie in my power and my might,
+That ye me will command in any wise,
+It shall be done, right as ye will devise.
+But one thing ere ye go, if it may be;
+I woulde pray you for to lend to me
+A hundred frankes, for a week or twy,
+For certain beastes that I muste buy,
+To store with a place that is ours
+(God help me so, I would that it were yours);
+I shall not faile surely of my day,
+Not for a thousand francs, a mile way.
+But let this thing be secret, I you pray;
+For yet to-night these beastes must I buy.
+And fare now well, mine owen cousin dear;
+Grand mercy of your cost and of your cheer."
+
+This noble merchant gentilly anon
+Answer'd and said, "O cousin mine, Dan John,
+Now sickerly this is a small request:
+My gold is youres, when that it you lest,
+And not only my gold, but my chaffare;
+Take what you list, God shielde that ye spare.
+But one thing is, ye know it well enow
+Of chapmen, that their money is their plough.
+We may creance while we have a name,
+But goldless for to be it is no game.
+Pay it again when it lies in your ease;
+After my might full fain would I you please."
+
+These hundred frankes set he forth anon,
+And privily he took them to Dan John;
+No wight in all this world wist of this loan,
+Saving the merchant and Dan John alone.
+They drink, and speak, and roam a while, and play,
+Till that Dan John rode unto his abbay.
+The morrow came, and forth this merchant rideth
+To Flanders-ward, his prentice well him guideth,
+Till he came unto Bruges merrily.
+Now went this merchant fast and busily
+About his need, and buyed and creanced;
+He neither played at the dice, nor danced;
+But as a merchant, shortly for to tell,
+He led his life; and there I let him dwell.
+
+The Sunday next the merchant was y-gone,
+To Saint Denis y-comen is Dan John,
+With crown and beard all fresh and newly shave,
+In all the house was not so little a knave,
+Nor no wight elles that was not full fain
+For that my lord Dan John was come again.
+And shortly to the point right for to gon,
+The faire wife accorded with Dan John,
+That for these hundred francs he should all night
+Have her in his armes bolt upright;
+And this accord performed was in deed.
+In mirth all night a busy life they lead,
+Till it was day, that Dan John went his way,
+And bade the meinie "Farewell; have good day."
+For none of them, nor no wight in the town,
+Had of Dan John right no suspicioun;
+And forth he rode home to his abbay,
+Or where him list; no more of him I say.
+
+The merchant, when that ended was the fair,
+To Saint Denis he gan for to repair,
+And with his wife he made feast and cheer,
+And tolde her that chaffare was so dear,
+That needes must he make a chevisance;
+For he was bound in a recognisance
+To paye twenty thousand shields anon.
+For which this merchant is to Paris gone,
+To borrow of certain friendes that he had
+A certain francs, and some with him he lad.
+And when that he was come into the town,
+For great cherte and great affectioun
+Unto Dan John he wente first to play;
+Not for to borrow of him no money,
+Bat for to weet and see of his welfare,
+And for to telle him of his chaffare,
+As friendes do, when they be met in fere.
+Dan John him made feast and merry cheer;
+And he him told again full specially,
+How he had well y-bought and graciously
+(Thanked be God) all whole his merchandise;
+Save that he must, in alle manner wise,
+Maken a chevisance, as for his best;
+And then he shoulde be in joy and rest.
+Dan John answered, "Certes, I am fain
+That ye in health be come borne again:
+And if that I were rich, as have I bliss,
+Of twenty thousand shields should ye not miss,
+For ye so kindely the other day
+Lente me gold, and as I can and may
+I thanke you, by God and by Saint Jame.
+But natheless I took unto our Dame,
+Your wife at home, the same gold again,
+Upon your bench; she wot it well, certain,
+By certain tokens that I can her tell
+Now, by your leave, I may no longer dwell;
+Our abbot will out of this town anon,
+And in his company I muste gon.
+Greet well our Dame, mine owen niece sweet,
+And farewell, deare cousin, till we meet.
+
+This merchant, which that was full ware and wise,
+Creanced hath, and paid eke in Paris
+To certain Lombards ready in their hond
+The sum of gold, and got of them his bond,
+And home he went, merry as a popinjay.
+For well he knew he stood in such array
+That needes must he win in that voyage
+A thousand francs, above all his costage.
+His wife full ready met him at the gate,
+As she was wont of old usage algate
+And all that night in mirthe they beset;
+For he was rich, and clearly out of debt.
+When it was day, the merchant gan embrace
+His wife all new, and kiss'd her in her face,
+And up he went, and maked it full tough.
+
+"No more," quoth she, "by God ye have enough;"
+And wantonly again with him she play'd,
+Till at the last this merchant to her said.
+"By God," quoth he, "I am a little wroth
+With you, my wife, although it be me loth;
+And wot ye why? by God, as that I guess,
+That ye have made a manner strangeness
+Betwixte me and my cousin, Dan John.
+Ye should have warned me, ere I had gone,
+That he you had a hundred frankes paid
+By ready token; he had him evil apaid
+For that I to him spake of chevisance,
+(He seemed so as by his countenance);
+But natheless, by God of heaven king,
+I thoughte not to ask of him no thing.
+I pray thee, wife, do thou no more so.
+Tell me alway, ere that I from thee go,
+If any debtor hath in mine absence
+Y-payed thee, lest through thy negligence
+I might him ask a thing that he hath paid."
+
+This wife was not afeared nor afraid,
+But boldely she said, and that anon;
+"Mary! I defy that false monk Dan John,
+I keep not of his tokens never a deal:
+He took me certain gold, I wot it well. --
+What? evil thedom on his monke's snout! --
+For, God it wot, I ween'd withoute doubt
+That he had given it me, because of you,
+To do therewith mine honour and my prow,
+For cousinage, and eke for belle cheer
+That he hath had full often here.
+But since I see I stand in such disjoint,
+I will answer you shortly to the point.
+Ye have more slacke debtors than am I;
+For I will pay you well and readily,
+From day to day, and if so be I fail,
+I am your wife, score it upon my tail,
+And I shall pay as soon as ever I may.
+For, by my troth, I have on mine array,
+And not in waste, bestow'd it every deal.
+And, for I have bestowed it so well,
+For your honour, for Godde's sake I say,
+As be not wroth, but let us laugh and play.
+Ye shall my jolly body have to wed;
+By God, I will not pay you but in bed;
+Forgive it me, mine owen spouse dear;
+Turn hitherward, and make better cheer."
+
+The merchant saw none other remedy;
+And for to chide, it were but a folly,
+Since that the thing might not amended be.
+"Now, wife," he said, "and I forgive it thee;
+But by thy life be no more so large;
+Keep better my good, this give I thee in charge."
+Thus endeth now my tale; and God us send
+Taling enough, until our lives' end!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -222,7 +571,7 @@ Another.
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
 - 🏆 **64** total stars earned
-- 🍴 **12** total forks
+- 🍴 **13** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -313,4 +662,4 @@ Another.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 29, 2025 at 06:43 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 30, 2025 at 06:42 AM GMT+5<!-- TIMESTAMP:END -->_
