@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/31/2025)
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 48 (Updated: 10/30/2025)
+- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 11/1/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/1/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 13 (Updated: 10/12/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,12 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Resolve a problem you've been putting off
+Learn how to fold a paper crane
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,255 +82,77 @@ Resolve a problem you've been putting off
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Book II. Satire VI. the First Part Imitated in the Year 1714, by Dr" by Alexander Pope
-SWIFT; THE LATTER PART ADDED AFTERWARDS.
+"Farewell Petition to J.C.H., Esq^Re^" by George Gordon, Lord Byron
+O THOU yclep'd by vulgar sons of Men
+Cam Hobhouse! but by wags Byzantian Ben!
+Twin sacred titles, which combined appear
+To grace thy volume's front, and gild its rear,
+Since now thou put'st thyself and work to Sea
+And leav'st all Greece to _Fletcher_ and to me,
+Oh, hear my single muse our sorrows tell,
+_One_ song for _self_ and Fletcher quite as well--
 
-I've often wish'd that I had clear,
-For life, six hundred pounds a-year,
-A handsome house to lodge a friend,
-A river at my garden's end,
-A terrace-walk, and half a rood
-Of land, set out to plant a wood.
+First to the _Castle_ of that man of woes
+Dispatch the letter which _I must_ enclose,
+And when his lone Penelope shall say
+_Why, where_, and _wherefore_ doth my William stay?
+Spare not to move her pity, or her pride--
+By all that Hero suffered, or defied;
+The _chicken's toughness_, and the _lack_ of _ale_
+The _stoney mountain_ and the _miry vale_
+The _Garlick_ steams, which _half_ his meals enrich,
+The _impending vermin_, and the threatened _Itch_,
+That _ever breaking_ Bed, beyond repair!
+The hat too _old_, the coat too _cold_ to wear,
+The Hunger, _which repulsed from Sally's door_
+Pursues her grumbling half from shore to shore,
+Be these the themes to greet his faithful Rib
+So may thy pen be smooth, thy tongue be glib!
 
-Well, now I have all this and more,
-I ask not to increase my store;
-But here a grievance seems to lie,
-All this is mine but till I die;
-I can't but think 'twould sound more clever,
-To me and to my heirs for ever.
+This duty done, let me in turn demand
+Some friendly office in my native land,
+Yet let me ponder well, before I ask,
+And set thee swearing at the tedious task.
 
-If I ne'er got or lost a groat,
-By any trick, or any fault;
-And if I pray by reason's rules,
-And not like forty other fools:
-As thus, 'Vouchsafe, O gracious Maker!
-To grant me this and t' other acre:
-Or, if it be thy will and pleasure,
-Direct my plough to find a treasure:'
-But only what my station fits,
-And to be kept in my right wits.
-Preserve, Almighty Providence!
-Just what you gave me, competence:
-And let me in these shades compose
-Something in verse as true as prose;
-Removed from all the ambitious scene,
-Nor puff'd by pride, nor sunk by spleen.
+First the Miscellany!--to Southwell town
+_Per coach_ for Mrs. _Pigot_ frank it down,
+So may'st them prosper in the paths of Sale,
+And Longman smirk and critics cease to rail.
 
-In short, I'm perfectly content,
-Let me but live on this side Trent;
-Nor cross the Channel twice a-year,
-To spend six months with statesmen here.
+All hail to Matthews! wash his reverend feet,
+And in my name the man of Method greet,--
+Tell him, my Guide, Philosopher, and Friend,
+Who cannot love me, and who will not mend,
+Tell him, that not in vain I shall assay
+To tread and trace our "old Horatian way,"
+And be (with prose supply my dearth of rhymes)
+What better men have been in better times.
 
-I must by all means come to town,
-'Tis for the service of the crown.
-'Lewis, the Dean will be of use,
-Send for him up, take no excuse.'
-The toil, the danger of the seas;
-Great ministers ne'er think of these;
-Or let it cost five hundred pound,
-No matter where the money's found,
-It is but so much more in debt,
-And that they ne'er consider'd yet.
-
-'Good Mr Dean, go change your gown,
-Let my lord know you're come to town.'
-I hurry me in haste away,
-Not thinking it is levee-day;
-And find his honour in a pound,
-Hemm'd by a triple circle round,
-Checquer'd with ribbons blue and green:
-How should I thrust myself between?
-Same wag observes me thus perplex'd,
-And smiling, whispers to the next,
-'I thought the Dean had been too proud,
-To jostle here among a crowd.'
-Another in a surly fit,
-Tells me I have more zeal than wit,
-'So eager to express your love,
-You ne'er consider whom you shove,
-But rudely press before a duke.'
-I own, I'm pleased with this rebuke,
-And take it kindly meant to show
-What I desire the world should know.
-
-I get a whisper, and withdraw;
-When twenty fools I never saw
-Come with petitions fairly penn'd,
-Desiring I would stand their friend.
-
-This, humbly offers me his case--
-That, begs my interest for a place--
-A hundred other men's affairs,
-Like bees, are humming in my ears.
-'To-morrow my appeal comes on,
-Without your help the cause is gone'--
-The duke expects my lord and you,
-About some great affair, at two--
-'Put my Lord Bolingbroke in mind,
-To get my warrant quickly sign'd:
-Consider, 'tis my first request.'--
-Be satisfied, I'll do my best:
-Then presently he falls to tease,
-'You may for certain, if you please;
-I doubt not, if his lordship knew--
-And, Mr Dean, one word from you'--
-
-'Tis (let me see) three years and more,
-(October next it will be four)
-Since Harley bid me first attend,
-And chose me for an humble friend;
-Would take me in his coach to chat,
-And question me of this and that;
-As, 'What's o'clock?' and, 'How's the wind?'
-'Who's chariot's that we left behind?'
-Or gravely try to read the lines
-Writ underneath the country signs;
-Or, 'Have you nothing new to-day
-From Pope, from Parnell, or from Gay?'
-Such tattle often entertains
-My lord and me as far as Staines,
-As once a week we travel down
-To Windsor, and again to town,
-Where all that passes, _inter nos_,
-Might be proclaim'd at Charing Cross.
-
-Yet some I know with envy swell,
-Because they see me used so well:
-'How think you of our friend the dean?
-I wonder what some people mean;
-My lord and he are grown so great,
-Always together, tête-à-tête:
-What, they admire him for his jokes--
-See but the fortune of some folks!'
-There flies about a strange report
-Of some express arrived at court;
-I'm stopp'd by all the fools I meet,
-And catechised in every street.
-'You, Mr Dean, frequent the great;
-Inform us, will the Emperor treat?
-Or do the prints and papers lie?'
-Faith, sir, you know as much as I.
-'Ah, Doctor, how you love to jest!
-Tis now no secret'--I protest
-'Tis one to me--'Then tell us, pray,
-When are the troops to have their pay?'
-And, though I solemnly declare
-I know no more than my Lord Mayor,
-They stand amazed, and think me grown
-The closest mortal ever known.
-
-Thus in a sea of folly toss'd,
-My choicest hours of life are lost;
-Yet always wishing to retreat,
-Oh, could I see my country-seat!
-There, leaning near a gentle brook,
-Sleep, or peruse some ancient book,
-And there in sweet oblivion drown
-Those cares that haunt the court and town.
-O charming noons! and nights divine!
-Or when I sup, or when I dine,
-My friends above, my folks below,
-Chatting and laughing all a-row;
-The beans and bacon set before 'em,
-The grace-cup served with all decorum:
-Each willing to be pleased, and please,
-And even the very dogs at ease!
-Here no man prates of idle things,
-How this or that Italian sings,
-A neighbour's madness, or his spouse's,
-Or what's in either of the Houses:
-But something much more our concern,
-And quite a scandal not to learn:
-Which is the happier or the wiser,
-A man of merit, or a miser?
-Whether we ought to choose our friends,
-For their own worth, or our own ends?
-What good, or better, we may call,
-And what, the very best of all?
-
-Our friend Dan Prior told (you know)
-A tale extremely _á propos_:
-Name a town life, and in a trice,
-He had a story of two mice.
-Once on a time (so runs the fable)
-A country mouse, right hospitable,
-Received a town mouse at his board,
-Just as a farmer might a lord.
-A frugal mouse upon the whole.
-Yet loved his friend, and had a soul,
-Knew what was handsome, and would do 't,
-On just occasion, coúte qui coúte,
-He brought him bacon (nothing lean);
-Pudding, that might have pleased a dean;
-Cheese, such as men in Suffolk make,
-But wish'd it Stilton, for his sake;
-Yet, to his guest though no way sparing,
-He eat himself the rind and paring,
-Our courtier scarce could touch a bit,
-But show'd his breeding and his wit;
-He did his best to seem to eat,
-And cried, 'I vow you're mighty neat.
-But, lord! my friend, this savage scene!
-For God's sake, come, and live with men:
-Consider, mice, like men, must die,
-Both small and great, both you and I:
-Then spend your life in joy and sport,
-(This doctrine, friend, I learn'd at court).'
-
-The veriest hermit in the nation
-May yield, God knows, to strong temptation.
-Away they come, through thick and thin,
-To a tall house near Lincoln's Inn;
-('Twas on the night of a debate,
-When all their lordships had sat late.)
-
-Behold the place where, if a poet
-Shined in description, he might show it;
-Tell how the moonbeam trembling falls,
-And tips with silver all the walls;
-Palladian walls, Venetian doors,
-Grotesco roofs, and stucco floors:
-But let it (in a word) be said,
-The moon was up, and men a-bed,
-The napkins white, the carpet red:
-The guests withdrawn had left the treat,
-And down the mice sat, _tête-à-tête_.
-
-Our courtier walks from dish to dish,
-Tastes for his friend of fowl and fish;
-Tells all their names, lays down the law,
-'_Que ça est bon! Ah goutez ça!_
-That jelly's rich, this malmsey healing,
-Pray, dip your whiskers and your tail in.'
-Was ever such a happy swain?
-He stuffs and swills, and stuffs again.
-'I'm quite ashamed--'tis mighty rude
-To eat so much--but all's so good.
-I have a thousand thanks to give--
-My lord alone knows how to live.'
-No sooner said, but from the hall
-Rush chaplain, butler, dogs, and all:
-'A rat! a rat! clap to the door'--
-The cat comes bouncing on the floor.
-O for the heart of Homer's mice,
-Or gods to save them in a trice!
-(It was by Providence they think,
-For your damn'd stucco has no chink.)
-'An't please your honour, quoth the peasant,
-This same dessert is not so pleasant:
-Give me again my hollow tree,
-A crust of bread, and liberty!'
+Here let me cease, for why should I prolong
+My notes, and vex a _Singer_ with a _Song_?
+Oh thou with pen perpetual in thy fist!
+Dubbed for thy sins a stark Miscellanist,
+So pleased the printer's orders to perform
+For Messrs. _Longman_, _Hurst_ and _Rees_ and _Orme_.
+Go--Get thee hence to Paternoster Row,
+Thy patrons wave a duodecimo!
+(Best form for _letters_ from a distant land,
+It fits the pocket, nor fatigues the hand.)
+Then go, once more the joyous work commence
+With stores of anecdote, and grains of sense,
+Oh may Mammas relent, and Sires forgive!
+And scribbling Sons grow dutiful and live!
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 19°C, haze in Karachi 🇵🇰
+🌡️ 17°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **65** total stars earned
-- 🍴 **13** total forks
+- 🏆 **64** total stars earned
+- 🍴 **14** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -417,4 +243,4 @@ A crust of bread, and liberty!'
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 1, 2025 at 06:43 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 2, 2025 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
