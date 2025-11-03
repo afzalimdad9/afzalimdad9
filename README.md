@@ -9,7 +9,7 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js
+- 🔭 I'm currently working on [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
 - 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
@@ -28,9 +28,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js ⭐ 2 (Updated: 11/2/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/2/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 11/1/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/1/2025)
-- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 13 (Updated: 10/12/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -64,16 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+Four engineers get into a car. The car won't start.
+The Mechanical engineer says "It's a broken starter".
+The Electrical engineer says "Dead battery".
+The Chemical engineer says "Impurities in the gasoline".
+The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn how to fold a paper crane
+Volunteer at a local animal shelter
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -82,76 +82,36 @@ Learn how to fold a paper crane
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Farewell Petition to J.C.H., Esq^Re^" by George Gordon, Lord Byron
-O THOU yclep'd by vulgar sons of Men
-Cam Hobhouse! but by wags Byzantian Ben!
-Twin sacred titles, which combined appear
-To grace thy volume's front, and gild its rear,
-Since now thou put'st thyself and work to Sea
-And leav'st all Greece to _Fletcher_ and to me,
-Oh, hear my single muse our sorrows tell,
-_One_ song for _self_ and Fletcher quite as well--
+"For These" by Edward Thomas
+AN acre of land between the shore and the hills,
+Upon a ledge that shows my kingdoms three,
+The lovely visible earth and sky and sea,
+Where what the curlew needs not, the farmer tills:
 
-First to the _Castle_ of that man of woes
-Dispatch the letter which _I must_ enclose,
-And when his lone Penelope shall say
-_Why, where_, and _wherefore_ doth my William stay?
-Spare not to move her pity, or her pride--
-By all that Hero suffered, or defied;
-The _chicken's toughness_, and the _lack_ of _ale_
-The _stoney mountain_ and the _miry vale_
-The _Garlick_ steams, which _half_ his meals enrich,
-The _impending vermin_, and the threatened _Itch_,
-That _ever breaking_ Bed, beyond repair!
-The hat too _old_, the coat too _cold_ to wear,
-The Hunger, _which repulsed from Sally's door_
-Pursues her grumbling half from shore to shore,
-Be these the themes to greet his faithful Rib
-So may thy pen be smooth, thy tongue be glib!
+A house that shall love me as I love it,
+Well-hedged, and honoured by a few ash-trees
+That linnets, greenfinches, and goldfinches
+Shall often visit and make love in and flit:
 
-This duty done, let me in turn demand
-Some friendly office in my native land,
-Yet let me ponder well, before I ask,
-And set thee swearing at the tedious task.
+A garden I need never go beyond,
+Broken but neat, whose sunflowers every one
+Are fit to be the sign of the Rising Sun:
+A spring, a brook's bend, or at least a pond:
 
-First the Miscellany!--to Southwell town
-_Per coach_ for Mrs. _Pigot_ frank it down,
-So may'st them prosper in the paths of Sale,
-And Longman smirk and critics cease to rail.
-
-All hail to Matthews! wash his reverend feet,
-And in my name the man of Method greet,--
-Tell him, my Guide, Philosopher, and Friend,
-Who cannot love me, and who will not mend,
-Tell him, that not in vain I shall assay
-To tread and trace our "old Horatian way,"
-And be (with prose supply my dearth of rhymes)
-What better men have been in better times.
-
-Here let me cease, for why should I prolong
-My notes, and vex a _Singer_ with a _Song_?
-Oh thou with pen perpetual in thy fist!
-Dubbed for thy sins a stark Miscellanist,
-So pleased the printer's orders to perform
-For Messrs. _Longman_, _Hurst_ and _Rees_ and _Orme_.
-Go--Get thee hence to Paternoster Row,
-Thy patrons wave a duodecimo!
-(Best form for _letters_ from a distant land,
-It fits the pocket, nor fatigues the hand.)
-Then go, once more the joyous work commence
-With stores of anecdote, and grains of sense,
-Oh may Mammas relent, and Sires forgive!
-And scribbling Sons grow dutiful and live!
+For these I ask not, but, neither too late
+Nor yet too early, for what men call content,
+And also that something may be sent
+To be contented with, I ask of fate.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 17°C, haze in Karachi 🇵🇰
+🌡️ 18°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **64** total stars earned
+- 🏆 **62** total stars earned
 - 🍴 **14** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -243,4 +203,4 @@ And scribbling Sons grow dutiful and live!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 2, 2025 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 3, 2025 at 06:44 AM GMT+5<!-- TIMESTAMP:END -->_
