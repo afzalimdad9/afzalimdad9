@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [cashify](https://github.com/afzalimdad9/cashify)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/3/2025)
 - 🔥 [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js ⭐ 2 (Updated: 11/2/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/2/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 11/1/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,16 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Four engineers get into a car. The car won't start.
-The Mechanical engineer says "It's a broken starter".
-The Electrical engineer says "Dead battery".
-The Chemical engineer says "Impurities in the gasoline".
-The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Volunteer at a local animal shelter
+Make a budget
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -82,31 +78,159 @@ Volunteer at a local animal shelter
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"For These" by Edward Thomas
-AN acre of land between the shore and the hills,
-Upon a ledge that shows my kingdoms three,
-The lovely visible earth and sky and sea,
-Where what the curlew needs not, the farmer tills:
+"Satire II." by Alexander Pope
+'Quid vetat et nosmet Lucilî scripta legentes Quaerere, num illius, num
+rerum dura negârit Versiculos natura magis factos, et euntes Mollius?'
 
-A house that shall love me as I love it,
-Well-hedged, and honoured by a few ash-trees
-That linnets, greenfinches, and goldfinches
-Shall often visit and make love in and flit:
+HOR.
 
-A garden I need never go beyond,
-Broken but neat, whose sunflowers every one
-Are fit to be the sign of the Rising Sun:
-A spring, a brook's bend, or at least a pond:
+THE SATIRES OF DR JOHN DONNE, DEAN OF ST PAUL'S, VERSIFIED.
 
-For these I ask not, but, neither too late
-Nor yet too early, for what men call content,
-And also that something may be sent
-To be contented with, I ask of fate.
+SATIRES AND EPISTLES OF HORACE IMITATED.
+
+Yes; thank my stars! as early as I knew
+This town, I had the sense to hate it too:
+Yet here, as ev'n in Hell, there must be still
+One giant-vice, so excellently ill,
+That all beside, one pities, not abhors;
+As who knows Sappho, smiles at other whores.
+
+I grant that poetry's a crying sin;
+It brought (no doubt) the Excise and Army in:
+Catch'd like the plague, or love, the Lord knows how,
+But that the cure is starving, all allow.
+Yet like the papist's is the poet's state,
+Poor and disarm'd, and hardly worth your hate!
+
+Here a lean bard, whose wit could never give
+Himself a dinner, makes an actor live;
+The thief condemn'd, in law already dead,
+So prompts, and saves a rogue who cannot read.
+Thus as the pipes of some carved organ move,
+The gilded puppets dance and mount above.
+Heaved by the breath the inspiring bellows blow:
+The inspiring bellows lie and pant below.
+
+One sings the fair; but songs no longer move;
+No rat is rhymed to death, nor maid to love:
+In love's, in nature's spite, the siege they hold,
+And scorn the flesh, the devil, and all--but gold.
+These write to lords, some mean reward to get,
+As needy beggars sing at doors for meat.
+Those write because all write, and so have still
+Excuse for writing, and for writing ill.
+
+Wretched indeed! but far more wretched yet
+Is he who makes his meal on others' wit:
+'Tis changed, no doubt, from what it was before,
+His rank digestion makes it wit no more:
+Sense, pass'd through him, no longer is the same;
+For food digested takes another name.
+
+I pass o'er all those confessors and martyrs,
+Who live like Sutton, or who die like Chartres,
+Out-cant old Esdras, or out-drink his heir,
+Out-usure Jews, or Irishmen out-swear;
+Wicked as pages, who in early years
+Act sins which Prisca's confessor scarce hears.
+Ev'n those I pardon, for whose sinful sake
+Schoolmen new tenements in hell must make;
+Of whose strange crimes no canonist can tell
+In what commandment's large contents they dwell.
+
+One, one man only breeds my just offence;
+Whom crimes gave wealth, and wealth gave impudence:
+Time, that at last matures a clap to pox,
+Whose gentle progress makes a calf an ox,
+And brings all natural events to pass,
+Hath made him an attorney of an ass.
+No young divine, new-beneficed, can be
+More pert, more proud, more positive than he.
+What further could I wish the fop to do,
+But turn a wit, and scribble verses too;
+Pierce the soft labyrinth of a lady's ear
+With rhymes of this per cent, and that per year?
+Or court a wife, spread out his wily parts,
+Like nets or lime-twigs, for rich widows' hearts:
+Call himself barrister to every wench,
+And woo in language of the Pleas and Bench?
+Language, which Boreas might to Auster hold
+More rough than forty Germans when they scold.
+
+Cursed be the wretch, so venal and so vain:
+Paltry and proud, as drabs in Drury-lane.
+'Tis such a bounty as was never known,
+If Peter deigns to help you to your own:
+What thanks, what praise, if Peter but supplies,
+And what a solemn face, if he denies!
+Grave, as when prisoners shake the head and swear
+'Twas only suretiship that brought 'em there.
+His office keeps your parchment fates entire,
+He starves with cold to save them from the fire;
+For you he walks the streets through rain or dust,
+For not in chariots Peter puts his trust;
+For you he sweats and labours at the laws,
+Takes God to witness he affects your cause,
+And lies to every lord in every thing,
+Like a king's favourite, or like a king.
+These are the talents that adorn them all,
+From wicked Waters ev'n to godly Paul.
+Not more of simony beneath black gowns,
+Not more of bastardy in heirs to crowns.
+In shillings and in pence at first they deal;
+And steal so little, few perceive they steal;
+Till, like the sea, they compass all the land,
+From Scots to Wight, from Mount to Dover strand:
+And when rank widows purchase luscious nights,
+Or when a duke to Jansen punts at White's,
+Or city-heir in mortgage melts away;
+Satan himself feels far less joy than they.
+Piecemeal they win this acre first, then that,
+Glean on, and gather up the whole estate.
+Then strongly fencing ill-got wealth by law,
+Indentures, covenants, articles they draw,
+Large as the fields themselves, and larger far
+Than civil codes, with all their glosses, are;
+So vast, our new divines, we must confess,
+Are fathers of the Church for writing less.
+But let them write for you, each rogue impairs
+The deeds, and dext'rously omits, _ses heires_:
+No commentator can more slily pass
+O'er a learn'd, unintelligible place;
+Or, in quotation, shrewd divines leave out
+Those words, that would against them clear the doubt.
+
+So Luther thought the Pater-noster long,
+When doom'd to say his beads and even-song;
+But having cast his cowl, and left those laws,
+Adds to Christ's prayer, the Power and Glory clause.
+
+The lands are bought; but where are to be found
+Those ancient woods, that shaded all the ground?
+We see no new-built palaces aspire,
+No kitchens emulate the vestal fire.
+Where are those troops of poor, that throng'd of yore
+The good old landlord's hospitable door?
+Well, I could wish, that still in lordly domes
+Some beasts were kill'd, though not whole hecatombs;
+That both extremes were banish'd from their walls,
+Carthusian fasts, and fulsome Bacchanals;
+And all mankind might that just mean observe,
+In which none e'er could surfeit, none could starve.
+These as good works, 'tis true, we all allow;
+But oh! these works are not in fashion now:
+Like rich old wardrobes, things extremely rare,
+Extremely fine, but what no man will wear.
+
+Thus much I've said, I trust, without offence;
+Let no court sycophant pervert my sense,
+Nor sly informer watch these words to draw
+Within the reach of treason, or the law.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 18°C, smoke in Karachi 🇵🇰
+🌡️ 20°C, mist in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -203,4 +327,4 @@ To be contented with, I ask of fate.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 3, 2025 at 06:44 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 4, 2025 at 06:41 AM GMT+5<!-- TIMESTAMP:END -->_
