@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [cashify](https://github.com/afzalimdad9/cashify)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,9 +28,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/6/2025)
+- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 14 (Updated: 11/7/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/7/2025)
 - 🔥 [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js ⭐ 2 (Updated: 11/2/2025)
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 47 (Updated: 11/1/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -64,15 +64,16 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Plan a trip to another country
+Research a topic you're interested in
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,25 +82,23 @@ Plan a trip to another country
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Snow" by Edward Thomas
-IN the gloom of whiteness,
-In the great silence of snow,
-A child was sighing
-And bitterly saying: "Oh,
-They have killed a white bird up there on her nest,
-The down is fluttering from her breast."
-And still it fell through that dusky brightness
-On the child crying for the bird of the snow.
+"Imitation of Tibullus. Sulpicia AD Cerinthum (Lib. Quart.)" by George Gordon, Lord Byron
+Cruel Cerinthus! does the fell disease
+Which racks my breast your fickle bosom please?
+Alas! I wish'd but to o'ercome the pain,
+That I might live for Love and you again;
+But, now, I scarcely shall bewail my fate:
+By Death alone I can avoid your hate.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 15°C, smoke in Karachi 🇵🇰
+🌡️ 15°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **62** total stars earned
+- 🏆 **63** total stars earned
 - 🍴 **14** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -191,4 +190,4 @@ On the child crying for the bird of the snow.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 7, 2025 at 06:40 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 8, 2025 at 06:27 AM GMT+5<!-- TIMESTAMP:END -->_
