@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/8/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/9/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 14 (Updated: 11/7/2025)
 - 🔥 [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js ⭐ 2 (Updated: 11/2/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-"We messed up the keming again guys."
+Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Draw something interesting
+Create a cookbook with your favorite recipes
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,711 +78,1037 @@ Draw something interesting
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Canterbury Tales. The Pardoner's Tale." by Geoffrey Chaucer
-THE PROLOGUE.
+"Endymion: Book I" by John Keats
+ENDYMION.
 
-OUR Hoste gan to swear as he were wood;
-"Harow!" quoth he, "by nailes and by blood,
-This was a cursed thief, a false justice.
-As shameful death as hearte can devise
-Come to these judges and their advoca's.
-Algate this sely maid is slain, alas!
-Alas! too deare bought she her beauty.
-Wherefore I say, that all day man may see
-That giftes of fortune and of nature
-Be cause of death to many a creature.
-Her beauty was her death, I dare well sayn;
-Alas! so piteously as she was slain.
-[Of bothe giftes, that I speak of now
-Men have full often more harm than prow,]
-But truely, mine owen master dear,
-This was a piteous tale for to hear;
-But natheless, pass over; 'tis no force.
-I pray to God to save thy gentle corse,
-And eke thine urinals, and thy jordans,
-Thine Hippocras, and eke thy Galliens,
-And every boist full of thy lectuary,
-God bless them, and our lady Sainte Mary.
-So may I the', thou art a proper man,
-And like a prelate, by Saint Ronian;
-Said I not well? Can I not speak in term?
-But well I wot thou dost mine heart to erme,
-That I have almost caught a cardiacle:
-By corpus Domini , but I have triacle,
-Or else a draught of moist and corny  ale,
-Or but I hear anon a merry tale,
-Mine heart is brost for pity of this maid.
-Thou bel ami, thou Pardoner," he said,
-"Tell us some mirth of japes right anon."
-"It shall be done," quoth he, "by Saint Ronion.
-But first," quoth he, "here at this ale-stake
-I will both drink, and biten on a cake."
-But right anon the gentles gan to cry,
-"Nay, let him tell us of no ribaldry.
-Tell us some moral thing, that we may lear
-Some wit, and thenne will we gladly hear."
-"I grant y-wis," quoth he; "but I must think
-Upon some honest thing while that I drink."
+A Poetic Romance.
 
-THE TALE
+"THE STRETCHED METRE OF AN AN ANTIQUE SONG."
+INSCRIBED TO THE MEMORY OF THOMAS CHATTERTON.
 
-Lordings (quoth he), in churche when I preach,
-I paine me to have an hautein speech,
-And ring it out, as round as doth a bell,
-For I know all by rote that I tell.
-My theme is always one, and ever was;
-Radix malorum est cupiditas.
-First I pronounce whence that I come,
-And then my bulles shew I all and some;
-Our liege lorde's seal on my patent,
-That shew I first, my body to warrent,
-That no man be so hardy, priest nor clerk,
-Me to disturb of Christe's holy werk.
-And after that then tell I forth my tales.
-Bulles of popes, and of cardinales,
-Of patriarchs, and of bishops I shew,
-And in Latin I speak a wordes few,
-To savour with my predication,
-And for to stir men to devotion
-Then show I forth my longe crystal stones,
-Y-crammed fall of cloutes and of bones;
-Relics they be, as weene they each one.
-Then have I in latoun a shoulder-bone
-Which that was of a holy Jewe's sheep.
-"Good men," say I, "take of my wordes keep;
-If that this bone be wash'd in any well,
-If cow, or calf, or sheep, or oxe swell,
-That any worm hath eat, or worm y-stung,
-Take water of that well, and wash his tongue,
-And it is whole anon; and farthermore
-Of pockes, and of scab, and every sore
-Shall every sheep be whole, that of this well
-Drinketh a draught; take keep of that I tell.
 
-"If that the goodman, that the beastes oweth,
-Will every week, ere that the cock him croweth,
-Fasting, y-drinken of this well a draught,
-As thilke holy Jew our elders taught,
-His beastes and his store shall multiply.
-And, Sirs, also it healeth jealousy;
-For though a man be fall'n in jealous rage,
-Let make with this water his pottage,
-And never shall he more his wife mistrist,
-Though he the sooth of her defaulte wist;
-All had she taken priestes two or three.
-Here is a mittain eke, that ye may see;
-He that his hand will put in this mittain,
-He shall have multiplying of his grain,
-When he hath sowen, be it wheat or oats,
-So that he offer pence, or elles groats.
-And, men and women, one thing warn I you;
-If any wight be in this churche now
-That hath done sin horrible, so that he
-Dare not for shame of it y-shriven be;
-Or any woman, be she young or old,
-That hath y-made her husband cokewold,
-Such folk shall have no power nor no grace
-To offer to my relics in this place.
-And whoso findeth him out of such blame,
-He will come up and offer in God's name;
-And I assoil him by the authority
-Which that by bull y-granted was to me."
+Book I
 
-By this gaud have I wonne year by year
-A hundred marks, since I was pardonere.
-I stande like a clerk in my pulpit,
-And when the lewed people down is set,
-I preache so as ye have heard before,
-And telle them a hundred japes more.
-Then pain I me to stretche forth my neck,
-And east and west upon the people I beck,
-As doth a dove, sitting on a bern;
-My handes and my tongue go so yern,
-That it is joy to see my business.
-Of avarice and of such cursedness
-Is all my preaching, for to make them free
-To give their pence, and namely unto me.
-For mine intent is not but for to win,
-And nothing for correction of sin.
-I recke never, when that they be buried,
-Though that their soules go a blackburied.
-For certes many a predication
-Cometh oft-time of evil intention;
-Some for pleasance of folk, and flattery,
-To be advanced by hypocrisy;
-And some for vainglory, and some for hate.
-For, when I dare not otherwise debate,
-Then will I sting him with my tongue smart
-In preaching, so that he shall not astart
-To be defamed falsely, if that he
-Hath trespass'd to my brethren or to me.
-For, though I telle not his proper name,
-Men shall well knowe that it is the same
-By signes, and by other circumstances.
-Thus quite I folk that do us displeasances:
-Thus spit I out my venom, under hue
-Of holiness, to seem holy and true.
-But, shortly mine intent I will devise,
-I preach of nothing but of covetise.
-Therefore my theme is yet, and ever was, --
-Radix malorum est cupiditas.
-Thus can I preach against the same vice
-Which that I use, and that is avarice.
-But though myself be guilty in that sin,
-Yet can I maken other folk to twin
-From avarice, and sore them repent.
-But that is not my principal intent;
-I preache nothing but for covetise.
-Of this mattere it ought enough suffice.
-Then tell I them examples many a one,
-Of olde stories longe time gone;
-For lewed people love tales old;
-Such thinges can they well report and hold.
-What? trowe ye, that whiles I may preach
-And winne gold and silver for I teach,
-That I will live in povert' wilfully?
-Nay, nay, I thought it never truely.
-For I will preach and beg in sundry lands;
-I will not do no labour with mine hands,
-Nor make baskets for to live thereby,
-Because I will not beggen idlely.
-I will none of the apostles counterfeit;
-I will have money, wool, and cheese, and wheat,
-All were it given of the poorest page,
-Or of the pooreste widow in a village:
-All should her children sterve for famine.
-Nay, I will drink the liquor of the vine,
-And have a jolly wench in every town.
-But hearken, lordings, in conclusioun;
-Your liking is, that I shall tell a tale
-Now I have drunk a draught of corny ale,
-By God, I hope I shall you tell a thing
-That shall by reason be to your liking;
-For though myself be a full vicious man,
-A moral tale yet I you telle can,
-Which I am wont to preache, for to win.
-Now hold your peace, my tale I will begin.
 
-In Flanders whilom was a company
-Of younge folkes, that haunted folly,
-As riot, hazard, stewes, and taverns;
-Where as with lutes, harpes, and giterns,
-They dance and play at dice both day and night,
-And eat also, and drink over their might;
-Through which they do the devil sacrifice
-Within the devil's temple, in cursed wise,
-By superfluity abominable.
-Their oathes be so great and so damnable,
-That it is grisly for to hear them swear.
-Our blissful Lorde's body they to-tear;
-Them thought the Jewes rent him not enough,
-And each of them at other's sinne lough.
-And right anon in come tombesteres
-Fetis and small, and younge fruitesteres.
-Singers with harpes, baudes, waferers,
-Which be the very devil's officers,
-To kindle and blow the fire of lechery,
-That is annexed unto gluttony.
-The Holy Writ take I to my witness,
-That luxury is in wine and drunkenness.
-Lo, how that drunken Lot unkindely
-Lay by his daughters two unwittingly,
-So drunk he was he knew not what he wrought.
-Herodes, who so well the stories sought,
-When he of wine replete was at his feast,
-Right at his owen table gave his hest
-To slay the Baptist John full guilteless.
-Seneca saith a good word, doubteless:
-He saith he can no difference find
-Betwixt a man that is out of his mind,
-And a man whiche that is drunkelew:
-But that woodness, y-fallen in a shrew,
-Persevereth longer than drunkenness.
+A thing of beauty is a joy for ever:
+Its loveliness increases; it will never
+Pass into nothingness; but still will keep
+A bower quiet for us, and a sleep
+Full of sweet dreams, and health, and quiet breathing.
+Therefore, on every morrow, are we wreathing
+A flowery band to bind us to the earth,
+Spite of despondence, of the inhuman dearth
+Of noble natures, of the gloomy days,
+Of all the unhealthy and o'er-darkened ways
+Made for our searching: yes, in spite of all,
+Some shape of beauty moves away the pall
+From our dark spirits. Such the sun, the moon,
+Trees old and young, sprouting a shady boon
+For simple sheep; and such are daffodils
+With the green world they live in; and clear rills
+That for themselves a cooling covert make
+'Gainst the hot season; the mid forest brake,
+Rich with a sprinkling of fair musk-rose blooms:
+And such too is the grandeur of the dooms
+We have imagined for the mighty dead;
+All lovely tales that we have heard or read:
+An endless fountain of immortal drink,
+Pouring unto us from the heaven's brink.
 
-O gluttony, full of all cursedness;
-O cause first of our confusion,
-Original of our damnation,
-Till Christ had bought us with his blood again!
-Looke, how deare, shortly for to sayn,
-Abought was first this cursed villainy:
-Corrupt was all this world for gluttony.
-Adam our father, and his wife also,
-From Paradise, to labour and to woe,
-Were driven for that vice, it is no dread.
-For while that Adam fasted, as I read,
-He was in Paradise; and when that he
-Ate of the fruit defended of the tree,
-Anon he was cast out to woe and pain.
-O gluttony! well ought us on thee plain.
-Oh! wist a man how many maladies
-Follow of excess and of gluttonies,
-He woulde be the more measurable
-Of his diete, sitting at his table.
-Alas! the shorte throat, the tender mouth,
-Maketh that east and west, and north and south,
-In earth, in air, in water, men do swink
-To get a glutton dainty meat and drink.
-Of this mattere, O Paul! well canst thou treat
-Meat unto womb, and womb eke unto meat,
-Shall God destroye both, as Paulus saith.
-Alas! a foul thing is it, by my faith,
-To say this word, and fouler is the deed,
-When man so drinketh of the white and red,
-That of his throat he maketh his privy
-Through thilke cursed superfluity
-The apostle saith,  weeping full piteously,
-There walk many, of which you told have I, --
-I say it now weeping with piteous voice, --
-That they be enemies of Christe's crois;
-Of which the end is death; womb is their God.
-O womb, O belly, stinking is thy cod,
-Full fill'd of dung and of corruptioun;
-At either end of thee foul is the soun.
-How great labour and cost is thee to find!
-These cookes how they stamp, and strain, and grind,
-And turne substance into accident,
-To fulfill all thy likerous talent!
-Out of the harde bones knocke they
-The marrow, for they caste naught away
-That may go through the gullet soft and swoot
-Of spicery and leaves, of bark and root,
-Shall be his sauce y-maked by delight,
-To make him have a newer appetite.
-But, certes, he that haunteth such delices
-Is dead while that he liveth in those vices.
+  Nor do we merely feel these essences
+For one short hour; no, even as the trees
+That whisper round a temple become soon
+Dear as the temple's self, so does the moon,
+The passion poesy, glories infinite,
+Haunt us till they become a cheering light
+Unto our souls, and bound to us so fast,
+That, whether there be shine, or gloom o'ercast,
+They alway must be with us, or we die.
 
-A lecherous thing is wine, and drunkenness
-Is full of striving and of wretchedness.
-O drunken man! disfgur'd is thy face,
-Sour is thy breath, foul art thou to embrace:
-And through thy drunken nose sowneth the soun',
-As though thous saidest aye, Samsoun! Samsoun!
-And yet, God wot, Samson drank never wine.
-Thou fallest as it were a sticked swine;
-Thy tongue is lost, and all thine honest cure;
-For drunkenness is very sepulture
-Of manne's wit and his discretion.
-In whom that drink hath domination,
-He can no counsel keep, it is no dread.
-Now keep you from the white and from the red,
-And namely from the white wine of Lepe,
-That is to sell in Fish Street  and in Cheap.
-This wine of Spaine creepeth subtilly  --
-In other wines growing faste by,
-Of which there riseth such fumosity,
-That when a man hath drunken draughtes three,
-And weeneth that he be at home in Cheap,
-He is in Spain, right at the town of Lepe,
-Not at the Rochelle, nor at Bourdeaux town;
-And thenne will he say, Samsoun! Samsoun!
-But hearken, lordings, one word, I you pray,
-That all the sovreign actes, dare I say,
-Of victories in the Old Testament,
-Through very God that is omnipotent,
-Were done in abstinence and in prayere:
-Look in the Bible, and there ye may it lear.
-Look, Attila, the greate conqueror,
-Died in his sleep,  with shame and dishonour,
-Bleeding aye at his nose in drunkenness:
-A captain should aye live in soberness
-And o'er all this, advise you right well
-What was commanded unto Lemuel;
-Not Samuel, but Lemuel, say I.
-Reade the Bible, and find it expressly
-Of wine giving to them that have justice.
-No more of this, for it may well suffice.
+  Therefore, 'tis with full happiness that I
+Will trace the story of Endymion.
+The very music of the name has gone
+Into my being, and each pleasant scene
+Is growing fresh before me as the green
+Of our own vallies: so I will begin
+Now while I cannot hear the city's din;
+Now while the early budders are just new,
+And run in mazes of the youngest hue
+About old forests; while the willow trails
+Its delicate amber; and the dairy pails
+Bring home increase of milk. And, as the year
+Grows lush in juicy stalks, I'll smoothly steer
+My little boat, for many quiet hours,
+With streams that deepen freshly into bowers.
+Many and many a verse I hope to write,
+Before the daisies, vermeil rimm'd and white,
+Hide in deep herbage; and ere yet the bees
+Hum about globes of clover and sweet peas,
+I must be near the middle of my story.
+O may no wintry season, bare and hoary,
+See it half finished: but let Autumn bold,
+With universal tinge of sober gold,
+Be all about me when I make an end.
+And now at once, adventuresome, I send
+My herald thought into a wilderness:
+There let its trumpet blow, and quickly dress
+My uncertain path with green, that I may speed
+Easily onward, thorough flowers and weed.
 
-And, now that I have spoke of gluttony,
-Now will I you defende hazardry.
-Hazard is very mother of leasings,
-And of deceit, and cursed forswearings:
-Blasphem' of Christ, manslaughter, and waste also
-Of chattel and of time; and furthermo'
-It is repreve, and contrar' of honour,
-For to be held a common hazardour.
-And ever the higher he is of estate,
-The more he is holden desolate.
-If that a prince use hazardry,
-In alle governance and policy
-He is, as by common opinion,
-Y-hold the less in reputation.
+  Upon the sides of Latmos was outspread
+A mighty forest; for the moist earth fed
+So plenteously all weed-hidden roots
+Into o'er-hanging boughs, and precious fruits.
+And it had gloomy shades, sequestered deep,
+Where no man went; and if from shepherd's keep
+A lamb strayed far a-down those inmost glens,
+Never again saw he the happy pens
+Whither his brethren, bleating with content,
+Over the hills at every nightfall went.
+Among the shepherds, 'twas believed ever,
+That not one fleecy lamb which thus did sever
+From the white flock, but pass'd unworried
+By angry wolf, or pard with prying head,
+Until it came to some unfooted plains
+Where fed the herds of Pan: ay great his gains
+Who thus one lamb did lose. Paths there were many,
+Winding through palmy fern, and rushes fenny,
+And ivy banks; all leading pleasantly
+To a wide lawn, whence one could only see
+Stems thronging all around between the swell
+Of turf and slanting branches: who could tell
+The freshness of the space of heaven above,
+Edg'd round with dark tree tops? through which a dove
+Would often beat its wings, and often too
+A little cloud would move across the blue.
 
-Chilon, that was a wise ambassador,
-Was sent to Corinth with full great honor
-From Lacedemon,  to make alliance;
-And when he came, it happen'd him, by chance,
-That all the greatest that were of that land,
-Y-playing atte hazard he them fand.
-For which, as soon as that it mighte be,
-He stole him home again to his country
-And saide there, "I will not lose my name,
-Nor will I take on me so great diffame,
-You to ally unto no hazardors.
-Sende some other wise ambassadors,
-For, by my troth, me were lever die,
-Than I should you to hazardors ally.
-For ye, that be so glorious in honours,
-Shall not ally you to no hazardours,
-As by my will, nor as by my treaty."
-This wise philosopher thus said he.
-Look eke how to the King Demetrius
-The King of Parthes, as the book saith us,
-Sent him a pair of dice of gold in scorn,
-For he had used hazard therebeforn:
-For which he held his glory and renown
-At no value or reputatioun.
-Lordes may finden other manner play
-Honest enough to drive the day away.
+  Full in the middle of this pleasantness
+There stood a marble altar, with a tress
+Of flowers budded newly; and the dew
+Had taken fairy phantasies to strew
+Daisies upon the sacred sward last eve,
+And so the dawned light in pomp receive.
+For 'twas the morn: Apollo's upward fire
+Made every eastern cloud a silvery pyre
+Of brightness so unsullied, that therein
+A melancholy spirit well might win
+Oblivion, and melt out his essence fine
+Into the winds: rain-scented eglantine
+Gave temperate sweets to that well-wooing sun;
+The lark was lost in him; cold springs had run
+To warm their chilliest bubbles in the grass;
+Man's voice was on the mountains; and the mass
+Of nature's lives and wonders puls'd tenfold,
+To feel this sun-rise and its glories old.
 
-Now will I speak of oathes false and great
-A word or two, as olde bookes treat.
-Great swearing is a thing abominable,
-And false swearing is more reprovable.
-The highe God forbade swearing at all;
-Witness on Matthew:  but in special
-Of swearing saith the holy Jeremie,
-Thou thalt swear sooth thine oathes, and not lie:
-And swear in doom and eke in righteousness;
-But idle swearing is a cursedness.
-Behold and see, there in the firste table
-Of highe Godde's hestes honourable,
-How that the second best of him is this,
-Take not my name in idle or amiss.
-Lo, rather he forbiddeth such swearing,
-Than homicide, or many a cursed thing;
-I say that as by order thus it standeth;
-This knoweth he that his hests understandeth,
-How that the second hest of God is that.
-And farthermore, I will thee tell all plat,
-That vengeance shall not parte from his house,
-That of his oathes is outrageous.
-"By Godde's precious heart, and by his nails,
-And by the blood of Christ, that is in Hailes,
-Seven is my chance, and thine is cinque and trey:
-By Godde's armes, if thou falsely play,
-This dagger shall throughout thine hearte go."
-This fruit comes of the bicched bones two,
-Forswearing, ire, falseness, and homicide.
-Now, for the love of Christ that for us died,
-Leave your oathes, bothe great and smale.
-But, Sirs, now will I ell you forth my tale.
+  Now while the silent workings of the dawn
+Were busiest, into that self-same lawn
+All suddenly, with joyful cries, there sped
+A troop of little children garlanded;
+Who gathering round the altar, seemed to pry
+Earnestly round as wishing to espy
+Some folk of holiday: nor had they waited
+For many moments, ere their ears were sated
+With a faint breath of music, which ev'n then
+Fill'd out its voice, and died away again.
+Within a little space again it gave
+Its airy swellings, with a gentle wave,
+To light-hung leaves, in smoothest echoes breaking
+Through copse-clad vallies,--ere their death, oer-taking
+The surgy murmurs of the lonely sea.
 
-These riotoures three, of which I tell,
-Long erst than prime rang of any bell,
-Were set them in a tavern for to drink;
-And as they sat, they heard a belle clink
-Before a corpse, was carried to the grave.
-That one of them gan calle to his knave,
-"Go bet,"  quoth he, "and aske readily
-What corpse is this, that passeth here forth by;
-And look that thou report his name well."
-"Sir," quoth the boy, "it needeth never a deal;
-It was me told ere ye came here two hours;
-He was, pardie, an old fellow of yours,
-And suddenly he was y-slain to-night;
-Fordrunk as he sat on his bench upright,
-There came a privy thief, men clepe Death,
-That in this country all the people slay'th,
-And with his spear he smote his heart in two,
-And went his way withoute wordes mo'.
-He hath a thousand slain this pestilence;
-And, master, ere you come in his presence,
-Me thinketh that it were full necessary
-For to beware of such an adversary;
-Be ready for to meet him evermore.
-Thus taughte me my dame; I say no more."
-"By Sainte Mary," said the tavernere,
-"The child saith sooth, for he hath slain this year,
-Hence ov'r a mile, within a great village,
-Both man and woman, child, and hind, and page;
-I trow his habitation be there;
-To be advised great wisdom it were,
-Ere that he did a man a dishonour."
+  And now, as deep into the wood as we
+Might mark a lynx's eye, there glimmered light
+Fair faces and a rush of garments white,
+Plainer and plainer shewing, till at last
+Into the widest alley they all past,
+Making directly for the woodland altar.
+O kindly muse! let not my weak tongue faulter
+In telling of this goodly company,
+Of their old piety, and of their glee:
+But let a portion of ethereal dew
+Fall on my head, and presently unmew
+My soul; that I may dare, in wayfaring,
+To stammer where old Chaucer used to sing.
 
-"Yea, Godde's armes," quoth this riotour,
-"Is it such peril with him for to meet?
-I shall him seek, by stile and eke by street.
-I make a vow, by Godde's digne bones."
-Hearken, fellows, we three be alle ones:
-Let each of us hold up his hand to other,
-And each of us become the other's brother,
-And we will slay this false traitor Death;
-He shall be slain, he that so many slay'th,
-By Godde's dignity, ere it be night."
-Together have these three their trothe plight
-To live and die each one of them for other
-As though he were his owen sworen brother.
-And up they start, all drunken, in this rage,
-And forth they go towardes that village
-Of which the taverner had spoke beforn,
-And many a grisly oathe have they sworn,
-And Christe's blessed body they to-rent;
-"Death shall be dead, if that we may him hent."
-When they had gone not fully half a mile,
-Right as they would have trodden o'er a stile,
-An old man and a poore with them met.
-This olde man full meekely them gret,
-And saide thus; "Now, lordes, God you see!"
-The proudest of these riotoures three
-Answer'd again; "What? churl, with sorry grace,
-Why art thou all forwrapped save thy face?
-Why livest thou so long in so great age?"
-This olde man gan look on his visage,
-And saide thus; "For that I cannot find
-A man, though that I walked unto Ind,
-Neither in city, nor in no village go,
-That woulde change his youthe for mine age;
-And therefore must I have mine age still
-As longe time as it is Godde's will.
-And Death, alas! he will not have my life.
-Thus walk I like a resteless caitife,
-And on the ground, which is my mother's gate,
-I knocke with my staff, early and late,
-And say to her, 'Leve mother, let me in.
-Lo, how I wane, flesh, and blood, and skin;
-Alas! when shall my bones be at rest?
-Mother, with you I woulde change my chest,
-That in my chamber longe time hath be,
-Yea, for an hairy clout to wrap in me.'
-But yet to me she will not do that grace,
-For which fall pale and welked is my face.
-But, Sirs, to you it is no courtesy
-To speak unto an old man villainy,
-But he trespass in word or else in deed.
-In Holy Writ ye may yourselves read;
-'Against an old man, hoar upon his head,
-Ye should arise:' therefore I you rede,
-Ne do unto an old man no harm now,
-No more than ye would a man did you
-In age, if that ye may so long abide.
-And God be with you, whether ye go or ride
-I must go thither as I have to go."
+  Leading the way, young damsels danced along,
+Bearing the burden of a shepherd song;
+Each having a white wicker over brimm'd
+With April's tender younglings: next, well trimm'd,
+A crowd of shepherds with as sunburnt looks
+As may be read of in Arcadian books;
+Such as sat listening round Apollo's pipe,
+When the great deity, for earth too ripe,
+Let his divinity o'er-flowing die
+In music, through the vales of Thessaly:
+Some idly trailed their sheep-hooks on the ground,
+And some kept up a shrilly mellow sound
+With ebon-tipped flutes: close after these,
+Now coming from beneath the forest trees,
+A venerable priest full soberly,
+Begirt with ministring looks: alway his eye
+Stedfast upon the matted turf he kept,
+And after him his sacred vestments swept.
+From his right hand there swung a vase, milk-white,
+Of mingled wine, out-sparkling generous light;
+And in his left he held a basket full
+Of all sweet herbs that searching eye could cull:
+Wild thyme, and valley-lilies whiter still
+Than Leda's love, and cresses from the rill.
+His aged head, crowned with beechen wreath,
+Seem'd like a poll of ivy in the teeth
+Of winter hoar. Then came another crowd
+Of shepherds, lifting in due time aloud
+Their share of the ditty. After them appear'd,
+Up-followed by a multitude that rear'd
+Their voices to the clouds, a fair wrought car,
+Easily rolling so as scarce to mar
+The freedom of three steeds of dapple brown:
+Who stood therein did seem of great renown
+Among the throng. His youth was fully blown,
+Shewing like Ganymede to manhood grown;
+And, for those simple times, his garments were
+A chieftain king's: beneath his breast, half bare,
+Was hung a silver bugle, and between
+His nervy knees there lay a boar-spear keen.
+A smile was on his countenance; he seem'd,
+To common lookers on, like one who dream'd
+Of idleness in groves Elysian:
+But there were some who feelingly could scan
+A lurking trouble in his nether lip,
+And see that oftentimes the reins would slip
+Through his forgotten hands: then would they sigh,
+And think of yellow leaves, of owlets cry,
+Of logs piled solemnly.--Ah, well-a-day,
+Why should our young Endymion pine away!
 
-"Nay, olde churl, by God thou shalt not so,"
-Saide this other hazardor anon;
-"Thou partest not so lightly, by Saint John.
-Thou spakest right now of that traitor Death,
-That in this country all our friendes slay'th;
-Have here my troth, as thou art his espy;
-Tell where he is, or thou shalt it abie,
-By God and by the holy sacrament;
-For soothly thou art one of his assent
-To slay us younge folk, thou false thief."
-"Now, Sirs," quoth he, "if it be you so lief
-To finde Death, turn up this crooked way,
-For in that grove I left him, by my fay,
-Under a tree, and there he will abide;
-Nor for your boast he will him nothing hide.
-See ye that oak? right there ye shall him find.
-God save you, that bought again mankind,
-And you amend!" Thus said this olde man;
-And evereach of these riotoures ran,
-Till they came to the tree, and there they found
-Of florins fine, of gold y-coined round,
-Well nigh a seven bushels, as them thought.
-No longer as then after Death they sought;
-But each of them so glad was of the sight,
-For that the florins were so fair and bright,
-That down they sat them by the precious hoard.
-The youngest of them spake the firste word:
-"Brethren," quoth he, "take keep what I shall say;
-My wit is great, though that I bourde and play
-This treasure hath Fortune unto us given
-In mirth and jollity our life to liven;
-And lightly as it comes, so will we spend.
-Hey! Godde's precious dignity! who wend
-Today that we should have so fair a grace?
-But might this gold he carried from this place
-Home to my house, or elles unto yours
-(For well I wot that all this gold is ours),
-Then were we in high felicity.
-But truely by day it may not be;
-Men woulde say that we were thieves strong,
-And for our owen treasure do us hong.
-This treasure muste carried be by night,
-As wisely and as slily as it might.
-Wherefore I rede, that cut among us all
-We draw, and let see where the cut will fall:
-And he that hath the cut, with hearte blithe
-Shall run unto the town, and that full swithe,
-And bring us bread and wine full privily:
-And two of us shall keepe subtilly
-This treasure well: and if he will not tarry,
-When it is night, we will this treasure carry,
-By one assent, where as us thinketh best."
-Then one of them the cut brought in his fist,
-And bade them draw, and look where it would fall;
-And it fell on the youngest of them all;
-And forth toward the town he went anon.
-And all so soon as  that he was y-gone,
-The one of them spake thus unto the other;
-"Thou knowest well that thou art my sworn brother,
-Thy profit will I tell thee right anon.
-Thou knowest well that our fellow is gone,
-And here is gold, and that full great plenty,
-That shall departed he among us three.
-But natheless, if I could shape it so
-That it departed were among us two,
-Had I not done a friende's turn to thee?"
-Th' other answer'd, "I n'ot how that may be;
-He knows well that the gold is with us tway.
-What shall we do? what shall we to him say?"
-"Shall it be counsel?" said the firste shrew;
-"And I shall tell to thee in wordes few
-What we shall do, and bring it well about."
-"I grante," quoth the other, "out of doubt,
-That by my truth I will thee not bewray."
-"Now," quoth the first, "thou know'st well we be tway,
-And two of us shall stronger be than one.
-Look; when that he is set, thou right anon
-Arise, as though thou wouldest with him play;
-And I shall rive him through the sides tway,
-While that thou strugglest with him as in game;
-And with thy dagger look thou do the same.
-And then shall all this gold departed be,
-My deare friend, betwixte thee and me:
-Then may we both our lustes all fulfil,
-And play at dice right at our owen will."
-And thus accorded be these shrewes tway
-To slay the third, as ye have heard me say.
+  Soon the assembly, in a circle rang'd,
+Stood silent round the shrine: each look was chang'd
+To sudden veneration: women meek
+Beckon'd their sons to silence; while each cheek
+Of virgin bloom paled gently for slight fear.
+Endymion too, without a forest peer,
+Stood, wan, and pale, and with an awed face,
+Among his brothers of the mountain chase.
+In midst of all, the venerable priest
+Eyed them with joy from greatest to the least,
+And, after lifting up his aged hands,
+Thus spake he: "Men of Latmos! shepherd bands!
+Whose care it is to guard a thousand flocks:
+Whether descended from beneath the rocks
+That overtop your mountains; whether come
+From vallies where the pipe is never dumb;
+Or from your swelling downs, where sweet air stirs
+Blue hare-bells lightly, and where prickly furze
+Buds lavish gold; or ye, whose precious charge
+Nibble their fill at ocean's very marge,
+Whose mellow reeds are touch'd with sounds forlorn
+By the dim echoes of old Triton's horn:
+Mothers and wives! who day by day prepare
+The scrip, with needments, for the mountain air;
+And all ye gentle girls who foster up
+Udderless lambs, and in a little cup
+Will put choice honey for a favoured youth:
+Yea, every one attend! for in good truth
+Our vows are wanting to our great god Pan.
+Are not our lowing heifers sleeker than
+Night-swollen mushrooms? Are not our wide plains
+Speckled with countless fleeces? Have not rains
+Green'd over April's lap? No howling sad
+Sickens our fearful ewes; and we have had
+Great bounty from Endymion our lord.
+The earth is glad: the merry lark has pour'd
+His early song against yon breezy sky,
+That spreads so clear o'er our solemnity."
 
-The youngest, which that wente to the town,
-Full oft in heart he rolled up and down
-The beauty of these florins new and bright.
-"O Lord!" quoth he, "if so were that I might
-Have all this treasure to myself alone,
-There is no man that lives under the throne
-Of God, that shoulde have so merry as I."
-And at the last the fiend our enemy
-Put in his thought, that he should poison buy,
-With which he mighte slay his fellows twy.
-For why, the fiend found him in such living,
-That he had leave to sorrow him to bring.
-For this was utterly his full intent
-To slay them both, and never to repent.
-And forth he went, no longer would he tarry,
-Into the town to an apothecary,
-And prayed him that he him woulde sell
-Some poison, that he might his rattes quell,
-And eke there was a polecat in his haw,
-That, as he said, his eapons had y-slaw:
-And fain he would him wreak, if that he might,
-Of vermin that destroyed him by night.
-Th'apothecary answer'd, "Thou shalt have
-A thing, as wisly God my soule save,
-In all this world there is no creature
-That eat or drank hath of this confecture,
-Not but the mountance of a corn of wheat,
-That he shall not his life anon forlete;
-Yea, sterve he shall, and that in lesse while
-Than thou wilt go apace nought but a mile:
-This poison is so strong and violent."
-This cursed man hath in his hand y-hent
-This poison in a box, and swift he ran
-Into the nexte street, unto a man,
-And borrow'd of him large bottles three;
-And in the two the poison poured he;
-The third he kepte clean for his own drink,
-For all the night he shope him for to swink
-In carrying off the gold out of that place.
-And when this riotour, with sorry grace,
-Had fill'd with wine his greate bottles three,
+  Thus ending, on the shrine he heap'd a spire
+Of teeming sweets, enkindling sacred fire;
+Anon he stain'd the thick and spongy sod
+With wine, in honour of the shepherd-god.
+Now while the earth was drinking it, and while
+Bay leaves were crackling in the fragrant pile,
+And gummy frankincense was sparkling bright
+'Neath smothering parsley, and a hazy light
+Spread greyly eastward, thus a chorus sang:
 
-To his fellows again repaired he.
-What needeth it thereof to sermon more?
-For, right as they had cast his death before,
-Right so they have him slain, and that anon.
-And when that this was done, thus spake the one;
-"Now let us sit and drink, and make us merry,
-And afterward we will his body bury."
-And with that word it happen'd him par cas
-To take the bottle where the poison was,
-And drank, and gave his fellow drink also,
-For which anon they sterved both the two.
-But certes I suppose that Avicen
-Wrote never in no canon, nor no fen,
-More wondrous signes of empoisoning,
-Than had these wretches two ere their ending.
-Thus ended be these homicides two,
-And eke the false empoisoner also.
+  "O THOU, whose mighty palace roof doth hang
+From jagged trunks, and overshadoweth
+Eternal whispers, glooms, the birth, life, death
+Of unseen flowers in heavy peacefulness;
+Who lov'st to see the hamadryads dress
+Their ruffled locks where meeting hazels darken;
+And through whole solemn hours dost sit, and hearken
+The dreary melody of bedded reeds--
+In desolate places, where dank moisture breeds
+The pipy hemlock to strange overgrowth;
+Bethinking thee, how melancholy loth
+Thou wast to lose fair Syrinx--do thou now,
+By thy love's milky brow!
+By all the trembling mazes that she ran,
+Hear us, great Pan!
 
-O cursed sin, full of all cursedness!
-O trait'rous homicide! O wickedness!
-O glutt'ny, luxury, and hazardry!
-Thou blasphemer of Christ with villany,
-And oathes great, of usage and of pride!
-Alas! mankinde, how may it betide,
-That to thy Creator, which that thee wrought,
-And with his precious hearte-blood thee bought,
-Thou art so false and so unkind, alas!
-Now, good men, God forgive you your trespass,
-And ware you from the sin of avarice.
-Mine holy pardon may you all warice,
-So that ye offer nobles or sterlings,
-Or elles silver brooches, spoons, or rings.
-Bowe your head under this holy bull.
-Come up, ye wives, and offer of your will;
-Your names I enter in my roll anon;
-Into the bliss of heaven shall ye gon;
-I you assoil by mine high powere,
-You that will offer, as clean and eke as clear
-As ye were born. Lo, Sires, thus I preach;
-And Jesus Christ, that is our soules' leech,
-So grante you his pardon to receive;
-For that is best, I will not deceive.
+  "O thou, for whose soul-soothing quiet, turtles
+Passion their voices cooingly 'mong myrtles,
+What time thou wanderest at eventide
+Through sunny meadows, that outskirt the side
+Of thine enmossed realms: O thou, to whom
+Broad leaved fig trees even now foredoom
+Their ripen'd fruitage; yellow girted bees
+Their golden honeycombs; our village leas
+Their fairest-blossom'd beans and poppied corn;
+The chuckling linnet its five young unborn,
+To sing for thee; low creeping strawberries
+Their summer coolness; pent up butterflies
+Their freckled wings; yea, the fresh budding year
+All its completions--be quickly near,
+By every wind that nods the mountain pine,
+O forester divine!
 
-But, Sirs, one word forgot I in my tale;
-I have relics and pardon in my mail,
-As fair as any man in Engleland,
-Which were me given by the Pope's hand.
-If any of you will of devotion
-Offer, and have mine absolution,
-Come forth anon, and kneele here adown
-And meekely receive my pardoun.
-Or elles take pardon, as ye wend,
-All new and fresh at every towne's end,
-So that ye offer, always new and new,
-Nobles or pence which that be good and true.
-'Tis an honour to evereach that is here,
-That ye have a suffisant pardonere
-T'assoile you in country as ye ride,
-For aventures which that may betide.
-Paraventure there may fall one or two
-Down of his horse, and break his neck in two.
-Look, what a surety is it to you all,
-That I am in your fellowship y-fall,
-That may assoil you bothe more and lass,
-When that the soul shall from the body pass.
-I rede that our Hoste shall begin,
-For he is most enveloped in sin.
-Come forth, Sir Host, and offer first anon,
-And thou shalt kiss; the relics every one,
-Yea, for a groat; unbuckle anon thy purse.
+  "Thou, to whom every fawn and satyr flies
+For willing service; whether to surprise
+The squatted hare while in half sleeping fit;
+Or upward ragged precipices flit
+To save poor lambkins from the eagle's maw;
+Or by mysterious enticement draw
+Bewildered shepherds to their path again;
+Or to tread breathless round the frothy main,
+And gather up all fancifullest shells
+For thee to tumble into Naiads' cells,
+And, being hidden, laugh at their out-peeping;
+Or to delight thee with fantastic leaping,
+The while they pelt each other on the crown
+With silvery oak apples, and fir cones brown--
+By all the echoes that about thee ring,
+Hear us, O satyr king!
 
-"Nay, nay," quoth he, "then have I Christe's curse!
-Let be," quoth he, "it shall not be, so the'ch.
-Thou wouldest make me kiss thine olde breech,
-And swear it were a relic of a saint,
-Though it were with thy fundament depaint'.
-But, by the cross which that Saint Helen fand,
-I would I had thy coilons in mine hand,
-Instead of relics, or of sanctuary.
-Let cut them off, I will thee help them carry;
-They shall be shrined in a hogge's turd."
-The Pardoner answered not one word;
-So wroth he was, no worde would he say.
+  "O Hearkener to the loud clapping shears,
+While ever and anon to his shorn peers
+A ram goes bleating: Winder of the horn,
+When snouted wild-boars routing tender corn
+Anger our huntsman: Breather round our farms,
+To keep off mildews, and all weather harms:
+Strange ministrant of undescribed sounds,
+That come a swooning over hollow grounds,
+And wither drearily on barren moors:
+Dread opener of the mysterious doors
+Leading to universal knowledge--see,
+Great son of Dryope,
+The many that are come to pay their vows
+With leaves about their brows!
 
-"Now," quoth our Host, "I will no longer play
-With thee, nor with none other angry man."
-But right anon the worthy Knight began
-(When that he saw that all the people lough),
-"No more of this, for it is right enough.
-Sir Pardoner, be merry and glad of cheer;
-And ye, Sir Host, that be to me so dear,
-I pray you that ye kiss the Pardoner;
-And, Pardoner, I pray thee draw thee ner,
-And as we didde, let us laugh and play."
-Anon they kiss'd, and rode forth their way.
+  Be still the unimaginable lodge
+For solitary thinkings; such as dodge
+Conception to the very bourne of heaven,
+Then leave the naked brain: be still the leaven,
+That spreading in this dull and clodded earth
+Gives it a touch ethereal--a new birth:
+Be still a symbol of immensity;
+A firmament reflected in a sea;
+An element filling the space between;
+An unknown--but no more: we humbly screen
+With uplift hands our foreheads, lowly bending,
+And giving out a shout most heaven rending,
+Conjure thee to receive our humble Paean,
+Upon thy Mount Lycean!
+
+  Even while they brought the burden to a close,
+A shout from the whole multitude arose,
+That lingered in the air like dying rolls
+Of abrupt thunder, when Ionian shoals
+Of dolphins bob their noses through the brine.
+Meantime, on shady levels, mossy fine,
+Young companies nimbly began dancing
+To the swift treble pipe, and humming string.
+Aye, those fair living forms swam heavenly
+To tunes forgotten--out of memory:
+Fair creatures! whose young children's children bred
+Thermopylæ its heroes--not yet dead,
+But in old marbles ever beautiful.
+High genitors, unconscious did they cull
+Time's sweet first-fruits--they danc'd to weariness,
+And then in quiet circles did they press
+The hillock turf, and caught the latter end
+Of some strange history, potent to send
+A young mind from its bodily tenement.
+Or they might watch the quoit-pitchers, intent
+On either side; pitying the sad death
+Of Hyacinthus, when the cruel breath
+Of Zephyr slew him,--Zephyr penitent,
+Who now, ere Phoebus mounts the firmament,
+Fondles the flower amid the sobbing rain.
+The archers too, upon a wider plain,
+Beside the feathery whizzing of the shaft,
+And the dull twanging bowstring, and the raft
+Branch down sweeping from a tall ash top,
+Call'd up a thousand thoughts to envelope
+Those who would watch. Perhaps, the trembling knee
+And frantic gape of lonely Niobe,
+Poor, lonely Niobe! when her lovely young
+Were dead and gone, and her caressing tongue
+Lay a lost thing upon her paly lip,
+And very, very deadliness did nip
+Her motherly cheeks. Arous'd from this sad mood
+By one, who at a distance loud halloo'd,
+Uplifting his strong bow into the air,
+Many might after brighter visions stare:
+After the Argonauts, in blind amaze
+Tossing about on Neptune's restless ways,
+Until, from the horizon's vaulted side,
+There shot a golden splendour far and wide,
+Spangling those million poutings of the brine
+With quivering ore: 'twas even an awful shine
+From the exaltation of Apollo's bow;
+A heavenly beacon in their dreary woe.
+Who thus were ripe for high contemplating,
+Might turn their steps towards the sober ring
+Where sat Endymion and the aged priest
+'Mong shepherds gone in eld, whose looks increas'd
+The silvery setting of their mortal star.
+There they discours'd upon the fragile bar
+That keeps us from our homes ethereal;
+And what our duties there: to nightly call
+Vesper, the beauty-crest of summer weather;
+To summon all the downiest clouds together
+For the sun's purple couch; to emulate
+In ministring the potent rule of fate
+With speed of fire-tailed exhalations;
+To tint her pallid cheek with bloom, who cons
+Sweet poesy by moonlight: besides these,
+A world of other unguess'd offices.
+Anon they wander'd, by divine converse,
+Into Elysium; vieing to rehearse
+Each one his own anticipated bliss.
+One felt heart-certain that he could not miss
+His quick gone love, among fair blossom'd boughs,
+Where every zephyr-sigh pouts and endows
+Her lips with music for the welcoming.
+Another wish'd, mid that eternal spring,
+To meet his rosy child, with feathery sails,
+Sweeping, eye-earnestly, through almond vales:
+Who, suddenly, should stoop through the smooth wind,
+And with the balmiest leaves his temples bind;
+And, ever after, through those regions be
+His messenger, his little Mercury.
+Some were athirst in soul to see again
+Their fellow huntsmen o'er the wide champaign
+In times long past; to sit with them, and talk
+Of all the chances in their earthly walk;
+Comparing, joyfully, their plenteous stores
+Of happiness, to when upon the moors,
+Benighted, close they huddled from the cold,
+And shar'd their famish'd scrips. Thus all out-told
+Their fond imaginations,--saving him
+Whose eyelids curtain'd up their jewels dim,
+Endymion: yet hourly had he striven
+To hide the cankering venom, that had riven
+His fainting recollections. Now indeed
+His senses had swoon'd off: he did not heed
+The sudden silence, or the whispers low,
+Or the old eyes dissolving at his woe,
+Or anxious calls, or close of trembling palms,
+Or maiden's sigh, that grief itself embalms:
+But in the self-same fixed trance he kept,
+Like one who on the earth had never stept.
+Aye, even as dead-still as a marble man,
+Frozen in that old tale Arabian.
+
+  Who whispers him so pantingly and close?
+Peona, his sweet sister: of all those,
+His friends, the dearest. Hushing signs she made,
+And breath'd a sister's sorrow to persuade
+A yielding up, a cradling on her care.
+Her eloquence did breathe away the curse:
+She led him, like some midnight spirit nurse
+Of happy changes in emphatic dreams,
+Along a path between two little streams,--
+Guarding his forehead, with her round elbow,
+From low-grown branches, and his footsteps slow
+From stumbling over stumps and hillocks small;
+Until they came to where these streamlets fall,
+With mingled bubblings and a gentle rush,
+Into a river, clear, brimful, and flush
+With crystal mocking of the trees and sky.
+A little shallop, floating there hard by,
+Pointed its beak over the fringed bank;
+And soon it lightly dipt, and rose, and sank,
+And dipt again, with the young couple's weight,--
+Peona guiding, through the water straight,
+Towards a bowery island opposite;
+Which gaining presently, she steered light
+Into a shady, fresh, and ripply cove,
+Where nested was an arbour, overwove
+By many a summer's silent fingering;
+To whose cool bosom she was used to bring
+Her playmates, with their needle broidery,
+And minstrel memories of times gone by.
+
+  So she was gently glad to see him laid
+Under her favourite bower's quiet shade,
+On her own couch, new made of flower leaves,
+Dried carefully on the cooler side of sheaves
+When last the sun his autumn tresses shook,
+And the tann'd harvesters rich armfuls took.
+Soon was he quieted to slumbrous rest:
+But, ere it crept upon him, he had prest
+Peona's busy hand against his lips,
+And still, a sleeping, held her finger-tips
+In tender pressure. And as a willow keeps
+A patient watch over the stream that creeps
+Windingly by it, so the quiet maid
+Held her in peace: so that a whispering blade
+Of grass, a wailful gnat, a bee bustling
+Down in the blue-bells, or a wren light rustling
+Among seer leaves and twigs, might all be heard.
+
+  O magic sleep! O comfortable bird,
+That broodest o'er the troubled sea of the mind
+Till it is hush'd and smooth! O unconfin'd
+Restraint! imprisoned liberty! great key
+To golden palaces, strange minstrelsy,
+Fountains grotesque, new trees, bespangled caves,
+Echoing grottos, full of tumbling waves
+And moonlight; aye, to all the mazy world
+Of silvery enchantment!--who, upfurl'd
+Beneath thy drowsy wing a triple hour,
+But renovates and lives?--Thus, in the bower,
+Endymion was calm'd to life again.
+Opening his eyelids with a healthier brain,
+He said: "I feel this thine endearing love
+All through my bosom: thou art as a dove
+Trembling its closed eyes and sleeked wings
+About me; and the pearliest dew not brings
+Such morning incense from the fields of May,
+As do those brighter drops that twinkling stray
+From those kind eyes,--the very home and haunt
+Of sisterly affection. Can I want
+Aught else, aught nearer heaven, than such tears?
+Yet dry them up, in bidding hence all fears
+That, any longer, I will pass my days
+Alone and sad. No, I will once more raise
+My voice upon the mountain-heights; once more
+Make my horn parley from their foreheads hoar:
+Again my trooping hounds their tongues shall loll
+Around the breathed boar: again I'll poll
+The fair-grown yew tree, for a chosen bow:
+And, when the pleasant sun is getting low,
+Again I'll linger in a sloping mead
+To hear the speckled thrushes, and see feed
+Our idle sheep. So be thou cheered sweet,
+And, if thy lute is here, softly intreat
+My soul to keep in its resolved course."
+
+  Hereat Peona, in their silver source,
+Shut her pure sorrow drops with glad exclaim,
+And took a lute, from which there pulsing came
+A lively prelude, fashioning the way
+In which her voice should wander. 'Twas a lay
+More subtle cadenced, more forest wild
+Than Dryope's lone lulling of her child;
+And nothing since has floated in the air
+So mournful strange. Surely some influence rare
+Went, spiritual, through the damsel's hand;
+For still, with Delphic emphasis, she spann'd
+The quick invisible strings, even though she saw
+Endymion's spirit melt away and thaw
+Before the deep intoxication.
+But soon she came, with sudden burst, upon
+Her self-possession--swung the lute aside,
+And earnestly said: "Brother, 'tis vain to hide
+That thou dost know of things mysterious,
+Immortal, starry; such alone could thus
+Weigh down thy nature. Hast thou sinn'd in aught
+Offensive to the heavenly powers? Caught
+A Paphian dove upon a message sent?
+Thy deathful bow against some deer-herd bent,
+Sacred to Dian? Haply, thou hast seen
+Her naked limbs among the alders green;
+And that, alas! is death. No, I can trace
+Something more high perplexing in thy face!"
+
+  Endymion look'd at her, and press'd her hand,
+And said, "Art thou so pale, who wast so bland
+And merry in our meadows? How is this?
+Tell me thine ailment: tell me all amiss!--
+Ah! thou hast been unhappy at the change
+Wrought suddenly in me. What indeed more strange?
+Or more complete to overwhelm surmise?
+Ambition is no sluggard: 'tis no prize,
+That toiling years would put within my grasp,
+That I have sigh'd for: with so deadly gasp
+No man e'er panted for a mortal love.
+So all have set my heavier grief above
+These things which happen. Rightly have they done:
+I, who still saw the horizontal sun
+Heave his broad shoulder o'er the edge of the world,
+Out-facing Lucifer, and then had hurl'd
+My spear aloft, as signal for the chace--
+I, who, for very sport of heart, would race
+With my own steed from Araby; pluck down
+A vulture from his towery perching; frown
+A lion into growling, loth retire--
+To lose, at once, all my toil breeding fire,
+And sink thus low! but I will ease my breast
+Of secret grief, here in this bowery nest.
+
+  "This river does not see the naked sky,
+Till it begins to progress silverly
+Around the western border of the wood,
+Whence, from a certain spot, its winding flood
+Seems at the distance like a crescent moon:
+And in that nook, the very pride of June,
+Had I been used to pass my weary eves;
+The rather for the sun unwilling leaves
+So dear a picture of his sovereign power,
+And I could witness his most kingly hour,
+When he doth lighten up the golden reins,
+And paces leisurely down amber plains
+His snorting four. Now when his chariot last
+Its beams against the zodiac-lion cast,
+There blossom'd suddenly a magic bed
+Of sacred ditamy, and poppies red:
+At which I wondered greatly, knowing well
+That but one night had wrought this flowery spell;
+And, sitting down close by, began to muse
+What it might mean. Perhaps, thought I, Morpheus,
+In passing here, his owlet pinions shook;
+Or, it may be, ere matron Night uptook
+Her ebon urn, young Mercury, by stealth,
+Had dipt his rod in it: such garland wealth
+Came not by common growth. Thus on I thought,
+Until my head was dizzy and distraught.
+Moreover, through the dancing poppies stole
+A breeze, most softly lulling to my soul;
+And shaping visions all about my sight
+Of colours, wings, and bursts of spangly light;
+The which became more strange, and strange, and dim,
+And then were gulph'd in a tumultuous swim:
+And then I fell asleep. Ah, can I tell
+The enchantment that afterwards befel?
+Yet it was but a dream: yet such a dream
+That never tongue, although it overteem
+With mellow utterance, like a cavern spring,
+Could figure out and to conception bring
+All I beheld and felt. Methought I lay
+Watching the zenith, where the milky way
+Among the stars in virgin splendour pours;
+And travelling my eye, until the doors
+Of heaven appear'd to open for my flight,
+I became loth and fearful to alight
+From such high soaring by a downward glance:
+So kept me stedfast in that airy trance,
+Spreading imaginary pinions wide.
+When, presently, the stars began to glide,
+And faint away, before my eager view:
+At which I sigh'd that I could not pursue,
+And dropt my vision to the horizon's verge;
+And lo! from opening clouds, I saw emerge
+The loveliest moon, that ever silver'd o'er
+A shell for Neptune's goblet: she did soar
+So passionately bright, my dazzled soul
+Commingling with her argent spheres did roll
+Through clear and cloudy, even when she went
+At last into a dark and vapoury tent--
+Whereat, methought, the lidless-eyed train
+Of planets all were in the blue again.
+To commune with those orbs, once more I rais'd
+My sight right upward: but it was quite dazed
+By a bright something, sailing down apace,
+Making me quickly veil my eyes and face:
+Again I look'd, and, O ye deities,
+Who from Olympus watch our destinies!
+Whence that completed form of all completeness?
+Whence came that high perfection of all sweetness?
+Speak, stubborn earth, and tell me where, O Where
+Hast thou a symbol of her golden hair?
+Not oat-sheaves drooping in the western sun;
+Not--thy soft hand, fair sister! let me shun
+Such follying before thee--yet she had,
+Indeed, locks bright enough to make me mad;
+And they were simply gordian'd up and braided,
+Leaving, in naked comeliness, unshaded,
+Her pearl round ears, white neck, and orbed brow;
+The which were blended in, I know not how,
+With such a paradise of lips and eyes,
+Blush-tinted cheeks, half smiles, and faintest sighs,
+That, when I think thereon, my spirit clings
+And plays about its fancy, till the stings
+Of human neighbourhood envenom all.
+Unto what awful power shall I call?
+To what high fane?--Ah! see her hovering feet,
+More bluely vein'd, more soft, more whitely sweet
+Than those of sea-born Venus, when she rose
+From out her cradle shell. The wind out-blows
+Her scarf into a fluttering pavilion;
+'Tis blue, and over-spangled with a million
+Of little eyes, as though thou wert to shed,
+Over the darkest, lushest blue-bell bed,
+Handfuls of daisies."--"Endymion, how strange!
+Dream within dream!"--"She took an airy range,
+And then, towards me, like a very maid,
+Came blushing, waning, willing, and afraid,
+And press'd me by the hand: Ah! 'twas too much;
+Methought I fainted at the charmed touch,
+Yet held my recollection, even as one
+Who dives three fathoms where the waters run
+Gurgling in beds of coral: for anon,
+I felt upmounted in that region
+Where falling stars dart their artillery forth,
+And eagles struggle with the buffeting north
+That balances the heavy meteor-stone;--
+Felt too, I was not fearful, nor alone,
+But lapp'd and lull'd along the dangerous sky.
+Soon, as it seem'd, we left our journeying high,
+And straightway into frightful eddies swoop'd;
+Such as ay muster where grey time has scoop'd
+Huge dens and caverns in a mountain's side:
+There hollow sounds arous'd me, and I sigh'd
+To faint once more by looking on my bliss--
+I was distracted; madly did I kiss
+The wooing arms which held me, and did give
+My eyes at once to death: but 'twas to live,
+To take in draughts of life from the gold fount
+Of kind and passionate looks; to count, and count
+The moments, by some greedy help that seem'd
+A second self, that each might be redeem'd
+And plunder'd of its load of blessedness.
+Ah, desperate mortal! I ev'n dar'd to press
+Her very cheek against my crowned lip,
+And, at that moment, felt my body dip
+Into a warmer air: a moment more,
+Our feet were soft in flowers. There was store
+Of newest joys upon that alp. Sometimes
+A scent of violets, and blossoming limes,
+Loiter'd around us; then of honey cells,
+Made delicate from all white-flower bells;
+And once, above the edges of our nest,
+An arch face peep'd,--an Oread as I guess'd.
+
+  "Why did I dream that sleep o'er-power'd me
+In midst of all this heaven? Why not see,
+Far off, the shadows of his pinions dark,
+And stare them from me? But no, like a spark
+That needs must die, although its little beam
+Reflects upon a diamond, my sweet dream
+Fell into nothing--into stupid sleep.
+And so it was, until a gentle creep,
+A careful moving caught my waking ears,
+And up I started: Ah! my sighs, my tears,
+My clenched hands;--for lo! the poppies hung
+Dew-dabbled on their stalks, the ouzel sung
+A heavy ditty, and the sullen day
+Had chidden herald Hesperus away,
+With leaden looks: the solitary breeze
+Bluster'd, and slept, and its wild self did teaze
+With wayward melancholy; and r thought,
+Mark me, Peona! that sometimes it brought
+Faint fare-thee-wells, and sigh-shrilled adieus!--
+Away I wander'd--all the pleasant hues
+Of heaven and earth had faded: deepest shades
+Were deepest dungeons; heaths and sunny glades
+Were full of pestilent light; our taintless rills
+Seem'd sooty, and o'er-spread with upturn'd gills
+Of dying fish; the vermeil rose had blown
+In frightful scarlet, and its thorns out-grown
+Like spiked aloe. If an innocent bird
+Before my heedless footsteps stirr'd, and stirr'd
+In little journeys, I beheld in it
+A disguis'd demon, missioned to knit
+My soul with under darkness; to entice
+My stumblings down some monstrous precipice:
+Therefore I eager followed, and did curse
+The disappointment. Time, that aged nurse,
+Rock'd me to patience. Now, thank gentle heaven!
+These things, with all their comfortings, are given
+To my down-sunken hours, and with thee,
+Sweet sister, help to stem the ebbing sea
+Of weary life."
+
+                  Thus ended he, and both
+Sat silent: for the maid was very loth
+To answer; feeling well that breathed words
+Would all be lost, unheard, and vain as swords
+Against the enchased crocodile, or leaps
+Of grasshoppers against the sun. She weeps,
+And wonders; struggles to devise some blame;
+To put on such a look as would say, Shame
+On this poor weakness! but, for all her strife,
+She could as soon have crush'd away the life
+From a sick dove. At length, to break the pause,
+She said with trembling chance: "Is this the cause?
+This all? Yet it is strange, and sad, alas!
+That one who through this middle earth should pass
+Most like a sojourning demi-god, and leave
+His name upon the harp-string, should achieve
+No higher bard than simple maidenhood,
+Singing alone, and fearfully,--how the blood
+Left his young cheek; and how he used to stray
+He knew not where; and how he would say, nay,
+If any said 'twas love: and yet 'twas love;
+What could it be but love? How a ring-dove
+Let fall a sprig of yew tree in his path;
+And how he died: and then, that love doth scathe,
+The gentle heart, as northern blasts do roses;
+And then the ballad of his sad life closes
+With sighs, and an alas!--Endymion!
+Be rather in the trumpet's mouth,--anon
+Among the winds at large--that all may hearken!
+Although, before the crystal heavens darken,
+I watch and dote upon the silver lakes
+Pictur'd in western cloudiness, that takes
+The semblance of gold rocks and bright gold sands,
+Islands, and creeks, and amber-fretted strands
+With horses prancing o'er them, palaces
+And towers of amethyst,--would I so tease
+My pleasant days, because I could not mount
+Into those regions? The Morphean fount
+Of that fine element that visions, dreams,
+And fitful whims of sleep are made of, streams
+Into its airy channels with so subtle,
+So thin a breathing, not the spider's shuttle,
+Circled a million times within the space
+Of a swallow's nest-door, could delay a trace,
+A tinting of its quality: how light
+Must dreams themselves be; seeing they're more slight
+Than the mere nothing that engenders them!
+Then wherefore sully the entrusted gem
+Of high and noble life with thoughts so sick?
+Why pierce high-fronted honour to the quick
+For nothing but a dream?" Hereat the youth
+Look'd up: a conflicting of shame and ruth
+Was in his plaited brow: yet his eyelids
+Widened a little, as when Zephyr bids
+A little breeze to creep between the fans
+Of careless butterflies: amid his pains
+He seem'd to taste a drop of manna-dew,
+Full palatable; and a colour grew
+Upon his cheek, while thus he lifeful spake.
+
+  "Peona! ever have I long'd to slake
+My thirst for the world's praises: nothing base,
+No merely slumberous phantasm, could unlace
+The stubborn canvas for my voyage prepar'd--
+Though now 'tis tatter'd; leaving my bark bar'd
+And sullenly drifting: yet my higher hope
+Is of too wide, too rainbow-large a scope,
+To fret at myriads of earthly wrecks.
+Wherein lies happiness? In that which becks
+Our ready minds to fellowship divine,
+A fellowship with essence; till we shine,
+Full alchemiz'd, and free of space. Behold
+The clear religion of heaven! Fold
+A rose leaf round thy finger's taperness,
+And soothe thy lips: hist, when the airy stress
+Of music's kiss impregnates the free winds,
+And with a sympathetic touch unbinds
+Eolian magic from their lucid wombs:
+Then old songs waken from enclouded tombs;
+Old ditties sigh above their father's grave;
+Ghosts of melodious prophecyings rave
+Round every spot where trod Apollo's foot;
+Bronze clarions awake, and faintly bruit,
+Where long ago a giant battle was;
+And, from the turf, a lullaby doth pass
+In every place where infant Orpheus slept.
+Feel we these things?--that moment have we stept
+Into a sort of oneness, and our state
+Is like a floating spirit's. But there are
+Richer entanglements, enthralments far
+More self-destroying, leading, by degrees,
+To the chief intensity: the crown of these
+Is made of love and friendship, and sits high
+Upon the forehead of humanity.
+All its more ponderous and bulky worth
+Is friendship, whence there ever issues forth
+A steady splendour; but at the tip-top,
+There hangs by unseen film, an orbed drop
+Of light, and that is love: its influence,
+Thrown in our eyes, genders a novel sense,
+At which we start and fret; till in the end,
+Melting into its radiance, we blend,
+Mingle, and so become a part of it,--
+Nor with aught else can our souls interknit
+So wingedly: when we combine therewith,
+Life's self is nourish'd by its proper pith,
+And we are nurtured like a pelican brood.
+Aye, so delicious is the unsating food,
+That men, who might have tower'd in the van
+Of all the congregated world, to fan
+And winnow from the coming step of time
+All chaff of custom, wipe away all slime
+Left by men-slugs and human serpentry,
+Have been content to let occasion die,
+Whilst they did sleep in love's elysium.
+And, truly, I would rather be struck dumb,
+Than speak against this ardent listlessness:
+For I have ever thought that it might bless
+The world with benefits unknowingly;
+As does the nightingale, upperched high,
+And cloister'd among cool and bunched leaves--
+She sings but to her love, nor e'er conceives
+How tiptoe Night holds back her dark-grey hood.
+Just so may love, although 'tis understood
+The mere commingling of passionate breath,
+Produce more than our searching witnesseth:
+What I know not: but who, of men, can tell
+That flowers would bloom, or that green fruit would swell
+To melting pulp, that fish would have bright mail,
+The earth its dower of river, wood, and vale,
+The meadows runnels, runnels pebble-stones,
+The seed its harvest, or the lute its tones,
+Tones ravishment, or ravishment its sweet,
+If human souls did never kiss and greet?
+
+  "Now, if this earthly love has power to make
+Men's being mortal, immortal; to shake
+Ambition from their memories, and brim
+Their measure of content; what merest whim,
+Seems all this poor endeavour after fame,
+To one, who keeps within his stedfast aim
+A love immortal, an immortal too.
+Look not so wilder'd; for these things are true,
+And never can be born of atomies
+That buzz about our slumbers, like brain-flies,
+Leaving us fancy-sick. No, no, I'm sure,
+My restless spirit never could endure
+To brood so long upon one luxury,
+Unless it did, though fearfully, espy
+A hope beyond the shadow of a dream.
+My sayings will the less obscured seem,
+When I have told thee how my waking sight
+Has made me scruple whether that same night
+Was pass'd in dreaming. Hearken, sweet Peona!
+Beyond the matron-temple of Latona,
+Which we should see but for these darkening boughs,
+Lies a deep hollow, from whose ragged brows
+Bushes and trees do lean all round athwart,
+And meet so nearly, that with wings outraught,
+And spreaded tail, a vulture could not glide
+Past them, but he must brush on every side.
+Some moulder'd steps lead into this cool cell,
+Far as the slabbed margin of a well,
+Whose patient level peeps its crystal eye
+Right upward, through the bushes, to the sky.
+Oft have I brought thee flowers, on their stalks set
+Like vestal primroses, but dark velvet
+Edges them round, and they have golden pits:
+'Twas there I got them, from the gaps and slits
+In a mossy stone, that sometimes was my seat,
+When all above was faint with mid-day heat.
+And there in strife no burning thoughts to heed,
+I'd bubble up the water through a reed;
+So reaching back to boy-hood: make me ships
+Of moulted feathers, touchwood, alder chips,
+With leaves stuck in them; and the Neptune be
+Of their petty ocean. Oftener, heavily,
+When love-lorn hours had left me less a child,
+I sat contemplating the figures wild
+Of o'er-head clouds melting the mirror through.
+Upon a day, while thus I watch'd, by flew
+A cloudy Cupid, with his bow and quiver;
+So plainly character'd, no breeze would shiver
+The happy chance: so happy, I was fain
+To follow it upon the open plain,
+And, therefore, was just going; when, behold!
+A wonder, fair as any I have told--
+The same bright face I tasted in my sleep,
+Smiling in the clear well. My heart did leap
+Through the cool depth.--It moved as if to flee--
+I started up, when lo! refreshfully,
+There came upon my face, in plenteous showers,
+Dew-drops, and dewy buds, and leaves, and flowers,
+Wrapping all objects from my smothered sight,
+Bathing my spirit in a new delight.
+Aye, such a breathless honey-feel of bliss
+Alone preserved me from the drear abyss
+Of death, for the fair form had gone again.
+Pleasure is oft a visitant; but pain
+Clings cruelly to us, like the gnawing sloth
+On the deer's tender haunches: late, and loth,
+'Tis scar'd away by slow returning pleasure.
+How sickening, how dark the dreadful leisure
+Of weary days, made deeper exquisite,
+By a fore-knowledge of unslumbrous night!
+Like sorrow came upon me, heavier still,
+Than when I wander'd from the poppy hill:
+And a whole age of lingering moments crept
+Sluggishly by, ere more contentment swept
+Away at once the deadly yellow spleen.
+Yes, thrice have I this fair enchantment seen;
+Once more been tortured with renewed life.
+When last the wintry gusts gave over strife
+With the conquering sun of spring, and left the skies
+Warm and serene, but yet with moistened eyes
+In pity of the shatter'd infant buds,--
+That time thou didst adorn, with amber studs,
+My hunting cap, because I laugh'd and smil'd,
+Chatted with thee, and many days exil'd
+All torment from my breast;--'twas even then,
+Straying about, yet, coop'd up in the den
+Of helpless discontent,--hurling my lance
+From place to place, and following at chance,
+At last, by hap, through some young trees it struck,
+And, plashing among bedded pebbles, stuck
+In the middle of a brook,--whose silver ramble
+Down twenty little falls, through reeds and bramble,
+Tracing along, it brought me to a cave,
+Whence it ran brightly forth, and white did lave
+The nether sides of mossy stones and rock,--
+'Mong which it gurgled blythe adieus, to mock
+Its own sweet grief at parting. Overhead,
+Hung a lush screen of drooping weeds, and spread
+Thick, as to curtain up some wood-nymph's home.
+"Ah! impious mortal, whither do I roam?"
+Said I, low voic'd: "Ah whither! 'Tis the grot
+Of Proserpine, when Hell, obscure and hot,
+Doth her resign; and where her tender hands
+She dabbles, on the cool and sluicy sands:
+Or 'tis the cell of Echo, where she sits,
+And babbles thorough silence, till her wits
+Are gone in tender madness, and anon,
+Faints into sleep, with many a dying tone
+Of sadness. O that she would take my vows,
+And breathe them sighingly among the boughs,
+To sue her gentle ears for whose fair head,
+Daily, I pluck sweet flowerets from their bed,
+And weave them dyingly--send honey-whispers
+Round every leaf, that all those gentle lispers
+May sigh my love unto her pitying!
+O charitable echo! hear, and sing
+This ditty to her!--tell her"--so I stay'd
+My foolish tongue, and listening, half afraid,
+Stood stupefied with my own empty folly,
+And blushing for the freaks of melancholy.
+Salt tears were coming, when I heard my name
+Most fondly lipp'd, and then these accents came:
+‘Endymion! the cave is secreter
+Than the isle of Delos. Echo hence shall stir
+No sighs but sigh-warm kisses, or light noise
+Of thy combing hand, the while it travelling cloys
+And trembles through my labyrinthine hair."
+At that oppress'd I hurried in.--Ah! where
+Are those swift moments? Whither are they fled?
+I'll smile no more, Peona; nor will wed
+Sorrow the way to death, but patiently
+Bear up against it: so farewel, sad sigh;
+And come instead demurest meditation,
+To occupy me wholly, and to fashion
+My pilgrimage for the world's dusky brink.
+No more will I count over, link by link,
+My chain of grief: no longer strive to find
+A half-forgetfulness in mountain wind
+Blustering about my ears: aye, thou shalt see,
+Dearest of sisters, what my life shall be;
+What a calm round of hours shall make my days.
+There is a paly flame of hope that plays
+Where'er I look: but yet, I'll say 'tis naught--
+And here I bid it die. Have not I caught,
+Already, a more healthy countenance?
+By this the sun is setting; we may chance
+Meet some of our near-dwellers with my car."
+
+  This said, he rose, faint-smiling like a star
+Through autumn mists, and took Peona's hand:
+They stept into the boat, and launch'd from land.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -884,4 +1210,4 @@ Anon they kiss'd, and rode forth their way.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 9, 2025 at 06:44 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 10, 2025 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
