@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/12/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/13/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 14 (Updated: 11/7/2025)
 - 🔥 [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js ⭐ 2 (Updated: 11/2/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+Debugging: Removing the needles from the haystack.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Paint the first thing you see
+Pull a harmless prank on one of your friends
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,21 +78,23 @@ Paint the first thing you see
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Queries to Casuists" by George Gordon, Lord Byron
-The Moralists tell us that Loving is Sinning,
-  And always are prating about and about it,
-But as Love of Existence itself's the beginning,
-  Say, what would Existence itself be without it?
-
-They argue the point with much furious Invective,
-  Though perhaps 'twere no difficult task to confute it;
-But if Venus and Hymen should once prove defective,
-  Pray who would there be to defend or dispute it?
+"The Voice of the Ancient Bard" by William Blake
+Youth of delight!  come hither
+And see the opening morn,
+Image of Truth new-born.
+Doubt is fled, and clouds of reason,
+Dark disputes and artful teazing.
+Folly is an endless maze;
+Tangled roots perplex her ways;
+How many have fallen there!
+They stumble all night over bones of the dead;
+And feel--they know not what but care;
+And wish to lead others, when they should be led.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 17°C, smoke in Karachi 🇵🇰
+🌡️ 15°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -189,4 +191,4 @@ But if Venus and Hymen should once prove defective,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 13, 2025 at 06:43 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 14, 2025 at 06:42 AM GMT+5<!-- TIMESTAMP:END -->_
