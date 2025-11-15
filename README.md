@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/13/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/14/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 14 (Updated: 11/7/2025)
 - 🔥 [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js ⭐ 2 (Updated: 11/2/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,15 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Debugging: Removing the needles from the haystack.
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Pull a harmless prank on one of your friends
+Compliment someone
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,18 +81,31 @@ Pull a harmless prank on one of your friends
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Voice of the Ancient Bard" by William Blake
-Youth of delight!  come hither
-And see the opening morn,
-Image of Truth new-born.
-Doubt is fled, and clouds of reason,
-Dark disputes and artful teazing.
-Folly is an endless maze;
-Tangled roots perplex her ways;
-How many have fallen there!
-They stumble all night over bones of the dead;
-And feel--they know not what but care;
-And wish to lead others, when they should be led.
+"Insects" by John Clare
+These tiny loiterers on the barley's beard,
+And happy units of a numerous herd
+Of playfellows, the laughing Summer brings,
+Mocking the sunshine in their glittering wings,
+How merrily they creep, and run, and fly!
+No kin they bear to labour's drudgery,
+Smoothing the velvet of the pale hedge-rose;
+And where they fly for dinner no one knows--
+The dew-drops feed them not--they love the shine
+Of noon, whose sun may bring them golden wine.
+All day they're playing in their Sunday dress--
+Till night goes sleep, and they can do no less;
+Then, to the heath bell's silken hood they fly,
+And like to princes in their slumbers lie,
+Secure from night, and dropping dews, and all,
+In silken beds and roomy painted hall.
+So merrily they spend their summer day,
+Now in the cornfields, now the new-mown hay.
+One almost fancies that such happy things,
+With coloured hoods and richly burnished wings,
+Are fairy folk, in splendid masquerade
+Disguised, as if of mortal folk afraid,
+Keeping their merry pranks a mystery still,
+Lest glaring day should do their secrets ill.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
@@ -191,4 +207,4 @@ And wish to lead others, when they should be led.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 14, 2025 at 06:42 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 15, 2025 at 06:38 AM GMT+5<!-- TIMESTAMP:END -->_
