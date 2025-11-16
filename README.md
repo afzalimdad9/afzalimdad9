@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/14/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/15/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 14 (Updated: 11/7/2025)
 - 🔥 [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js ⭐ 2 (Updated: 11/2/2025)
 <!-- HOT_REPOS:END -->
@@ -64,15 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Compliment someone
+No activity available!
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,36 +78,93 @@ Compliment someone
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Insects" by John Clare
-These tiny loiterers on the barley's beard,
-And happy units of a numerous herd
-Of playfellows, the laughing Summer brings,
-Mocking the sunshine in their glittering wings,
-How merrily they creep, and run, and fly!
-No kin they bear to labour's drudgery,
-Smoothing the velvet of the pale hedge-rose;
-And where they fly for dinner no one knows--
-The dew-drops feed them not--they love the shine
-Of noon, whose sun may bring them golden wine.
-All day they're playing in their Sunday dress--
-Till night goes sleep, and they can do no less;
-Then, to the heath bell's silken hood they fly,
-And like to princes in their slumbers lie,
-Secure from night, and dropping dews, and all,
-In silken beds and roomy painted hall.
-So merrily they spend their summer day,
-Now in the cornfields, now the new-mown hay.
-One almost fancies that such happy things,
-With coloured hoods and richly burnished wings,
-Are fairy folk, in splendid masquerade
-Disguised, as if of mortal folk afraid,
-Keeping their merry pranks a mystery still,
-Lest glaring day should do their secrets ill.
+"Stanzas to a Lady, on Leaving England" by George Gordon, Lord Byron
+Tis done--and shivering in the gale
+The bark unfurls her snowy sail;
+And whistling o'er the bending mast,
+Loud sings on high the fresh'ning blast;
+And I must from this land be gone,
+Because I cannot love but one.
+
+But could I be what I have been,
+And could I see what I have seen--
+Could I repose upon the breast
+Which once my warmest wishes blest--
+I should not seek another zone,
+Because I cannot love but one.
+
+'Tis long since I beheld that eye
+Which gave me bliss or misery;
+And I have striven, but in vain,
+Never to think of it again:
+For though I fly from Albion,
+I still can only love but one.
+
+As some lone bird, without a mate,
+My weary heart is desolate;
+I look around, and cannot trace
+One friendly smile or welcome face,
+And ev'n in crowds am still alone,
+Because I cannot love but one.
+
+And I will cross the whitening foam,
+And I will seek a foreign home;
+Till I forget a false fair face,
+I ne'er shall find a resting-place;
+My own dark thoughts I cannot shun,
+But ever love, and love but one.
+
+The poorest, veriest wretch on earth
+Still finds some hospitable hearth,
+Where Friendship's or Love's softer glow
+May smile in joy or soothe in woe;
+But friend or leman I have none,
+Because I cannot love but one.
+
+I go--but wheresoe'er I flee
+There's not an eye will weep for me;
+There's not a kind congenial heart,
+Where I can claim the meanest part;
+Nor thou, who hast my hopes undone,
+Wilt sigh, although I love but one.
+
+To think of every early scene,
+Of what we are, and what we've been,
+Would whelm some softer hearts with woe--
+But mine, alas! has stood the blow;
+Yet still beats on as it begun,
+And never truly loves but one.
+
+And who that dear lov'd one may be,
+Is not for vulgar eyes to see;
+And why that early love was cross'd,
+Thou know'st the best, I feel the most;
+But few that dwell beneath the sun
+Have loved so long, and loved but one.
+
+I've tried another's fetters too,
+With charms perchance as fair to view;
+And I would fain have loved as well,
+But some unconquerable spell
+Forbade my bleeding breast to own
+A kindred care for aught but one.
+
+'Twould soothe to take one lingering view,
+And bless thee in my last adieu;
+Yet wish I not those eyes to weep
+For him that wanders o'er the deep;
+His home, his hope, his youth are gone,
+Yet still he loves, and loves but one.
+
+'To----on Leaving England.'
+
+'The land recedes his Bark is gone,
+Yet still he loves and laves but one.'
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 15°C, smoke in Karachi 🇵🇰
+🌡️ 14°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -207,4 +261,4 @@ Lest glaring day should do their secrets ill.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 15, 2025 at 06:38 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 16, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
