@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/16/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/17/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 14 (Updated: 11/7/2025)
 - 🔥 [cashify](https://github.com/afzalimdad9/cashify) - 💸 Lightweight currency conversion library, successor of money.js ⭐ 2 (Updated: 11/2/2025)
 <!-- HOT_REPOS:END -->
@@ -64,18 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+Debugging: Removing the needles from the haystack.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Take your dog on a walk
+Fill out a basketball bracket
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -84,807 +78,220 @@ Take your dog on a walk
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Snowbound, a Winter Idyl" by John Greenleaf Whittier
-To the Memory of the Household It Describes
+"The Glove" by Robert Browning
+"Heigho!" yawned one day King Francis,
+"Distance all value enhances.
+When a man's busy, why, leisure
+Strikes him as wonderful pleasure:
+Faith, and at leisure once is he?
+Straightway he wants to be busy.
+Here we've got peace; and aghast I'm
+Caught thinking war the true pastime.
+Is there a reason in metre?
+Give us your speech, master Peter!"
+I who, if mortal dare say so,
+Ne'er am at loss with my Naso
+"Sire," I replied, "joys prove cloudlets:
+"Men are the merest Ixions"--
+Here the King whistled aloud, "Let's
+--Heigho--go look at our lions."
+Such are the sorrowful chances
+If you talk fine to King Francis.
 
-This Poem is Dedicated by the Author
+And so, to the courtyard proceeding,
+Our company, Francis was leading,
+Increased by new followers tenfold
+Before he arrived at the penfold;
+Lords, ladies, like clouds which bedizen
+At sunset the western horizon.
+And Sir De Lorge pressed 'mid the foremost
+With the dame he professed to adore most.
+Oh, what a face!  One by fits eyed
+Her, and the horrible pitside;
+For the penfold surrounded a hollow
+Which led where the eye scarce dared follow
+And shelved to the chamber secluded
+Where Bluebeard, the great lion, brooded.
 
-"As the Spirit of Darkness be stronger in the dark, so Good Spirits, which be Angels of Light, are augmented not only by the Divine light of the Sun, but also by our common Wood Fire: and as the Celestial Fire drives away dark spirits, so also this our fire of Wood doth the same."
-Cor. Agrippa, Occult Philosophy, Book I, ch. v.
+The King hailed his keeper, an Arab
+As glossy and black as a scarab,
+And bade him make sport and at once stir
+Up and out of his den the old monster.
+They opened a hole in the wire-work
+Across it, and dropped there a firework,
+And fled: one's heart's beating redoubled;
+A pause, while the pit's mouth was troubled,
+The blackness and silence so utter,
+By the firework's slow sparkling and sputter;
+Then earth in a sudden contortion
+Gave out to our gaze her abortion.
+Such a brute! Were I friend Clement Marot
+(Whose experience of nature's but narrow
+And whose faculties move in no small mist
+When he versifies David the Psalmist)
+I should study that brute to describe you
+Illum Juda Leonem de Tribu.
+One's whole blood grew curdling and creepy
+To see the black mane, vast and heapy,
+The tail in the air stiff and straining
+The wide eyes, nor waxing nor waning,
+As over the barrier which bounded
+His platform, and us who surrounded
+The barrier, they reached and they rested
+On space that might stand him in best stead:
+For who knew, he thought, what the amazement,
+The eruption of clatter and blaze meant,
+And if, in this minute of wonder,
+No outlet, 'mid lightning and thunder,
+Lay broad, and, his shackles all shivered,
+The lion at last was delivered?
+Ay, that was the open sky o'erhead!
+And you saw by the flash on his forehead,
+By the hope in those eyes wide and steady,
+He was leagues in the desert already
+Driving the flocks up the mountain
+Or catlike couched hard by the fountain
+To waylay the date-gathering negress:
+So guarded he entrance or egress.
+"How he stands!" quoth the King: "we may well swear,
+(No novice, we've won our spurs elsewhere
+And so can afford the confession)
+We exercise wholesome discretion
+In keeping aloof from his threshold;
+Once hold you, those jaws want no fresh hold,
+Their first would too pleasantly purloin
+The visitor's brisket or surloin:
+But who's he would prove so fool-hardy?
+Not the best man of Marignan, pardie!"
 
+The sentence no sooner was uttered,
+Than over the rails a glove fluttered,
+Fell close to the lion, and rested:
+The dame 'twas, who flung it and jested
+With life so, De Lorge had been wooing
+For months past; he sat there pursuing
+His suit, weighing out with nonchalance
+Fine speeches like gold from a balance.
 
-"Announced by all the trumpets of the sky,
-Arrives the snow, and, driving o'er the fields,
-Seems nowhere to alight: the whited air
-Hides hills and woods, the river and the heaven,
-And veils the farm-house at the garden's end.
-The sled and traveller stopped, the courier's feet
-Delayed, all friends shut out, the housemates sit
-Around the radiant fireplace, enclosed
-In a tumultuous privacy of Storm."
-Emerson,The Snow Storm.
+Sound the trumpet, no true knight's a tarrier!
+De Lorge made one leap at the barrier,
+Walked straight to the glove--while the lion
+Ne'er moved, kept his far-reaching eye on
+The palm-tree-edged desert-spring's sapphire,
+And the musky oiled skin of the Kaffir--
+Picked it up, and as calmly retreated,
+Leaped back where the lady was seated,
+And full in the face of its owner
+Flung the glove.
 
+"Your heart's queen, you dethrone her?
+So should I!"--cried the King--"'twas mere vanity
+Not love set that task to humanity!"
+Lords and ladies alike turned with loathing
+From such a proved wolf in sheep's clothing.
 
-The sun that brief December day
-Rose cheerless over hills of gray,
-And, darkly circled, gave at noon
-A sadder light than waning moon.
-Slow tracing down the thickening sky
-Its mute and ominous prophecy,
-A portent seeming less than threat,
-It sank from sight before it set.
-A chill no coat, however stout,
-Of homespun stuff could quite shut out,
-A hard, dull bitterness of cold,
-That checked, mid-vein, the circling race
-Of life-blood in the sharpened face,
-The coming of the snow-storm told.
-The wind blew east; we heard the roar
-Of Ocean on his wintry shore,
-And felt the strong pulse throbbing there
-Beat with low rhythm our inland air.
-Meanwhile we did our nightly chores,
-Brought in the wood from out the doors,
-Littered the stalls, and from the mows
-Raked down the herd's-grass for the cows;
-Heard the horse whinnying for his corn;
-And, sharply clashing horn on horn,
-Impatient down the stanchion rows
-The cattle shake their walnut bows;
-While, peering from his early perch
-Upon the scaffold's pole of birch,
-The cock his crested helmet bent
-And down his querulous challenge sent.
+Not so, I; for I caught an expression
+In her brow's undisturbed self-possession
+Amid the Court's scoffing and merriment,
+As if from no pleasing experiment
+She rose, yet of pain not much heedful
+So long as the process was needful,--
+As if she had tried in a crucible,
+To what "speeches like gold" were reducible,
+And, finding the finest prove copper,
+Felt the smoke in her face was but proper;
+To know what she had not to trust to,
+Was worth all the ashes and dust too.
+She went out 'mid hooting and laughter;
+Clement Marot stayed; I followed after,
+And asked, as a grace, what it all meant?
+If she wished not the rash deed's recalment?
+For I"--so I spoke--"am a poet:
+Human nature,--behoves that I know it!"
 
-Unwarmed by any sunset light
-The gray day darkened into night,
-A night made hoary with the swarm
-And whirl-dance of the blinding storm,
-As zigzag, wavering to and fro,
-Crossed and recrossed the wingëd snow:
-And ere the early bedtime came
-The white drift piled the window-frame,
-And through the glass the clothes-line posts
-Looked in like tall and sheeted ghosts.
-The old familiar sights of ours
-Took marvellous shapes; strange domes and towers
-Rose up where sty or corn-crib stood,
-Or garden-wall, or belt of wood;
-A smooth white mound the brush-pile showed,
-A fenceless drift what once was road;
-The bridle-post an old man sat
-With loose-flung coat and high cocked hat;
-The well-curb had a Chinese roof;
-And even the long sweep, high aloof,
-In its slant spendor, seemed to tell
-Of Pisa's leaning miracle.
+She told me, "Too long had I heard
+Of the deed proved alone by the word:
+For my love--what De Lorge would not dare!
+With my scorn--what De Lorge could compare!
+And the endless descriptions of death
+He would brave when my lip formed a breath,
+I must reckon as braved, or, of course,
+Doubt his word--and moreover, perforce,
+For such gifts as no lady could spurn,
+Must offer my love in return.
+When I looked on your lion, it brought
+All the dangers at once to my thought,
+Encountered by all sorts of men,
+Before he was lodged in his den--
+From the poor slave whose club or bare hands
+Dug the trap, set the snare on the sands,
+With no King and no Court to applaud,
+By no shame, should he shrink, overawed,
+Yet to capture the creature made shift,
+That his rude boys might laugh at the gift
+--To the page who last leaped o'er the fence
+Of the pit, on no greater pretence
+Than to get back the bonnet he dropped,
+Lest his pay for a week should be stopped.
+So, wiser I judged it to make
+One trial what 'death for my sake'
+Really meant, while the power was yet mine,
 
-A prompt, decisive man, no breath
-Our father wasted: "Boys, a path!"
-Well pleased (for when did farmer boy
-Count such a summons less than joy?)
-Our buskins on our feet we drew;
-With mittened hands, and caps drawn low,
-To guard our necks and ears from snow,
-We cut the solid whiteness through.
-And, where the drift was deepest, made
-A tunnel walled and overlaid
-With dazzling crystal: we had read
-Of rare Aladdin's wondrous cave,
-And to our own his name we gave,
-With many a wish the luck were ours
-To test his lamp's supernal powers.
-We reached the barn with merry din,
-And roused the prisoned brutes within.
-The old horse thrust his long head out,
-And grave with wonder gazed about;
-The cock his lusty greeting said,
-And forth his speckled harem led;
-The oxen lashed their tails, and hooked,
-And mild reproach of hunger looked;
-The hornëd patriarch of the sheep,
-Like Egypt's Amun roused from sleep,
-Shook his sage head with gesture mute,
-And emphasized with stamp of foot.
+Than to wait until time should define
+Such a phrase not so simply as I,
+Who took it to mean just 'to die.'
+The blow a glove gives is but weak:
+Does the mark yet discolour my cheek?
+But when the heart suffers a blow,
+Will the pain pass so soon, do you know?"
 
-All day the gusty north-wind bore
-The loosening drift its breath before;
-Low circling round its southern zone,
-The sun through dazzling snow-mist shone.
-No church-bell lent its Christian tone
-To the savage air, no social smoke
-Curled over woods of snow-hung oak.
-A solitude made more intense
-By dreary-voicëd elements,
-The shrieking of the mindless wind,
-The moaning tree-boughs swaying blind,
-And on the glass the unmeaning beat
-Of ghostly finger-tips of sleet.
-Beyond the circle of our hearth
-No welcome sound of toil or mirth
-Unbound the spell, and testified
-Of human life and thought outside.
-We minded that the sharpest ear
-The buried brooklet could not hear,
-The music of whose liquid lip
-Had been to us companionship,
-And, in our lonely life, had grown
-To have an almost human tone.
+I looked, as away she was sweeping.
+And saw a youth eagerly keeping
+As close as he dared to the doorway.
+No doubt that a noble should more weigh
+His life than befits a plebeian;
+And yet, had our brute been Nemean--
+(I judge by a certain calm fervour
+The youth stepped with, forward to serve her)
+--He'd have scarce thought you did him the worst turn
+If you whispered "Friend, what you'd get, first earn!"
+And when, shortly after, she carried
+Her shame from the Court, and they married,
+To that marriage some happiness, maugre
+The voice of the Court, I dared augur.
 
-As night drew on, and, from the crest
-Of wooded knolls that ridged the west,
-The sun, a snow-blown traveller, sank
-From sight beneath the smothering bank,
-We piled, with care, our nightly stack
-Of wood against the chimney-back, --
-The oaken log, green, huge, and thick,
-And on its top the stout back-stick;
-The knotty forestick laid apart,
-And filled between with curious art
-The ragged brush; then, hovering near,
-We watched the first red blaze appear,
-Heard the sharp crackle, caught the gleam
-On whitewashed wall and sagging beam,
-Until the old, rude-furnished room
-Burst, flower-like, into rosy bloom;
-While radiant with a mimic flame
-Outside the sparkling drift became,
-And through the bare-boughed lilac-tree
-Our own warm hearth seemed blazing free.
-The crane and pendent trammels showed,
-The Turks' heads on the andirons glowed;
-While childish fancy, prompt to tell
-The meaning of the miracle,
-Whispered the old rhyme: "Under the tree,
-When fire outdoors burns merrily,
-There the witches are making tea."
-The moon above the eastern wood
-Shone at its full; the hill-range stood
-Transfigured in the silver flood,
-Its blown snows flashing cold and keen,
-Dead white, save where some sharp ravine
-Took shadow, or the sombre green
-Of hemlocks turned to pitchy black
-Against the whiteness at their back.
-For such a world and such a night
-Most fitting that unwarming light,
-Which only seemd where'er it fell
-To make the coldness visible.
+For De Lorge, he made women with men vie,
+Those in wonder and praise, these in envy;
+And in short stood so plain a head taller.
+That he wooed and won... how do you call her?
+The beauty, that rose in the sequel
+To the King's love, who loved her a week well.
+And 'twas noticed he never would honour
+De Lorge (who looked daggers upon her)
+With the easy commission of stretching
+His legs in the service, and fetching
+His wife, from her chamber, those straying
+Sad gloves she was always mislaying,
+While the King took the closet to chat in,--
+But of course this adventure came pat in.
+And never the King told the story,
+How bringing a glove brought such glory,
+But the wife smiled--"His nerves are grown firmer:
+Mine he brings now and utters no murmur."
 
-Shut in from all the world without,
-We sat the clean-winged hearth about,
-Content to let the north-wind roar
-In baffled rage at pane and door,
-While the red logs before us beat
-The frost-line back with tropic heat;
-And ever, when a louder blast
-Shook beam and rafter as it passed,
-The merrier up its roaring draught
-The great throat of the chimney laughed;
-The house-dog on his paws outspread
-Laid to the fire his drowsy head,
-The cat's dark silhouette on the wall
-A couchant tiger's seemed to fall;
-And, for the winter fireside meet,
-Between the andirons' straddling feet,
-The mug of cider simmered slow,
-The apples sputtered in a row,
-And, close at hand, the basket stood
-With nuts from brown October's wood.
-
-What matter how the night behaved?
-What matter how the north-wind raved?
-Blow high, blow low, not all its snow
-Could quench our hearth-fire's ruddy glow.
-O Time and Change! -- with hair as gray
-As was my sire's that winter day,
-How strange it seems with so much gone,
-Of life and love, to still live on!
-Ah, brother! only I and thou
-Are left of all that circle now, --
-The dear home faces whereupon
-That fitful firelight paled and shone.
-Henceforward, listen as we will,
-The voices of that hearth are still;
-Look where we may, the wide earth o'er,
-Those lighted faces smile no more.
-We tread the paths their feet have worn,
-We sit beneath their orchard trees,
-We hear, like them, the hum of bees
-And rustle of the bladed corn;
-We turn the pages that they read,
-Their written words we linger o'er.
-But in the sun they cast no shade,
-No voice is heard, no sign is made,
-No step is on the conscious floor!
-Yet love will dream, and Faith will trust
-(Since He who knows our need is just),
-That somehow, somewhere, meet we must.
-Alas for him who never sees
-The stars shine through his cypress-trees!
-Who, hopeless, lays his dead away,
-Nor looks to see the breaking day
-Across the mourful marbles play!
-Who hath not learned, in hours of faith,
-The truth to flesh and sense unknown,
-That Life is ever lord of Death,
-And Love can never lose its own!
-
-We sped the time with stories old,
-Wrought puzzles out, and riddles told,
-Or stammered from our school-book lore
-"The Chief of Gambia's golden shore."
-How often since, when all the land
-Was clay in Slavery's shaping hand,
-As if a far-blown trumpet stirred
-The languorous sin-sick air, I heard:
-"Does not the voice of reason cry,
-Claim the first right which Nature gave,
-From the red scourge of bondage to fly,
-Nor deign to live a burdened slave!"
-Our father rode again his ride
-On Memphremagog's wooded side;
-Sat down again to moose and samp
-In trapper's hut and Indian camp;
-Lived o'er the old idyllic ease
-Beneath St. François' hemlock-trees;
-Again for him the moonlight shone
-On Norman cap and bodiced zone;
-Again he heard the violin play
-Which led the village dance away,
-And mingled in its merry whirl
-The grandam and the laughing girl.
-Or, nearer home, our steps he led
-Where Salisbury's level marshes spread
-Mile-wide as flied the laden bee;
-Where merry mowers, hale and strong,
-Swept, scythe on scythe, their swaths along
-The low green prairies of the sea.
-We shared the fishing off Boar's Head,
-And round the rocky Isles of Shoals
-The hake-broil on the drift-wood coals;
-The chowder on the sand-beach made,
-Dipped by the hungry, steaming hot,
-With spoons of clam-shell from the pot.
-We heard the tales of witchcraft old,
-And dream and sign and marvel told
-To sleepy listeners as they lay
-Stretched idly on the salted hay,
-Adrift along the winding shores,
-When favoring breezes deigned to blow
-The square sail of the gundelow
-And idle lay the useless oars.
-
-Our mother, while she turned her wheel
-Or run the new-knit stocking-heel,
-Told how the Indian hordes came down
-At midnight on Concheco town,
-And how her own great-uncle bore
-His cruel scalp-mark to fourscore.
-Recalling, in her fitting phrase,
-So rich and picturesque and free
-(The common unrhymed poetry
-Of simple life and country ways),
-The story of her early days, --
-She made us welcome to her home;
-Old hearths grew wide to give us room;
-We stole with her a frightened look
-At the gray wizard's conjuring-book,
-The fame whereof went far and wide
-Through all the simple country side;
-We heard the hawks at twilight play,
-The boat-horn on Piscataqua,
-The loon's weird laughter far away;
-We fished her little trout-brook, knew
-What flowers in wood and meadow grew,
-What sunny hillsides autumn-brown
-She climbed to shake the ripe nuts down,
-Saw where in sheltered cove and bay,
-The ducks' black squadron anchored lay,
-And heard the wild-geese calling loud
-Beneath the gray November cloud.
-Then, haply, with a look more grave,
-And soberer tone, some tale she gave
-From painful Sewel's ancient tome,
-Beloved in every Quaker home,
-Of faith fire-winged by martyrdom,
-Or Chalkley's Journal, old and quaint, --
-Gentlest of skippers, rare sea-saint! --
-Who, when the dreary calms prevailed,
-And water-butt and bread-cask failed,
-And cruel, hungry eyes pursued
-His portly presence, mad for food,
-With dark hints muttered under breath
-Of casting lots for life or death,
-Offered, if Heaven withheld supplies,
-To be himself the sacrifice.
-Then, suddenly, as if to save
-The good man from his living grave,
-A ripple on the water grew,
-A school of porpoise flashed in view.
-"Take, eat," he said, "and be content;
-These fishes in my stead are sent
-By Him who gave the tangled ram
-To spare the child of Abraham."
-
-Our uncle, innocent of books,
-Was rich in lore of fields and brooks,
-The ancient teachers never dumb
-Of Nature's unhoused lyceum.
-In moons and tides and weather wise,
-He read the clouds as prophecies,
-And foul or fair could well divine,
-By many an occult hint and sign,
-Holding the cunning-warded keys
-To all the woodcraft mysteries;
-Himself to Nature's heart so near
-That all her voices in his ear
-Of beast or bird had meanings clear,
-Like Apollonius of old,
-Who knew the tales the sparrows told,
-Or Hermes, who interpreted
-What the sage cranes of Nilus said;
-A simple, guileless, childlike man,
-Content to live where life began;
-Strong only on his native grounds,
-The little world of sights and sounds
-Whose girdle was the parish bounds,
-Whereof his fondly partial pride
-The common features magnified,
-As Surrey hills to mountains grew
-In White of Selborne's loving view, --
-He told how teal and loon he shot,
-And how the eagle's eggs he got,
-The feats on pond and river done,
-The prodigies of rod and gun;
-Till, warming with the tales he told,
-Forgotten was the outside cold,
-The bitter wind unheeded blew,
-From ripening corn the pigeons flew,
-The partridge drummed i' the wood, the mink
-Went fishing down the river-brink.
-The woodchuck, like a hermit gray,
-Peered from the doorway of his cell;
-The muskrat plied the mason's trade,
-And tier by tier his mud-walls laid;
-And from the shagbark overhead
-The grizzled squirrel dropped his shell.
-
-Next, the dear aunt, whose smile of cheer
-And voice in dreams I see and hear, --
-The sweetest woman ever Fate
-Perverse denied a household mate,
-Who, lonely, homeless, not the less
-Found peace in love's unselfishness,
-And welcome wheresoe'er she went,
-A calm and gracious element,
-Whose presence seemed the sweet income
-And womanly atmosphere of home, --
-Called up her girlhood memories,
-The huskings and the apple-bees,
-The sleigh-rides and the summer sails,
-Weaving through all the poor details
-And homespuun warp of circumstance
-A golden woof-thread of romance.
-For well she kept her genial mood
-And simple faith of maidenhood;
-Before her still a cloud-land lay,
-The mirage loomed across her way;
-The morning dew, that dries so soon
-With others, glistened at her noon;
-Through years of toil and soil and care,
-From glossy tress to thin gray hair,
-All unprofaned she held apart
-The virgin fancies of the heart.
-Be shame to him of woman born
-Who hath for such but thought of scorn.
-
-There, too, our elder sister plied
-Her evening task the stand beside;
-A full, rich nature, free to trust,
-Truthful and almost sternly just,
-Impulsive, earnest, prompt to act,
-And make her generous thought a fact,
-Keeping with many a light disguise
-The secret of self-sacrifice.
-O heart sore-tried! thou hast the best
-That Heaven itself coud give thee, -- rest,
-Rest from all bitter thoughts and things!
-How many a poor one's blessing went
-With thee beneath the low green tent
-Whose curtain never outward swings!
-
-As one who held herself a part
-Of all she saw, and let her heart
-Against the household bosom lean,
-Upon the motley-braided mat
-Our yougest and our dearest sat,
-Lifting her large, sweet, asking eyes,
-Now bathed in the unfading green
-And holy peace of Paradise.
-Oh, looking from some heavenly hill,
-Or from the shade of saintly palms,
-Or silver reach of river calms,
-Do those large eyes behold me still?
-With me one little year ago: --
-The chill weight of the winter snow
-For months upon her grave has lain;
-And now, when summer south-winds blow
-And brier and harebell bloom again,
-I tread the pleasant paths we trod,
-I see the violet-sprinkled sod
-Whereon she leaned, too frail and weak
-The hillside flowers she loved to seek,
-Yet following me where'er I went
-With dark eyes full of love's content.
-The birds are glad; the brier-rose fills
-The air with sweetness; all the hills
-Stretch green to June's unclouded sky;
-But still I wait with ear and eye,
-For something gone which should be nigh,
-A loss in all familiar things,
-In flower that blooms, and bird that sings.
-And yet, dear heart! remembering thee,
-Am I not richer than of old?
-Safe in thy immortality,
-What change can reach the wealth I hold?
-What chnce can mar the pearl and gold
-Thy love hath left in trust with me?
-And while in late life's late afternoon,
-Where cool and long the shadows grow,
-I walk to meet the night that soon
-Shall shape and shadow overflow,
-I cannot feel that thou art far,
-Since near at need the angels are;
-And when the sunset gates unbar,
-Shall I not see thee waiting stand,
-And, white against the evening star,
-The welcome of thy beckoning hand?
-
-Brisk wielder of the birch and rule,
-The master of the local school
-Held at the fire his favored place,
-Its warm glow lit a laughing face
-Fresh-hued and fair, where scarce appeared
-The uncertain prophecy of beard.
-He teased the mitten-blinded cat,
-Played cross-pins on my uncle's hat,
-Sang songs, and told us what befalls
-In classic Dartmouth's college halls.
-Born the wild Northern hills among,
-From whence his yeoman father wrung
-By patient toil subsistence scant,
-Not competence and yet not want,
-He early gained the power to pay
-His cheerful, self-reliant way;
-Could doff at ease his scholar's gown
-To peddle wares from town to town;
-Or through the long vacation's reach
-In lonely lowland districts teach,
-Where all the droll experience found
-At stranger hearths in boarding round,
-The moonlit skater's keen delight,
-The sleigh-drive through the frosty night,
-The rustic party, with its rough
-Accompaniment of blind-man's-buff,
-And whirling-plate, and forfeits paid,
-His winter task a pastime made.
-Happy the snow-locked homes wherein
-He tuned his merry violin,
-Or played the athlete in the barn,
-Or held the good dame's winding-yarn,
-Or mirth-provoking versions told
-Of classic legends rare and old,
-Wherein the scenes of Greece and Rome
-Had all the commonplace of home,
-And little seemed at best the odds
-'Twixt Yankee pedlers and old gods;
-Where Pindus-born Arachthus took
-The guise of any grist-mill brok,
-And dread Olympus at his will
-Became a huckleberry hill.
-
-A careless boy that night he seemed;
-But at his desk he had the look
-And air of one who wisely schemed,
-And hostage from the future took
-In trainëd thought and lore of book.
-Large-brained, clear-eyed, of such as he
-Shall Freedom's young apostles be,
-Who, following in War's bloody trail,
-Shall every lingering wrong assail;
-All chains from limb and spirit strike,
-Uplift the black and white alike;
-Scatter before their swift advance
-The darkness and the ignorance,
-The pride, the lust, the squalid sloth,
-Which nurtured Treason's monstrous growth,
-Made murder pastime, and the hell
-Of prison-torture possible;
-The cruel lie of caste refute,
-Old forms remould, and substitute
-For Slavery's lash the freeman's will,
-For blind routine, wise-handed skill;
-A school-house plant on every hill,
-Stretching in radiate nerve-lines thence
-The quick wires of intelligence;
-Till North and South together brought
-Shall own the same electric thought,
-In peace a common flag salute,
-And, side by side in labor's free
-And unresentful revalry,
-Harvest the fields wherein they fought.
-
-Another guest that winter night
-Flashed back from lustrous eyes the light.
-Unmarked by time, and yet not young,
-The honeyed music of her tongue
-And words of meekness scarcely told
-A nature passionate and bold,
-Strong, self-concentred, spurning guide,
-Its milder features dwarded beside
-Her unbent will's majestic pride.
-She sat among us, at the test,
-A not unfeared, half-welcome guest,
-Rebuking with her cultured phrase
-Our homeliness of words and ways.
-A certain pard-like, treacherous grace
-Swayed the lithe limbs and dropped the lash,
-Lent the white teeth their dazzling flash;
-And under low brows, black with night,
-Rayed out at times a dangerous light;
-The sharp heat-lightnings of her face
-Presaging ill to him whom Fate
-Condemned to share her love or hate.
-A woman tropical, intense
-In thought and act, in soul and sense,
-She blended in a like degree
-The vixen and the devotee,
-Revealing with each freak of feint
-The temper of Petruchio's Kate,
-The raptures of Siena's saint.
-Her tapering hand and rounded wrist
-Had facile power to form a fist;
-The warm, dark languish of her eyes
-Was never safe from wrath's surprise.
-Brows saintly calm and lips devout
-Knew every change of scowl and pout;
-And the sweet voice had notes more high
-And shrill for social battle-cry.
-
-Since then what old cathedral town
-Has missed her pilgrim staff and gown,
-What convent-gate has held its lock
-Against the challenge of her knock!
-Through Smyrna's plague-hushed thoroughfares,
-Up sea-set Malta's rocky stair,
-Gray olive slopes of hills that hem
-Thy tombs and shrines, Jerusalem,
-Or startling on her desert throne
-The crazy Queen of Lebanon
-With claims fantastic as her own,
-Her tireless feet have held their way;
-And still, unrestful. bowed, and gray,
-She watches under Eastern skies,
-With hope each day renewed and fresh,
-The Lord's quick coming in the flesh,
-Whereof she dreams and prophecies!
-
-Where'er her troubled path may be,
-The Lord's sweet pity with her go!
-The outward wayward life we see,
-The hidden springs we may not know.
-Nor is it given us to discern
-What threads the fatal sisters spun,
-Through what ancestral years has run
-The sorrow with the woman born,
-What forged her cruel chain of moods,
-What set her feet in solitudes,
-And held the love within her mute,
-What mingled madness in the blood
-A life-long discord and annoy,
-Water of tears with oil of joy,
-And hid within the folded bud
-Peversities of flower and fruit.
-It is not ours to separate
-The tangled skien of will and fate,
-To show what metes and bounds should stand
-Upon the soul's debatable land,
-And between choice and Providence
-Divide the circle of events;
-But He who knows our frame is just,
-Merciful and compassionate,
-And full of sweet assurances
-And hope for all the language is,
-That He remembereth we are dust!
-
-At last the great logs, crumbling low,
-Sent out a dull and duller glow,
-The bull's-eye watch that hung in view,
-Ticking its weary circuit through,
-Pointed with mutely warning sign
-Its black hand to the hour of nine.
-That sign the pleasant circle. broke:
-My uncle ceased his pipe to smoke,
-Knocked from its bowl the refuse gray
-And laid it tenderly away;
-Then roused himself to safely cover
-The dull red brands with ashes over,
-And while, with care, our mother laid
-The work aside, her steps she stayed
-One moment, seeking to express
-Her grateful sense of happiness
-For food and shelter, warmth and health,
-And love's contentment more than wealth,
-With simple wishes (not the weak,
-Vain prayers which no fulfilment seek,
-But such as warm the generous heart,
-O'er-prompt to do with Heaven its part)
-That none might lack, that bitter night,
-For bread and clothing, warmth and light.
-
-Within our beds awhile we heard
-The wind that round the gables roared,
-With now and then a ruder shock,
-Which made our very bedsteads rock.
-We heard the loosened clapboards tost,
-The board-nails snapping in the frost;
-And on us, through the unplastered wall,
-Felt the light sifted snow-flakes fall.
-But sleep stole on, as sleep will do
-When hearts are light and life is new;
-Faint and more faint the murmurs grew,
-Till in the summer-land of dreams
-They softened to the sound of streams,
-Low stir of leaves, and dip of oars,
-And lapsing waves on quiet shores.
-
-Next morn we wakened with the shout
-Of merry voices high and clear;
-And saw the teamsters drawing near
-To break the drifted highways out.
-Down the long hillside treading slow
-We saw the half-buried oxen go,
-Shaking the snow from heads uptost,
-Their straining nostrils white with frost.
-Before our door the stragglins train
-Drew up, an added team to gain.
-The elders threshed their hands a-cold,
-Passed, with the cider-mug, their jokes
-From lip to lip; the younger folks
-Down the loose snow-banks, wrestling rolled,
-Then toiled again the cavalcade
-O'er windy hill, through clogged ravine,
-And woodland paths that wound between
-Low drooping pine-boughs winter-weighed.
-From every barn a team afoot,
-At every house a new recruit,
-Where, drawn by Nature's subtlest law,
-Haply the watchful young men saw
-Sweet doorway pictures of the curls
-And curious eyes of merry girls,
-Lifting their hands in mock defence
-Against the snow-ball's compliments,
-And reading in each missive tost
-The charm with Eden never lost.
-
-We heard once more the sleigh-bells' sound;
-And, following where the teamsters led,
-The wise old Doctor went his round,
-Just pausing at our door to say,
-In the brief autocratic way
-Of one who, prompt at Duty's call
-Was free to urge her claim on all,
-That some poor neighbor sick abed
-At night our mother's aid would need.
-For, one in generous thought and deed
-What mattered in the sufferer's sight
-The Quaker matron's inward light,
-The Doctor's mail of Calvin's creed?
-All hearts confess the saints elect
-Who, twain in faith, in love agree,
-And melt not in an acid sect
-The Christian pearl of charity!
-
-So days went on: a week had passed
-Since the great world was heard from last.
-The Almanac we studied o'er,
-Read and reread our little store
-Of books and pamphlets, scarce a score;
-One harmless novel, mostly hid
-From younger eyes, a book forbid,
-And poetry (or good or bad,
-A single book was all we had),
-Where Ellwood's meek, drab-skirted Muse,
-A stranger to the heathen Nine,
-Sang, with a somewhat nasal whine,
-The wars of David and the Jews.
-At last the flourndering carrier bore
-The village paper to our door.
-Lo! broadening outward as we read,
-To warmer zones the horizon spread;
-In panoramic length unrolled
-We saw the marvels that it told.
-Before us passed the painted Creeks,
-And daft McGregor on his raids
-In Costa Rica's everglades.
-And up Taygetos winding slow
-Rode Ypsilanti's Mainote Greeks,
-A Turk's head at each saddle-bow!
-Welcome to us its week-old news,
-Its corner for the rustic Muse
-Its monthly gauge of snow and rain,
-Its record, mingling in a breath
-The wedding bell and dirge of death:
-Jest, anecdote, and love-lorn tale,
-The latest culprit sent to jail;
-Its hue and cry of stolen and lost,
-Its vendue sales and goods at cost,
-And traffic calling loud for gain.
-We felt the stir of hall and street,
-The pulse of life that round us beat;
-The chill embargo of the snow
-Was melted in the genial glow;
-Wide swung again our ice-locked door,
-And all the world was ours once more!
-
-Clasp, Angel of the backword look
-And folded wings of ashen gray
-And voice of echoes far away,
-The brazen covers of thy book;
-The weird palimpsest old and vast,
-Wherein thou hid'st the spectral past;
-Where, closely mingling, pale and glow
-The characters of joy and woe;
-The monographs of outlived years,
-Or smile-illumed or dim with tears,
-Green hills of life that slope to death,
-And haunts of home, whose vistaed trees
-Shade off to mournful cypresses,
-With the white amaranths underneath.
-Even while I look, I can but heed
-The restless sands' incessant fall,
-Importunate hours that hours succeed
-Each clamorous with its own sharp need,
-And duty keeping pace with all.
-Shut down and clasp with heavy lids;
-I hear again the voice that bids
-The dreamer leave his dream midway
-For larger hopes and graver fears:
-Life greatens in these later years,
-The century's aloe flowers to-day!
-
-Yet, haply, in some lull of life,
-Some Truce of God which breaks its strife,
-The wordling's eyes shall gather dew,
-Dreaming in throngful city ways
-Of winter joys his boyhood knew;
-And dear and early friends -- the few
-Who yet remain -- shall pause to view
-These Flemish pictures of old days;
-Sit with me by the homestead hearth
-And stretch the hands of memory forth
-To warm them at the wood-fire's blaze!
-And thanks untraced to lips unknown
-Shall greet me like the odors blown
-From unseen meadows newly mown,
-Or lilies floating in some pond,
-Wood-fringed, the wayside gaze beyond;
-The traveller owns the grateful sense
-Of sweetness near, he knows not whence,
-And, pausing takes with forehead bare
-The benediction of the air.
+Venienti occurrite morbo!
+With which moral I drop my theorbo.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 12°C, haze in Karachi 🇵🇰
+🌡️ 14°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
 - 🏆 **63** total stars earned
-- 🍴 **14** total forks
+- 🍴 **15** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -975,4 +382,4 @@ The benediction of the air.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 17, 2025 at 06:43 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 18, 2025 at 06:41 AM GMT+5<!-- TIMESTAMP:END -->_
