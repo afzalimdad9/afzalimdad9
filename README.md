@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/26/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 16 (Updated: 11/25/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/25/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 48 (Updated: 11/21/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,12 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Cook something together with someone
+Learn the periodic table
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,211 +78,316 @@ Cook something together with someone
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Elegy on Newstead Abbey" by George Gordon, Lord Byron
-  "It is the voice of years, that are gone! they roll before me, with
-  all their deeds."
+"Satire IV." by Alexander Pope
+THE SATIRES OF DR JOHN DONNE, DEAN OF ST PAUL'S, VERSIFIED.
 
-  Ossian.
+Well, if it be my time to quit the stage,
+Adieu to all the follies of the age!
+I die in charity with fool and knave,
+Secure of peace at least beyond the grave.
+I've had my purgatory here betimes,
+And paid for all my satires, all my rhymes.
+The poet's hell, its tortures, fiends, and flames.
+To this were trifles, toys, and empty names.
 
-NEWSTEAD! fast-falling, once-resplendent dome!
-Religion's shrine! repentant HENRY'S pride!
-Of Warriors, Monks, and Dames the cloister'd tomb,
- Whose pensive shades around thy ruins glide,
+With foolish pride my heart was never fired,
+Nor the vain itch t' admire, or be admired;
+I hoped for no commission from his Grace;
+I bought no benefice, I begg'd no place;
+Had no new verses, nor new suit to show;
+Yet went to court!--the devil would have it so.
+But, as the fool that, in reforming days,
+Would go to mass in jest (as story says)
+Could not but think, to pay his fine was odd,
+Since 'twas no form'd design of serving God;
+So was I punish'd, as if full as proud,
+As prone to ill, as negligent of good.
+As deep in debt, without a thought to pay,
+As vain, as idle, and as false as they
+Who live at court, for going once that way!
+Scarce was I enter'd, when, behold! there came
+A thing which Adam had been posed to name;
+Noah had refused it lodging in his ark,
+Where all the race of reptiles might embark:
+A verier monster than on Afric's shore
+The sun e'er got, or slimy Nilus bore,
+Or Sloane or Woodward's wondrous shelves contain,
+Nay, all that lying travellers can feign.
+The watch would hardly let him pass at noon,
+At night, would swear him dropp'd out of the moon.
+One whom the mob, when next we find or make
+A Popish plot, shall for a Jesuit take,
+And the wise justice, starting from his chair,
+Cry, By your priesthood, tell me what you are?
 
-Hail to thy pile! more honour'd in thy fall,
-  Than modern mansions, in their pillar'd state;
-Proudly majestic frowns thy vaulted hall,
-  Scowling defiance on the blasts of fate.
+Such was the wight; the apparel on his back,
+Though coarse, was reverend, and though bare, was black:
+The suit, if by the fashion one might guess,
+Was velvet in the youth of good Queen Bess,
+But mere tuff-taffety what now remain'd;
+So time, that changes all things, had ordain'd!
+Our sons shall see it leisurely decay,
+First turn plain rash, then vanish quite away.
 
-No mail-clad Serfs, obedient to their Lord,
-  In grim array, the crimson cross demand;
-Or gay assemble round the festive board,
-  Their chief's retainers, an immortal band.
+This thing has travell'd, speaks each language too,
+And knows what's fit for every State to do;
+Of whose best phrase and courtly accent join'd,
+He forms one tongue, exotic and refined
+Talkers I've learn'd to bear; Motteux I knew,
+Henley himself I've heard, and Budgell too.
+The Doctor's wormwood style, the hash of tongues
+A pedant makes, the storm of Gonson's lungs,
+The whole artillery of the terms of war,
+And (all those plagues in one) the bawling Bar:
+These I could bear; but not a rogue so civil,
+Whose tongue will compliment you to the devil;
+A tongue, that can cheat widows, cancel scores,
+Make Scots speak treason, cozen subtlest whores,
+With royal favourites in flattery vie,
+And Oldmixon and Burnet both outlie.
 
-Else might inspiring Fancy's magic eye
-  Retrace their progress, through the lapse of time;
-Marking each ardent youth, ordain'd to die,
-  A votive pilgrim, in Judea's clime.
+He spies me out; I whisper, Gracious God!
+What sin of mine could merit such a rod?
+That all the shot of dulness now must be
+From this thy blunderbuss discharged on me!
+Permit (he cries) no stranger to your fame
+To crave your sentiment, if ----'s your name.
+What speech esteem you most? 'The King's,' said I.
+But the best words?--'Oh, sir, the Dictionary.'
+You miss my aim; I mean the most acute
+And perfect speaker?--'Onslow, past dispute.'
+But, sir, of writers? 'Swift, for closer style;
+But Hoadley, for a period of a mile.'
+Why, yes, 'tis granted, these indeed may pass:
+Good common linguists, and so Panurge was;
+Nay, troth, the Apostles (though perhaps too rough)
+Had once a pretty gift of tongues enough:
+Yet these were all poor gentlemen! I dare
+Affirm, 'twas travel made them what they were.
 
-But not from thee, dark pile! departs the Chief;
-  His feudal realm in other regions lay:
-In thee the wounded conscience courts relief,
-  Retiring from the garish blaze of day.
+Thus others' talents having nicely shown,
+He came by sure transition to his own:
+Till I cried out, You prove yourself so able,
+Pity you was not druggerman at Babel;
+For had they found a linguist half so good,
+I make no question but the tower had stood.
+'Obliging sir! for courts you sure were made:
+Why then for ever buried in the shade?
+Spirits like you should see, and should be seen,
+The king would smile on you--at least the queen.'
+Ah, gentle sir! you courtiers so cajole us--
+But Tully has it, _Nunquam minus solus_:
+And as for courts, forgive me, if I say
+No lessons now are taught the Spartan way:
+Though in his pictures lust be full display'd,
+Few are the converts Aretine has made;
+And though the court show vice exceeding clear,
+None should, by my advice, learn virtue there.
 
-Yes! in thy gloomy cells and shades profound,
-  The monk abjur'd a world, he ne'er could view;
-Or blood-stain'd Guilt repenting, solace found,
-  Or Innocence, from stern Oppression, flew.
+At this, entranced, he lifts his hands and eyes,
+Squeaks like a high-stretch'd lutestring, and replies:
+'Oh, 'tis the sweetest of all earthly things
+To gaze on princes, and to talk of kings!'
+Then, happy man who shows the tombs! said I,
+He dwells amidst the royal family;
+He every day, from king to king can walk,
+Of all our Harries, all our Edwards talk,
+And get by speaking truth of monarchs dead,
+What few can of the living-ease and bread.
+'Lord, sir, a mere mechanic! strangely low,
+And coarse of phrase,--your English all are so.
+How elegant your Frenchmen!' Mine, d'ye mean?
+I have but one, I hope the fellow's clean.
+'Oh! sir, politely so! nay, let me die:
+Your only wearing is your paduasoy.'
+Not, sir, my only, I have better still,
+And this, you see, is but my dishabille.
+Wild to get loose, his patience I provoke,
+Mistake, confound, object at all he spoke.
+But as coarse iron, sharpen'd, mangles more,
+And itch most hurts when anger'd to a sore;
+So when you plague a fool, 'tis still the curse,
+You only make the matter worse and worse.
 
-A Monarch bade thee from that wild arise,
-  Where Sherwood's outlaws, once, were wont to prowl;
-And Superstition's crimes, of various dyes,
-  Sought shelter in the Priest's protecting cowl.
+He pass'd it o'er; affects an easy smile
+At all my peevishness, and turns his style.
+He asks, 'What news?' I tell him of new plays,
+New eunuchs, harlequins, and operas.
+He hears, and as a still with simples in it
+Between each drop it gives, stays half a minute,
+Loth to enrich me with too quick replies,
+By little, and by little, drops his lies.
+Mere household trash! of birthnights, balls, and shows, 130
+More than ten Hollinsheds, or Halls, or Stowes.
+When the queen frown'd, or smiled, he knows; and what
+A subtle minister may make of that:
+Who sins with whom: who got his pension rug,
+Or quicken'd a reversion by a drug:
+Whose place is quarter'd out, three parts in four,
+And whether to a bishop, or a whore:
+Who, having lost his credit, pawn'd his rent,
+Is therefore fit to have a government:
+Who, in the secret, deals in stocks secure,
+And cheats the unknowing widow and the poor:
+Who makes a trust or charity a job,
+And gets an act of parliament to rob:
+Why turnpikes rise, and now no cit nor clown
+Can gratis see the country, or the town:
+Shortly no lad shall chuck, or lady vole,
+But some excising courtier will have toll.
+He tells what strumpet places sells for life,
+What 'squire his lands, what citizen his wife:
+And last (which proves him wiser still than all)
+What lady's face is not a whited wall.
 
-Where, now, the grass exhales a murky dew,
-  The humid pall of life-extinguish'd clay,
-In sainted fame, the sacred Fathers grew,
-  Nor raised their pious voices, but to pray.
+As one of Woodward's patients, sick, and sore,
+I puke, I nauseate,--yet he thrusts in more:
+Trim's Europe's balance, tops the statesman's part.
+And talks Gazettes and Postboys o'er by heart.
+Like a big wife at sight of loathsome meat
+Ready to cast, I yawn, I sigh, and sweat.
+Then as a licensed spy, whom nothing can
+Silence or hurt, he libels the great man;
+Swears every place entail'd for years to come,
+In sure succession to the day of doom:
+He names the price for every office paid,
+And says our wars thrive ill, because delay'd:
+Nay, hints 'tis by connivance of the court
+That Spain robs on, and Dunkirk's still a port.
+Not more amazement seized on Circe's guests,
+To see themselves fall endlong into beasts,
+Than mine, to find a subject, staid and wise,
+Already half turn'd traitor by surprise.
+I felt the infection slide from him to me,
+As in the pox, some give it to get free;
+And quick to swallow me, methought I saw
+One of our giant statues ope its jaw.
 
-Where, now, the bats their wavering wings extend,
-  Soon as the gloaming spreads her waning shade
-The choir did, oft, their mingling vespers blend,
-  Or matin orisons to Mary paid.
+In that nice moment, as another lie
+Stood just a-tilt, the minister came by.
+To him he flies, and bows, and bows again,
+Then, close as Umbra, joins the dirty train.
+Not Fannius' self more impudently near,
+When half his nose is in his prince's ear.
+I quaked at heart; and still afraid, to see
+All the court fill'd with stranger things than he,
+Ran out as fast, as one that pays his bail,
+And dreads more actions, hurries from a jail.
 
-Years roll on years; to ages, ages yield;
-  Abbots to Abbots, in a line, succeed:
-Religion's charter, their protecting shield,
-  Till royal sacrilege their doom decreed.
+Bear me, some god! oh quickly bear me hence
+To wholesome solitude, the nurse of sense,
+Where Contemplation prunes her ruffled wings,
+And the free soul looks down to pity kings!
+There sober thought pursued the amusing theme,
+Till fancy colour'd it, and form'd a dream.
+A vision hermits can to Hell transport,
+And forced ev'n me to see the damn'd at court.
+Not Dante, dreaming all the infernal state,
+Beheld such scenes of envy, sin, and hate.
+Base fear becomes the guilty, not the free;
+Suits tyrants, plunderers, but suits not me:
+Shall I, the terror of this sinful town,
+Care if a liveried lord or smile or frown?
+Who cannot flatter, and detest who can,
+Tremble before a noble serving-man?
+O my fair mistress, Truth! shall I quit thee
+For huffing, braggart, puff'd nobility?
+Thou, who since yesterday hast roll'd o'er all
+The busy, idle blockheads of the ball,
+Hast thou, O Sun! beheld an emptier sort,
+Than such as swell this bladder of a court?
+Now pox on those who show a court in wax!
+It ought to bring all courtiers on their backs:
+Such painted puppets! such a varnish'd race
+Of hollow gewgaws, only dress and face!
+Such waxen noses, stately staring things--
+No wonder some folks bow, and think them kings.
 
-One holy HENRY rear'd the Gothic walls,
-  And bade the pious inmates rest in peace;
-Another HENRY the kind gift recalls,
-  And bids devotion's hallow'd echoes cease.
+See! where the British youth, engaged no more
+At Fig's, at White's, with felons, or a whore,
+Pay their last duty to the court, and come
+All fresh and fragrant, to the drawing-room;
+In hues as gay, and odours as divine,
+As the fair fields they sold to look so fine.
+'That's velvet for a king!' the flatterer swears;
+'Tis true, for ten days hence 'twill be King Lear's.
+Our court may justly to our stage give rules,
+That helps it both to fools' coats and to fools.
+And why not players strut in courtiers' clothes?
+For these are actors too, as well as those:
+Wants reach all states; they beg, but better dress'd,
+And all is splendid poverty at best.
 
-Vain is each threat, or supplicating prayer;
-  He drives them exiles from their blest abode,
-To roam a dreary world, in deep despair--
-  No friend, no home, no refuge, but their God.
+Painted for sight, and essenced for the smell,
+Like frigates fraught with spice and cochineal,
+Sail in the ladies: how each pirate eyes
+So weak a vessel, and so rich a prize!
+Top-gallant he, and she in all her trim,
+He boarding her, she striking sail to him:
+'Dear Countess! you have charms all hearts to hit!'
+And, 'Sweet Sir Fopling! you have so much wit!'
+Such wits and beauties are not praised for nought,
+For both the beauty and the wit are bought.
+'Twould burst ev'n Heraclitus with the spleen,
+To see those antics, Fopling and Courtin:
+The Presence seems, with things so richly odd,
+The mosque of Mahound, or some queer pagod.
+See them survey their limbs by Durer's rules,
+Of all beau-kind the best proportion'd fools!
+Adjust their clothes, and to confession draw
+Those venial sins, an atom, or a straw;
+But oh! what terrors must distract the soul
+Convicted of that mortal crime, a hole;
+Or should one pound of powder less bespread
+Those monkey tails that wag behind their head.
+Thus finish'd, and corrected to a hair,
+They march, to prate their hour before the fair.
+So first to preach a white-gloved chaplain goes,
+With band of lily, and with cheek of rose,
+Sweeter than Sharon, in immaculate trim,
+Neatness itself impertinent in him,
+Let but the ladies smile, and they are blest:
+Prodigious! how the things protest, protest:
+Peace, fools! or Gonson will for Papists seize you,
+If once he catch you at your Jesu! Jesu!
 
-Hark! how the hall, resounding to the strain,
-  Shakes with the martial music's novel din!
-The heralds of a warrior's haughty reign,
-  High crested banners wave thy walls within.
+Nature made every fop to plague his brother,
+Just as one beauty mortifies another.
+But here's the captain that will plague them both,
+Whose air cries, Arm! whose very look's an oath:
+The captain's honest, sirs, and that's enough,
+Though his soul's bullet, and his body buff.
+He spits fore-right; his haughty chest before,
+Like battering rams, beats open every door:
+And with a face as red, and as awry,
+As Herod's hangdogs in old tapestry,
+Scarecrow to boys, the breeding woman's curse,
+Has yet a strange ambition to look worse;
+Confounds the civil, keeps the rude in awe,
+Jests like a licensed fool, commands like law.
 
-Of changing sentinels the distant hum,
-  The mirth of feasts, the clang of burnish'd arms,
-The braying trumpet, and the hoarser drum,
-  Unite in concert with increas'd alarms.
+Frighted, I quit the room, but leave it so
+As men from jails to execution go;
+For hung with deadly sins I see the wall,
+And lined with giants deadlier than 'em all:
+Each man an Ascapart, of strength to toss
+For quoits, both Temple-bar and Charing-cross.
+Scared at the grisly forms, I sweat, I fly,
+And shake all o'er, like a discover'd spy.
 
-An abbey once, a regal fortress now,
-  Encircled by insulting rebel powers;
-War's dread machines o'erhang thy threat'ning brow,
-  And dart destruction, in sulphureous showers.
-
-Ah! vain defence! the hostile traitor's siege,
-  Though oft repuls'd, by guile o'ercomes the brave;
-His thronging foes oppress the faithful Liege,
-  Rebellion's reeking standards o'er him wave.
-
-Not unaveng'd the raging Baron yields;
-  The blood of traitors smears the purple plain;
-Unconquer'd still, his falchion there he wields,
-  And days of glory, yet, for him remain.
-
-Still, in that hour, the warrior wish'd to strew
-  Self-gather'd laurels on a self-sought grave;
-But Charles' protecting genius hither flew,
-  The monarch's friend, the monarch's hope, to save.
-
-Trembling, she snatch'd him from th' unequal strife,
-  In other fields the torrent to repel;
-For nobler combats, here, reserv'd his life,
-  To lead the band, where godlike FALKLAND fell.
-
-From thee, poor pile! to lawless plunder given,
-  While dying groans their painful requiem sound,
-Far different incense, now, ascends to Heaven,
-  Such victims wallow on the gory ground.
-
-There many a pale and ruthless Robber's corse,
-  Noisome and ghast, defiles thy sacred sod;
-O'er mingling man, and horse commix'd with horse,
-  Corruption's heap, the savage spoilers trod.
-
-Graves, long with rank and sighing weeds o'erspread,
-  Ransack'd resign, perforce, their mortal mould:
-From ruffian fangs, escape not e'en the dead,
-  Racked from repose, in search for buried gold.
-
-Hush'd is the harp, unstrung the warlike lyre,
-  The minstrel's palsied hand reclines in death;
-No more he strikes the quivering chords with fire,
-  Or sings the glories of the martial wreath.
-
-At length the sated murderers, gorged with prey,
-  Retire: the clamour of the fight is o'er;
-Silence again resumes her awful sway,
-  And sable Horror guards the massy door.
-
-Here, Desolation holds her dreary court:
-  What satellites declare her dismal reign!
-Shrieking their dirge, ill-omen'd birds resort,
-  To flit their vigils, in the hoary fane.
-
-Soon a new Morn's restoring beams dispel
-  The clouds of Anarchy from Britain's skies;
-The fierce Usurper seeks his native hell,
-  And Nature triumphs, as the Tyrant dies.
-
-With storms she welcomes his expiring groans;
-  Whirlwinds, responsive, greet his labouring breath;
-Earth shudders, as her caves receive his bones,
-  Loathing the offering of so dark a death.
-
-The legal Ruler now resumes the helm,
-  He guides through gentle seas, the prow of state;
-Hope cheers, with wonted smiles, the peaceful realm,
-  And heals the bleeding wounds of wearied Hate.
-
-The gloomy tenants, Newstead! of thy cells,
-  Howling, resign their violated nest;
-Again, the Master on his tenure dwells,
-  Enjoy'd, from absence, with enraptured zest.
-
-Vassals, within thy hospitable pale,
-  Loudly carousing, bless their Lord's return;
-Culture, again, adorns the gladdening vale,
-  And matrons, once lamenting, cease to mourn.
-
-A thousand songs, on tuneful echo, float,
-  Unwonted foliage mantles o'er the trees;
-And, hark! the horns proclaim a mellow note,
-  The hunters' cry hangs lengthening on the breeze.
-
-Beneath their coursers' hoofs the valleys shake;
-  What fears! what anxious hopes! attend the chase!
-The dying stag seeks refuge in the lake;
-  Exulting shouts announce the finish'd race.
-
-Ah happy days! too happy to endure!
-  Such simple sports our plain forefathers knew:
-No splendid vices glitter'd to allure;
-  Their joys were many, as their cares were few.
-
-From these descending, Sons to Sires succeed;
-  Time steals along, and Death uprears his dart;
-Another Chief impels the foaming steed,
-  Another Crowd pursue the panting hart.
-
-Newstead! what saddening change of scene is thine!
-  Thy yawning arch betokens slow decay;
-The last and youngest of a noble line,
-  Now holds thy mouldering turrets in his sway.
-
-Deserted now, he scans thy gray worn towers;
-  Thy vaults, where dead of feudal ages sleep;
-Thy cloisters, pervious to the wintry showers;
-  These, these he views, and views them but to weep.
-
-Yet are his tears no emblem of regret:
-  Cherish'd Affection only bids them flow;
-Pride, Hope, and Love, forbid him to forget,
-  But warm his bosom, with impassion'd glow.
-
-Yet he prefers thee, to the gilded domes,
-  Or gewgaw grottos, of the vainly great;
-Yet lingers 'mid thy damp and mossy tombs,
-  Nor breathes a murmur 'gainst the will of Fate.
-
-Haply thy sun, emerging, yet, may shine,
-  Thee to irradiate with meridian ray;
-Hours, splendid as the past, may still be thine,
-  And bless thy future, as thy former day.
+Courts are too much for wits so weak as mine:
+Charge them with Heaven's artillery, bold divine!
+From such alone the great rebukes endure,
+Whose satire's sacred, and whose rage secure:
+'Tis mine to wash a few light stains, but theirs
+To deluge sin, and drown a court in tears.
+Howe'er, what's now Apocrypha, my wit,
+In time to come, may pass for holy writ.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 18°C, haze in Karachi 🇵🇰
+🌡️ 15°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -379,4 +484,4 @@ Hours, splendid as the past, may still be thine,
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 26, 2025 at 06:42 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 27, 2025 at 06:40 AM GMT+5<!-- TIMESTAMP:END -->_
