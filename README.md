@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/29/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 16 (Updated: 11/28/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/28/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 48 (Updated: 11/21/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,12 +64,15 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-ASCII silly question, get a silly ANSI.
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Volunteer at a local animal shelter
+Do yoga
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,528 +81,255 @@ Volunteer at a local animal shelter
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Eve Of Revolution" by Algernon Charles Swinburne
-The trumpets of the four winds of the world
-From the ends of the earth blow battle; the night heaves,
-With breasts palpitating and wings refurled,
-With passion of couched limbs, as one who grieves
-Sleeping, and in her sleep she sees uncurled
-Dreams serpent-shapen, such as sickness weaves,
-Down the wild wind of vision caught and whirled,
-Dead leaves of sleep, thicker than autumn leaves,
-Shadows of storm-shaped things,
-Flights of dim tribes of kings,
-The reaping men that reap men for their sheaves,
-And, without grain to yield,
-Their scythe-swept harvest-field
-Thronged thick with men pursuing and fugitives,
-Dead foliage of the tree of sleep,
-Leaves blood-coloured and golden, blown from deep to deep.
-
-
-
-I hear the midnight on the mountains cry
-With many tongues of thunders, and I hear
-Sound and resound the hollow shield of sky
-With trumpet-throated winds that charge and cheer,
-And through the roar of the hours that fighting fly,
-Through flight and fight and all the fluctuant fear,
-A sound sublimer than the heavens are high,
-A voice more instant than the winds are clear,
-Say to my spirit, "Take
-Thy trumpet too, and make
-A rallying music in the void night's ear,
-Till the storm lose its track,
-And all the night go back;
-Till, as through sleep false life knows true life near,
-Thou know the morning through the night,
-And through the thunder silence, and through darkness light."
-
-
-
-I set the trumpet to my lips and blow.
-The height of night is shaken, the skies break,
-The winds and stars and waters come and go
-By fits of breath and light and sound, that wake
-As out of sleep, and perish as the show
-Built up of sleep, when all her strengths forsake
-The sense-compelling spirit; the depths glow,
-The heights flash, and the roots and summits shake
-Of earth in all her mountains,
-And the inner foamless fountains
-And wellsprings of her fast-bound forces quake;
-Yea, the whole air of life
-Is set on fire of strife,
-Till change unmake things made and love remake;
-Reason and love, whose names are one,
-Seeing reason is the sunlight shed from love the sun.
-
-
-
-The night is broken eastward; is it day,
-Or but the watchfires trembling here and there,
-Like hopes on memory's devastated way,
-In moonless wastes of planet-stricken air?
-O many-childed mother great and grey,
-O multitudinous bosom, and breasts that bare
-Our fathers' generations, whereat lay
-The weanling peoples and the tribes that were,
-Whose new-born mouths long dead
-Those ninefold nipples fed,
-Dim face with deathless eyes and withered hair,
-Fostress of obscure lands,
-Whose multiplying hands
-Wove the world's web with divers races fair
-And cast it waif-wise on the stream,
-The waters of the centuries, where thou sat'st to dream;
-
-
-
-O many-minded mother and visionary,
-Asia, that sawest their westering waters sweep
-With all the ships and spoils of time to carry
-And all the fears and hopes of life to keep,
-Thy vesture wrought of ages legendary
-Hides usward thine impenetrable sleep,
-And thy veiled head, night's oldest tributary,
-We know not if it speak or smile or weep.
-But where for us began
-The first live light of man
-And first-born fire of deeds to burn and leap,
-The first war fair as peace
-To shine and lighten Greece,
-And the first freedom moved upon the deep,
-God's breath upon the face of time
-Moving, a present spirit, seen of men sublime;
-
-
-
-There where our east looks always to thy west,
-Our mornings to thine evenings, Greece to thee,
-These lights that catch the mountains crest by crest,
-Are they of stars or beacons that we see?
-Taygetus takes here the winds abreast,
-And there the sun resumes Thermopylae;
-The light is Athens where those remnants rest,
-And Salamis the sea-wall of that sea.
-The grass men tread upon
-Is very Marathon,
-The leaves are of that time-unstricken tree
-That storm nor sun can fret
-Nor wind, since she that set
-Made it her sign to men whose shield was she;
-Here, as dead time his deathless things,
-Eurotas and Cephisus keep their sleepless springs.
-
-
-
-O hills of Crete, are these things dead? O waves,
-O many-mouthed streams, are these springs dry?
-Earth, dost thou feed and hide now none but slaves?
-Heaven, hast thou heard of men that would not die?
-Is the land thick with only such men's graves
-As were ashamed to look upon the sky?
-Ye dead, whose name outfaces and outbraves
-Death, is the seed of such as you gone by?
-Sea, have thy ports not heard
-Some Marathonian word
-Rise up to landward and to Godward fly?
-No thunder, that the skies
-Sent not upon us, rise
-With fire and earthquake and a cleaving cry?
-Nay, light is here, and shall be light,
-Though all the face of the hour be overborne with night.
-
-
-
-I set the trumpet to my lips and blow.
-The night is broken northward; the pale plains
-And footless fields of sun-forgotten snow
-Feel through their creviced lips and iron veins
-Such quick breath labour and such clean blood flow
-As summer-stricken spring feels in her pains
-When dying May bears June, too young to know
-The fruit that waxes from the flower that wanes;
-Strange tyrannies and vast,
-Tribes frost-bound to their past,
-Lands that are loud all through their length with chains,
-Wastes where the wind's wings break,
-Displumed by daylong ache
-And anguish of blind snows and rack-blown rains,
-And ice that seals the White Sea's lips,
-Whose monstrous weights crush flat the sides of shrieking ships;
-
-
-
-Horrible sights and sounds of the unreached pole,
-And shrill fierce climes of inconsolable air,
-Shining below the beamless aureole
-That hangs about the north-wind's hurtling hair,
-A comet-lighted lamp, sublime and sole
-Dawn of the dayless heaven where suns despair;
-Earth, skies, and waters, smitten into soul,
-Feel the hard veil that iron centuries wear
-Rent as with hands in sunder,
-Such hands as make the thunder
-And clothe with form all substance and strip bare;
-Shapes, shadows, sounds and lights
-Of their dead days and nights
-Take soul of life too keen for death to bear;
-Life, conscience, forethought, will, desire,
-Flood men's inanimate eyes and dry-drawn hearts with fire.
-
-
-
-Light, light, and light! to break and melt in sunder
-All clouds and chains that in one bondage bind
-Eyes, hands, and spirits, forged by fear and wonder
-And sleek fierce fraud with hidden knife behind;
-There goes no fire from heaven before their thunder,
-Nor are the links not malleable that wind
-Round the snared limbs and souls that ache thereunder;
-The hands are mighty, were the head not blind.
-Priest is the staff of king,
-And chains and clouds one thing,
-And fettered flesh with devastated mind.
-Open thy soul to see,
-Slave, and thy feet are free;
-Thy bonds and thy beliefs are one in kind,
-And of thy fears thine irons wrought
-Hang weights upon thee fashioned out of thine own thought.
-
-
-
-O soul, O God, O glory of liberty,
-To night and day their lightning and their light!
-With heat of heart thou kindlest the quick sea,
-And the dead earth takes spirit from thy sight;
-The natural body of things is warm with thee,
-And the world's weakness parcel of thy might;
-Thou seest us feeble and forceless, fit to be
-Slaves of the years that drive us left and right,
-Drowned under hours like waves
-Wherethrough we row like slaves;
-But if thy finger touch us, these take flight.
-If but one sovereign word
-Of thy live lips be heard,
-What man shall stop us, and what God shall smite?
-Do thou but look in our dead eyes,
-They are stars that light each other till thy sundawn rise.
-
-
-
-Thou art the eye of this blind body of man,
-The tongue of this dumb people; shalt thou not
-See, shalt thou speak not for them?
-Time is wan And hope is weak with waiting, and swift thought
-Hath lost the wings at heel wherewith he ran,
-And on the red pit's edge sits down distraught
-To talk with death of days republican
-And dreams and fights long since dreamt out and fought;
-Of the last hope that drew
-To that red edge anew
-The firewhite faith of Poland without spot;
-Of the blind Russian might,
-And fire that is not light;
-Of the green Rhineland where thy spirit wrought;
-But though time, hope, and memory tire,
-Canst thou wax dark as they do, thou whose light is fire?
-
-
-
-I set the trumpet to my lips and blow.
-The night is broken westward; the wide sea
-That makes immortal motion to and fro
-From world's end unto world's end, and shall be
-When nought now grafted of men's hands shall grow
-And as the weed in last year's waves are we
-Or spray the sea-wind shook a year ago
-From its sharp tresses down the storm to lee,
-The moving god that hides
-Time in its timeless tides
-Wherein time dead seems live eternity,
-That breaks and makes again
-Much mightier things than men,
-Doth it not hear change coming, or not see?
-Are the deeps deaf and dead and blind,
-To catch no light or sound from landward of mankind?
-
-
-
-O thou, clothed round with raiment of white waves,
-Thy brave brows lightening through the grey wet air,
-Thou, lulled with sea-sounds of a thousand caves,
-And lit with sea-shine to thine inland lair,
-Whose freedom clothed the naked souls of slaves
-And stripped the muffled souls of tyrants bare,
-O, by the centuries of thy glorious graves,
-By the live light of the earth that was thy care,
-Live, thou must not be dead,
-Live; let thine armed head
-Lift itself up to sunward and the fair
-Daylight of time and man,
-Thine head republican,
-With the same splendour on thine helmless hair
-That in his eyes kept up a light
-Who on thy glory gazed away their sacred sight;
-
-
-
-Who loved and looked their sense to death on thee;
-Who taught thy lips imperishable things,
-And in thine ears outsang thy singing sea;
-Who made thy foot firm on the necks of kings
-And thy soul somewhile steadfast--woe are we
-It was but for a while, and all the strings
-Were broken of thy spirit; yet had he
-Set to such tunes and clothed it with such wings
-It seemed for his sole sake
-Impossible to break,
-And woundless of the worm that waits and stings,
-The golden-headed worm
-Made headless for a term,
-The king-snake whose life kindles with the spring's,
-To breathe his soul upon her bloom,
-And while she marks not turn her temple to her tomb.
-
-
-
-By those eyes blinded and that heavenly head
-And the secluded soul adorable,
-O Milton's land, what ails thee to be dead?
-Thine ears are yet sonorous with his shell
-That all the songs of all thy sea-line fed
-With motive sound of spring-tides at mid swell,
-And through thine heart his thought as blood is shed,
-Requickening thee with wisdom to do well;
-Such sons were of thy womb,
-England, for love of whom
-Thy name is not yet writ with theirs that fell,
-But, till thou quite forget
-What were thy children, yet
-On the pale lips of hope is as a spell;
-And Shelley's heart and Landor's mind
-Lit thee with latter watch-fires; why wilt thou be blind?
-
-
-
-Though all were else indifferent, all that live
-Spiritless shapes of nations; though time wait
-In vain on hope till these have help to give,
-And faith and love crawl famished from the gate;
-Canst thou sit shamed and self-contemplative
-With soulless eyes on thy secluded fate?
-Though time forgive them, thee shall he forgive,
-Whose choice was in thine hand to be so great?
-Who cast out of thy mind
-The passion of man's kind,
-And made thee and thine old name separate?
-Now when time looks to see
-New names and old and thee
-Build up our one Republic state by state,
-England with France, and France with Spain,
-And Spain with sovereign Italy strike hands and reign.
-
-
-
-O known and unknown fountain-heads that fill
-Our dear life-springs of England! O bright race
-Of streams and waters that bear witness still
-To the earth her sons were made of! O fair face
-Of England, watched of eyes death cannot kill,
-How should the soul that lit you for a space
-Fall through sick weakness of a broken will
-To the dead cold damnation of disgrace?
-Such wind of memory stirs
-On all green hills of hers,
-Such breath of record from so high a place,
-From years whose tongues of flame
-Prophesied in her name
-Her feet should keep truth's bright and burning trace,
-We needs must have her heart with us,
-Whose hearts are one with man's; she must be dead or thus.
-
-
-
-Who is against us? who is on our side?
-Whose heart of all men's hearts is one with man's?
-Where art thou that wast prophetess and bride,
-When truth and thou trod under time and chance?
-What latter light of what new hope shall guide
-Out of the snares of hell thy feet, O France?
-What heel shall bruise these heads that hiss and glide,
-What wind blow out these fen-born fires that dance
-Before thee to thy death?
-No light, no life, no breath,
-From thy dead eyes and lips shall take the trance,
-Till on that deadliest crime
-Reddening the feet of time
-Who treads through blood and passes, time shall glance
-Pardon, and Italy forgive,
-And Rome arise up whom thou slewest, and bid thee live.
-
-
-
-I set the trumpet to my lips and blow.
-The night is broken southward; the springs run,
-The daysprings and the watersprings that flow
-Forth with one will from where their source was one,
-Out of the might of morning: high and low,
-The hungering hills feed full upon the sun,
-The thirsting valleys drink of him and glow
-As a heart burns with some divine thing done,
-Or as blood burns again
-In the bruised heart of Spain,
-A rose renewed with red new life begun,
-Dragged down with thorns and briers,
-That puts forth buds like fires
-Till the whole tree take flower in unison,
-And prince that clogs and priest that clings
-Be cast as weeds upon the dunghill of dead things.
-
-
-
-Ah heaven, bow down, be nearer! This is she,
-Italia, the world's wonder, the world's care,
-Free in her heart ere quite her hands be free,
-And lovelier than her loveliest robe of air.
-The earth hath voice, and speech is in the sea,
-Sounds of great joy, too beautiful to bear;
-All things are glad because of her, but we
-Most glad, who loved her when the worst days were.
-O sweetest, fairest, first,
-O flower, when times were worst,
-Thou hadst no stripe wherein we had no share.
-Have not our hearts held close,
-Kept fast the whole world's rose?
-Have we not worn thee at heart whom none would wear?
-First love and last love, light of lands,
-Shall we not touch thee full-blown with our lips and hands?
-
-
-
-O too much loved, what shall we say of thee?
-What shall we make of our heart's burning fire,
-The passion in our lives that fain would be
-Made each a brand to pile into the pyre
-That shall burn up thy foemen, and set free
-The flame whence thy sun-shadowing wings aspire?
-Love of our life, what more than men are we,
-That this our breath for thy sake should expire,
-For whom to joyous death
-Glad gods might yield their breath,
-Great gods drop down from heaven to serve for hire?
-We are but men, are we,
-And thou art Italy;
-What shall we do for thee with our desire?
-What gift shall we deserve to give?
-How shall we die to do thee service, or how live?
-
-
-
-The very thought in us how much we love thee
-Makes the throat sob with love and blinds the eyes.
-How should love bear thee, to behold above thee
-His own light burning from reverberate skies?
-They give thee light, but the light given them of thee
-Makes faint the wheeling fires that fall and rise.
-What love, what life, what death of man's should move thee,
-What face that lingers or what foot that flies?
-It is not heaven that lights
-Thee with such days and nights,
-But thou that heaven is lit from in such wise.
-O thou her dearest birth,
-Turn thee to lighten earth,
-Earth too that bore thee and yearns to thee and cries;
-Stand up, shine, lighten, become flame,
-Till as the sun's name through all nations be thy name.
-
-
-
-I take the trumpet from my lips and sing.
-O life immeasurable and imminent love,
-And fear like winter leading hope like spring,
-Whose flower-bright brows the day-star sits above,
-Whose hand unweariable and untiring wing
-Strike music from a world that wailed and strove,
-Each bright soul born and every glorious thing,
-From very freedom to man's joy thereof,
-O time, O change and death,
-Whose now not hateful breath
-But gives the music swifter feet to move
-Through sharp remeasuring tones
-Of refluent antiphones
-More tender-tuned than heart or throat of dove,
-Soul into soul, song into song,
-Life changing into life, by laws that work not wrong;
-
-
-
-O natural force in spirit and sense, that art
-One thing in all things, fruit of thine own fruit,
-O thought illimitable and infinite heart
-Whose blood is life in limbs indissolute
-That still keeps hurtless thine invisible part
-And inextirpable thy viewless root
-Whence all sweet shafts of green and each thy dart
-Of sharpening leaf and bud resundering shoot;
-Hills that the day-star hails,
-Heights that the first beam scales,
-And heights that souls outshining suns salute,
-Valleys for each mouth born
-Free now of plenteous corn,
-Waters and woodlands' musical or mute;
-Free winds that brighten brows as free,
-And thunder and laughter and lightning of the sovereign sea;
-
-
-
-Rivers and springs, and storms that seek your prey;
-With strong wings ravening through the skies by night;
-Spirits and stars that hold one choral way;
-O light of heaven, and thou the heavenlier light
-Aflame above the souls of men that sway
-All generations of all years with might;
-O sunrise of the repossessing day,
-And sunrise of all-renovating right;
-And thou, whose trackless foot
-Mocks hope's or fear's pursuit,
-Swift Revolution, changing depth with height;
-And thou, whose mouth makes one
-All songs that seek the sun,
-Serene Republic of a world made white;
-Thou, Freedom, whence the soul's springs ran;
-Praise earth for man's sake living, and for earth's sake man.
-
-
-
-Make yourselves wings, O tarrying feet of fate,
-And hidden hour that hast our hope to bear,
-A child-god, through the morning-coloured gate
-That lets love in upon the golden air,
-Dead on whose threshold lies heart-broken hate,
-Dead discord, dead injustice, dead despair;
-O love long looked for, wherefore wilt thou wait,
-And shew not yet the dawn on thy bright hair.
-Not yet thine hand released
-Refreshing the faint east,
-Thine hand reconquering heaven, to seat man there?
-Come forth, be born and live,
-Thou that hast help to give
-And light to make man's day of manhood fair:
-With flight outflying the sphered sun,
-Hasten thine hour and halt not, till thy work be done.
+"Book II. Satire VI. the First Part Imitated in the Year 1714, by Dr" by Alexander Pope
+SWIFT; THE LATTER PART ADDED AFTERWARDS.
+
+I've often wish'd that I had clear,
+For life, six hundred pounds a-year,
+A handsome house to lodge a friend,
+A river at my garden's end,
+A terrace-walk, and half a rood
+Of land, set out to plant a wood.
+
+Well, now I have all this and more,
+I ask not to increase my store;
+But here a grievance seems to lie,
+All this is mine but till I die;
+I can't but think 'twould sound more clever,
+To me and to my heirs for ever.
+
+If I ne'er got or lost a groat,
+By any trick, or any fault;
+And if I pray by reason's rules,
+And not like forty other fools:
+As thus, 'Vouchsafe, O gracious Maker!
+To grant me this and t' other acre:
+Or, if it be thy will and pleasure,
+Direct my plough to find a treasure:'
+But only what my station fits,
+And to be kept in my right wits.
+Preserve, Almighty Providence!
+Just what you gave me, competence:
+And let me in these shades compose
+Something in verse as true as prose;
+Removed from all the ambitious scene,
+Nor puff'd by pride, nor sunk by spleen.
+
+In short, I'm perfectly content,
+Let me but live on this side Trent;
+Nor cross the Channel twice a-year,
+To spend six months with statesmen here.
+
+I must by all means come to town,
+'Tis for the service of the crown.
+'Lewis, the Dean will be of use,
+Send for him up, take no excuse.'
+The toil, the danger of the seas;
+Great ministers ne'er think of these;
+Or let it cost five hundred pound,
+No matter where the money's found,
+It is but so much more in debt,
+And that they ne'er consider'd yet.
+
+'Good Mr Dean, go change your gown,
+Let my lord know you're come to town.'
+I hurry me in haste away,
+Not thinking it is levee-day;
+And find his honour in a pound,
+Hemm'd by a triple circle round,
+Checquer'd with ribbons blue and green:
+How should I thrust myself between?
+Same wag observes me thus perplex'd,
+And smiling, whispers to the next,
+'I thought the Dean had been too proud,
+To jostle here among a crowd.'
+Another in a surly fit,
+Tells me I have more zeal than wit,
+'So eager to express your love,
+You ne'er consider whom you shove,
+But rudely press before a duke.'
+I own, I'm pleased with this rebuke,
+And take it kindly meant to show
+What I desire the world should know.
+
+I get a whisper, and withdraw;
+When twenty fools I never saw
+Come with petitions fairly penn'd,
+Desiring I would stand their friend.
+
+This, humbly offers me his case--
+That, begs my interest for a place--
+A hundred other men's affairs,
+Like bees, are humming in my ears.
+'To-morrow my appeal comes on,
+Without your help the cause is gone'--
+The duke expects my lord and you,
+About some great affair, at two--
+'Put my Lord Bolingbroke in mind,
+To get my warrant quickly sign'd:
+Consider, 'tis my first request.'--
+Be satisfied, I'll do my best:
+Then presently he falls to tease,
+'You may for certain, if you please;
+I doubt not, if his lordship knew--
+And, Mr Dean, one word from you'--
+
+'Tis (let me see) three years and more,
+(October next it will be four)
+Since Harley bid me first attend,
+And chose me for an humble friend;
+Would take me in his coach to chat,
+And question me of this and that;
+As, 'What's o'clock?' and, 'How's the wind?'
+'Who's chariot's that we left behind?'
+Or gravely try to read the lines
+Writ underneath the country signs;
+Or, 'Have you nothing new to-day
+From Pope, from Parnell, or from Gay?'
+Such tattle often entertains
+My lord and me as far as Staines,
+As once a week we travel down
+To Windsor, and again to town,
+Where all that passes, _inter nos_,
+Might be proclaim'd at Charing Cross.
+
+Yet some I know with envy swell,
+Because they see me used so well:
+'How think you of our friend the dean?
+I wonder what some people mean;
+My lord and he are grown so great,
+Always together, tête-à-tête:
+What, they admire him for his jokes--
+See but the fortune of some folks!'
+There flies about a strange report
+Of some express arrived at court;
+I'm stopp'd by all the fools I meet,
+And catechised in every street.
+'You, Mr Dean, frequent the great;
+Inform us, will the Emperor treat?
+Or do the prints and papers lie?'
+Faith, sir, you know as much as I.
+'Ah, Doctor, how you love to jest!
+Tis now no secret'--I protest
+'Tis one to me--'Then tell us, pray,
+When are the troops to have their pay?'
+And, though I solemnly declare
+I know no more than my Lord Mayor,
+They stand amazed, and think me grown
+The closest mortal ever known.
+
+Thus in a sea of folly toss'd,
+My choicest hours of life are lost;
+Yet always wishing to retreat,
+Oh, could I see my country-seat!
+There, leaning near a gentle brook,
+Sleep, or peruse some ancient book,
+And there in sweet oblivion drown
+Those cares that haunt the court and town.
+O charming noons! and nights divine!
+Or when I sup, or when I dine,
+My friends above, my folks below,
+Chatting and laughing all a-row;
+The beans and bacon set before 'em,
+The grace-cup served with all decorum:
+Each willing to be pleased, and please,
+And even the very dogs at ease!
+Here no man prates of idle things,
+How this or that Italian sings,
+A neighbour's madness, or his spouse's,
+Or what's in either of the Houses:
+But something much more our concern,
+And quite a scandal not to learn:
+Which is the happier or the wiser,
+A man of merit, or a miser?
+Whether we ought to choose our friends,
+For their own worth, or our own ends?
+What good, or better, we may call,
+And what, the very best of all?
+
+Our friend Dan Prior told (you know)
+A tale extremely _á propos_:
+Name a town life, and in a trice,
+He had a story of two mice.
+Once on a time (so runs the fable)
+A country mouse, right hospitable,
+Received a town mouse at his board,
+Just as a farmer might a lord.
+A frugal mouse upon the whole.
+Yet loved his friend, and had a soul,
+Knew what was handsome, and would do 't,
+On just occasion, coúte qui coúte,
+He brought him bacon (nothing lean);
+Pudding, that might have pleased a dean;
+Cheese, such as men in Suffolk make,
+But wish'd it Stilton, for his sake;
+Yet, to his guest though no way sparing,
+He eat himself the rind and paring,
+Our courtier scarce could touch a bit,
+But show'd his breeding and his wit;
+He did his best to seem to eat,
+And cried, 'I vow you're mighty neat.
+But, lord! my friend, this savage scene!
+For God's sake, come, and live with men:
+Consider, mice, like men, must die,
+Both small and great, both you and I:
+Then spend your life in joy and sport,
+(This doctrine, friend, I learn'd at court).'
+
+The veriest hermit in the nation
+May yield, God knows, to strong temptation.
+Away they come, through thick and thin,
+To a tall house near Lincoln's Inn;
+('Twas on the night of a debate,
+When all their lordships had sat late.)
+
+Behold the place where, if a poet
+Shined in description, he might show it;
+Tell how the moonbeam trembling falls,
+And tips with silver all the walls;
+Palladian walls, Venetian doors,
+Grotesco roofs, and stucco floors:
+But let it (in a word) be said,
+The moon was up, and men a-bed,
+The napkins white, the carpet red:
+The guests withdrawn had left the treat,
+And down the mice sat, _tête-à-tête_.
+
+Our courtier walks from dish to dish,
+Tastes for his friend of fowl and fish;
+Tells all their names, lays down the law,
+'_Que ça est bon! Ah goutez ça!_
+That jelly's rich, this malmsey healing,
+Pray, dip your whiskers and your tail in.'
+Was ever such a happy swain?
+He stuffs and swills, and stuffs again.
+'I'm quite ashamed--'tis mighty rude
+To eat so much--but all's so good.
+I have a thousand thanks to give--
+My lord alone knows how to live.'
+No sooner said, but from the hall
+Rush chaplain, butler, dogs, and all:
+'A rat! a rat! clap to the door'--
+The cat comes bouncing on the floor.
+O for the heart of Homer's mice,
+Or gods to save them in a trice!
+(It was by Providence they think,
+For your damn'd stucco has no chink.)
+'An't please your honour, quoth the peasant,
+This same dessert is not so pleasant:
+Give me again my hollow tree,
+A crust of bread, and liberty!'
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 15°C, haze in Karachi 🇵🇰
+🌡️ 12°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
 - 🏆 **66** total stars earned
-- 🍴 **15** total forks
+- 🍴 **16** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -690,4 +420,4 @@ Hasten thine hour and halt not, till thy work be done.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 29, 2025 at 06:40 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 30, 2025 at 06:52 AM GMT+5<!-- TIMESTAMP:END -->_
