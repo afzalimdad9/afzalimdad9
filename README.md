@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/29/2025)
-- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 16 (Updated: 11/28/2025)
+- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 17 (Updated: 11/30/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/30/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 48 (Updated: 11/21/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,15 +64,13 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Do yoga
+No activity available!
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,255 +79,455 @@ Do yoga
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Book II. Satire VI. the First Part Imitated in the Year 1714, by Dr" by Alexander Pope
-SWIFT; THE LATTER PART ADDED AFTERWARDS.
+"Four Songs Of Four Seasons" by Algernon Charles Swinburne
+I. WINTER IN NORTHUMBERLAND
+OUTSIDE the garden
+The wet skies harden;
+The gates are barred on
+The summer side:
+"Shut out the flower-time,
+Sunbeam and shower-time;
+Make way for our time,"
+Wild winds have cried.
+Green once and cheery,
+The woods, worn weary,
+Sigh as the dreary
+Weak sun goes home:
+A great wind grapples
+The wave, and dapples
+The dead green floor of the sea with foam.
 
-I've often wish'd that I had clear,
-For life, six hundred pounds a-year,
-A handsome house to lodge a friend,
-A river at my garden's end,
-A terrace-walk, and half a rood
-Of land, set out to plant a wood.
+Through fell and moorland,
+And salt-sea foreland,
+Our noisy norland
+Resounds and rings;
+Waste waves thereunder
+Are blown in sunder,
+And winds make thunder
+With cloudwide wings;
+Sea-drift makes dimmer
+The beacon's glimmer;
+Nor sail nor swimmer
+Can try the tides;
+And snowdrifts thicken
+Where, when leaves quicken,
+Under the heather the sundew hides.
 
-Well, now I have all this and more,
-I ask not to increase my store;
-But here a grievance seems to lie,
-All this is mine but till I die;
-I can't but think 'twould sound more clever,
-To me and to my heirs for ever.
+Green land and red land,
+Moorside and headland,
+Are white as dead land,
+Are all as one;
+Nor honied heather,
+Nor bells to gather,
+Fair with fair weather
+And faithful sun:
+Fierce frost has eaten
+All flowers that sweeten
+The fells rain-beaten;
+And winds their foes
+Have made the snow's bed
+Down in the rose-bed;
+Deep in the snow's bed bury the rose.
 
-If I ne'er got or lost a groat,
-By any trick, or any fault;
-And if I pray by reason's rules,
-And not like forty other fools:
-As thus, 'Vouchsafe, O gracious Maker!
-To grant me this and t' other acre:
-Or, if it be thy will and pleasure,
-Direct my plough to find a treasure:'
-But only what my station fits,
-And to be kept in my right wits.
-Preserve, Almighty Providence!
-Just what you gave me, competence:
-And let me in these shades compose
-Something in verse as true as prose;
-Removed from all the ambitious scene,
-Nor puff'd by pride, nor sunk by spleen.
+Bury her deeper
+Than any sleeper;
+Sweet dreams will keep her
+All day, all night;
+Though sleep benumb her
+And time o'ercome her,
+She dreams of summer,
+And takes delight,
+Dreaming and sleeping
+In love's good keeping,
+While rain is weeping
+And no leaves cling;
+Winds will come bringing her
+Comfort, and singing her
+Stories and songs and good news of the spring.
 
-In short, I'm perfectly content,
-Let me but live on this side Trent;
-Nor cross the Channel twice a-year,
-To spend six months with statesmen here.
+Draw the white curtain
+Close, and be certain
+She takes no hurt in
+Her soft low bed;
+She feels no colder,
+And grows not older,
+Though snows enfold her
+From foot to head;
+She turns not chilly
+Like weed and lily
+In marsh or hilly
+High watershed,
+Or green soft island
+In lakes of highland;
+She sleeps awhile, and she is not dead.
 
-I must by all means come to town,
-'Tis for the service of the crown.
-'Lewis, the Dean will be of use,
-Send for him up, take no excuse.'
-The toil, the danger of the seas;
-Great ministers ne'er think of these;
-Or let it cost five hundred pound,
-No matter where the money's found,
-It is but so much more in debt,
-And that they ne'er consider'd yet.
+For all the hours,
+Come sun, come showers,
+Are friends of flowers,
+And fairies all;
+When frost entrapped her,
+They came and lapped her
+In leaves, and wrapped her
+With shroud and pall;
+In red leaves wound her,
+With dead leaves bound her
+Dead brows, and round her
+A death-knell rang;
+Rang the death-bell for her,
+Sang, "is it well for her,
+Well, is it well with you, rose?" they sang.
 
-'Good Mr Dean, go change your gown,
-Let my lord know you're come to town.'
-I hurry me in haste away,
-Not thinking it is levee-day;
-And find his honour in a pound,
-Hemm'd by a triple circle round,
-Checquer'd with ribbons blue and green:
-How should I thrust myself between?
-Same wag observes me thus perplex'd,
-And smiling, whispers to the next,
-'I thought the Dean had been too proud,
-To jostle here among a crowd.'
-Another in a surly fit,
-Tells me I have more zeal than wit,
-'So eager to express your love,
-You ne'er consider whom you shove,
-But rudely press before a duke.'
-I own, I'm pleased with this rebuke,
-And take it kindly meant to show
-What I desire the world should know.
+O what and where is
+The rose now, fairies,
+So shrill the air is,
+So wild the sky?
+Poor last of roses,
+Her worst of woes is
+The noise she knows is
+The winter's cry;
+His hunting hollo
+Has scared the swallow;
+Fain would she follow
+And fain would fly:
+But wind unsettles
+Her poor last petals;
+Had she but wings, and she would not die.
 
-I get a whisper, and withdraw;
-When twenty fools I never saw
-Come with petitions fairly penn'd,
-Desiring I would stand their friend.
+Come, as you love her,
+Come close and cover
+Her white face over,
+And forth again
+Ere sunset glances
+On foam that dances,
+Through lowering lances
+Of bright white rain;
+And make your playtime
+Of winter's daytime,
+As if the Maytime
+Were here to sing;
+As if the snowballs
+Were soft like blowballs,
+Blown in a mist from the stalk in the spring.
 
-This, humbly offers me his case--
-That, begs my interest for a place--
-A hundred other men's affairs,
-Like bees, are humming in my ears.
-'To-morrow my appeal comes on,
-Without your help the cause is gone'--
-The duke expects my lord and you,
-About some great affair, at two--
-'Put my Lord Bolingbroke in mind,
-To get my warrant quickly sign'd:
-Consider, 'tis my first request.'--
-Be satisfied, I'll do my best:
-Then presently he falls to tease,
-'You may for certain, if you please;
-I doubt not, if his lordship knew--
-And, Mr Dean, one word from you'--
+Each reed that grows in
+Our stream is frozen,
+The fields it flows in
+Are hard and black;
+The water-fairy
+Waits wise and wary
+Till time shall vary
+And thaws come back.
+"O sister, water,"
+The wind besought her,
+"O twin-born daughter
+Of spring with me,
+Stay with me, play with me,
+Take the warm way with me,
+Straight for the summer and oversea."
 
-'Tis (let me see) three years and more,
-(October next it will be four)
-Since Harley bid me first attend,
-And chose me for an humble friend;
-Would take me in his coach to chat,
-And question me of this and that;
-As, 'What's o'clock?' and, 'How's the wind?'
-'Who's chariot's that we left behind?'
-Or gravely try to read the lines
-Writ underneath the country signs;
-Or, 'Have you nothing new to-day
-From Pope, from Parnell, or from Gay?'
-Such tattle often entertains
-My lord and me as far as Staines,
-As once a week we travel down
-To Windsor, and again to town,
-Where all that passes, _inter nos_,
-Might be proclaim'd at Charing Cross.
+But winds will vary,
+And wise and wary
+The patient fairy
+Of water waits;
+All shrunk and wizen,
+In iron prison,
+Till spring re-risen
+Unbar the gates;
+Till, as with clamor
+Of axe and hammer,
+Chained streams that stammer
+And struggle in straits
+Burst bonds that shiver,
+And thaws deliver
+The roaring river in stormy spates.
 
-Yet some I know with envy swell,
-Because they see me used so well:
-'How think you of our friend the dean?
-I wonder what some people mean;
-My lord and he are grown so great,
-Always together, tête-à-tête:
-What, they admire him for his jokes--
-See but the fortune of some folks!'
-There flies about a strange report
-Of some express arrived at court;
-I'm stopp'd by all the fools I meet,
-And catechised in every street.
-'You, Mr Dean, frequent the great;
-Inform us, will the Emperor treat?
-Or do the prints and papers lie?'
-Faith, sir, you know as much as I.
-'Ah, Doctor, how you love to jest!
-Tis now no secret'--I protest
-'Tis one to me--'Then tell us, pray,
-When are the troops to have their pay?'
-And, though I solemnly declare
-I know no more than my Lord Mayor,
-They stand amazed, and think me grown
-The closest mortal ever known.
+In fierce March weather
+White waves break tether,
+And whirled together
+At either hand,
+Like weeds uplifted,
+The tree-trunks rifted
+In spars are drifted,
+Like foam or sand,
+Past swamp and sallow
+And reed-beds callow,
+Through pool and shallow,
+To wind and lee,
+Till, no more tongue-tied,
+Full flood and young tide
+Roar down the rapids and storm the sea.
 
-Thus in a sea of folly toss'd,
-My choicest hours of life are lost;
-Yet always wishing to retreat,
-Oh, could I see my country-seat!
-There, leaning near a gentle brook,
-Sleep, or peruse some ancient book,
-And there in sweet oblivion drown
-Those cares that haunt the court and town.
-O charming noons! and nights divine!
-Or when I sup, or when I dine,
-My friends above, my folks below,
-Chatting and laughing all a-row;
-The beans and bacon set before 'em,
-The grace-cup served with all decorum:
-Each willing to be pleased, and please,
-And even the very dogs at ease!
-Here no man prates of idle things,
-How this or that Italian sings,
-A neighbour's madness, or his spouse's,
-Or what's in either of the Houses:
-But something much more our concern,
-And quite a scandal not to learn:
-Which is the happier or the wiser,
-A man of merit, or a miser?
-Whether we ought to choose our friends,
-For their own worth, or our own ends?
-What good, or better, we may call,
-And what, the very best of all?
+As men's cheeks faded
+On shores invaded,
+When shorewards waded
+The lords of fight;
+When churl and craven
+Saw hard on haven
+The wide-winged raven
+At mainmast height;
+When monks affrighted
+To windward sighted
+The birds full-flighted
+Of swift sea-kings;
+So earth turns paler
+When Storm the sailor
+Steers in with a roar in the race of his wings.
 
-Our friend Dan Prior told (you know)
-A tale extremely _á propos_:
-Name a town life, and in a trice,
-He had a story of two mice.
-Once on a time (so runs the fable)
-A country mouse, right hospitable,
-Received a town mouse at his board,
-Just as a farmer might a lord.
-A frugal mouse upon the whole.
-Yet loved his friend, and had a soul,
-Knew what was handsome, and would do 't,
-On just occasion, coúte qui coúte,
-He brought him bacon (nothing lean);
-Pudding, that might have pleased a dean;
-Cheese, such as men in Suffolk make,
-But wish'd it Stilton, for his sake;
-Yet, to his guest though no way sparing,
-He eat himself the rind and paring,
-Our courtier scarce could touch a bit,
-But show'd his breeding and his wit;
-He did his best to seem to eat,
-And cried, 'I vow you're mighty neat.
-But, lord! my friend, this savage scene!
-For God's sake, come, and live with men:
-Consider, mice, like men, must die,
-Both small and great, both you and I:
-Then spend your life in joy and sport,
-(This doctrine, friend, I learn'd at court).'
+O strong sea-sailor,
+Whose cheek turns paler
+For wind or hail or
+For fear of thee?
+O far sea-farer,
+O thunder-bearer,
+Thy songs are rarer
+Than soft songs be.
+O fleet-foot stranger,
+O north-sea ranger
+Through days of danger
+And ways of fear,
+Blow thy horn here for us,
+Blow the sky clear for us,
+Send us the song of the sea to hear.
 
-The veriest hermit in the nation
-May yield, God knows, to strong temptation.
-Away they come, through thick and thin,
-To a tall house near Lincoln's Inn;
-('Twas on the night of a debate,
-When all their lordships had sat late.)
+Roll the strong stream of it
+Up, till the scream of it
+Wake from a dream of it
+Children that sleep,
+Seamen that fare for them
+Forth, with a prayer for them:
+Shall not God care for them
+Angels not keep?
+Spare not the surges
+Thy stormy scourges;
+Spare us the dirges
+Of wives that weep.
+Turn back the waves for us:
+Dig no fresh graves for us,
+Wind, in the manifold gulfs of the deep.
 
-Behold the place where, if a poet
-Shined in description, he might show it;
-Tell how the moonbeam trembling falls,
-And tips with silver all the walls;
-Palladian walls, Venetian doors,
-Grotesco roofs, and stucco floors:
-But let it (in a word) be said,
-The moon was up, and men a-bed,
-The napkins white, the carpet red:
-The guests withdrawn had left the treat,
-And down the mice sat, _tête-à-tête_.
+O stout north-easter,
+Sea-king, land-waster,
+For all thine haste, or
+Thy stormy skill,
+Yet hadst thou never,
+For all endeavour,
+Strength to dissever
+Or strength to spill,
+Save of his giving
+Who gave our living,
+Whose hands are weaving
+What ours fulfil;
+Whose feet tread under
+The storms and thunder;
+Who made our wonder to work his will.
 
-Our courtier walks from dish to dish,
-Tastes for his friend of fowl and fish;
-Tells all their names, lays down the law,
-'_Que ça est bon! Ah goutez ça!_
-That jelly's rich, this malmsey healing,
-Pray, dip your whiskers and your tail in.'
-Was ever such a happy swain?
-He stuffs and swills, and stuffs again.
-'I'm quite ashamed--'tis mighty rude
-To eat so much--but all's so good.
-I have a thousand thanks to give--
-My lord alone knows how to live.'
-No sooner said, but from the hall
-Rush chaplain, butler, dogs, and all:
-'A rat! a rat! clap to the door'--
-The cat comes bouncing on the floor.
-O for the heart of Homer's mice,
-Or gods to save them in a trice!
-(It was by Providence they think,
-For your damn'd stucco has no chink.)
-'An't please your honour, quoth the peasant,
-This same dessert is not so pleasant:
-Give me again my hollow tree,
-A crust of bread, and liberty!'
+His years and hours,
+His world's blind powers,
+His stars and flowers,
+His nights and days,
+Sea-tide and river,
+And waves that shiver,
+Praise God, the giver
+Of tongues to praise.
+Winds in their blowing,
+And fruits in growing;
+Time in its going,
+While time shall be;
+In death and living,
+With one thanksgiving,
+Praise him whose hand is the strength of the sea.
+
+II. SPRING IN TUSCANY
+ROSE-RED lilies that bloom on the banner;
+Rose-cheeked gardens that revel in spring;
+Rose-mouthed acacias that laugh as they climb,
+Like plumes for a queen's hand fashioned to fan her
+With wind more soft than a wild dove's wing,
+What do they sing in the spring of their time
+
+If this be the rose that the world hears singing,
+Soft in the soft night, loud in the day,
+Songs for the fireflies to dance as they hear;
+If that be the song of the nightingale, springing
+Forth in the form of a rose in May,
+What do they say of the way of the year?
+
+What of the way of the world gone Maying,
+What of the work of the buds in the bowers,
+What of the will of the wind on the wall,
+Fluttering the wall-flowers, sighing and playing,
+Shrinking again as a bird that cowers,
+Thinking of hours when the flowers have to fall?
+
+Out of the throats of the loud birds showering,
+Out of the folds where the flag-lilies leap,
+Out of the mouths of the roses stirred,
+Out of the herbs on the walls reflowering,
+Out of the heights where the sheer snows sleep,
+Out of the deep and the steep, one word.
+
+One from the lips of the lily-flames leaping,
+The glad red lilies that burn in our sight,
+The great live lilies for standard and crown;
+One from the steeps where the pines stand sleeping,
+One from the deep land, one from the height,
+One from the light and the might of the town.
+
+The lowlands laugh with delight of the highlands,
+Whence May winds feed them with balm and breath
+From hills that beheld in the years behind
+A shape as of one from the blest souls' islands,
+Made fair by a soul too fair for death,
+With eyes on the light that should smite them blind.
+
+Vallombrosa remotely remembers,
+Perchance, what still to us seems so near
+That time not darkens it, change not mars,
+The foot that she knew when her leaves were September's,
+The face lift up to the star-blind seer,
+That saw from his prison arisen his stars.
+
+And Pisa broods on her dead, not mourning,
+For love of her loveliness given them in fee;
+And Prato gleams with the glad monk's gift
+Whose hand was there as the hand of morning;
+And Siena, set in the sand's red sea,
+Lifts loftier her head than the red sand's drift.
+
+And far to the fair south-westward lightens,
+Girdled and sandalled and plumed with flowers,
+At sunset over the love-lit lands,
+The hill-side's crown where the wild hill brightens,
+Saint Fina's town of the Beautiful Towers,
+Hailing the sun with a hundred hands.
+
+Land of us all that have loved thee dearliest,
+Mother of men that were lords of man,
+Whose name in the world's heart work a spell
+My last song's light, and the star of mine earliest,
+As we turn from thee, sweet, who wast ours for a span,
+Fare well we may not who say farewell.
+
+III. SUMMER IN AUVERGNE
+THE sundawn fills the land
+Full as a feaster's hand
+Fills full with bloom of bland
+Bright wine his cup;
+Flows full to flood that fills
+From the arch of air it thrills
+Those rust-red iron hills
+With morning up.
+
+Dawn, as a panther springs,
+With fierce and fire-fledged wings
+Leaps on the land that rings
+From her bright feet
+Through all its lava-black
+Cones that cast answer back
+And cliffs of footless track
+Where thunders meet.
+
+The light speaks wide and loud
+From deeps blown clean of cloud
+As though day's heart were proud
+And heaven's were glad;
+The towers brown-striped and grey
+Take fire from heaven of day
+As though the prayers they pray
+Their answers had.
+
+Higher in these high first hours
+Wax all the keen church towers,
+And higher all hearts of ours
+Than the old hills' crown,
+Higher than the pillared height
+Of that strange cliff-side bright
+With basalt towers whose might
+Strong time bows down.
+
+And the old fierce ruin there
+Of the old wild princes' lair
+Whose blood in mine hath share
+Gapes gaunt and great
+Toward heaven that long ago
+Watched all the wan land's woe
+Whereon the wind would blow
+Of their bleak hate.
+
+Dead are those deeds; but yet
+Their memory seems to fret
+Lands that might else forget
+That old world's brand;
+Dead all their sins and days;
+Yet in this red clime's rays
+Some fiery memory stays
+That sears their land.
+
+IV. AUTUMN IN CORNWALL
+THE year lies fallen and faded
+On cliffs by clouds invaded,
+With tongues of storms upbraided,
+With wrath of waves bedinned;
+And inland, wild with warning,
+As in deaf ears or scorning,
+The clarion even and morning
+Rings of the south-west wind.
+
+The wild bents wane and wither
+In blasts whose breath bows hither
+Their grey-grown heads and thither,
+Unblest of rain or sun;
+The pale fierce heavens are crowded
+With shapes like dreams beclouded,
+As though the old year enshrouded
+Lay, long ere life were done.
+
+Full-charged with oldworld wonders,
+From dusk Tintagel thunders
+A note that smites and sunders
+The hard frore fields of air;
+A trumpet stormier-sounded
+Than once from lists rebounded
+When strong men sense-confounded
+Fell thick in tourney there.
+
+From scarce a duskier dwelling
+Such notes of wail rose welling
+Through the outer darkness, telling
+In the awful singer's ears
+What souls the darkness covers,
+What love-lost souls of lovers,
+Whose cry still hangs and hovers
+In each man's born that hears.
+
+For there by Hector's brother
+And yet some thousand other
+He that had grief to mother
+Passed pale from Dante's sight;
+With one fast linked as fearless,
+Perchance, there only tearless;
+Iseult and Tristram, peerless
+And perfect queen and knight.
+
+A shrill-winged sound comes flying
+North, as of wild souls crying
+The cry of things undying,
+That know what life must be;
+Or as the old year's heart, stricken
+Too sore for hope to quicken
+By thoughts like thorns that thicken,
+Broke, breaking with the sea.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 12°C, haze in Karachi 🇵🇰
+🌡️ 13°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **66** total stars earned
-- 🍴 **16** total forks
+- 🏆 **67** total stars earned
+- 🍴 **17** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -420,4 +618,4 @@ A crust of bread, and liberty!'
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 30, 2025 at 06:52 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->December 1, 2025 at 07:00 AM GMT+5<!-- TIMESTAMP:END -->_
