@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,8 +28,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/2/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 18 (Updated: 12/1/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/1/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 48 (Updated: 11/21/2025)
 <!-- HOT_REPOS:END -->
 
@@ -64,15 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+ASCII silly question, get a silly ANSI.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-No activity available!
+Visit your past teachers
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,32 +78,66 @@ No activity available!
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"To Mr Thomas Southern, on His Birthday, 1742." by Alexander Pope
-Resign'd to live, prepared to die,
-With not one sin, but poetry,
-This day Tom's fair account has run
-(Without a blot) to eighty-one.
-Kind Boyle, before his poet lays
-A table, with a cloth of bays;
-And Ireland, mother of sweet singers,
-Presents her harp still to his fingers.
-The feast, his towering genius marks
-In yonder wild goose and the larks;
-The mushrooms show his wit was sudden;
-And for his judgment, lo, a pudden!
-Roast beef, though old, proclaims him stout,
-And grace, although a bard, devout.
-May Tom, whom Heaven sent down to raise
-The price of prologues and of plays,
-Be every birthday more a winner,
-Digest his thirty-thousandth dinner;
-Walk to his grave without reproach,
-And scorn a rascal and a coach.
+"A Pæan" by Edgar Allan Poe
+How shall the burial rite be read?
+  The solemn song be sung?
+The requiem for the loveliest dead,
+  That ever died so young?
+
+Her friends are gazing on her,
+  And on her gaudy bier,
+And weep!--oh! to dishonor
+  Dead beauty with a tear!
+
+They loved her for her wealth--
+  And they hated her for her pride--
+But she grew in feeble health,
+  And they _love_ her--that she died.
+
+They tell me (while they speak
+  Of her "costly broider'd pall")
+That my voice is growing weak--
+  That I should not sing at all--
+
+Or that my tone should be
+  Tun'd to such solemn song
+So mournfully--so mournfully,
+  That the dead may feel no wrong.
+
+But she is gone above,
+  With young Hope at her side,
+And I am drunk with love
+  Of the dead, who is my bride.--
+
+Of the dead--dead who lies
+  All perfum'd there,
+With the death upon her eyes.
+  And the life upon her hair.
+
+Thus on the coffin loud and long
+  I strike--the murmur sent
+Through the gray chambers to my song,
+  Shall be the accompaniment.
+
+Thou diedst in thy life's June--
+  But thou didst not die too fair:
+Thou didst not die too soon,
+  Nor with too calm an air.
+
+From more than friends on earth,
+  Thy life and love are riven,
+To join the untainted mirth
+  Of more than thrones in heaven.--
+
+Therefore, to thee this night
+  I will no requiem raise,
+But waft thee on thy flight,
+  With a Pæan of old days.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 11°C, haze in Karachi 🇵🇰
+🌡️ 10°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -203,4 +234,4 @@ And scorn a rascal and a coach.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->December 2, 2025 at 06:51 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->December 3, 2025 at 06:44 AM GMT+5<!-- TIMESTAMP:END -->_
