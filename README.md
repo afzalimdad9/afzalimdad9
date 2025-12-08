@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/6/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/7/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 19 (Updated: 12/4/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 48 (Updated: 11/21/2025)
 <!-- HOT_REPOS:END -->
@@ -64,13 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+Debugging: Removing the needles from the haystack.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Play a volleyball match with some friends
+Go on a fishing trip with some friends
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -79,53 +78,36 @@ Play a volleyball match with some friends
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"The Forerunners" by George Herbert
-The harbingers are come. See, see their mark;
-White is their colour, and behold my head.
-But must they have my brain? must they dispark
-Those sparkling notions, which therein were bred?
-Must dulnesse turn me to a clod?
-Yet have they left me, Thou art still my God.
+"On Parting" by George Gordon, Lord Byron
+The kiss, dear maid! thy lip has left
+  Shall never part from mine,
+Till happier hours restore the gift
+  Untainted back to thine.
 
-Good men ye be, to leave me my best room,
-Ev'n all my heart, and what is lodged there:
-I passe not, I, what of the rest become,
-So Thou art still my God, be out of fear.
-He will be pleased with that dittie;
-And if I please him, I write fine and wittie.
+Thy parting glance, which fondly beams,
+  An equal love may see:
+The tear that from thine eyelid streams
+  Can weep no change in me.
 
-Farewell sweet phrases, lovely metaphors.
-But will ye leave me thus? when ye before
-Of stews and brothels onely knew the doores,
-Then did I wash you with my tears, and more,
-Brought you to Church well drest and clad;
-My God must have my best, ev'n all I had.
+I ask no pledge to make me blest
+  In gazing when alone;
+Nor one memorial for a breast,
+  Whose thoughts are all thine own.
 
-Louely enchanting language, sugar-cane,
-Hony of roses, whither wilt thou flie?
-Hath some fond lover tic'd thee to thy bane?
-And wilt thou leave the Church, and love a stie?
-Fie, thou wilt soil thy broider'd coat,
-And hurt thy self, and him that sings the note.
+Nor need I write--to tell the tale
+  My pen were doubly weak:
+Oh! what can idle words avail,
+  Unless the heart could speak?
 
-Let foolish lovers, if they will love dung,
-With canvas, not with arras clothe their shame:
-Let follie speak in her own native tongue.
-True beautie dwells on high: ours is a flame
-But borrow'd thence to light us thither.
-Beautie and beauteous words should go together.
-
-Yet if you go, I passe not; take your way:
-For, Thou art still my God, is all that ye
-Perhaps with more embellishment can say,
-Go birds of spring: let winter have his fee,
-Let a bleak palenesse chalk the doore,
-So all within be livelier then before.
+By day or night, in weal or woe,
+  That heart, no longer free,
+Must bear the love it cannot show,
+  And silent ache for thee.
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 12°C, haze in Karachi 🇵🇰
+🌡️ 11°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -222,4 +204,4 @@ So all within be livelier then before.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->December 7, 2025 at 06:53 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->December 8, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
