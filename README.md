@@ -28,7 +28,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/8/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/9/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 19 (Updated: 12/4/2025)
 - 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 48 (Updated: 11/21/2025)
 <!-- HOT_REPOS:END -->
@@ -64,12 +64,12 @@ SCSS: 0.7% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Start a band
+Have a photo session with some friends
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,32 +78,24 @@ Start a band
 
 ## 📜 Poetry of the Day
 <!-- POETRY:START -->
-"Sonnet XXXIII: I Wake" by Robinson
-I wake! delusive phantoms hence, away!
-Tempt not the weakness of a lover's breast;
-The softest breeze can shake the halcyon's nest,
-And lightest clouds o'ercast the dawning ray!
-'Twas but a vision! Now, the star of day
-Peers, like a gem on Aetna's burning crest!
-Wellcome, ye Hills, with golden vintage drest;
-Sicilian forests brown, and vallies gay!
-A mournful stranger, from the Lesbian Isle,
-Not strange, in loftiest eulogy of Song!
-She, who could teach the Stoic's cheek to smile,
-Thaw the cold heart, and chain the wond'ring throng,
-Can find no balm, love's arrows to beguile;
-Ah! Sorrows known too soon! and felt too long!
+"Journal in Cephalonia" by George Gordon, Lord Byron
+THE dead have been awakened--shall I sleep?
+  The World's at war with tyrants--shall I crouch?
+The harvest's ripe--and shall I pause to reap?
+  I slumber not; the thorn is in my Couch;
+Each day a trumpet soundeth in mine ear,
+  Its echo in my heart----
 <!-- POETRY:END -->
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 13°C, haze in Karachi 🇵🇰
+🌡️ 10°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
 - 🏆 **69** total stars earned
-- 🍴 **18** total forks
+- 🍴 **19** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -194,4 +186,4 @@ Ah! Sorrows known too soon! and felt too long!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->December 9, 2025 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->December 10, 2025 at 06:47 AM GMT+5<!-- TIMESTAMP:END -->_
