@@ -28,17 +28,6 @@ async function getActivity() {
   }
 }
 
-// Fetch a random poem
-async function getPoetry() {
-  try {
-    const { data } = await axios.get('https://poetrydb.org/random');
-    const poem = data[0];
-    return `"${poem.title}" by ${poem.author}\n${poem.lines.join('\n')}`;
-  } catch {
-    return 'No poetry available!';
-  }
-}
-
 // Language to skill icon mapping
 const languageToIcon = {
   'JavaScript': 'js',
@@ -175,10 +164,9 @@ async function updateReadme() {
     const languages = await getLanguageStats();
     const weather = await getWeather();
     // Fetch dynamic content
-    const [joke, activity, poetry] = await Promise.all([
+    const [joke, activity] = await Promise.all([
       getJoke(),
-      getActivity(),
-      getPoetry()
+      getActivity()
     ]);
 
     // Update current projects based on recent repos
@@ -310,8 +298,7 @@ async function updateReadme() {
       { pattern: /<!-- JOKE:START -->[\s\S]*?<!-- JOKE:END -->/, replacement: `<!-- JOKE:START -->\n${joke}\n<!-- JOKE:END -->` },
       { pattern: /<!-- ACTIVITY:START -->[\s\S]*?<!-- ACTIVITY:END -->/, replacement: `<!-- ACTIVITY:START -->\n${activity}\n<!-- ACTIVITY:END -->` },
       { pattern: /<!-- WEATHER:START -->[\s\S]*?<!-- WEATHER:END -->/, replacement: `<!-- WEATHER:START -->\n${weather}\n<!-- WEATHER:END -->` },
-      { pattern: /<!-- TIMESTAMP:START -->[\s\S]*?<!-- TIMESTAMP:END -->/, replacement: `<!-- TIMESTAMP:START -->${new Date().toLocaleString('en-US', { timeZone: 'Asia/Karachi', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' })}<!-- TIMESTAMP:END -->` },
-      { pattern: /<!-- POETRY:START -->[\s\S]*?<!-- POETRY:END -->/, replacement: `<!-- POETRY:START -->\n${poetry}\n<!-- POETRY:END -->` }
+      { pattern: /<!-- TIMESTAMP:START -->[\s\S]*?<!-- TIMESTAMP:END -->/, replacement: `<!-- TIMESTAMP:START -->${new Date().toLocaleString('en-US', { timeZone: 'Asia/Karachi', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' })}<!-- TIMESTAMP:END -->` }
     ];
 
     updates.forEach(({ pattern, replacement }) => {
