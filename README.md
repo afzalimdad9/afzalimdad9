@@ -9,7 +9,7 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [collaborative-editor](https://github.com/afzalimdad9/collaborative-editor) - Collaborative Editor using Next.js, Clerk, Radix UI, LiveBlocks & Sentry. Made With ❤ by @afzalimdad9
+- 🔭 I'm currently working on [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
 - 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
@@ -30,9 +30,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀 ⭐ 1 (Updated: 12/23/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/23/2025)
 - 🔥 [collaborative-editor](https://github.com/afzalimdad9/collaborative-editor) - Collaborative Editor using Next.js, Clerk, Radix UI, LiveBlocks & Sentry. Made With ❤ by @afzalimdad9 ⭐ 0 (Updated: 12/22/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/22/2025)
-- 🔥 [realtime-universal-api](https://github.com/afzalimdad9/realtime-universal-api) - 🚀 Universal Real-time Communication Platform - High-performance Rust-based API supporting 40+ protocols including REST, GraphQL, WebSocket, SSE, gRPC, MQTT, and more. Built for 100k+ concurrent connections with multi-tenant SaaS capabilities. ⭐ 0 (Updated: 12/20/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -66,13 +66,12 @@ Rust: 0.9% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-No activity available!
+Volunteer and help out at a senior center
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,13 +80,13 @@ No activity available!
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 14°C, smoke in Karachi 🇵🇰
+🌡️ 16°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **69** total stars earned
-- 🍴 **22** total forks
+- 🏆 **22** total stars earned
+- 🍴 **18** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -178,4 +177,4 @@ No activity available!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->December 23, 2025 at 06:48 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->December 24, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
