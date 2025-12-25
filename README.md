@@ -9,7 +9,7 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀
+- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
 - 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
@@ -30,9 +30,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 22 (Updated: 12/24/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/24/2025)
 - 🔥 [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀 ⭐ 1 (Updated: 12/23/2025)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/23/2025)
-- 🔥 [collaborative-editor](https://github.com/afzalimdad9/collaborative-editor) - Collaborative Editor using Next.js, Clerk, Radix UI, LiveBlocks & Sentry. Made With ❤ by @afzalimdad9 ⭐ 0 (Updated: 12/22/2025)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -66,12 +66,16 @@ Rust: 0.9% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Volunteer and help out at a senior center
+Pot some plants and put them around your house
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -80,12 +84,12 @@ Volunteer and help out at a senior center
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 16°C, haze in Karachi 🇵🇰
+🌡️ 10°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **22** total stars earned
+- 🏆 **23** total stars earned
 - 🍴 **18** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -177,4 +181,4 @@ Volunteer and help out at a senior center
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->December 24, 2025 at 06:46 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->December 25, 2025 at 06:49 AM GMT+5<!-- TIMESTAMP:END -->_
