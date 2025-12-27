@@ -30,7 +30,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/25/2025)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 12/26/2025)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 22 (Updated: 12/24/2025)
 - 🔥 [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀 ⭐ 1 (Updated: 12/23/2025)
 <!-- HOT_REPOS:END -->
@@ -66,7 +66,11 @@ Rust: 0.9% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+Two C strings walk into a bar.
+The bartender asks "What can I get ya?"
+The first string says "I'll have a gin and tonic."
+The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
+The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
@@ -80,7 +84,7 @@ No activity available!
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 12°C, smoke in Karachi 🇵🇰
+🌡️ 11°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -110,9 +114,9 @@ No activity available!
 - [Next-Auth in App Router of Next.js](https://dev.to/afzalimdad9/next-auth-in-app-router-of-nextjs-1112) _(Published: 8/20/2024)_
 
 **From Medium:**
+- [Why I chose Zed over Visual Studio Code](https://afzalimdad9.medium.com/why-i-chose-zed-over-visual-studio-code-cc54f8f20487?source=rss-7bf9860d1ca1------2) _(Published: 12/26/2025)_
 - [The M.I.N.T principal: a new guideline for when to use Object-Oriented programming in TypeScript](https://afzalimdad9.medium.com/the-m-i-n-t-principal-a-new-guideline-for-when-to-use-object-oriented-programming-in-typescript-3fef02e1574c?source=rss-7bf9860d1ca1------2) _(Published: 6/22/2025)_
 - [New JavaScript pipeline operator: Transform anything into a one-liner](https://afzalimdad9.medium.com/new-javascript-pipeline-operator-transform-anything-into-a-one-liner-fd300619204d?source=rss-7bf9860d1ca1------2) _(Published: 1/10/2025)_
-- [React 19 is here! Let’s learn it!](https://afzalimdad9.medium.com/react-19-is-here-lets-learn-it-febfcc3610c7?source=rss-7bf9860d1ca1------2) _(Published: 10/24/2024)_
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥 Recent GitHub Activity
@@ -177,4 +181,4 @@ No activity available!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->December 26, 2025 at 06:48 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->December 27, 2025 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
