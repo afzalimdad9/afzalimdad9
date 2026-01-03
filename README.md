@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -30,8 +30,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/1/2026)
-- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 22 (Updated: 12/24/2025)
+- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 21 (Updated: 1/2/2026)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/2/2026)
 - 🔥 [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀 ⭐ 1 (Updated: 12/23/2025)
 <!-- HOT_REPOS:END -->
 
@@ -66,16 +66,16 @@ Rust: 0.9% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Write a list of things you are grateful for
+Text a friend you haven't talked to in a long time
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -84,12 +84,12 @@ Write a list of things you are grateful for
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 14°C, smoke in Karachi 🇵🇰
+🌡️ 11°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **23** total stars earned
+- 🏆 **22** total stars earned
 - 🍴 **19** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
@@ -181,4 +181,4 @@ Write a list of things you are grateful for
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->January 2, 2026 at 06:51 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->January 3, 2026 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
