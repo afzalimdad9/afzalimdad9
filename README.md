@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics.
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -30,8 +30,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/3/2026)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 21 (Updated: 1/2/2026)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/2/2026)
 - 🔥 [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀 ⭐ 1 (Updated: 12/23/2025)
 <!-- HOT_REPOS:END -->
 
@@ -66,16 +66,12 @@ Rust: 0.9% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Text a friend you haven't talked to in a long time
+No activity available!
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -84,7 +80,7 @@ Text a friend you haven't talked to in a long time
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 11°C, smoke in Karachi 🇵🇰
+🌡️ 12°C, mist in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -181,4 +177,4 @@ Text a friend you haven't talked to in a long time
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->January 3, 2026 at 06:45 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->January 4, 2026 at 07:00 AM GMT+5<!-- TIMESTAMP:END -->_
