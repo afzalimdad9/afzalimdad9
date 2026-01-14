@@ -9,13 +9,14 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀
+- 🔭 I'm currently working on [games-player](https://github.com/afzalimdad9/games-player) - This is just a simple game site i made the utilizez ruffle to run flash games
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [Sea-Bubble-Shooter](https://github.com/afzalimdad9/Sea-Bubble-Shooter)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
 <!-- RECENT_ACTIVITY:START -->
+- 📝 3 commits to **payload** on 1/13/2026
 - 📝 1 commit to **payload** on 1/12/2026
 - 📝 1 commit to **collaborative-editor** on 12/22/2025
 - 📝 5 commits to **realtime-universal-api** on 12/20/2025
@@ -23,16 +24,16 @@
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **7** commits across **3** repositories (last 30 days)
+- 📊 **10** commits across **3** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [games-player](https://github.com/afzalimdad9/games-player) - This is just a simple game site i made the utilizez ruffle to run flash games ⭐ 1 (Updated: 1/13/2026)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/13/2026)
 - 🔥 [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀 ⭐ 2 (Updated: 1/13/2026)
-- 🔥 [Sea-Bubble-Shooter](https://github.com/afzalimdad9/Sea-Bubble-Shooter) - Sea Bubble Shooter is a fun and addictive HTML5 game where players pop colorful bubbles in an underwater-themed environment. Built with pure HTML5, JavaScript, and CSS, the game runs smoothly on desktop and mobile browsers without requiring plugins. ⭐ 1 (Updated: 1/13/2026)
-- 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 22 (Updated: 1/13/2026)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -66,12 +67,15 @@ Rust: 0.9% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Learn to greet someone in a new language
+Create a personal website
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -80,13 +84,13 @@ Learn to greet someone in a new language
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 10°C, haze in Karachi 🇵🇰
+🌡️ 11°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **76** total stars earned
-- 🍴 **25** total forks
+- 🏆 **26** total stars earned
+- 🍴 **21** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -177,4 +181,4 @@ Learn to greet someone in a new language
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->January 13, 2026 at 06:48 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->January 14, 2026 at 06:55 AM GMT+5<!-- TIMESTAMP:END -->_
