@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [games-player](https://github.com/afzalimdad9/games-player) - This is just a simple game site i made the utilizez ruffle to run flash games
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [games-player](https://github.com/afzalimdad9/games-player)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -31,8 +31,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/14/2026)
 - 🔥 [games-player](https://github.com/afzalimdad9/games-player) - This is just a simple game site i made the utilizez ruffle to run flash games ⭐ 1 (Updated: 1/13/2026)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/13/2026)
 - 🔥 [Snake-and-Ladders](https://github.com/afzalimdad9/Snake-and-Ladders) - Enjoy the classic Snake and Ladders game built with HTML5, JavaScript, and CSS! 🎲🐍🏆 Roll the dice, climb ladders, and avoid snakes as you race to the finish line. Play solo or challenge a friend in this interactive web-based board game. 🚀 ⭐ 2 (Updated: 1/13/2026)
 <!-- HOT_REPOS:END -->
 
@@ -67,15 +67,16 @@ Rust: 0.9% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Create a personal website
+Make a to-do list for your week
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -84,13 +85,13 @@ Create a personal website
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 11°C, smoke in Karachi 🇵🇰
+🌡️ 13°C, mist in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
 - 🏆 **26** total stars earned
-- 🍴 **21** total forks
+- 🍴 **22** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -181,4 +182,4 @@ Create a personal website
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->January 14, 2026 at 06:55 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->January 15, 2026 at 06:50 AM GMT+5<!-- TIMESTAMP:END -->_
