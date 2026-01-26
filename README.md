@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [eCommercePro](https://github.com/afzalimdad9/eCommercePro) - A ⚡ modern, scalable eCommerce app built with React Query, Prisma, Next.js, Tailwind CSS & Node.js. Features 🔐 auth, 🛍️ product listings, 🛒 cart, 💳 secure payments, 📦 order tracking & an 🛠️ admin dashboard. Fast, reliable & user-friendly! 🚀
+- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
 - 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 👯 I'm looking to collaborate on [eCommercePro](https://github.com/afzalimdad9/eCommercePro)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -37,8 +37,8 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/25/2026)
 - 🔥 [eCommercePro](https://github.com/afzalimdad9/eCommercePro) - A ⚡ modern, scalable eCommerce app built with React Query, Prisma, Next.js, Tailwind CSS & Node.js. Features 🔐 auth, 🛍️ product listings, 🛒 cart, 💳 secure payments, 📦 order tracking & an 🛠️ admin dashboard. Fast, reliable & user-friendly! 🚀 ⭐ 1 (Updated: 1/24/2026)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 1/24/2026)
 - 🔥 [8Ball-Pool-HTML5](https://github.com/afzalimdad9/8Ball-Pool-HTML5) - A fully functional 8-ball pool game built using HTML5, JavaScript, and CSS. Play against an AI or a second player in a smooth and engaging billiards experience with realistic physics. ⭐ 22 (Updated: 1/18/2026)
 <!-- HOT_REPOS:END -->
 
@@ -73,15 +73,12 @@ C: 1.0% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Start a family tree
+Learn the Chinese erhu
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -90,7 +87,7 @@ Start a family tree
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 12°C, haze in Karachi 🇵🇰
+🌡️ 14°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -187,4 +184,4 @@ Start a family tree
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->January 25, 2026 at 07:02 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->January 26, 2026 at 07:02 AM GMT+5<!-- TIMESTAMP:END -->_
