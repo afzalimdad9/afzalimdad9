@@ -63,7 +63,7 @@ C: 1.0% ░░░░░░░░░░░░░░░░░░░░
 - 👨‍💻 All of my projects are available at [portfolio](https://afzalimdad9.vercel.app)
 - 📝 I regularly write articles on [medium](https://afzalimdad9.medium.com)
 - 📫 How to reach me **<afzalimdad9@gmail.com>**
-- 📄 Know about my experiences on [Resume](https://drive.google.com/file/d/1VD-Nm8e1GHt3c2_Kl0r1XYmOvAqOVpZ9/view?usp=sharing)
+- 📄 Know about my experiences on [Resume](https://drive.google.com/file/d/1jmMd1VDFohLRAB-cDGPvTsllNxOUxDK0/view?usp=sharing)
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
