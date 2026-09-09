@@ -9,50 +9,51 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥
-- 🌱 I'm currently working with **JavaScript, HTML, TypeScript**
-- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
+- 🔭 I'm currently working on [wallz](https://github.com/afzalimdad9/wallz) - 🎨 Premium Flutter Wallpaper App - Beautiful wallpaper collection with sophisticated Material 3 design, Unsplash API integration, and advanced features for Android, iOS, and all platforms.
+- 🌱 I'm currently working with **HTML, JavaScript, TypeScript**
+- 👯 I'm looking to collaborate on [crisp](https://github.com/afzalimdad9/crisp)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
 <!-- RECENT_ACTIVITY:START -->
-- 📝 2 commits to **realtime-universal-api** on 1/31/2026
-- 📝 1 commit to **payload** on 1/28/2026
-- 📝 1 commit to **payload** on 1/20/2026
-- 📝 1 commit to **payload** on 1/19/2026
+- 📝 3 commits to **aicodereviewer** on 9/7/2026
+- 📝 1 commit to **developer-roadmap** on 8/19/2026
+- 📝 1 commit to **payload** on 8/19/2026
+- 📝 1 commit to **DefinitelyTyped** on 8/19/2026
+- 📝 1 commit to **public-apis** on 8/19/2026
 <!-- RECENT_ACTIVITY:END -->
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **5** commits across **2** repositories (last 30 days)
+- 📊 **7** commits across **5** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [ID-to-TOKEN](https://github.com/afzalimdad9/ID-to-TOKEN) - Get any Discord Account Token by Their ID only! 💀🔥 ⭐ 5 (Updated: 2/17/2026)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 2/17/2026)
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 53 (Updated: 2/10/2026)
+- 🔥 [wallz](https://github.com/afzalimdad9/wallz) - 🎨 Premium Flutter Wallpaper App - Beautiful wallpaper collection with sophisticated Material 3 design, Unsplash API integration, and advanced features for Android, iOS, and all platforms. ⭐ 0 (Updated: 9/9/2026)
+- 🔥 [crisp](https://github.com/afzalimdad9/crisp) - A native macOS video editor that lets you edit video by editing the words — on-device transcription, filler/retake/pause cleanup, multi-clip stitch. ⭐ 0 (Updated: 9/8/2026)
+- 🔥 [aicodereviewer](https://github.com/afzalimdad9/aicodereviewer) - No description ⭐ 0 (Updated: 9/7/2026)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
 <!-- DYNAMIC_TECH_STACK:START -->
 **Most Used Languages This Month:**
 
-JavaScript: 44.7% █████████░░░░░░░░░░░
+HTML: 42.1% ████████░░░░░░░░░░░░
 
-HTML: 39.3% ████████░░░░░░░░░░░░
+JavaScript: 39.7% ████████░░░░░░░░░░░░
 
-TypeScript: 5.1% █░░░░░░░░░░░░░░░░░░░
+TypeScript: 7.4% █░░░░░░░░░░░░░░░░░░░
 
-Rich Text Format: 3.8% █░░░░░░░░░░░░░░░░░░░
+Rich Text Format: 4.1% █░░░░░░░░░░░░░░░░░░░
 
-CSS: 3.3% █░░░░░░░░░░░░░░░░░░░
+CSS: 2.5% █░░░░░░░░░░░░░░░░░░░
 
-Solidity: 1.5% ░░░░░░░░░░░░░░░░░░░░
+Solidity: 1.6% ░░░░░░░░░░░░░░░░░░░░
 
-Rust: 1.4% ░░░░░░░░░░░░░░░░░░░░
+Rust: 1.5% ░░░░░░░░░░░░░░░░░░░░
 
 C: 1.0% ░░░░░░░░░░░░░░░░░░░░
 
@@ -67,16 +68,13 @@ C: 1.0% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-No activity available!
+Donate to your local food bank
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -85,13 +83,13 @@ No activity available!
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 16°C, smoke in Karachi 🇵🇰
+🌡️ 33°C, clear sky in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **84** total stars earned
-- 🍴 **28** total forks
+- 🏆 **59** total stars earned
+- 🍴 **8** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -110,14 +108,14 @@ No activity available!
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 **From dev.to:**
+- [Revolutionizing Ecommerce: Top DevOps Automation Tools for High-Performance Engineering in 2026](https://dev.to/afzalimdad9/revolutionizing-ecommerce-top-devops-automation-tools-for-high-performance-engineering-in-2026-427g) _(Published: 5/31/2026)_
+- [Unlocking the Power of AI: Mastering the Skills Behind AI Tools in Software Development 2026](https://dev.to/afzalimdad9/unlocking-the-power-of-ai-mastering-the-skills-behind-ai-tools-in-software-development-2026-gga) _(Published: 5/30/2026)_
 - [Why I chose Zed over Visual Studio Code](https://dev.to/afzalimdad9/why-i-chose-zed-over-visual-studio-code-41fb) _(Published: 12/26/2025)_
-- [New JavaScript pipeline operator: Transform anything into a one-liner 😲](https://dev.to/afzalimdad9/new-javascript-pipeline-operator-transform-anything-into-a-one-liner-31) _(Published: 1/10/2025)_
-- [React 19 is here! Let's learn it!](https://dev.to/afzalimdad9/react-19-is-here-lets-learn-it-1k87) _(Published: 10/24/2024)_
 
 **From Medium:**
+- [Revolutionizing Ecommerce: Top DevOps Automation Tools for High-Performance Engineering in 2026](https://afzalimdad9.medium.com/revolutionizing-ecommerce-top-devops-automation-tools-for-high-performance-engineering-in-2026-509f3e71143b?source=rss-7bf9860d1ca1------2) _(Published: 5/31/2026)_
+- [Unlocking the Power of AI: Mastering the Skills Behind AI Tools in Software Development 2026](https://afzalimdad9.medium.com/unlocking-the-power-of-ai-mastering-the-skills-behind-ai-tools-in-software-development-2026-309f3f7a0eab?source=rss-7bf9860d1ca1------2) _(Published: 5/30/2026)_
 - [Why I chose Zed over Visual Studio Code](https://afzalimdad9.medium.com/why-i-chose-zed-over-visual-studio-code-cc54f8f20487?source=rss-7bf9860d1ca1------2) _(Published: 12/26/2025)_
-- [The M.I.N.T principal: a new guideline for when to use Object-Oriented programming in TypeScript](https://afzalimdad9.medium.com/the-m-i-n-t-principal-a-new-guideline-for-when-to-use-object-oriented-programming-in-typescript-3fef02e1574c?source=rss-7bf9860d1ca1------2) _(Published: 6/22/2025)_
-- [New JavaScript pipeline operator: Transform anything into a one-liner](https://afzalimdad9.medium.com/new-javascript-pipeline-operator-transform-anything-into-a-one-liner-fd300619204d?source=rss-7bf9860d1ca1------2) _(Published: 1/10/2025)_
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥 Recent GitHub Activity
@@ -146,7 +144,7 @@ No activity available!
 ## 🛠️ Recent Languages and Tools
 <!-- SKILL_ICONS:START -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,ts,css,rust,c" alt="Current Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,css,rust,c" alt="Current Tech Stack" />
 </p>
 <!-- SKILL_ICONS:END -->
 
@@ -182,4 +180,4 @@ No activity available!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->February 18, 2026 at 07:25 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->September 9, 2026 at 02:02 PM GMT+5<!-- TIMESTAMP:END -->_
