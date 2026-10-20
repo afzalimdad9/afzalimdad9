@@ -9,13 +9,15 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [zenstream](https://github.com/afzalimdad9/zenstream)
 - 🌱 I'm currently working with **HTML, JavaScript, TypeScript**
-- 👯 I'm looking to collaborate on [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio)
+- 👯 I'm looking to collaborate on [briefly](https://github.com/afzalimdad9/briefly)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
 <!-- RECENT_ACTIVITY:START -->
+- 📝 10 commits to **zenstream** on 10/19/2026
+- 📝 1 commit to **briefly** on 10/19/2026
 - 📝 1 commit to **afzalimdad9** on 10/2/2026
 - 📝 2 commits to **mc-seed-map** on 9/24/2026
 - 📝 13 commits to **mc-seed-map** on 9/23/2026
@@ -23,16 +25,16 @@
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **16** commits across **2** repositories (last 30 days)
+- 📊 **27** commits across **4** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/18/2026)
-- 🔥 [animated-portfolio](https://github.com/afzalimdad9/animated-portfolio) - A creative & animated portfolio website using Next.js ⭐ 60 (Updated: 10/18/2026)
-- 🔥 [mc-seed-map](https://github.com/afzalimdad9/mc-seed-map) - Interactive Chunkbase-style seed map & structure finder for Minecraft Java Edition. Cubiomes C engine compiled to WASM with native, Android (JNI/AAR), Swift, .NET, and Python bindings, plus a browser + CLI. ⭐ 0 (Updated: 9/24/2026)
+- 🔥 [zenstream](https://github.com/afzalimdad9/zenstream) - No description ⭐ 0 (Updated: 10/19/2026)
+- 🔥 [briefly](https://github.com/afzalimdad9/briefly) - A well needed text-summarizer and translator software for your daily tasks. ⭐ 0 (Updated: 10/19/2026)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/19/2026)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -66,12 +68,12 @@ C: 1.1% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Make a scrapbook with pictures of your favorite memories
+Watch a Khan Academy lecture on a subject of your choosing
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -105,9 +107,9 @@ Make a scrapbook with pictures of your favorite memories
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 **From dev.to:**
-- [Revolutionizing Ecommerce: Top DevOps Automation Tools for High-Performance Engineering in 2026](https://dev.to/afzalimdad9/revolutionizing-ecommerce-top-devops-automation-tools-for-high-performance-engineering-in-2026-427g) _(Published: 5/31/2026)_
-- [Unlocking the Power of AI: Mastering the Skills Behind AI Tools in Software Development 2026](https://dev.to/afzalimdad9/unlocking-the-power-of-ai-mastering-the-skills-behind-ai-tools-in-software-development-2026-gga) _(Published: 5/30/2026)_
-- [Why I chose Zed over Visual Studio Code](https://dev.to/afzalimdad9/why-i-chose-zed-over-visual-studio-code-41fb) _(Published: 12/26/2025)_
+- [Identity and Access Management in 2026: The Future of Secure Authentication](https://dev.to/afzalimdad9/identity-and-access-management-in-2026-the-future-of-secure-authentication-994) _(Published: 10/20/2026)_
+- [Empowering the Future: Top Energy Software Development Trends to Watch in 2026](https://dev.to/afzalimdad9/empowering-the-future-top-energy-software-development-trends-to-watch-in-2026-2f4j) _(Published: 10/20/2026)_
+- [AI-Powered Web Development: The Future of Building Websites](https://dev.to/afzalimdad9/ai-powered-web-development-the-future-of-building-websites-3e80) _(Published: 10/20/2026)_
 
 **From Medium:**
 - [Revolutionizing Ecommerce: Top DevOps Automation Tools for High-Performance Engineering in 2026](https://afzalimdad9.medium.com/revolutionizing-ecommerce-top-devops-automation-tools-for-high-performance-engineering-in-2026-509f3e71143b?source=rss-7bf9860d1ca1------2) _(Published: 5/31/2026)_
@@ -177,4 +179,4 @@ Make a scrapbook with pictures of your favorite memories
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 19, 2026 at 08:49 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 20, 2026 at 09:01 AM GMT+5<!-- TIMESTAMP:END -->_
