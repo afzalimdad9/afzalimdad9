@@ -9,14 +9,15 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [zenstream](https://github.com/afzalimdad9/zenstream)
+- 🔭 I'm currently working on [daily-journal](https://github.com/afzalimdad9/daily-journal)
 - 🌱 I'm currently working with **HTML, JavaScript, TypeScript**
-- 👯 I'm looking to collaborate on [briefly](https://github.com/afzalimdad9/briefly)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
 <!-- RECENT_ACTIVITY:START -->
-- 📝 10 commits to **zenstream** on 10/19/2026
+- 📝 11 commits to **daily-journal** on 10/20/2026
+- 📝 19 commits to **zenstream** on 10/19/2026
 - 📝 1 commit to **briefly** on 10/19/2026
 - 📝 1 commit to **afzalimdad9** on 10/2/2026
 - 📝 2 commits to **mc-seed-map** on 9/24/2026
@@ -25,27 +26,27 @@
 
 ## 📊 This Week's Coding Stats
 <!-- WEEKLY_STATS:START -->
-- 📊 **27** commits across **4** repositories (last 30 days)
+- 📊 **47** commits across **5** repositories (last 30 days)
 - 🎯 **5** active projects
 - 💻 **8** programming languages used
 <!-- WEEKLY_STATS:END -->
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [daily-journal](https://github.com/afzalimdad9/daily-journal) - No description ⭐ 0 (Updated: 10/20/2026)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/20/2026)
 - 🔥 [zenstream](https://github.com/afzalimdad9/zenstream) - No description ⭐ 0 (Updated: 10/19/2026)
-- 🔥 [briefly](https://github.com/afzalimdad9/briefly) - A well needed text-summarizer and translator software for your daily tasks. ⭐ 0 (Updated: 10/19/2026)
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/19/2026)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
 <!-- DYNAMIC_TECH_STACK:START -->
 **Most Used Languages This Month:**
 
-HTML: 42.0% ████████░░░░░░░░░░░░
+HTML: 41.8% ████████░░░░░░░░░░░░
 
-JavaScript: 39.8% ████████░░░░░░░░░░░░
+JavaScript: 39.7% ████████░░░░░░░░░░░░
 
-TypeScript: 7.4% █░░░░░░░░░░░░░░░░░░░
+TypeScript: 7.6% ██░░░░░░░░░░░░░░░░░░
 
 Rich Text Format: 4.1% █░░░░░░░░░░░░░░░░░░░
 
@@ -68,12 +69,13 @@ C: 1.1% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Watch a Khan Academy lecture on a subject of your choosing
+Take a class at your local community center that interests you
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -82,7 +84,7 @@ Watch a Khan Academy lecture on a subject of your choosing
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, clear sky in Karachi 🇵🇰
+🌡️ 27°C, clear sky in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -112,9 +114,7 @@ Watch a Khan Academy lecture on a subject of your choosing
 - [AI-Powered Web Development: The Future of Building Websites](https://dev.to/afzalimdad9/ai-powered-web-development-the-future-of-building-websites-3e80) _(Published: 10/20/2026)_
 
 **From Medium:**
-- [Revolutionizing Ecommerce: Top DevOps Automation Tools for High-Performance Engineering in 2026](https://afzalimdad9.medium.com/revolutionizing-ecommerce-top-devops-automation-tools-for-high-performance-engineering-in-2026-509f3e71143b?source=rss-7bf9860d1ca1------2) _(Published: 5/31/2026)_
-- [Unlocking the Power of AI: Mastering the Skills Behind AI Tools in Software Development 2026](https://afzalimdad9.medium.com/unlocking-the-power-of-ai-mastering-the-skills-behind-ai-tools-in-software-development-2026-309f3f7a0eab?source=rss-7bf9860d1ca1------2) _(Published: 5/30/2026)_
-- [Why I chose Zed over Visual Studio Code](https://afzalimdad9.medium.com/why-i-chose-zed-over-visual-studio-code-cc54f8f20487?source=rss-7bf9860d1ca1------2) _(Published: 12/26/2025)_
+- Could not fetch Medium posts
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥 Recent GitHub Activity
@@ -179,4 +179,4 @@ Watch a Khan Academy lecture on a subject of your choosing
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 20, 2026 at 09:01 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 21, 2026 at 08:50 AM GMT+5<!-- TIMESTAMP:END -->_
