@@ -32,7 +32,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/29/2026)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 10/30/2026)
 - 🔥 [zenstream](https://github.com/afzalimdad9/zenstream) - No description ⭐ 0 (Updated: 10/21/2026)
 - 🔥 [daily-journal](https://github.com/afzalimdad9/daily-journal) - No description ⭐ 0 (Updated: 10/20/2026)
 <!-- HOT_REPOS:END -->
@@ -68,13 +68,12 @@ C: 1.1% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Go to a concert with local artists with some friends
+Mow your lawn
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -83,7 +82,7 @@ Go to a concert with local artists with some friends
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 30°C, haze in Karachi 🇵🇰
+🌡️ 29°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -113,7 +112,9 @@ Go to a concert with local artists with some friends
 - [AI-Powered Web Development: The Future of Building Websites](https://dev.to/afzalimdad9/ai-powered-web-development-the-future-of-building-websites-3e80) _(Published: 10/20/2026)_
 
 **From Medium:**
-- Could not fetch Medium posts
+- [Revolutionizing Ecommerce: Top DevOps Automation Tools for High-Performance Engineering in 2026](https://afzalimdad9.medium.com/revolutionizing-ecommerce-top-devops-automation-tools-for-high-performance-engineering-in-2026-509f3e71143b?source=rss-7bf9860d1ca1------2) _(Published: 5/31/2026)_
+- [Unlocking the Power of AI: Mastering the Skills Behind AI Tools in Software Development 2026](https://afzalimdad9.medium.com/unlocking-the-power-of-ai-mastering-the-skills-behind-ai-tools-in-software-development-2026-309f3f7a0eab?source=rss-7bf9860d1ca1------2) _(Published: 5/30/2026)_
+- [Why I chose Zed over Visual Studio Code](https://afzalimdad9.medium.com/why-i-chose-zed-over-visual-studio-code-cc54f8f20487?source=rss-7bf9860d1ca1------2) _(Published: 12/26/2025)_
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥 Recent GitHub Activity
@@ -178,4 +179,4 @@ Go to a concert with local artists with some friends
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->October 30, 2026 at 09:54 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->October 31, 2026 at 09:41 AM GMT+5<!-- TIMESTAMP:END -->_
