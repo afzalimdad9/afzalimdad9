@@ -31,7 +31,7 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
-- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/3/2026)
+- 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/4/2026)
 - 🔥 [zenstream](https://github.com/afzalimdad9/zenstream) - No description ⭐ 0 (Updated: 10/21/2026)
 - 🔥 [daily-journal](https://github.com/afzalimdad9/daily-journal) - No description ⭐ 0 (Updated: 10/20/2026)
 <!-- HOT_REPOS:END -->
@@ -72,7 +72,7 @@ Today I learned that changing random stuff until your program works is "hacky" a
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Plant a tree
+Improve your touch typing
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,7 +81,7 @@ Plant a tree
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 31°C, haze in Karachi 🇵🇰
+🌡️ 32°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -111,9 +111,7 @@ Plant a tree
 - [AI-Powered Web Development: The Future of Building Websites](https://dev.to/afzalimdad9/ai-powered-web-development-the-future-of-building-websites-3e80) _(Published: 10/20/2026)_
 
 **From Medium:**
-- [Revolutionizing Ecommerce: Top DevOps Automation Tools for High-Performance Engineering in 2026](https://afzalimdad9.medium.com/revolutionizing-ecommerce-top-devops-automation-tools-for-high-performance-engineering-in-2026-509f3e71143b?source=rss-7bf9860d1ca1------2) _(Published: 5/31/2026)_
-- [Unlocking the Power of AI: Mastering the Skills Behind AI Tools in Software Development 2026](https://afzalimdad9.medium.com/unlocking-the-power-of-ai-mastering-the-skills-behind-ai-tools-in-software-development-2026-309f3f7a0eab?source=rss-7bf9860d1ca1------2) _(Published: 5/30/2026)_
-- [Why I chose Zed over Visual Studio Code](https://afzalimdad9.medium.com/why-i-chose-zed-over-visual-studio-code-cc54f8f20487?source=rss-7bf9860d1ca1------2) _(Published: 12/26/2025)_
+- Could not fetch Medium posts
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔥 Recent GitHub Activity
@@ -178,4 +176,4 @@ Plant a tree
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 4, 2026 at 10:25 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 5, 2026 at 10:45 AM GMT+5<!-- TIMESTAMP:END -->_
