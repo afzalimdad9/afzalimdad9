@@ -67,12 +67,12 @@ C: 1.1% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Your mama's so FAT she can't save files bigger than 4GB.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Go to a concert with some friends
+Organize your music collection
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -81,7 +81,7 @@ Go to a concert with some friends
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 31°C, smoke in Karachi 🇵🇰
+🌡️ 28°C, smoke in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -178,4 +178,4 @@ Go to a concert with some friends
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 13, 2026 at 10:42 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 14, 2026 at 10:31 AM GMT+5<!-- TIMESTAMP:END -->_
