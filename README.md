@@ -67,16 +67,15 @@ C: 1.1% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Write a note of appreciation to someone
+Look at pictures and videos of cute animals
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -85,7 +84,7 @@ Write a note of appreciation to someone
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 28°C, haze in Karachi 🇵🇰
+🌡️ 30°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
@@ -182,4 +181,4 @@ Write a note of appreciation to someone
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 16, 2026 at 10:29 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 17, 2026 at 12:06 PM GMT+5<!-- TIMESTAMP:END -->_
