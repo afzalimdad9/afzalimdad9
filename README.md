@@ -64,15 +64,12 @@ C: 1.1% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Organize your pantry
+Play a video game
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -178,4 +175,4 @@ Organize your pantry
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 20, 2026 at 11:20 AM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 21, 2026 at 11:10 AM GMT+5<!-- TIMESTAMP:END -->_
