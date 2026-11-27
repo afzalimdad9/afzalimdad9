@@ -9,9 +9,9 @@
 
 ## 🎯 Current Focus & Active Projects
 <!-- CURRENT_PROJECTS:START -->
-- 🔭 I'm currently working on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README.
+- 🔭 I'm currently working on [spendwise](https://github.com/afzalimdad9/spendwise) - A full-stack personal finance management platform for tracking income and expenses, managing budgets, analyzing spending habits, and generating financial reports.
 - 🌱 I'm currently working with **HTML, JavaScript, TypeScript**
-- 👯 I'm looking to collaborate on [zenstream](https://github.com/afzalimdad9/zenstream)
+- 👯 I'm looking to collaborate on [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9)
 <!-- CURRENT_PROJECTS:END -->
 
 ## 🚀 Recent Development Activity
@@ -28,9 +28,9 @@
 
 ## 🔥 Hot Repositories (Most Active)
 <!-- HOT_REPOS:START -->
+- 🔥 [spendwise](https://github.com/afzalimdad9/spendwise) - A full-stack personal finance management platform for tracking income and expenses, managing budgets, analyzing spending habits, and generating financial reports. ⭐ 0 (Updated: 11/26/2026)
 - 🔥 [afzalimdad9](https://github.com/afzalimdad9/afzalimdad9) - Did you want to know something else about myself? please README. ⭐ 0 (Updated: 11/12/2026)
 - 🔥 [zenstream](https://github.com/afzalimdad9/zenstream) - No description ⭐ 0 (Updated: 10/21/2026)
-- 🔥 [daily-journal](https://github.com/afzalimdad9/daily-journal) - No description ⭐ 0 (Updated: 10/20/2026)
 <!-- HOT_REPOS:END -->
 
 ## 💻 Tech Stack (Based on Recent Commits)
@@ -41,7 +41,7 @@ HTML: 41.8% ████████░░░░░░░░░░░░
 
 JavaScript: 39.7% ████████░░░░░░░░░░░░
 
-TypeScript: 7.6% ██░░░░░░░░░░░░░░░░░░
+TypeScript: 7.7% ██░░░░░░░░░░░░░░░░░░
 
 Rich Text Format: 4.1% █░░░░░░░░░░░░░░░░░░░
 
@@ -64,12 +64,13 @@ C: 1.1% ░░░░░░░░░░░░░░░░░░░░
 
 ## 😄 Daily Dose of Humor
 <!-- JOKE:START -->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE:END -->
 
 ## 🎲 Suggested Dev Activity
 <!-- ACTIVITY:START -->
-Start a family tree
+Compliment someone
 <!-- ACTIVITY:END -->
 
 ## 💡 Quote of the Day
@@ -78,13 +79,13 @@ Start a family tree
 
 ## 🌤️ Current Weather in Karachi
 <!-- WEATHER:START -->
-🌡️ 30°C, haze in Karachi 🇵🇰
+🌡️ 29°C, haze in Karachi 🇵🇰
 <!-- WEATHER:END -->
 
 ## 📈 GitHub Analytics
 <!-- GITHUB_ANALYTICS:START -->
-- 🏆 **60** total stars earned
-- 🍴 **8** total forks
+- 🏆 **0** total stars earned
+- 🍴 **0** total forks
 - 📂 **5** public repositories
 <!-- GITHUB_ANALYTICS:END -->
 
@@ -175,4 +176,4 @@ Start a family tree
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_Last updated: <!-- TIMESTAMP:START -->November 25, 2026 at 12:37 PM GMT+5<!-- TIMESTAMP:END -->_
+_Last updated: <!-- TIMESTAMP:START -->November 27, 2026 at 12:23 PM GMT+5<!-- TIMESTAMP:END -->_
